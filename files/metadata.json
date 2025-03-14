@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3285069465637207
+        "response_time": 0.1987919807434082
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,58 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6493058204650879
-    },
-    "socks5://103.221.220.22:45069": {
-        "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "SG",
-        "regionName": "Ho Chi Minh",
-        "city": "Ho Chi Minh City",
-        "zip": "700000",
-        "lat": 10.822,
-        "lon": 106.6257,
-        "timezone": "Asia/Ho_Chi_Minh",
-        "isp": "AZDIGI Corporation",
-        "org": "AZDIGI",
-        "as": "AS63760 AZDIGI Corporation",
-        "query": "103.221.220.22",
-        "response_time": 1.1387851238250732
-    },
-    "socks4://36.95.245.81:5678": {
-        "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta Pusat",
-        "zip": "",
-        "lat": -6.18104,
-        "lon": 106.826,
-        "timezone": "Asia/Jakarta",
-        "isp": "PT. Telekomunikasi Indonesia",
-        "org": "Telekomunikasi Indonesia",
-        "as": "AS7713 PT Telekomunikasi Indonesia",
-        "query": "36.95.245.81",
-        "response_time": 1.8267443180084229
-    },
-    "http://62.33.53.248:3128": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOS",
-        "regionName": "Moscow Oblast",
-        "city": "Drezna",
-        "zip": "142660",
-        "lat": 55.7421,
-        "lon": 38.8475,
-        "timezone": "Europe/Moscow",
-        "isp": "TRANS-TELECOM",
-        "org": "",
-        "as": "AS20485 Joint Stock Company TransTeleCom",
-        "query": "62.33.53.248",
-        "response_time": 3.0909500122070312
+        "response_time": 0.6179084777832031
     },
     "http://160.20.55.235:8080": {
         "status": "success",
@@ -99,6 +48,23 @@
         "org": "Datamax OSI Limited",
         "as": "AS58411 GTDCL-HK",
         "query": "160.20.55.235",
-        "response_time": 3.7876944541931152
+        "response_time": 0.8409380912780762
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.76",
+        "response_time": 2.5465919971466064
     }
 }
