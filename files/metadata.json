@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3007423877716064
+        "response_time": 0.2033078670501709
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,23 +31,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.651118755340576
+        "response_time": 0.38364386558532715
     },
-    "socks5://51.158.113.139:16379": {
+    "socks4://36.37.244.41:5678": {
         "status": "success",
-        "country": "United Kingdom",
-        "countryCode": "GB",
-        "region": "ENG",
-        "regionName": "England",
-        "city": "London",
-        "zip": "EC1N",
-        "lat": 51.5081,
-        "lon": -0.1278,
-        "timezone": "Europe/London",
-        "isp": "Contabo Asia Private Limited",
-        "org": "Yorkshire Tech Limited",
-        "as": "AS141995 Contabo Asia Private Limited",
-        "query": "46.250.242.141",
-        "response_time": 4.087793588638306
+        "country": "Cambodia",
+        "countryCode": "KH",
+        "region": "1",
+        "regionName": "Banteay Meanchey",
+        "city": "Sisophon",
+        "zip": "",
+        "lat": 13.5859,
+        "lon": 102.974,
+        "timezone": "Asia/Phnom_Penh",
+        "isp": "VIETTEL (CAMBODIA) PTE., LTD",
+        "org": "Viettel (cambodia) Pte., Ltd.",
+        "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
+        "query": "36.37.244.41",
+        "response_time": 1.0193381309509277
+    },
+    "socks4://195.175.22.194:5678": {
+        "status": "success",
+        "country": "T\u00fcrkiye",
+        "countryCode": "TR",
+        "region": "34",
+        "regionName": "Istanbul",
+        "city": "Istanbul",
+        "zip": "34096",
+        "lat": 41.0145,
+        "lon": 28.9533,
+        "timezone": "Europe/Istanbul",
+        "isp": "Turk Telekomunikasyon A.S",
+        "org": "TTnetTurkTelekom",
+        "as": "AS9121 Turk Telekomunikasyon Anonim Sirketi",
+        "query": "195.175.22.194",
+        "response_time": 1.5308878421783447
+    },
+    "socks4://103.197.32.205:5678": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "TN",
+        "regionName": "Tamil Nadu",
+        "city": "Perambalur",
+        "zip": "621212",
+        "lat": 11.2269,
+        "lon": 78.885,
+        "timezone": "Asia/Kolkata",
+        "isp": "ZERONE Networks pvt ltd",
+        "org": "ZERONE Networks pvt ltd",
+        "as": "AS134260 ZERONE Networks pvt ltd",
+        "query": "103.197.32.205",
+        "response_time": 2.1631720066070557
     }
 }
