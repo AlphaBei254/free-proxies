@@ -14,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2041609287261963
-    },
-    "socks4://27.147.221.140:5678": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "K\u0101frul",
-        "zip": "1207",
-        "lat": 23.7882,
-        "lon": 90.3736,
-        "timezone": "Asia/Dhaka",
-        "isp": "Link3 Technologies Limited",
-        "org": "Retail Subscriber",
-        "as": "AS23688 Link3 Technologies Ltd.",
-        "query": "27.147.221.140",
-        "response_time": 1.2672111988067627
+        "response_time": 0.336193323135376
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,40 +31,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.464229106903076
+        "response_time": 2.6876213550567627
     },
-    "socks5://202.40.186.66:9090": {
+    "http://201.91.82.155:3128": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1215",
-        "lat": 23.7655,
-        "lon": 90.3878,
-        "timezone": "Asia/Dhaka",
-        "isp": "Ranks ITT",
-        "org": "Ranks ITT Ltd.",
-        "as": "AS23991 Ranks ITT Ltd.",
-        "query": "202.40.186.66",
-        "response_time": 2.649977922439575
-    },
-    "socks4://82.223.151.8:53817": {
-        "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4168,
-        "lon": -3.70379,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.151.8",
-        "response_time": 3.266404867172241
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "Santos",
+        "zip": "11045",
+        "lat": -23.9569,
+        "lon": -46.3446,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Vivo",
+        "org": "TELEF\ufffdNICA BRASIL S.A",
+        "as": "AS10429 TELEF\u00d4NICA BRASIL S.A",
+        "query": "201.91.82.155",
+        "response_time": 5.150845527648926
     }
 }
