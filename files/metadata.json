@@ -1,4 +1,21 @@
 {
+    "socks4://64.202.184.249:15986": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 0.08300232887268066
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.19706487655639648
+        "response_time": 0.3276026248931885
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +48,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.40123605728149414
+        "response_time": 0.6487815380096436
+    },
+    "socks4://195.175.22.194:5678": {
+        "status": "success",
+        "country": "T\u00fcrkiye",
+        "countryCode": "TR",
+        "region": "34",
+        "regionName": "Istanbul",
+        "city": "Istanbul",
+        "zip": "34096",
+        "lat": 41.0145,
+        "lon": 28.9533,
+        "timezone": "Europe/Istanbul",
+        "isp": "Turk Telekomunikasyon A.S",
+        "org": "TTnetTurkTelekom",
+        "as": "AS9121 Turk Telekomunikasyon Anonim Sirketi",
+        "query": "195.175.22.194",
+        "response_time": 0.6968355178833008
     },
     "http://200.174.198.86:8888": {
         "status": "success",
@@ -47,24 +81,58 @@
         "isp": "Claro S.A",
         "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
         "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.41",
-        "response_time": 0.6011152267456055
+        "query": "200.174.198.40",
+        "response_time": 1.921079397201538
     },
-    "http://216.229.112.25:8080": {
+    "http://222.174.178.122:4999": {
+        "status": "success",
+        "country": "China",
+        "countryCode": "CN",
+        "region": "SD",
+        "regionName": "Shandong",
+        "city": "Jinan",
+        "zip": "250000",
+        "lat": 36.6683,
+        "lon": 117.021,
+        "timezone": "Asia/Shanghai",
+        "isp": "Chinanet",
+        "org": "Chinanet SD",
+        "as": "AS4134 CHINANET-BACKBONE",
+        "query": "222.174.178.122",
+        "response_time": 2.57576322555542
+    },
+    "socks4://103.121.195.12:61221": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Dhaka",
+        "zip": "1206",
+        "lat": 23.8396,
+        "lon": 90.3577,
+        "timezone": "Asia/Dhaka",
+        "isp": "Bangladesh University of Professionals",
+        "org": "Bangladesh University of Professionals",
+        "as": "AS138163 Bangladesh University of Professionals (BUP)",
+        "query": "103.121.195.12",
+        "response_time": 3.0723655223846436
+    },
+    "socks4://138.68.21.132:45793": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
-        "region": "TX",
-        "regionName": "Texas",
-        "city": "Muleshoe",
-        "zip": "79347",
-        "lat": 34.2265,
-        "lon": -102.7238,
-        "timezone": "America/Chicago",
-        "isp": "Five Area Systems, LLC",
-        "org": "Five Area Systems, LLC",
-        "as": "AS29843 Five Area Systems, LLC",
-        "query": "216.229.112.25",
-        "response_time": 1.9013068675994873
+        "region": "CA",
+        "regionName": "California",
+        "city": "Santa Clara",
+        "zip": "95051",
+        "lat": 37.3419,
+        "lon": -121.9754,
+        "timezone": "America/Los_Angeles",
+        "isp": "DigitalOcean, LLC",
+        "org": "DigitalOcean, LLC",
+        "as": "AS14061 DigitalOcean, LLC",
+        "query": "138.68.21.132",
+        "response_time": 4.312662363052368
     }
 }
