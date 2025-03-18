@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.38501429557800293
+        "response_time": 0.19706487655639648
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,6 +31,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.571772575378418
+        "response_time": 0.40123605728149414
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.41",
+        "response_time": 0.6011152267456055
+    },
+    "http://216.229.112.25:8080": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Muleshoe",
+        "zip": "79347",
+        "lat": 34.2265,
+        "lon": -102.7238,
+        "timezone": "America/Chicago",
+        "isp": "Five Area Systems, LLC",
+        "org": "Five Area Systems, LLC",
+        "as": "AS29843 Five Area Systems, LLC",
+        "query": "216.229.112.25",
+        "response_time": 1.9013068675994873
     }
 }
