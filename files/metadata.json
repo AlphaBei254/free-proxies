@@ -14,7 +14,7 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 0.22695541381835938
+        "response_time": 0.08161568641662598
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2918996810913086
+        "response_time": 2.361584186553955
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,40 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.393463134765625
-    },
-    "socks5://103.189.218.83:6969": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Tongi",
-        "zip": "1230",
-        "lat": 23.8915,
-        "lon": 90.4023,
-        "timezone": "Asia/Dhaka",
-        "isp": "Comfort Solutions",
-        "org": "Md. Ruhul Amin Sarker",
-        "as": "AS149868 Comfort Solutions",
-        "query": "103.189.218.83",
-        "response_time": 1.4812781810760498
-    },
-    "socks5://188.165.236.42:24399": {
-        "status": "success",
-        "country": "France",
-        "countryCode": "FR",
-        "region": "HDF",
-        "regionName": "Hauts-de-France",
-        "city": "Roubaix",
-        "zip": "59100",
-        "lat": 50.6917,
-        "lon": 3.20157,
-        "timezone": "Europe/Paris",
-        "isp": "OVH SAS",
-        "org": "OVH ISP",
-        "as": "AS16276 OVH SAS",
-        "query": "188.165.236.42",
-        "response_time": 3.864412307739258
+        "response_time": 2.6821184158325195
     }
 }
