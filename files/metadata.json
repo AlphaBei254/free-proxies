@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.1901562213897705
+        "response_time": 0.38501429557800293
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,40 +31,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.37801027297973633
-    },
-    "http://121.224.156.147:8089": {
-        "status": "success",
-        "country": "China",
-        "countryCode": "CN",
-        "region": "JS",
-        "regionName": "Jiangsu",
-        "city": "Nanjing",
-        "zip": "210000",
-        "lat": 32.0607,
-        "lon": 118.763,
-        "timezone": "Asia/Shanghai",
-        "isp": "China Telecom",
-        "org": "Chinanet JS",
-        "as": "AS140292 CHINATELECOM Jiangsu province Suzhou 5G network",
-        "query": "121.224.156.147",
-        "response_time": 1.2796471118927002
-    },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.87",
-        "response_time": 1.453324317932129
+        "response_time": 0.571772575378418
     }
 }
