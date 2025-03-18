@@ -1,4 +1,21 @@
 {
+    "socks4://103.124.137.251:1080": {
+        "status": "success",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JT",
+        "regionName": "Central Java",
+        "city": "Kebumen Satu",
+        "zip": "54382",
+        "lat": -7.3614,
+        "lon": 110.2715,
+        "timezone": "Asia/Jakarta",
+        "isp": "Global Media Data Prima",
+        "org": "",
+        "as": "AS138089 PT.Global Media Data Prima",
+        "query": "103.124.137.243",
+        "response_time": 1.055530071258545
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,24 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3028991222381592
+        "response_time": 2.320326805114746
     },
-    "socks4://64.139.79.35:54321": {
+    "socks4://64.49.67.164:5678": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
-        "region": "AL",
-        "regionName": "Alabama",
-        "city": "Sheffield",
-        "zip": "35660",
-        "lat": 34.7651,
-        "lon": -87.6986,
-        "timezone": "America/Chicago",
-        "isp": "Comcast Cable Communications, LLC",
-        "org": "Comcast Business Communications, LLC",
-        "as": "AS7922 Comcast Cable Communications, LLC",
-        "query": "64.139.79.35",
-        "response_time": 1.3099086284637451
+        "region": "NY",
+        "regionName": "New York",
+        "city": "New York",
+        "zip": "10118",
+        "lat": 40.7126,
+        "lon": -74.0066,
+        "timezone": "America/New_York",
+        "isp": "WNET TELECOM USA Corp.",
+        "org": "Everest Broadband Networks",
+        "as": "AS1820 WNET TELECOM USA Corp.",
+        "query": "64.49.67.164",
+        "response_time": 2.347463607788086
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,40 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 1.6639106273651123
-    },
-    "socks4://179.27.86.36:4153": {
-        "status": "success",
-        "country": "Uruguay",
-        "countryCode": "UY",
-        "region": "MO",
-        "regionName": "Montevideo Department",
-        "city": "Montevideo",
-        "zip": "11200",
-        "lat": -34.9064,
-        "lon": -56.1629,
-        "timezone": "America/Montevideo",
-        "isp": "Administracion Nacional de Telecomunicaciones",
-        "org": "Cliente Antel Uruguay",
-        "as": "AS6057 Administracion Nacional de Telecomunicaciones",
-        "query": "179.27.86.36",
-        "response_time": 2.91257905960083
-    },
-    "socks4://110.77.135.70:4145": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "10",
-        "regionName": "Bangkok",
-        "city": "Bangkok",
-        "zip": "10400",
-        "lat": 13.7618,
-        "lon": 100.5324,
-        "timezone": "Asia/Bangkok",
-        "isp": "CAT Telecom Public Company Limited",
-        "org": "",
-        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
-        "query": "110.77.135.70",
-        "response_time": 3.0335309505462646
+        "response_time": 2.5985803604125977
     }
 }
