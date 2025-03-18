@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2957785129547119
+        "response_time": 0.23776531219482422
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,41 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.37320756912231445
+        "response_time": 0.6002535820007324
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.121",
+        "response_time": 0.65043044090271
+    },
+    "socks4://103.189.234.161:1080": {
+        "status": "success",
+        "country": "Singapore",
+        "countryCode": "SG",
+        "region": "01",
+        "regionName": "Central Singapore",
+        "city": "Singapore",
+        "zip": "079903",
+        "lat": 1.2757,
+        "lon": 103.846,
+        "timezone": "Asia/Singapore",
+        "isp": "Cloud Host Pte Ltd",
+        "org": "Cloud Host Pte Ltd",
+        "as": "AS138608 Cloud Host Pte Ltd",
+        "query": "103.189.234.161",
+        "response_time": 1.0361981391906738
     },
     "socks4://64.202.184.249:15986": {
         "status": "success",
@@ -48,23 +82,40 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 1.015228271484375
+        "response_time": 1.4356942176818848
     },
-    "http://47.252.29.28:11222": {
+    "socks5://103.174.178.138:2020": {
         "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "30",
-        "regionName": "Kyiv City",
-        "city": "Kyiv",
-        "zip": "01011",
-        "lat": 50.4501,
-        "lon": 30.5234,
-        "timezone": "Europe/Kiev",
-        "isp": "IP Port LLC",
-        "org": "Virtual Telecom LLC",
-        "as": "AS15596 IP Port LLC",
-        "query": "109.122.63.242",
-        "response_time": 2.2780539989471436
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JI",
+        "regionName": "East Java",
+        "city": "Jember",
+        "zip": "",
+        "lat": -8.19301,
+        "lon": 113.707,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT Gasatek Bintang Nusantara",
+        "org": "",
+        "as": "AS139418 PT Gasatek Bintang Nusantara",
+        "query": "103.174.178.138",
+        "response_time": 2.3629603385925293
+    },
+    "http://38.22.17.50:3128": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "GA",
+        "regionName": "Georgia",
+        "city": "Atlanta",
+        "zip": "",
+        "lat": 33.7489,
+        "lon": -84.3879,
+        "timezone": "America/New_York",
+        "isp": "GTHost",
+        "org": "Cytranet",
+        "as": "AS63023 GTHost",
+        "query": "38.22.17.50",
+        "response_time": 2.835937023162842
     }
 }
