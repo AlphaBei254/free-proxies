@@ -14,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.30339717864990234
-    },
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78117",
-        "lat": 22.111,
-        "lon": -100.9464,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.28023386001586914
+        "response_time": 0.2369697093963623
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +31,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.40040159225463867
+        "response_time": 0.5209665298461914
     },
-    "socks5://103.163.244.106:1080": {
+    "socks4://103.96.106.230:1080": {
         "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "HR",
-        "regionName": "Haryana",
-        "city": "Panipat",
-        "zip": "132103",
-        "lat": 29.3885,
-        "lon": 76.9669,
-        "timezone": "Asia/Kolkata",
-        "isp": "Infolink System",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Dhaka",
+        "zip": "1207",
+        "lat": 23.7729,
+        "lon": 90.3657,
+        "timezone": "Asia/Dhaka",
+        "isp": "Xplore Cyber &",
         "org": "",
-        "as": "AS132746 Infolink System",
-        "query": "103.163.244.106",
-        "response_time": 1.5400068759918213
+        "as": "AS134153 Xplore Net BD",
+        "query": "103.96.106.230",
+        "response_time": 1.1770272254943848
+    },
+    "socks4://27.115.33.94:4153": {
+        "status": "success",
+        "country": "China",
+        "countryCode": "CN",
+        "region": "SH",
+        "regionName": "Shanghai",
+        "city": "Shanghai",
+        "zip": "",
+        "lat": 31.2222,
+        "lon": 121.4581,
+        "timezone": "Asia/Shanghai",
+        "isp": "China Unicom Shanghai Province Network",
+        "org": "",
+        "as": "AS17621 China Unicom Shanghai network",
+        "query": "27.115.33.94",
+        "response_time": 3.2857840061187744
+    },
+    "socks4://163.44.196.127:51065": {
+        "status": "success",
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "10",
+        "regionName": "Bangkok",
+        "city": "Bangkok",
+        "zip": "10200",
+        "lat": 13.7499,
+        "lon": 100.517,
+        "timezone": "Asia/Bangkok",
+        "isp": "GMO-Z.COM PTE. LTD.",
+        "org": "Zcom Thai",
+        "as": "AS135161 GMO-Z com NetDesign Holdings Co., Ltd.",
+        "query": "163.44.196.127",
+        "response_time": 4.290170907974243
     }
 }
