@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.23413634300231934
+        "response_time": 0.30339717864990234
     },
     "socks4://170.78.211.161:1080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.25354719161987305
+        "response_time": 0.28023386001586914
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,40 +48,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5988612174987793
+        "response_time": 0.40040159225463867
     },
-    "socks4://190.211.161.212:32410": {
+    "socks5://103.163.244.106:1080": {
         "status": "success",
-        "country": "Chile",
-        "countryCode": "CL",
-        "region": "LI",
-        "regionName": "O'Higgins Region",
-        "city": "San Fernando",
-        "zip": "",
-        "lat": -34.5761,
-        "lon": -70.9848,
-        "timezone": "America/Santiago",
-        "isp": "INTERNEXA Chile S.A",
-        "org": "Tumundo Digital Telecomunicaciones SPA",
-        "as": "AS262589 SAMM TECNOLOGIA E TELECOMUNICACOES S.A",
-        "query": "190.211.161.212",
-        "response_time": 1.6340479850769043
-    },
-    "socks4://182.93.69.74:5678": {
-        "status": "success",
-        "country": "Nepal",
-        "countryCode": "NP",
-        "region": "P3",
-        "regionName": "Bagmati Province",
-        "city": "Kathmandu",
-        "zip": "",
-        "lat": 27.7108,
-        "lon": 85.3251,
-        "timezone": "Asia/Kathmandu",
-        "isp": "Subisu Cablenet",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "HR",
+        "regionName": "Haryana",
+        "city": "Panipat",
+        "zip": "132103",
+        "lat": 29.3885,
+        "lon": 76.9669,
+        "timezone": "Asia/Kolkata",
+        "isp": "Infolink System",
         "org": "",
-        "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
-        "query": "182.93.69.74",
-        "response_time": 3.278921604156494
+        "as": "AS132746 Infolink System",
+        "query": "103.163.244.106",
+        "response_time": 1.5400068759918213
     }
 }
