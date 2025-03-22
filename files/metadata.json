@@ -1,4 +1,21 @@
 {
+    "http://31.40.248.2:8080": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "144700",
+        "lat": 55.7558,
+        "lon": 37.6173,
+        "timezone": "Europe/Moscow",
+        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
+        "org": "Cloud.ru",
+        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
+        "query": "31.40.248.2",
+        "response_time": 0.5187804698944092
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.33319807052612305
+        "response_time": 2.2381417751312256
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,57 +48,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6416826248168945
+        "response_time": 2.440399169921875
     },
-    "http://142.93.211.107:3128": {
+    "http://216.229.112.25:8080": {
         "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "KA",
-        "regionName": "Karnataka",
-        "city": "Bengaluru",
-        "zip": "560100",
-        "lat": 12.9753,
-        "lon": 77.591,
-        "timezone": "Asia/Kolkata",
-        "isp": "DigitalOcean, LLC",
-        "org": "DigitalOcean, LLC",
-        "as": "AS14061 DigitalOcean, LLC",
-        "query": "142.93.211.107",
-        "response_time": 1.2414700984954834
-    },
-    "socks4://200.46.30.210:4153": {
-        "status": "success",
-        "country": "Panama",
-        "countryCode": "PA",
-        "region": "8",
-        "regionName": "Provincia de Panam\u00e1",
-        "city": "Panama City",
-        "zip": "34002",
-        "lat": 8.9948,
-        "lon": -79.523,
-        "timezone": "America/Panama",
-        "isp": "Cable Onda",
-        "org": "Cable Onda",
-        "as": "AS18809 Cable Onda",
-        "query": "200.46.30.210",
-        "response_time": 1.507664680480957
-    },
-    "socks4://178.115.255.177:5678": {
-        "status": "success",
-        "country": "Austria",
-        "countryCode": "AT",
-        "region": "9",
-        "regionName": "Vienna",
-        "city": "Vienna",
-        "zip": "1220",
-        "lat": 48.2169,
-        "lon": 16.4997,
-        "timezone": "Europe/Vienna",
-        "isp": "customers with static IP",
-        "org": "",
-        "as": "AS25255 Hutchison Drei Austria GmbH",
-        "query": "178.115.255.177",
-        "response_time": 2.956362009048462
+        "country": "United States",
+        "countryCode": "US",
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Muleshoe",
+        "zip": "79347",
+        "lat": 34.2265,
+        "lon": -102.7238,
+        "timezone": "America/Chicago",
+        "isp": "Five Area Systems, LLC",
+        "org": "Five Area Systems, LLC",
+        "as": "AS29843 Five Area Systems, LLC",
+        "query": "216.229.112.25",
+        "response_time": 2.7015573978424072
     }
 }
