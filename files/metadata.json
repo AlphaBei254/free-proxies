@@ -1,38 +1,4 @@
 {
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.20845699310302734
-    },
-    "http://31.40.248.2:8080": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.4946153163909912
-    },
     "socks4://64.202.184.249:15986": {
         "status": "success",
         "country": "United States",
@@ -48,7 +14,41 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 0.7933897972106934
+        "response_time": 0.3462526798248291
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.173",
+        "response_time": 0.559687614440918
+    },
+    "http://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 1.2779664993286133
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.7952609062194824
+        "response_time": 1.4926791191101074
     },
-    "socks4://181.13.142.45:5678": {
+    "socks4://1.4.195.114:4145": {
         "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "T",
-        "regionName": "Tucuman",
-        "city": "San Miguel de Tucum\u00e1n",
-        "zip": "4000",
-        "lat": -26.8249,
-        "lon": -65.2237,
-        "timezone": "America/Argentina/Tucuman",
-        "isp": "Telecom Argentina S.A.",
-        "org": "Frigorifico Industrial Del Norte SA",
-        "as": "AS7303 Telecom Argentina S.A.",
-        "query": "181.13.142.45",
-        "response_time": 1.8907921314239502
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "10",
+        "regionName": "Bangkok",
+        "city": "Bangkok",
+        "zip": "10310",
+        "lat": 13.7749,
+        "lon": 100.5197,
+        "timezone": "Asia/Bangkok",
+        "isp": "TOT Public Company Limited",
+        "org": "TOT Public Company Limited",
+        "as": "AS23969 TOT Public Company Limited",
+        "query": "1.4.195.114",
+        "response_time": 2.0364696979522705
     }
 }
