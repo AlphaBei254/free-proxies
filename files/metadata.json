@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.19881129264831543
+        "response_time": 0.19811797142028809
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5085344314575195
+        "response_time": 0.38849878311157227
     },
-    "http://8.219.97.248:80": {
+    "http://92.53.75.196:3128": {
         "status": "success",
-        "country": "Singapore",
-        "countryCode": "SG",
-        "region": "03",
-        "regionName": "North West",
-        "city": "Singapore",
-        "zip": "858877",
-        "lat": 1.35208,
-        "lon": 103.82,
-        "timezone": "Asia/Singapore",
-        "isp": "Alibaba (US) Technology Co., Ltd.",
-        "org": "Alibaba.com Singapore E-Commerce Private Limited",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "8.219.64.236",
-        "response_time": 0.7789738178253174
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "SPE",
+        "regionName": "St.-Petersburg",
+        "city": "St Petersburg",
+        "zip": "195213",
+        "lat": 59.9417,
+        "lon": 30.3096,
+        "timezone": "Europe/Moscow",
+        "isp": "JSC Selectel",
+        "org": "Selectel Ltd.",
+        "as": "AS49505 JSC Selectel",
+        "query": "92.53.75.196",
+        "response_time": 0.5372061729431152
     },
     "http://142.93.211.107:3128": {
         "status": "success",
@@ -65,23 +65,40 @@
         "org": "DigitalOcean, LLC",
         "as": "AS14061 DigitalOcean, LLC",
         "query": "142.93.211.107",
-        "response_time": 1.4390664100646973
+        "response_time": 1.0778295993804932
     },
-    "socks4://64.202.184.249:15986": {
+    "socks4://64.49.67.164:5678": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20149",
-        "lat": 39.0469,
-        "lon": -77.4903,
+        "region": "NY",
+        "regionName": "New York",
+        "city": "New York",
+        "zip": "10118",
+        "lat": 40.7126,
+        "lon": -74.0066,
         "timezone": "America/New_York",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "64.202.184.249",
-        "response_time": 2.8277587890625
+        "isp": "WNET TELECOM USA Corp.",
+        "org": "Everest Broadband Networks",
+        "as": "AS1820 WNET TELECOM USA Corp.",
+        "query": "64.49.67.164",
+        "response_time": 1.0936949253082275
+    },
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 2.513990879058838
     }
 }
