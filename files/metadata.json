@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.20381903648376465
+        "response_time": 0.1946115493774414
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,40 +31,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.43478965759277344
+        "response_time": 0.37023401260375977
     },
-    "http://62.33.53.248:3128": {
+    "socks4://93.117.72.27:55770": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOS",
-        "regionName": "Moscow Oblast",
-        "city": "Drezna",
-        "zip": "142660",
-        "lat": 55.7421,
-        "lon": 38.8475,
-        "timezone": "Europe/Moscow",
-        "isp": "TRANS-TELECOM",
-        "org": "",
-        "as": "AS20485 Joint Stock Company TransTeleCom",
-        "query": "62.33.53.248",
-        "response_time": 0.5468454360961914
+        "country": "Moldova",
+        "countryCode": "MD",
+        "region": "SV",
+        "regionName": "Raionul \u0218tefan Vod\u0103",
+        "city": "\u015etefan Vod\u0103",
+        "zip": "MD-4201",
+        "lat": 46.5153,
+        "lon": 29.6678,
+        "timezone": "Europe/Chisinau",
+        "isp": "Moldtelecom SA",
+        "org": "JSC Moldtelecom S.A.",
+        "as": "AS8926 Moldtelecom SA",
+        "query": "93.117.72.27",
+        "response_time": 0.7202157974243164
     },
-    "socks4://64.139.79.35:54321": {
+    "http://216.229.112.25:8080": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
-        "region": "AL",
-        "regionName": "Alabama",
-        "city": "Sheffield",
-        "zip": "35660",
-        "lat": 34.7651,
-        "lon": -87.6986,
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Muleshoe",
+        "zip": "79347",
+        "lat": 34.2265,
+        "lon": -102.7238,
         "timezone": "America/Chicago",
-        "isp": "Comcast Cable Communications, LLC",
-        "org": "Comcast Business Communications, LLC",
-        "as": "AS7922 Comcast Cable Communications, LLC",
-        "query": "64.139.79.35",
-        "response_time": 2.2234604358673096
+        "isp": "Five Area Systems, LLC",
+        "org": "Five Area Systems, LLC",
+        "as": "AS29843 Five Area Systems, LLC",
+        "query": "216.229.112.25",
+        "response_time": 1.0167515277862549
+    },
+    "socks4://51.158.125.47:16379": {
+        "status": "success",
+        "country": "Antarctica",
+        "countryCode": "AQ",
+        "region": "",
+        "regionName": "",
+        "city": "Kunlun",
+        "zip": "",
+        "lat": -72.0114,
+        "lon": 2.535,
+        "timezone": "Antarctica/Vostok",
+        "isp": "QuxLabs AB",
+        "org": "R0CKET-CLOUD",
+        "as": "AS214503 QuxLabs AB",
+        "query": "45.84.107.182",
+        "response_time": 4.9925642013549805
     }
 }
