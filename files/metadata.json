@@ -1,37 +1,20 @@
 {
-    "socks4://64.202.184.249:15986": {
+    "socks4://170.78.211.161:1080": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20149",
-        "lat": 39.0469,
-        "lon": -77.4903,
-        "timezone": "America/New_York",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "64.202.184.249",
-        "response_time": 0.39666748046875
-    },
-    "http://31.40.248.2:8080": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.5242221355438232
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78117",
+        "lat": 22.111,
+        "lon": -100.9464,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.22391629219055176
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,41 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.49079179763793945
+        "response_time": 0.36311864852905273
+    },
+    "socks4://195.74.72.111:5678": {
+        "status": "success",
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "26",
+        "regionName": "Ivano-Frankivsk Oblast",
+        "city": "Ivano-Frankivsk",
+        "zip": "76000",
+        "lat": 48.9226,
+        "lon": 24.7111,
+        "timezone": "Europe/Kiev",
+        "isp": "Branch Enterprise \"Netgroup-Service\"",
+        "org": "Netgroup",
+        "as": "AS35004 Branch Enterprise \"Netgroup-Service\"",
+        "query": "195.74.72.111",
+        "response_time": 0.5001049041748047
+    },
+    "socks4://64.202.184.249:15986": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 1.0469410419464111
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +82,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 1.298008680343628
+        "response_time": 1.3402612209320068
     }
 }
