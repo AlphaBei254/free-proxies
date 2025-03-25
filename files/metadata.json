@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.19222211837768555
+        "response_time": 0.27370214462280273
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,41 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.37187767028808594
-    },
-    "socks4://103.120.202.53:5678": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1230",
-        "lat": 23.8672,
-        "lon": 90.3927,
-        "timezone": "Asia/Dhaka",
-        "isp": "Carnival Internet",
-        "org": "",
-        "as": "AS63526 Systems Solutions & development Technologies Limited",
-        "query": "103.120.202.53",
-        "response_time": 1.351548194885254
-    },
-    "socks5://81.177.224.173:1337": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "ROS",
-        "regionName": "Rostov Oblast",
-        "city": "Rostov-on-Don",
-        "zip": "344023",
-        "lat": 47.2357,
-        "lon": 39.7015,
-        "timezone": "Europe/Moscow",
-        "isp": "OOO SET",
-        "org": "OOO Set network",
-        "as": "AS48176 OOO SET",
-        "query": "81.177.224.173",
-        "response_time": 2.1149370670318604
+        "response_time": 0.382828950881958
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,40 +48,23 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 2.3814697265625
+        "response_time": 0.6720163822174072
     },
-    "socks4://51.158.113.139:16379": {
+    "socks4://190.220.1.173:35376": {
         "status": "success",
-        "country": "France",
-        "countryCode": "FR",
-        "region": "ARA",
-        "regionName": "Auvergne-Rh\u00f4ne-Alpes",
-        "city": "Filli\u00e8re",
-        "zip": "74350",
-        "lat": 45.9639,
-        "lon": 6.13329,
-        "timezone": "Europe/Paris",
-        "isp": "Ielo-liazo Services SAS",
-        "org": "Association Nos Oignons",
-        "as": "AS29075 IELO-LIAZO SERVICES SAS",
-        "query": "178.20.55.16",
-        "response_time": 3.7740824222564697
-    },
-    "socks5://163.172.132.115:16379": {
-        "status": "success",
-        "country": "United Kingdom",
-        "countryCode": "GB",
-        "region": "ENG",
-        "regionName": "England",
-        "city": "London",
-        "zip": "EC1N",
-        "lat": 51.5081,
-        "lon": -0.1278,
-        "timezone": "Europe/London",
-        "isp": "Contabo Asia Private Limited",
-        "org": "Yorkshire Tech Limited",
-        "as": "AS141995 Contabo Asia Private Limited",
-        "query": "46.250.242.141",
-        "response_time": 6.453978061676025
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "C",
+        "regionName": "Buenos Aires F.D.",
+        "city": "Buenos Aires",
+        "zip": "1871",
+        "lat": -34.6142,
+        "lon": -58.3811,
+        "timezone": "America/Argentina/Buenos_Aires",
+        "isp": "Techtel LMDS Comunicaciones Interactivas S.A.",
+        "org": "RYO VALLE SRL",
+        "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
+        "query": "190.220.1.173",
+        "response_time": 3.822873115539551
     }
 }
