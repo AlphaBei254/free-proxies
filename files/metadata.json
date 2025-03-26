@@ -1,4 +1,55 @@
 {
+    "http://116.203.139.209:5678": {
+        "status": "success",
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BY",
+        "regionName": "Bavaria",
+        "city": "Nuremberg",
+        "zip": "90403",
+        "lat": 49.4527,
+        "lon": 11.0783,
+        "timezone": "Europe/Berlin",
+        "isp": "Hetzner Online GmbH",
+        "org": "Hetzner",
+        "as": "AS24940 Hetzner Online GmbH",
+        "query": "116.203.139.209",
+        "response_time": 0.24677634239196777
+    },
+    "http://142.93.211.107:3128": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "KA",
+        "regionName": "Karnataka",
+        "city": "Bengaluru",
+        "zip": "560100",
+        "lat": 12.9753,
+        "lon": 77.591,
+        "timezone": "Asia/Kolkata",
+        "isp": "DigitalOcean, LLC",
+        "org": "DigitalOcean, LLC",
+        "as": "AS14061 DigitalOcean, LLC",
+        "query": "142.93.211.107",
+        "response_time": 0.6549439430236816
+    },
+    "socks4://195.74.72.111:5678": {
+        "status": "success",
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "26",
+        "regionName": "Ivano-Frankivsk Oblast",
+        "city": "Ivano-Frankivsk",
+        "zip": "76000",
+        "lat": 48.9226,
+        "lon": 24.7111,
+        "timezone": "Europe/Kiev",
+        "isp": "Branch Enterprise \"Netgroup-Service\"",
+        "org": "Netgroup",
+        "as": "AS35004 Branch Enterprise \"Netgroup-Service\"",
+        "query": "195.74.72.111",
+        "response_time": 1.5462374687194824
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2617790699005127
+        "response_time": 2.28025484085083
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,6 +82,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4393351078033447
+        "response_time": 2.4204869270324707
+    },
+    "socks4://64.202.184.249:15986": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 2.4303581714630127
+    },
+    "socks5://202.40.186.66:9090": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Dhaka",
+        "zip": "1215",
+        "lat": 23.7655,
+        "lon": 90.3878,
+        "timezone": "Asia/Dhaka",
+        "isp": "Ranks ITT",
+        "org": "Ranks ITT Ltd.",
+        "as": "AS23991 Ranks ITT Ltd.",
+        "query": "202.40.186.66",
+        "response_time": 2.6479580402374268
+    },
+    "socks4://27.123.254.158:6969": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "H",
+        "regionName": "Mymensingh Division",
+        "city": "Mymensingh",
+        "zip": "2200",
+        "lat": 24.7189,
+        "lon": 90.6462,
+        "timezone": "Asia/Dhaka",
+        "isp": "Kazi Sazzad Hossain T/A Millennium Computers & Networking",
+        "org": "Millennium Computers & Networking",
+        "as": "AS134113 Kazi Sazzad Hossain T/A Millennium Computers & Networking",
+        "query": "27.123.254.158",
+        "response_time": 3.3697004318237305
     }
 }
