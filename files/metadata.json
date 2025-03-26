@@ -1,21 +1,4 @@
 {
-    "socks4://64.202.184.249:15986": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20149",
-        "lat": 39.0469,
-        "lon": -77.4903,
-        "timezone": "America/New_York",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "64.202.184.249",
-        "response_time": 0.45920586585998535
-    },
     "http://31.40.248.2:8080": {
         "status": "success",
         "country": "Russia",
@@ -31,58 +14,58 @@
         "org": "Cloud.ru",
         "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.5738649368286133
+        "response_time": 0.4844651222229004
     },
-    "socks4://190.4.205.226:4153": {
-        "status": "success",
-        "country": "Chile",
-        "countryCode": "CL",
-        "region": "RM",
-        "regionName": "Santiago Metropolitan",
-        "city": "Santiago",
-        "zip": "34033",
-        "lat": -33.4521,
-        "lon": -70.6536,
-        "timezone": "America/Santiago",
-        "isp": "CTC. CORP S.A. (TELEFONICA EMPRESAS)",
-        "org": "Telefonica Movil De Chile S.A",
-        "as": "AS16629 CTC. CORP S.A. (TELEFONICA EMPRESAS)",
-        "query": "190.4.205.226",
-        "response_time": 0.6599297523498535
-    },
-    "http://113.160.132.195:8080": {
-        "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "66",
-        "regionName": "H\u01b0ng Y\u00ean Province",
-        "city": "B\u1ea9n Y\u00ean Nh\u00e2n",
-        "zip": "",
-        "lat": 20.9365,
-        "lon": 106.057,
-        "timezone": "Asia/Bangkok",
-        "isp": "VietNam Post and Telecom Corporation",
-        "org": "Vietnam Posts and Telecommunications Group",
-        "as": "AS45899 VNPT Corp",
-        "query": "113.160.132.195",
-        "response_time": 1.0251290798187256
-    },
-    "socks5://147.182.182.143:23241": {
+    "socks4://64.202.184.249:15986": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
-        "region": "NJ",
-        "regionName": "New Jersey",
-        "city": "North Bergen",
-        "zip": "07047",
-        "lat": 40.7964,
-        "lon": -74.0203,
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
         "timezone": "America/New_York",
-        "isp": "DigitalOcean, LLC",
-        "org": "DigitalOcean, LLC",
-        "as": "AS14061 DigitalOcean, LLC",
-        "query": "147.182.182.143",
-        "response_time": 1.1750879287719727
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 0.7814309597015381
+    },
+    "socks5://93.171.63.112:1080": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "BEL",
+        "regionName": "Belgorod Oblast",
+        "city": "Alexeyevka",
+        "zip": "309850",
+        "lat": 50.627,
+        "lon": 38.7041,
+        "timezone": "Europe/Moscow",
+        "isp": "Intercity Ltd.",
+        "org": "Intercity Ltd",
+        "as": "AS41575 Intercity Ltd.",
+        "query": "93.171.63.112",
+        "response_time": 0.9293861389160156
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.154",
+        "response_time": 1.8649823665618896
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -99,7 +82,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2802388668060303
+        "response_time": 2.229300022125244
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -116,6 +99,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4895434379577637
+        "response_time": 2.436884641647339
+    },
+    "socks4://185.46.170.253:4145": {
+        "status": "success",
+        "country": "Poland",
+        "countryCode": "PL",
+        "region": "24",
+        "regionName": "Silesia",
+        "city": "D\u0105browa G\u00f3rnicza",
+        "zip": "41-303",
+        "lat": 50.3394,
+        "lon": 19.2371,
+        "timezone": "Europe/Warsaw",
+        "isp": "Dg-net SA",
+        "org": "dg-net.pl",
+        "as": "AS57608 DG-NET SA",
+        "query": "185.46.170.253",
+        "response_time": 2.4598708152770996
     }
 }
