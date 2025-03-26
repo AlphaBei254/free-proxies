@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.20418024063110352
+        "response_time": 0.19608759880065918
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.375568151473999
+        "response_time": 0.3732786178588867
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.142",
+        "response_time": 0.6032869815826416
     },
     "http://83.217.23.36:8090": {
         "status": "success",
@@ -48,57 +65,57 @@
         "org": "PJSC Rostelecom",
         "as": "AS12389 PJSC Rostelecom",
         "query": "83.217.23.36",
-        "response_time": 0.6667616367340088
+        "response_time": 0.6917340755462646
     },
-    "http://83.217.23.34:8090": {
+    "socks4://193.68.17.141:60606": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "",
-        "lat": 55.8236,
-        "lon": 37.6034,
-        "timezone": "Europe/Moscow",
-        "isp": "PJSC Rostelecom",
-        "org": "PJSC Rostelecom",
-        "as": "AS12389 PJSC Rostelecom",
-        "query": "83.217.23.35",
-        "response_time": 0.7326085567474365
+        "country": "Bulgaria",
+        "countryCode": "BG",
+        "region": "03",
+        "regionName": "Varna",
+        "city": "Varna",
+        "zip": "9000",
+        "lat": 43.2081,
+        "lon": 27.9159,
+        "timezone": "Europe/Sofia",
+        "isp": "Digital Systems",
+        "org": "Digital Systems Ltd",
+        "as": "AS3245 Digital Systems Ltd",
+        "query": "193.68.17.141",
+        "response_time": 0.6854209899902344
     },
-    "http://142.93.211.107:3128": {
+    "socks4://64.202.184.249:15986": {
         "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "KA",
-        "regionName": "Karnataka",
-        "city": "Bengaluru",
-        "zip": "560100",
-        "lat": 12.9753,
-        "lon": 77.591,
-        "timezone": "Asia/Kolkata",
-        "isp": "DigitalOcean, LLC",
-        "org": "DigitalOcean, LLC",
-        "as": "AS14061 DigitalOcean, LLC",
-        "query": "142.93.211.107",
-        "response_time": 2.3309600353240967
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 2.3988490104675293
     },
-    "socks4://163.172.164.115:16379": {
+    "http://216.229.112.25:8080": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1012",
-        "lat": 52.3676,
-        "lon": 4.90414,
-        "timezone": "Europe/Amsterdam",
-        "isp": "Surf B.V.",
-        "org": "Nothing to hide",
-        "as": "AS1101 SURF B.V.",
-        "query": "192.42.116.179",
-        "response_time": 2.603656530380249
+        "country": "United States",
+        "countryCode": "US",
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Muleshoe",
+        "zip": "79347",
+        "lat": 34.2265,
+        "lon": -102.7238,
+        "timezone": "America/Chicago",
+        "isp": "Five Area Systems, LLC",
+        "org": "Five Area Systems, LLC",
+        "as": "AS29843 Five Area Systems, LLC",
+        "query": "216.229.112.25",
+        "response_time": 4.615735769271851
     }
 }
