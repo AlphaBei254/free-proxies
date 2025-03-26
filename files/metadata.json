@@ -1,4 +1,38 @@
 {
+    "http://31.40.248.2:8080": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "144700",
+        "lat": 55.7558,
+        "lon": 37.6173,
+        "timezone": "Europe/Moscow",
+        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
+        "org": "Cloud.ru",
+        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
+        "query": "31.40.248.2",
+        "response_time": 0.5590384006500244
+    },
+    "socks4://95.31.42.199:3629": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "",
+        "lat": 55.797,
+        "lon": 37.5594,
+        "timezone": "Europe/Moscow",
+        "isp": "PJSC \"Vimpelcom\"",
+        "org": "CORBINA-BROADBAND",
+        "as": "AS8402 PJSC \"Vimpelcom\"",
+        "query": "95.31.42.199",
+        "response_time": 1.7283577919006348
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.19808483123779297
+        "response_time": 2.250441312789917
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,57 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.40134739875793457
+        "response_time": 2.4344029426574707
     },
-    "socks5://202.40.186.66:9090": {
+    "socks4://181.129.74.58:30431": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1215",
-        "lat": 23.7655,
-        "lon": 90.3878,
-        "timezone": "Asia/Dhaka",
-        "isp": "Ranks ITT",
-        "org": "Ranks ITT Ltd.",
-        "as": "AS23991 Ranks ITT Ltd.",
-        "query": "202.40.186.66",
-        "response_time": 2.6558353900909424
-    },
-    "socks4://64.202.184.249:15986": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20149",
-        "lat": 39.0469,
-        "lon": -77.4903,
-        "timezone": "America/New_York",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "64.202.184.249",
-        "response_time": 2.8639135360717773
-    },
-    "socks5://81.177.224.173:1337": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "ROS",
-        "regionName": "Rostov Oblast",
-        "city": "Rostov-on-Don",
-        "zip": "344023",
-        "lat": 47.2357,
-        "lon": 39.7015,
-        "timezone": "Europe/Moscow",
-        "isp": "OOO SET",
-        "org": "OOO Set network",
-        "as": "AS48176 OOO SET",
-        "query": "81.177.224.173",
-        "response_time": 3.031602621078491
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "ANT",
+        "regionName": "Antioquia",
+        "city": "Medell\u00edn",
+        "zip": "050021",
+        "lat": 6.2529,
+        "lon": -75.5646,
+        "timezone": "America/Bogota",
+        "isp": "EPM Telecomunicaciones S.A. E.S.P.",
+        "org": "EPM Telecomunicaciones S.A. E.S.P",
+        "as": "AS13489 UNE EPM TELECOMUNICACIONES S.A.",
+        "query": "181.129.74.58",
+        "response_time": 2.593374729156494
     }
 }
