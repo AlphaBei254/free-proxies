@@ -1,21 +1,4 @@
 {
-    "http://38.22.17.50:3128": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "GA",
-        "regionName": "Georgia",
-        "city": "Atlanta",
-        "zip": "",
-        "lat": 33.7489,
-        "lon": -84.3879,
-        "timezone": "America/New_York",
-        "isp": "GTHost",
-        "org": "Cytranet",
-        "as": "AS63023 GTHost",
-        "query": "38.22.17.50",
-        "response_time": 0.07810592651367188
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.20748281478881836
+        "response_time": 0.25556039810180664
     },
     "socks4://64.202.184.249:15986": {
         "status": "success",
@@ -48,7 +31,7 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 0.4403982162475586
+        "response_time": 0.4477100372314453
     },
     "http://31.40.248.2:8080": {
         "status": "success",
@@ -65,7 +48,7 @@
         "org": "Cloud.ru",
         "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.5669598579406738
+        "response_time": 0.6046621799468994
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,40 +65,74 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5182547569274902
+        "response_time": 0.5968284606933594
     },
-    "http://47.252.29.28:11222": {
+    "socks4://98.103.88.158:46104": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
-        "region": "CA",
-        "regionName": "California",
-        "city": "Santa Clara",
-        "zip": "95052",
-        "lat": 37.3541,
-        "lon": -121.955,
-        "timezone": "America/Los_Angeles",
-        "isp": "Ace Data Centers II",
-        "org": "EGN Dedicated Servers - Asia Optimized",
-        "as": "AS18779 EGIHosting",
-        "query": "23.27.3.86",
-        "response_time": 1.138366460800171
+        "region": "OH",
+        "regionName": "Ohio",
+        "city": "Akron",
+        "zip": "44321",
+        "lat": 41.098,
+        "lon": -81.6422,
+        "timezone": "America/New_York",
+        "isp": "Spectrum",
+        "org": "Radisson Hotel Corporation",
+        "as": "AS10796 Charter Communications Inc",
+        "query": "98.103.88.158",
+        "response_time": 1.1739037036895752
     },
-    "socks5://81.177.224.173:1337": {
+    "socks4://118.70.211.121:60606": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "ROS",
-        "regionName": "Rostov Oblast",
-        "city": "Rostov-on-Don",
-        "zip": "344023",
-        "lat": 47.2357,
-        "lon": 39.7015,
-        "timezone": "Europe/Moscow",
-        "isp": "OOO SET",
-        "org": "OOO Set network",
-        "as": "AS48176 OOO SET",
-        "query": "81.177.224.173",
-        "response_time": 2.501215696334839
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "HN",
+        "regionName": "Hanoi",
+        "city": "Hanoi",
+        "zip": "100000",
+        "lat": 21.0184,
+        "lon": 105.8461,
+        "timezone": "Asia/Bangkok",
+        "isp": "FPT Telecom Company",
+        "org": "FPT-STATICIP",
+        "as": "AS18403 FPT Telecom Company",
+        "query": "118.70.212.110",
+        "response_time": 1.9435884952545166
+    },
+    "http://4.155.2.13:80": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "WA",
+        "regionName": "Washington",
+        "city": "Quincy",
+        "zip": "98848",
+        "lat": 47.233,
+        "lon": -119.852,
+        "timezone": "America/Los_Angeles",
+        "isp": "Microsoft Corporation",
+        "org": "Microsoft Azure Cloud (westus2)",
+        "as": "AS8075 Microsoft Corporation",
+        "query": "4.155.2.13",
+        "response_time": 2.3212172985076904
+    },
+    "socks5://103.163.244.106:1080": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "HR",
+        "regionName": "Haryana",
+        "city": "Panipat",
+        "zip": "132103",
+        "lat": 29.3885,
+        "lon": 76.9669,
+        "timezone": "Asia/Kolkata",
+        "isp": "Infolink System",
+        "org": "",
+        "as": "AS132746 Infolink System",
+        "query": "103.163.244.106",
+        "response_time": 3.71370530128479
     }
 }
