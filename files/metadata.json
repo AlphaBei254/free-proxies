@@ -1,4 +1,31 @@
 {
+    "http://3.10.93.50:3128": {
+        "status": "success",
+        "continent": "Europe",
+        "continentCode": "EU",
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "region": "NY",
+        "regionName": "England",
+        "city": "London",
+        "district": "",
+        "zip": "EC1A",
+        "lat": 40.674,
+        "lon": -73.9701,
+        "timezone": "Europe/London",
+        "offset": -14400,
+        "currency": "USD",
+        "isp": "Amazon.com",
+        "org": "AS16509 Amazon.com, Inc.",
+        "as": "AS16509 Amazon.com, Inc.",
+        "asname": "Amazon.com",
+        "reverse": "ec2-3-8-193-88.eu-west-2.compute.amazonaws.com",
+        "mobile": false,
+        "proxy": true,
+        "hosting": true,
+        "query": "3.8.193.88",
+        "response_time": 0.3012723922729492
+    },
     "http://200.174.198.86:8888": {
         "status": "success",
         "country": "Brazil",
@@ -13,25 +40,8 @@
         "isp": "Claro S.A",
         "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
         "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.222",
-        "response_time": 0.6505284309387207
-    },
-    "socks4://171.250.220.176:1080": {
-        "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "SG",
-        "regionName": "Ho Chi Minh",
-        "city": "Ho Chi Minh City",
-        "zip": "700000",
-        "lat": 10.822,
-        "lon": 106.6257,
-        "timezone": "Asia/Ho_Chi_Minh",
-        "isp": "Viettel Corporation",
-        "org": "VIETEL",
-        "as": "AS7552 Viettel Group",
-        "query": "171.250.220.176",
-        "response_time": 0.9893553256988525
+        "query": "200.174.198.49",
+        "response_time": 0.9813568592071533
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +58,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.290254592895508
-    },
-    "http://38.22.17.50:3128": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "GA",
-        "regionName": "Georgia",
-        "city": "Atlanta",
-        "zip": "",
-        "lat": 33.7489,
-        "lon": -84.3879,
-        "timezone": "America/New_York",
-        "isp": "GTHost",
-        "org": "Cytranet",
-        "as": "AS63023 GTHost",
-        "query": "38.22.17.50",
-        "response_time": 2.3179428577423096
+        "response_time": 2.4221348762512207
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +75,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.511705160140991
+        "response_time": 2.6802659034729004
+    },
+    "socks4://37.52.50.28:5678": {
+        "status": "success",
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "30",
+        "regionName": "Kyiv City",
+        "city": "Kyiv",
+        "zip": "01010",
+        "lat": 50.4443,
+        "lon": 30.5108,
+        "timezone": "Europe/Kiev",
+        "isp": "UKRTELECOM",
+        "org": "JSC Ukrtelecom",
+        "as": "AS6849 JSC \"Ukrtelecom\"",
+        "query": "37.52.50.28",
+        "response_time": 2.7095284461975098
+    },
+    "http://216.229.112.25:8080": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Muleshoe",
+        "zip": "79347",
+        "lat": 34.2265,
+        "lon": -102.7238,
+        "timezone": "America/Chicago",
+        "isp": "Five Area Systems, LLC",
+        "org": "Five Area Systems, LLC",
+        "as": "AS29843 Five Area Systems, LLC",
+        "query": "216.229.112.25",
+        "response_time": 4.004953384399414
     }
 }
