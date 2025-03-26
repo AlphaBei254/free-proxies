@@ -1,21 +1,4 @@
 {
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.23377299308776855
-    },
     "socks4://64.202.184.249:15986": {
         "status": "success",
         "country": "United States",
@@ -31,24 +14,24 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 0.27732181549072266
+        "response_time": 0.08381891250610352
     },
-    "http://31.40.248.2:8080": {
+    "http://45.140.143.77:18080": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.5457370281219482
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.28868818283081055
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +48,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.7770888805389404
+        "response_time": 0.5512299537658691
     },
-    "socks4://27.115.33.94:4153": {
+    "http://200.174.198.86:8888": {
         "status": "success",
-        "country": "China",
-        "countryCode": "CN",
-        "region": "SH",
-        "regionName": "Shanghai",
-        "city": "Shanghai",
-        "zip": "",
-        "lat": 31.2222,
-        "lon": 121.4581,
-        "timezone": "Asia/Shanghai",
-        "isp": "China Unicom Shanghai Province Network",
-        "org": "",
-        "as": "AS17621 China Unicom Shanghai network",
-        "query": "27.115.33.94",
-        "response_time": 2.1146843433380127
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.134",
+        "response_time": 0.7377841472625732
+    },
+    "socks4://163.172.134.29:16379": {
+        "status": "success",
+        "country": "Czechia",
+        "countryCode": "CZ",
+        "region": "80",
+        "regionName": "Moravskoslezsk\u00fd kraj",
+        "city": "Ostrava",
+        "zip": "700 30",
+        "lat": 49.7967,
+        "lon": 18.2343,
+        "timezone": "Europe/Prague",
+        "isp": "Vodafone Czech Republic a.s.",
+        "org": "Finaltek",
+        "as": "AS16019 Vodafone Czech Republic a.s.",
+        "query": "93.99.104.18",
+        "response_time": 3.1397311687469482
     }
 }
