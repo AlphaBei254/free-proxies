@@ -1,4 +1,38 @@
 {
+    "http://31.40.248.2:8080": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "144700",
+        "lat": 55.7558,
+        "lon": 37.6173,
+        "timezone": "Europe/Moscow",
+        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
+        "org": "Cloud.ru",
+        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
+        "query": "31.40.248.2",
+        "response_time": 0.5776562690734863
+    },
+    "http://116.203.139.209:5678": {
+        "status": "success",
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BY",
+        "regionName": "Bavaria",
+        "city": "Nuremberg",
+        "zip": "90403",
+        "lat": 49.4527,
+        "lon": 11.0783,
+        "timezone": "Europe/Berlin",
+        "isp": "Hetzner Online GmbH",
+        "org": "Hetzner",
+        "as": "AS24940 Hetzner Online GmbH",
+        "query": "116.203.139.209",
+        "response_time": 1.443129539489746
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,24 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.1904139518737793
-    },
-    "socks5://103.163.244.106:1080": {
-        "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "HR",
-        "regionName": "Haryana",
-        "city": "Panipat",
-        "zip": "132103",
-        "lat": 29.3885,
-        "lon": 76.9669,
-        "timezone": "Asia/Kolkata",
-        "isp": "Infolink System",
-        "org": "",
-        "as": "AS132746 Infolink System",
-        "query": "103.163.244.106",
-        "response_time": 1.5240800380706787
+        "response_time": 2.4555487632751465
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4271411895751953
+        "response_time": 2.6387245655059814
+    },
+    "socks4://41.216.232.213:4153": {
+        "status": "success",
+        "country": "Portugal",
+        "countryCode": "PT",
+        "region": "15",
+        "regionName": "Set\u00fabal",
+        "city": "Seixal",
+        "zip": "2840-213",
+        "lat": 38.6411,
+        "lon": -9.0975,
+        "timezone": "Europe/Lisbon",
+        "isp": "Gateway Cameroun",
+        "org": "",
+        "as": "AS37672 INQ DIGITAL CAMEROON SA",
+        "query": "217.14.84.154",
+        "response_time": 2.929523468017578
     }
 }
