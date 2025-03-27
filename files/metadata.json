@@ -14,41 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.333925724029541
-    },
-    "http://31.40.248.2:8080": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.701643705368042
-    },
-    "socks4://91.147.235.99:4145": {
-        "status": "success",
-        "country": "Hungary",
-        "countryCode": "HU",
-        "region": "HB",
-        "regionName": "Hajd\u00fa-Bihar",
-        "city": "Debrecen",
-        "zip": "4032",
-        "lat": 47.5232,
-        "lon": 21.6334,
-        "timezone": "Europe/Budapest",
-        "isp": "Magyar Telekom plc.",
-        "org": "Portal LLC",
-        "as": "AS5483 Magyar Telekom plc.",
-        "query": "91.147.235.99",
-        "response_time": 0.6856422424316406
+        "response_time": 0.3530292510986328
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,24 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.7803654670715332
+        "response_time": 0.4436314105987549
     },
-    "http://113.160.132.195:8080": {
+    "socks4://93.117.72.27:55770": {
         "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "66",
-        "regionName": "H\u01b0ng Y\u00ean Province",
-        "city": "B\u1ea9n Y\u00ean Nh\u00e2n",
-        "zip": "",
-        "lat": 20.9365,
-        "lon": 106.057,
-        "timezone": "Asia/Bangkok",
-        "isp": "VietNam Post and Telecom Corporation",
-        "org": "Vietnam Posts and Telecommunications Group",
-        "as": "AS45899 VNPT Corp",
-        "query": "113.160.132.195",
-        "response_time": 1.0205051898956299
+        "country": "Moldova",
+        "countryCode": "MD",
+        "region": "SV",
+        "regionName": "Raionul \u0218tefan Vod\u0103",
+        "city": "\u015etefan Vod\u0103",
+        "zip": "MD-4201",
+        "lat": 46.5153,
+        "lon": 29.6678,
+        "timezone": "Europe/Chisinau",
+        "isp": "Moldtelecom SA",
+        "org": "JSC Moldtelecom S.A.",
+        "as": "AS8926 Moldtelecom SA",
+        "query": "93.117.72.27",
+        "response_time": 0.7129068374633789
     },
     "http://83.217.23.34:8090": {
         "status": "success",
@@ -99,40 +65,23 @@
         "org": "PJSC Rostelecom",
         "as": "AS12389 PJSC Rostelecom",
         "query": "83.217.23.35",
-        "response_time": 1.1086657047271729
+        "response_time": 1.5508379936218262
     },
-    "socks5://81.177.224.173:1337": {
+    "http://47.252.29.28:11222": {
         "status": "success",
         "country": "Russia",
         "countryCode": "RU",
-        "region": "ROS",
-        "regionName": "Rostov Oblast",
-        "city": "Rostov-on-Don",
-        "zip": "344023",
-        "lat": 47.2357,
-        "lon": 39.7015,
+        "region": "MOS",
+        "regionName": "Moscow Oblast",
+        "city": "Lobnya",
+        "zip": "141730",
+        "lat": 56.0331,
+        "lon": 37.4822,
         "timezone": "Europe/Moscow",
-        "isp": "OOO SET",
-        "org": "OOO Set network",
-        "as": "AS48176 OOO SET",
-        "query": "81.177.224.173",
-        "response_time": 1.36207914352417
-    },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.83",
-        "response_time": 2.7589809894561768
+        "isp": "Host Sailor Ltd",
+        "org": "Joint Stock Company Selena Telecom",
+        "as": "AS60117 Host Sailor Ltd",
+        "query": "94.137.91.45",
+        "response_time": 3.163327693939209
     }
 }
