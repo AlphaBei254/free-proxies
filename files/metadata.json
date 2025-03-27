@@ -1,21 +1,4 @@
 {
-    "http://38.22.17.50:3128": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "GA",
-        "regionName": "Georgia",
-        "city": "Atlanta",
-        "zip": "",
-        "lat": 33.7489,
-        "lon": -84.3879,
-        "timezone": "America/New_York",
-        "isp": "GTHost",
-        "org": "Cytranet",
-        "as": "AS63023 GTHost",
-        "query": "38.22.17.50",
-        "response_time": 0.0898904800415039
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.20066142082214355
+        "response_time": 0.19515228271484375
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.381516695022583
-    },
-    "http://31.40.248.2:8080": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.5546820163726807
+        "response_time": 0.46215248107910156
     },
     "http://83.217.23.36:8090": {
         "status": "success",
@@ -82,40 +48,74 @@
         "org": "PJSC Rostelecom",
         "as": "AS12389 PJSC Rostelecom",
         "query": "83.217.23.36",
-        "response_time": 0.693000316619873
+        "response_time": 0.7848360538482666
     },
-    "socks4://64.202.184.249:15986": {
+    "http://113.160.133.32:8080": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20149",
-        "lat": 39.0469,
-        "lon": -77.4903,
-        "timezone": "America/New_York",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "64.202.184.249",
-        "response_time": 0.9006369113922119
-    },
-    "http://110.43.221.121:7088": {
-        "status": "success",
-        "country": "China",
-        "countryCode": "CN",
-        "region": "SH",
-        "regionName": "Shanghai",
-        "city": "Shanghai",
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "66",
+        "regionName": "H\u01b0ng Y\u00ean Province",
+        "city": "B\u1ea9n Y\u00ean Nh\u00e2n",
         "zip": "",
-        "lat": 31.2222,
-        "lon": 121.4581,
-        "timezone": "Asia/Shanghai",
-        "isp": "Tianjij, ",
-        "org": "Chinanet TJ",
-        "as": "AS58542 Tianjij,300000",
-        "query": "42.81.157.160",
-        "response_time": 1.1755294799804688
+        "lat": 20.9365,
+        "lon": 106.057,
+        "timezone": "Asia/Bangkok",
+        "isp": "VietNam Post and Telecom Corporation",
+        "org": "Vietnam Posts and Telecommunications Group",
+        "as": "AS45899 VNPT Corp",
+        "query": "113.160.133.32",
+        "response_time": 0.9815945625305176
+    },
+    "socks4://183.88.247.52:4153": {
+        "status": "success",
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "83",
+        "regionName": "Phuket",
+        "city": "Wichit",
+        "zip": "83120",
+        "lat": 7.8894,
+        "lon": 98.3852,
+        "timezone": "Asia/Bangkok",
+        "isp": "Triple T Broadband Public Company Limited",
+        "org": "Triple T Broadband Public Company Limited",
+        "as": "AS45758 Triple T Broadband Public Company Limited",
+        "query": "183.88.247.52",
+        "response_time": 1.2118804454803467
+    },
+    "socks5://118.70.151.55:1080": {
+        "status": "success",
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "HN",
+        "regionName": "Hanoi",
+        "city": "Hanoi",
+        "zip": "100000",
+        "lat": 21.0184,
+        "lon": 105.8461,
+        "timezone": "Asia/Bangkok",
+        "isp": "FPT Telecom Company",
+        "org": "Vietnam Internet Network Information Center",
+        "as": "AS18403 FPT Telecom Company",
+        "query": "118.70.151.55",
+        "response_time": 1.2942993640899658
+    },
+    "http://187.86.159.54:3128": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "city": "Rio Grande",
+        "zip": "96211",
+        "lat": -32.028,
+        "lon": -52.0969,
+        "timezone": "America/Sao_Paulo",
+        "isp": "VETORIALNET INF. E SERVI\u00c7OS DE INTERNET LTDA",
+        "org": "VETORIALNET INF. E SERVI\u00c7OS DE INTERNET LTDA",
+        "as": "AS53066 VETORIALNET INF. E SERVI\u00c7OS DE INTERNET LTDA",
+        "query": "187.86.159.54",
+        "response_time": 2.925492525100708
     }
 }
