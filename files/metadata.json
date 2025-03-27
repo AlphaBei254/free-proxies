@@ -14,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.20610356330871582
-    },
-    "http://65.108.159.129:8081": {
-        "status": "success",
-        "country": "Finland",
-        "countryCode": "FI",
-        "region": "18",
-        "regionName": "Uusimaa",
-        "city": "Helsinki",
-        "zip": "00201",
-        "lat": 60.1719,
-        "lon": 24.9347,
-        "timezone": "Europe/Helsinki",
-        "isp": "Hetzner Online GmbH",
-        "org": "Hetzner Online GmbH",
-        "as": "AS24940 Hetzner Online GmbH",
-        "query": "65.108.159.129",
-        "response_time": 0.31690526008605957
+        "response_time": 0.25243449211120605
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.43286943435668945
+        "response_time": 0.48086023330688477
+    },
+    "socks4://31.209.96.173:51688": {
+        "status": "success",
+        "country": "T\u00fcrkiye",
+        "countryCode": "TR",
+        "region": "33",
+        "regionName": "Mersin",
+        "city": "Mersin",
+        "zip": "33940",
+        "lat": 36.812,
+        "lon": 34.6389,
+        "timezone": "Europe/Istanbul",
+        "isp": "Netonline Bilisim Sirketi LTD",
+        "org": "Multimax",
+        "as": "AS44558 Netonline Bilisim Sirketi LTD",
+        "query": "31.209.98.18",
+        "response_time": 0.6558208465576172
     },
     "http://83.217.23.36:8090": {
         "status": "success",
@@ -65,7 +65,7 @@
         "org": "PJSC Rostelecom",
         "as": "AS12389 PJSC Rostelecom",
         "query": "83.217.23.36",
-        "response_time": 0.7648742198944092
+        "response_time": 0.7788200378417969
     },
     "http://83.217.23.34:8090": {
         "status": "success",
@@ -82,40 +82,23 @@
         "org": "PJSC Rostelecom",
         "as": "AS12389 PJSC Rostelecom",
         "query": "83.217.23.35",
-        "response_time": 0.7881565093994141
+        "response_time": 0.7913479804992676
     },
-    "socks5://178.33.42.161:49062": {
+    "socks4://91.147.235.99:4145": {
         "status": "success",
-        "country": "France",
-        "countryCode": "FR",
-        "region": "HDF",
-        "regionName": "Hauts-de-France",
-        "city": "Wattrelos",
-        "zip": "59150",
-        "lat": 50.7012,
-        "lon": 3.21501,
-        "timezone": "Europe/Paris",
-        "isp": "OVH SAS",
-        "org": "OVH",
-        "as": "AS16276 OVH SAS",
-        "query": "162.19.107.54",
-        "response_time": 1.3919031620025635
-    },
-    "socks4://109.248.236.150:60606": {
-        "status": "success",
-        "country": "Kazakhstan",
-        "countryCode": "KZ",
-        "region": "39",
-        "regionName": "Qostanay Oblysy",
-        "city": "Kostanay",
-        "zip": "",
-        "lat": 53.2123,
-        "lon": 63.6281,
-        "timezone": "Asia/Qostanay",
-        "isp": "Uplink LLC",
-        "org": "Uplink LLC",
-        "as": "AS8200 Uplink LLC",
-        "query": "109.248.236.150",
-        "response_time": 2.6839373111724854
+        "country": "Hungary",
+        "countryCode": "HU",
+        "region": "HB",
+        "regionName": "Hajd\u00fa-Bihar",
+        "city": "Debrecen",
+        "zip": "4032",
+        "lat": 47.5232,
+        "lon": 21.6334,
+        "timezone": "Europe/Budapest",
+        "isp": "Magyar Telekom plc.",
+        "org": "Portal LLC",
+        "as": "AS5483 Magyar Telekom plc.",
+        "query": "91.147.235.99",
+        "response_time": 1.5838992595672607
     }
 }
