@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3530292510986328
+        "response_time": 0.23345518112182617
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4436314105987549
-    },
-    "socks4://93.117.72.27:55770": {
-        "status": "success",
-        "country": "Moldova",
-        "countryCode": "MD",
-        "region": "SV",
-        "regionName": "Raionul \u0218tefan Vod\u0103",
-        "city": "\u015etefan Vod\u0103",
-        "zip": "MD-4201",
-        "lat": 46.5153,
-        "lon": 29.6678,
-        "timezone": "Europe/Chisinau",
-        "isp": "Moldtelecom SA",
-        "org": "JSC Moldtelecom S.A.",
-        "as": "AS8926 Moldtelecom SA",
-        "query": "93.117.72.27",
-        "response_time": 0.7129068374633789
+        "response_time": 0.44617795944213867
     },
     "http://83.217.23.34:8090": {
         "status": "success",
@@ -65,23 +48,40 @@
         "org": "PJSC Rostelecom",
         "as": "AS12389 PJSC Rostelecom",
         "query": "83.217.23.35",
-        "response_time": 1.5508379936218262
+        "response_time": 0.8146281242370605
     },
-    "http://47.252.29.28:11222": {
+    "socks4://64.202.184.249:15986": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOS",
-        "regionName": "Moscow Oblast",
-        "city": "Lobnya",
-        "zip": "141730",
-        "lat": 56.0331,
-        "lon": 37.4822,
-        "timezone": "Europe/Moscow",
-        "isp": "Host Sailor Ltd",
-        "org": "Joint Stock Company Selena Telecom",
-        "as": "AS60117 Host Sailor Ltd",
-        "query": "94.137.91.45",
-        "response_time": 3.163327693939209
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 1.9667160511016846
+    },
+    "socks4://183.88.247.52:4153": {
+        "status": "success",
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "83",
+        "regionName": "Phuket",
+        "city": "Wichit",
+        "zip": "83120",
+        "lat": 7.8894,
+        "lon": 98.3852,
+        "timezone": "Asia/Bangkok",
+        "isp": "Triple T Broadband Public Company Limited",
+        "org": "Triple T Broadband Public Company Limited",
+        "as": "AS45758 Triple T Broadband Public Company Limited",
+        "query": "183.88.247.52",
+        "response_time": 2.2852277755737305
     }
 }
