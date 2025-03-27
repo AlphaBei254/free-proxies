@@ -14,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.29009270668029785
+        "response_time": 0.22018003463745117
+    },
+    "socks4://64.202.184.249:15986": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 0.23646879196166992
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +48,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.567568302154541
+        "response_time": 0.37859606742858887
+    },
+    "http://8.219.97.248:80": {
+        "status": "success",
+        "country": "Singapore",
+        "countryCode": "SG",
+        "region": "03",
+        "regionName": "North West",
+        "city": "Singapore",
+        "zip": "858877",
+        "lat": 1.35208,
+        "lon": 103.82,
+        "timezone": "Asia/Singapore",
+        "isp": "Alibaba (US) Technology Co., Ltd.",
+        "org": "Alibaba.com Singapore E-Commerce Private Limited",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "8.219.64.236",
+        "response_time": 1.7115943431854248
     },
     "http://83.217.23.36:8090": {
         "status": "success",
@@ -48,74 +82,6 @@
         "org": "PJSC Rostelecom",
         "as": "AS12389 PJSC Rostelecom",
         "query": "83.217.23.36",
-        "response_time": 0.8191306591033936
-    },
-    "socks4://193.68.17.141:60606": {
-        "status": "success",
-        "country": "Bulgaria",
-        "countryCode": "BG",
-        "region": "03",
-        "regionName": "Varna",
-        "city": "Varna",
-        "zip": "9000",
-        "lat": 43.2081,
-        "lon": 27.9159,
-        "timezone": "Europe/Sofia",
-        "isp": "Digital Systems",
-        "org": "Digital Systems Ltd",
-        "as": "AS3245 Digital Systems Ltd",
-        "query": "193.68.17.141",
-        "response_time": 0.8053934574127197
-    },
-    "http://83.217.23.34:8090": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "",
-        "lat": 55.8236,
-        "lon": 37.6034,
-        "timezone": "Europe/Moscow",
-        "isp": "PJSC Rostelecom",
-        "org": "PJSC Rostelecom",
-        "as": "AS12389 PJSC Rostelecom",
-        "query": "83.217.23.35",
-        "response_time": 0.951542854309082
-    },
-    "socks5://93.157.18.44:1080": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "ROS",
-        "regionName": "Rostov Oblast",
-        "city": "Volgodonsk",
-        "zip": "347366",
-        "lat": 47.5157,
-        "lon": 42.1502,
-        "timezone": "Europe/Moscow",
-        "isp": "Mikroel Ltd",
-        "org": "LLC SCIENTIFIC AND PRODUCTION CENTER \"MICROELECTRONICS\"",
-        "as": "AS24758 Mikroel Ltd",
-        "query": "93.157.18.44",
-        "response_time": 2.0328712463378906
-    },
-    "socks4://170.245.248.45:60606": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "city": "Goi\u00e2nia",
-        "zip": "74000",
-        "lat": -16.6391,
-        "lon": -49.2622,
-        "timezone": "America/Sao_Paulo",
-        "isp": "T.A.LUIZ ELETRONICO LTDA - ME",
-        "org": "T.A.LUIZ ELETRONICO LTDA - ME",
-        "as": "AS266032 T.A.LUIZ ELETRONICO LTDA - ME",
-        "query": "170.245.250.186",
-        "response_time": 3.0037882328033447
+        "response_time": 2.1050021648406982
     }
 }
