@@ -1,21 +1,4 @@
 {
-    "socks4://64.202.184.249:15986": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20149",
-        "lat": 39.0469,
-        "lon": -77.4903,
-        "timezone": "America/New_York",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "64.202.184.249",
-        "response_time": 0.07328319549560547
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.28470897674560547
+        "response_time": 0.19931268692016602
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5644094944000244
+        "response_time": 0.39483094215393066
     },
     "http://31.40.248.2:8080": {
         "status": "success",
@@ -65,7 +48,41 @@
         "org": "Cloud.ru",
         "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.6462466716766357
+        "response_time": 0.4964437484741211
+    },
+    "http://47.252.29.28:11222": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "KRS",
+        "regionName": "Kursk Oblast",
+        "city": "Fatezh",
+        "zip": "307100",
+        "lat": 52.0888,
+        "lon": 35.8599,
+        "timezone": "Europe/Moscow",
+        "isp": "SIA \"Singularity Telecom\"",
+        "org": "Dom Tehniki Ltd",
+        "as": "AS209372 SIA \"Singularity Telecom\"",
+        "query": "149.126.221.0",
+        "response_time": 1.027925968170166
+    },
+    "socks5://103.158.253.162:8199": {
+        "status": "success",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JI",
+        "regionName": "East Java",
+        "city": "Ginyang",
+        "zip": "",
+        "lat": -6.9706,
+        "lon": 114.061,
+        "timezone": "Asia/Jakarta",
+        "isp": "Rapid Network",
+        "org": "",
+        "as": "AS141137 PT Media Cepat Indonesia",
+        "query": "103.158.253.162",
+        "response_time": 1.2754178047180176
     },
     "http://83.217.23.36:8090": {
         "status": "success",
@@ -82,57 +99,40 @@
         "org": "PJSC Rostelecom",
         "as": "AS12389 PJSC Rostelecom",
         "query": "83.217.23.36",
-        "response_time": 0.8266887664794922
+        "response_time": 2.123594045639038
     },
-    "socks4://37.52.50.28:5678": {
+    "http://201.91.82.155:3128": {
         "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "30",
-        "regionName": "Kyiv City",
-        "city": "Kyiv",
-        "zip": "01010",
-        "lat": 50.4443,
-        "lon": 30.5108,
-        "timezone": "Europe/Kiev",
-        "isp": "UKRTELECOM",
-        "org": "JSC Ukrtelecom",
-        "as": "AS6849 JSC \"Ukrtelecom\"",
-        "query": "37.52.50.28",
-        "response_time": 1.198889970779419
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "Santos",
+        "zip": "11045",
+        "lat": -23.9569,
+        "lon": -46.3446,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Vivo",
+        "org": "TELEF\ufffdNICA BRASIL S.A",
+        "as": "AS10429 TELEF\u00d4NICA BRASIL S.A",
+        "query": "201.91.82.155",
+        "response_time": 2.505671739578247
     },
-    "http://83.217.23.34:8090": {
+    "http://161.97.136.251:3128": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "",
-        "lat": 55.8236,
-        "lon": 37.6034,
-        "timezone": "Europe/Moscow",
-        "isp": "PJSC Rostelecom",
-        "org": "PJSC Rostelecom",
-        "as": "AS12389 PJSC Rostelecom",
-        "query": "83.217.23.35",
-        "response_time": 1.971057415008545
-    },
-    "socks4://221.144.252.148:5678": {
-        "status": "success",
-        "country": "South Korea",
-        "countryCode": "KR",
-        "region": "42",
-        "regionName": "Gangwon-do",
-        "city": "Gangneung",
-        "zip": "255",
-        "lat": 37.751,
-        "lon": 128.8993,
-        "timezone": "Asia/Seoul",
-        "isp": "Korea Telecom",
-        "org": "Korea Telecom",
-        "as": "AS4766 Korea Telecom",
-        "query": "221.144.252.148",
-        "response_time": 2.1032917499542236
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "NW",
+        "regionName": "North Rhine-Westphalia",
+        "city": "D\u00fcsseldorf",
+        "zip": "40599",
+        "lat": 51.1864,
+        "lon": 6.8624,
+        "timezone": "Europe/Berlin",
+        "isp": "Contabo GmbH",
+        "org": "Contabo GmbH",
+        "as": "AS51167 Contabo GmbH",
+        "query": "161.97.136.251",
+        "response_time": 3.064617395401001
     }
 }
