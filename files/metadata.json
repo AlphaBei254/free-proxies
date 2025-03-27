@@ -1,20 +1,37 @@
 {
-    "http://83.217.23.34:8090": {
+    "http://200.174.198.86:8888": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.157",
+        "response_time": 0.5769872665405273
+    },
+    "socks5://103.158.253.162:8199": {
+        "status": "success",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JI",
+        "regionName": "East Java",
+        "city": "Ginyang",
         "zip": "",
-        "lat": 55.8236,
-        "lon": 37.6034,
-        "timezone": "Europe/Moscow",
-        "isp": "PJSC Rostelecom",
-        "org": "PJSC Rostelecom",
-        "as": "AS12389 PJSC Rostelecom",
-        "query": "83.217.23.35",
-        "response_time": 0.827958345413208
+        "lat": -6.9706,
+        "lon": 114.061,
+        "timezone": "Asia/Jakarta",
+        "isp": "Rapid Network",
+        "org": "",
+        "as": "AS141137 PT Media Cepat Indonesia",
+        "query": "103.158.253.163",
+        "response_time": 2.263714075088501
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3163602352142334
+        "response_time": 2.3986995220184326
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4936485290527344
+        "response_time": 2.416494131088257
     },
-    "socks4://64.202.184.249:15986": {
+    "socks4://49.87.154.98:10800": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20149",
-        "lat": 39.0469,
-        "lon": -77.4903,
-        "timezone": "America/New_York",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "64.202.184.249",
-        "response_time": 2.7152748107910156
+        "country": "China",
+        "countryCode": "CN",
+        "region": "JS",
+        "regionName": "Jiangsu",
+        "city": "Nanjing",
+        "zip": "210000",
+        "lat": 32.0607,
+        "lon": 118.763,
+        "timezone": "Asia/Shanghai",
+        "isp": "Chinanet",
+        "org": "Chinanet JS",
+        "as": "AS4134 CHINANET-BACKBONE",
+        "query": "49.87.154.98",
+        "response_time": 2.552704095840454
     }
 }
