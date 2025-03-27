@@ -1,38 +1,4 @@
 {
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.157",
-        "response_time": 0.5769872665405273
-    },
-    "socks5://103.158.253.162:8199": {
-        "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JI",
-        "regionName": "East Java",
-        "city": "Ginyang",
-        "zip": "",
-        "lat": -6.9706,
-        "lon": 114.061,
-        "timezone": "Asia/Jakarta",
-        "isp": "Rapid Network",
-        "org": "",
-        "as": "AS141137 PT Media Cepat Indonesia",
-        "query": "103.158.253.163",
-        "response_time": 2.263714075088501
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -48,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3986995220184326
+        "response_time": 0.411376953125
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +31,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.416494131088257
+        "response_time": 0.6469337940216064
     },
-    "socks4://49.87.154.98:10800": {
+    "socks4://193.68.17.141:60606": {
         "status": "success",
-        "country": "China",
-        "countryCode": "CN",
-        "region": "JS",
-        "regionName": "Jiangsu",
-        "city": "Nanjing",
-        "zip": "210000",
-        "lat": 32.0607,
-        "lon": 118.763,
-        "timezone": "Asia/Shanghai",
-        "isp": "Chinanet",
-        "org": "Chinanet JS",
-        "as": "AS4134 CHINANET-BACKBONE",
-        "query": "49.87.154.98",
-        "response_time": 2.552704095840454
+        "country": "Bulgaria",
+        "countryCode": "BG",
+        "region": "03",
+        "regionName": "Varna",
+        "city": "Varna",
+        "zip": "9000",
+        "lat": 43.2081,
+        "lon": 27.9159,
+        "timezone": "Europe/Sofia",
+        "isp": "Digital Systems",
+        "org": "Digital Systems Ltd",
+        "as": "AS3245 Digital Systems Ltd",
+        "query": "193.68.17.141",
+        "response_time": 0.8853409290313721
+    },
+    "http://38.22.17.50:3128": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "GA",
+        "regionName": "Georgia",
+        "city": "Atlanta",
+        "zip": "",
+        "lat": 33.7489,
+        "lon": -84.3879,
+        "timezone": "America/New_York",
+        "isp": "GTHost",
+        "org": "Cytranet",
+        "as": "AS63023 GTHost",
+        "query": "38.22.17.50",
+        "response_time": 1.1363444328308105
+    },
+    "http://83.217.23.36:8090": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "",
+        "lat": 55.8236,
+        "lon": 37.6034,
+        "timezone": "Europe/Moscow",
+        "isp": "PJSC Rostelecom",
+        "org": "PJSC Rostelecom",
+        "as": "AS12389 PJSC Rostelecom",
+        "query": "83.217.23.36",
+        "response_time": 1.5827610492706299
     }
 }
