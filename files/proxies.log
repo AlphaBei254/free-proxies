@@ -1,93 +1,72 @@
-28-Mar-2025 13:28:33 - INFO : Total http proxies 1997
-28-Mar-2025 13:28:33 - INFO : Total socks4 proxies 1639
-28-Mar-2025 13:28:33 - INFO : Total socks5 proxies 1247
-28-Mar-2025 13:28:33 - WARNING : Estimated running time 00:01:18
-28-Mar-2025 13:28:33 - WARNING : Waiting currrent running 310 threads to complete.
-28-Mar-2025 13:28:34 - INFO : Working proxy (http, 45.22.209.157:8888)
-28-Mar-2025 13:28:37 - INFO : Working proxy (http, 15.207.35.241:80)
-28-Mar-2025 13:28:43 - WARNING : Waiting currrent running 310 threads to complete.
-28-Mar-2025 13:28:47 - INFO : Working proxy (http, 45.124.170.5:8080)
-28-Mar-2025 13:28:47 - INFO : Working proxy (http, 38.49.149.138:999)
-28-Mar-2025 13:28:48 - INFO : Working proxy (http, 38.159.223.18:999)
-28-Mar-2025 13:28:51 - INFO : Working proxy (http, 186.96.71.108:999)
-28-Mar-2025 13:28:52 - WARNING : Waiting currrent running 310 threads to complete.
-28-Mar-2025 13:28:52 - INFO : Working proxy (http, 45.140.143.77:18080)
-28-Mar-2025 13:28:53 - INFO : Working proxy (http, 31.40.248.2:8080)
-28-Mar-2025 13:28:54 - INFO : Working proxy (http, 3.108.115.48:3128)
-28-Mar-2025 13:28:55 - INFO : Working proxy (http, 113.160.132.195:8080)
-28-Mar-2025 13:28:56 - INFO : Working proxy (http, 216.229.112.25:8080)
-28-Mar-2025 13:28:59 - INFO : Working proxy (http, 126.209.2.2:8081)
-28-Mar-2025 13:29:01 - WARNING : Waiting currrent running 310 threads to complete.
-28-Mar-2025 13:29:07 - INFO : Working proxy (http, 188.125.169.144:8080)
-28-Mar-2025 13:29:13 - WARNING : Waiting currrent running 310 threads to complete.
-28-Mar-2025 13:29:14 - INFO : Working proxy (http, 83.217.23.36:8090)
-28-Mar-2025 13:29:15 - INFO : Working proxy (http, 200.174.198.86:8888)
-28-Mar-2025 13:29:23 - WARNING : Waiting currrent running 310 threads to complete.
-28-Mar-2025 13:29:23 - INFO : Working proxy (http, 23.122.184.9:8888)
-28-Mar-2025 13:29:33 - WARNING : Waiting currrent running 310 threads to complete.
-28-Mar-2025 13:29:35 - INFO : Working proxy (socks4, 51.158.113.139:16379)
-28-Mar-2025 13:29:36 - INFO : Working proxy (socks4, 202.79.47.194:1080)
-28-Mar-2025 13:29:36 - INFO : Working proxy (socks4, 163.172.190.59:16379)
-28-Mar-2025 13:29:37 - INFO : Working proxy (socks4, 103.229.47.120:4153)
-28-Mar-2025 13:29:37 - INFO : Working proxy (socks4, 181.15.154.154:52033)
-28-Mar-2025 13:29:37 - INFO : Working proxy (socks4, 168.194.226.178:4153)
-28-Mar-2025 13:29:38 - INFO : Working proxy (socks4, 51.158.70.246:16379)
-28-Mar-2025 13:29:39 - INFO : Working proxy (http, 4.155.2.13:80)
-28-Mar-2025 13:29:40 - INFO : Working proxy (http, 83.217.23.34:8090)
-28-Mar-2025 13:29:40 - INFO : Working proxy (socks4, 41.216.232.213:4153)
-28-Mar-2025 13:29:41 - WARNING : Waiting currrent running 310 threads to complete.
-28-Mar-2025 13:29:42 - INFO : Working proxy (socks4, 171.250.220.176:1080)
-28-Mar-2025 13:29:44 - INFO : Working proxy (socks4, 168.196.24.29:60606)
-28-Mar-2025 13:29:44 - INFO : Working proxy (socks4, 103.102.142.98:4145)
-28-Mar-2025 13:29:44 - INFO : Working proxy (socks4, 109.248.236.150:60606)
-28-Mar-2025 13:29:45 - INFO : Working proxy (socks4, 110.74.195.152:1080)
-28-Mar-2025 13:29:46 - INFO : Working proxy (socks4, 175.144.198.226:31694)
-28-Mar-2025 13:29:46 - INFO : Working proxy (socks4, 80.92.224.141:5678)
-28-Mar-2025 13:29:46 - INFO : Working proxy (socks4, 185.170.233.103:47574)
-28-Mar-2025 13:29:47 - INFO : Working proxy (socks4, 103.72.79.250:62430)
-28-Mar-2025 13:29:47 - INFO : Working proxy (socks4, 103.124.137.251:1080)
-28-Mar-2025 13:29:52 - WARNING : Waiting currrent running 310 threads to complete.
-28-Mar-2025 13:29:54 - INFO : Working proxy (socks4, 89.22.254.160:60606)
-28-Mar-2025 13:29:54 - INFO : Working proxy (socks4, 41.223.108.13:1080)
-28-Mar-2025 13:29:57 - INFO : Working proxy (socks4, 110.77.149.227:4153)
-28-Mar-2025 13:29:57 - INFO : Working proxy (socks4, 51.15.232.175:16379)
-28-Mar-2025 13:29:58 - INFO : Working proxy (socks4, 145.239.254.55:11001)
-28-Mar-2025 13:30:01 - WARNING : Waiting currrent running 310 threads to complete.
-28-Mar-2025 13:30:02 - INFO : Working proxy (socks4, 75.81.166.118:39593)
-28-Mar-2025 13:30:02 - INFO : Working proxy (socks4, 185.132.1.221:4145)
-28-Mar-2025 13:30:03 - INFO : Working proxy (socks4, 200.70.34.22:4153)
-28-Mar-2025 13:30:04 - INFO : Working proxy (socks4, 181.115.207.115:1080)
-28-Mar-2025 13:30:05 - INFO : Working proxy (socks4, 163.172.132.115:16379)
-28-Mar-2025 13:30:05 - INFO : Working proxy (socks4, 45.33.89.116:56956)
-28-Mar-2025 13:30:05 - INFO : Working proxy (socks4, 212.47.248.107:16379)
-28-Mar-2025 13:30:11 - WARNING : Waiting currrent running 310 threads to complete.
-28-Mar-2025 13:30:12 - INFO : Working proxy (socks4, 98.103.88.158:46104)
-28-Mar-2025 13:30:13 - INFO : Working proxy (socks4, 213.6.68.210:4145)
-28-Mar-2025 13:30:14 - INFO : Working proxy (socks4, 118.70.211.121:60606)
-28-Mar-2025 13:30:14 - INFO : Working proxy (socks4, 64.202.184.249:15986)
-28-Mar-2025 13:30:15 - INFO : Working proxy (socks4, 37.186.66.36:3629)
-28-Mar-2025 13:30:16 - INFO : Working proxy (socks4, 36.66.170.25:4153)
-28-Mar-2025 13:30:20 - WARNING : Waiting currrent running 310 threads to complete.
-28-Mar-2025 13:30:22 - INFO : Working proxy (socks5, 81.177.224.173:1337)
-28-Mar-2025 13:30:25 - INFO : Working proxy (socks5, 103.189.218.83:6969)
-28-Mar-2025 13:30:30 - WARNING : Waiting currrent running 310 threads to complete.
-28-Mar-2025 13:30:30 - INFO : Working proxy (socks5, 45.140.143.77:18080)
-28-Mar-2025 13:30:39 - WARNING : Waiting currrent running 310 threads to complete.
-28-Mar-2025 13:30:42 - INFO : Working proxy (socks5, 46.10.229.243:7777)
-28-Mar-2025 13:30:49 - WARNING : Waiting currrent running 310 threads to complete.
-28-Mar-2025 13:30:51 - INFO : Working proxy (socks5, 212.47.235.205:16379)
-28-Mar-2025 13:31:03 - INFO : Generating metadata for http proxies - 18
-28-Mar-2025 13:31:03 - INFO : Generating metadata for socks4 proxies - 36
-28-Mar-2025 13:31:03 - INFO : Generating metadata for socks5 proxies - 5
-28-Mar-2025 13:31:03 - INFO : Metadata generated for http://45.140.143.77:18080  (The Netherlands - success)
-28-Mar-2025 13:31:03 - INFO : Metadata generated for socks4://185.132.1.221:4145  (Ukraine - success)
-28-Mar-2025 13:31:03 - INFO : Metadata generated for http://200.174.198.86:8888  (Brazil - success)
-28-Mar-2025 13:31:04 - INFO : Metadata generated for socks4://181.115.207.115:1080  (Bolivia - success)
-28-Mar-2025 13:31:04 - INFO : Metadata generated for http://83.217.23.36:8090  (Russia - success)
-28-Mar-2025 13:31:04 - INFO : Metadata generated for socks4://181.15.154.154:52033  (Argentina - success)
-28-Mar-2025 13:31:04 - INFO : Metadata generated for socks4://36.66.170.25:4153  (Indonesia - success)
-28-Mar-2025 13:31:04 - INFO : Metadata generated for http://113.160.132.195:8080  (Vietnam - success)
-28-Mar-2025 13:31:04 - INFO : Metadata generated for socks5://45.140.143.77:18080  (The Netherlands - success)
-28-Mar-2025 13:31:04 - INFO : Metadata generated for http://83.217.23.34:8090  (Russia - success)
-28-Mar-2025 13:31:06 - INFO : Metadata generated for socks4://200.70.34.22:4153  (Argentina - success)
-28-Mar-2025 13:31:07 - INFO : Metadata generated for socks4://163.172.132.115:16379  (France - success)
+28-Mar-2025 13:42:31 - INFO : Total http proxies 1997
+28-Mar-2025 13:42:31 - INFO : Total socks4 proxies 1639
+28-Mar-2025 13:42:31 - INFO : Total socks5 proxies 1247
+28-Mar-2025 13:42:31 - WARNING : Estimated running time 00:01:18
+28-Mar-2025 13:42:32 - WARNING : Waiting currrent running 310 threads to complete.
+28-Mar-2025 13:42:33 - INFO : Working proxy (http, 45.22.209.157:8888)
+28-Mar-2025 13:42:37 - INFO : Working proxy (http, 201.182.204.18:9999)
+28-Mar-2025 13:42:38 - INFO : Working proxy (http, 15.207.35.241:80)
+28-Mar-2025 13:42:41 - WARNING : Waiting currrent running 310 threads to complete.
+28-Mar-2025 13:42:50 - INFO : Working proxy (http, 191.102.90.34:999)
+28-Mar-2025 13:42:51 - INFO : Working proxy (http, 103.146.170.193:83)
+28-Mar-2025 13:42:52 - WARNING : Waiting currrent running 310 threads to complete.
+28-Mar-2025 13:42:52 - INFO : Working proxy (http, 45.140.143.77:18080)
+28-Mar-2025 13:42:54 - INFO : Working proxy (http, 182.253.204.117:8080)
+28-Mar-2025 13:43:01 - INFO : Working proxy (http, 188.132.222.6:8080)
+28-Mar-2025 13:43:01 - WARNING : Waiting currrent running 310 threads to complete.
+28-Mar-2025 13:43:03 - INFO : Working proxy (http, 103.10.231.189:8080)
+28-Mar-2025 13:43:08 - INFO : Working proxy (http, 101.255.164.213:8090)
+28-Mar-2025 13:43:12 - WARNING : Waiting currrent running 310 threads to complete.
+28-Mar-2025 13:43:13 - INFO : Working proxy (http, 83.217.23.36:8090)
+28-Mar-2025 13:43:15 - INFO : Working proxy (http, 200.174.198.86:8888)
+28-Mar-2025 13:43:20 - INFO : Working proxy (http, 117.54.156.245:8080)
+28-Mar-2025 13:43:22 - WARNING : Waiting currrent running 310 threads to complete.
+28-Mar-2025 13:43:23 - INFO : Working proxy (http, 183.240.46.42:443)
+28-Mar-2025 13:43:23 - INFO : Working proxy (http, 23.122.184.9:8888)
+28-Mar-2025 13:43:24 - INFO : Working proxy (http, 157.20.253.19:3128)
+28-Mar-2025 13:43:25 - INFO : Working proxy (http, 12.146.127.33:9080)
+28-Mar-2025 13:43:25 - INFO : Working proxy (http, 113.160.133.32:8080)
+28-Mar-2025 13:43:25 - INFO : Working proxy (http, 103.19.79.248:999)
+28-Mar-2025 13:43:27 - INFO : Working proxy (http, 36.93.120.95:8080)
+28-Mar-2025 13:43:32 - WARNING : Waiting currrent running 310 threads to complete.
+28-Mar-2025 13:43:33 - INFO : Working proxy (http, 83.217.23.34:8090)
+28-Mar-2025 13:43:34 - INFO : Working proxy (socks4, 172.233.14.116:1080)
+28-Mar-2025 13:43:35 - INFO : Working proxy (socks4, 41.164.30.66:60606)
+28-Mar-2025 13:43:35 - INFO : Working proxy (socks4, 103.105.40.241:4145)
+28-Mar-2025 13:43:36 - INFO : Working proxy (socks4, 91.150.77.58:56921)
+28-Mar-2025 13:43:38 - INFO : Working proxy (http, 4.155.2.13:9401)
+28-Mar-2025 13:43:40 - WARNING : Waiting currrent running 310 threads to complete.
+28-Mar-2025 13:43:46 - INFO : Working proxy (socks4, 200.122.92.211:5678)
+28-Mar-2025 13:43:51 - WARNING : Waiting currrent running 310 threads to complete.
+28-Mar-2025 13:43:55 - INFO : Working proxy (socks4, 202.131.246.250:5678)
+28-Mar-2025 13:43:59 - INFO : Working proxy (socks4, 163.172.128.222:16379)
+28-Mar-2025 13:44:01 - WARNING : Waiting currrent running 310 threads to complete.
+28-Mar-2025 13:44:04 - INFO : Working proxy (socks4, 31.209.96.173:51688)
+28-Mar-2025 13:44:04 - INFO : Working proxy (socks4, 200.70.34.22:4153)
+28-Mar-2025 13:44:05 - INFO : Working proxy (socks4, 62.201.212.198:4673)
+28-Mar-2025 13:44:05 - INFO : Working proxy (socks4, 31.172.133.253:4153)
+28-Mar-2025 13:44:06 - INFO : Working proxy (socks4, 192.141.232.12:33998)
+28-Mar-2025 13:44:10 - WARNING : Waiting currrent running 310 threads to complete.
+28-Mar-2025 13:44:11 - INFO : Working proxy (socks4, 64.202.184.249:15986)
+28-Mar-2025 13:44:11 - INFO : Working proxy (socks4, 181.28.137.18:5678)
+28-Mar-2025 13:44:11 - INFO : Working proxy (socks4, 118.70.211.121:60606)
+28-Mar-2025 13:44:13 - INFO : Working proxy (socks4, 64.124.191.98:32688)
+28-Mar-2025 13:44:13 - INFO : Working proxy (socks4, 37.186.66.36:3629)
+28-Mar-2025 13:44:14 - INFO : Working proxy (socks4, 192.158.15.201:50877)
+28-Mar-2025 13:44:20 - WARNING : Waiting currrent running 310 threads to complete.
+28-Mar-2025 13:44:28 - INFO : Working proxy (socks5, 163.172.190.59:16379)
+28-Mar-2025 13:44:29 - WARNING : Waiting currrent running 310 threads to complete.
+28-Mar-2025 13:44:30 - INFO : Working proxy (socks5, 45.140.143.77:18080)
+28-Mar-2025 13:44:38 - WARNING : Waiting currrent running 310 threads to complete.
+28-Mar-2025 13:44:42 - INFO : Working proxy (socks5, 46.10.229.243:7777)
+28-Mar-2025 13:44:48 - WARNING : Waiting currrent running 310 threads to complete.
+28-Mar-2025 13:44:49 - INFO : Working proxy (socks5, 202.40.186.66:9090)
+28-Mar-2025 13:45:06 - INFO : Generating metadata for http proxies - 22
+28-Mar-2025 13:45:06 - INFO : Generating metadata for socks4 proxies - 18
+28-Mar-2025 13:45:06 - INFO : Generating metadata for socks5 proxies - 4
+28-Mar-2025 13:45:06 - INFO : Metadata generated for http://45.140.143.77:18080  (The Netherlands - success)
+28-Mar-2025 13:45:07 - INFO : Metadata generated for socks5://45.140.143.77:18080  (The Netherlands - success)
+28-Mar-2025 13:45:08 - INFO : Metadata generated for socks4://64.202.184.249:15986  (United States - success)
+28-Mar-2025 13:45:09 - INFO : Metadata generated for socks5://202.40.186.66:9090  (Bangladesh - success)
+28-Mar-2025 13:45:09 - INFO : Metadata generated for socks4://172.233.14.116:1080  (Brazil - success)
+28-Mar-2025 13:45:10 - INFO : Metadata generated for socks4://163.172.128.222:16379  (Antarctica - success)
