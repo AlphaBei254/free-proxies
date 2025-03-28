@@ -1,71 +1,25 @@
 {
-    "socks4://64.202.184.249:15986": {
+    "socks4://132.148.158.188:45286": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20149",
-        "lat": 39.0469,
-        "lon": -77.4903,
-        "timezone": "America/New_York",
+        "region": "AZ",
+        "regionName": "Arizona",
+        "city": "Tempe",
+        "zip": "85284",
+        "lat": 33.3359,
+        "lon": -111.894,
+        "timezone": "America/Phoenix",
         "isp": "GoDaddy.com, LLC",
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
-        "query": "64.202.184.249",
-        "response_time": 0.25377988815307617
+        "query": "132.148.158.188",
+        "response_time": 0.09603333473205566
     },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.126",
-        "response_time": 0.5021765232086182
-    },
-    "socks5://46.147.65.44:61986": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "TA",
-        "regionName": "Tatarstan Republic",
-        "city": "Naberezhnyye Chelny",
-        "zip": "423800",
-        "lat": 55.7582,
-        "lon": 52.4302,
-        "timezone": "Europe/Moscow",
-        "isp": "CJSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
-        "org": "JSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
-        "as": "AS42116 JSC \"ER-Telecom Holding\"",
-        "query": "46.147.65.44",
-        "response_time": 1.8358144760131836
-    },
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 2.2744011878967285
+    "http://183.240.46.42:443": {
+        "status": "fail",
+        "message": "SSL unavailable for this endpoint, order a key at https://members.ip-api.com/",
+        "response_time": 0.9423811435699463
     },
     "http://113.160.132.195:8080": {
         "status": "success",
@@ -82,7 +36,41 @@
         "org": "Vietnam Posts and Telecommunications Group",
         "as": "AS45899 VNPT Corp",
         "query": "113.160.132.195",
-        "response_time": 2.63444185256958
+        "response_time": 0.9629433155059814
+    },
+    "socks4://119.60.38.86:10800": {
+        "status": "success",
+        "country": "China",
+        "countryCode": "CN",
+        "region": "NX",
+        "regionName": "Ningxia",
+        "city": "Yinchuan",
+        "zip": "750000",
+        "lat": 38.4712,
+        "lon": 106.259,
+        "timezone": "Asia/Shanghai",
+        "isp": "Chinanet",
+        "org": "Chinanet NX",
+        "as": "AS4134 CHINANET-BACKBONE",
+        "query": "119.60.38.86",
+        "response_time": 1.4307987689971924
+    },
+    "http://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.39512038230896
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -99,6 +87,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.765432834625244
+        "response_time": 2.6452584266662598
     }
 }
