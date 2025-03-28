@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2349097728729248
+        "response_time": 0.21788763999938965
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,6 +31,74 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.45479655265808105
+        "response_time": 0.38896775245666504
+    },
+    "socks5://8.218.39.40:10800": {
+        "status": "success",
+        "country": "Hong Kong",
+        "countryCode": "HK",
+        "region": "",
+        "regionName": "Kowloon",
+        "city": "Hong Kong",
+        "zip": "999077",
+        "lat": 22.3193,
+        "lon": 114.169,
+        "timezone": "Asia/Hong_Kong",
+        "isp": "Alibaba (US) Technology Co., Ltd.",
+        "org": "Alibaba.com Singapore E-Commerce Private Limited",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "8.218.39.40",
+        "response_time": 1.157726526260376
+    },
+    "http://83.217.23.34:8090": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "",
+        "lat": 55.8236,
+        "lon": 37.6034,
+        "timezone": "Europe/Moscow",
+        "isp": "PJSC Rostelecom",
+        "org": "PJSC Rostelecom",
+        "as": "AS12389 PJSC Rostelecom",
+        "query": "83.217.23.36",
+        "response_time": 1.2688093185424805
+    },
+    "http://83.217.23.36:8090": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "",
+        "lat": 55.8236,
+        "lon": 37.6034,
+        "timezone": "Europe/Moscow",
+        "isp": "PJSC Rostelecom",
+        "org": "PJSC Rostelecom",
+        "as": "AS12389 PJSC Rostelecom",
+        "query": "83.217.23.36",
+        "response_time": 1.3790271282196045
+    },
+    "http://47.251.43.115:33333": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "Santa Clara",
+        "zip": "95052",
+        "lat": 37.353,
+        "lon": -121.9544,
+        "timezone": "America/Los_Angeles",
+        "isp": "Alibaba Cloud LLC",
+        "org": "ALICLOUD-US",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "47.251.43.115",
+        "response_time": 2.470813035964966
     }
 }
