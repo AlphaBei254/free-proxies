@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.19610166549682617
+        "response_time": 0.2183225154876709
     },
     "socks4://170.78.211.161:1080": {
         "status": "success",
@@ -31,24 +31,7 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.21821975708007812
-    },
-    "socks4://45.65.65.18:4145": {
-        "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MC",
-        "regionName": "Murcia",
-        "city": "Archena",
-        "zip": "30600",
-        "lat": 38.1147,
-        "lon": -1.2944,
-        "timezone": "Europe/Madrid",
-        "isp": "Ditt Redmovil SL",
-        "org": "Number One in Fiber S.L",
-        "as": "AS209910 DITT REDMOVIL SL",
-        "query": "45.65.65.18",
-        "response_time": 0.3606991767883301
+        "response_time": 0.225860595703125
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.37601161003112793
+        "response_time": 0.3701164722442627
     },
     "http://83.217.23.34:8090": {
         "status": "success",
@@ -82,24 +65,7 @@
         "org": "PJSC Rostelecom",
         "as": "AS12389 PJSC Rostelecom",
         "query": "83.217.23.35",
-        "response_time": 0.7777082920074463
-    },
-    "http://47.252.29.28:11222": {
-        "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "30",
-        "regionName": "Kyiv City",
-        "city": "Kyiv",
-        "zip": "01010",
-        "lat": 50.4443,
-        "lon": 30.5108,
-        "timezone": "Europe/Kiev",
-        "isp": "Cogent Communications",
-        "org": "JSC \"Ukrtelecom\"",
-        "as": "AS174 Cogent Communications",
-        "query": "91.124.104.188",
-        "response_time": 1.0524609088897705
+        "response_time": 1.124565839767456
     },
     "http://38.22.17.50:3128": {
         "status": "success",
@@ -116,57 +82,57 @@
         "org": "Cytranet",
         "as": "AS63023 GTHost",
         "query": "38.22.17.50",
-        "response_time": 1.0926105976104736
+        "response_time": 1.653686285018921
     },
-    "http://45.155.226.176:3128": {
+    "http://161.97.136.251:3128": {
         "status": "success",
         "country": "Germany",
         "countryCode": "DE",
-        "region": "HE",
-        "regionName": "Hesse",
-        "city": "Frankfurt am Main",
-        "zip": "60313",
-        "lat": 50.1109,
-        "lon": 8.68213,
+        "region": "NW",
+        "regionName": "North Rhine-Westphalia",
+        "city": "D\u00fcsseldorf",
+        "zip": "40599",
+        "lat": 51.1864,
+        "lon": 6.8624,
         "timezone": "Europe/Berlin",
-        "isp": "haoxiangyun",
-        "org": "LogicWeb Inc",
-        "as": "AS141718 haoxiangyun",
-        "query": "154.6.189.35",
-        "response_time": 1.6239886283874512
+        "isp": "Contabo GmbH",
+        "org": "Contabo GmbH",
+        "as": "AS51167 Contabo GmbH",
+        "query": "161.97.136.251",
+        "response_time": 2.0003674030303955
     },
-    "socks4://103.189.234.161:1080": {
+    "socks4://27.115.33.94:4153": {
         "status": "success",
-        "country": "Singapore",
-        "countryCode": "SG",
-        "region": "01",
-        "regionName": "Central Singapore",
-        "city": "Singapore",
-        "zip": "079903",
-        "lat": 1.2757,
-        "lon": 103.846,
-        "timezone": "Asia/Singapore",
-        "isp": "Cloud Host Pte Ltd",
-        "org": "Cloud Host Pte Ltd",
-        "as": "AS138608 Cloud Host Pte Ltd",
-        "query": "103.189.234.161",
-        "response_time": 2.9648475646972656
+        "country": "China",
+        "countryCode": "CN",
+        "region": "SH",
+        "regionName": "Shanghai",
+        "city": "Shanghai",
+        "zip": "",
+        "lat": 31.2222,
+        "lon": 121.4581,
+        "timezone": "Asia/Shanghai",
+        "isp": "China Unicom Shanghai Province Network",
+        "org": "",
+        "as": "AS17621 China Unicom Shanghai network",
+        "query": "27.115.33.94",
+        "response_time": 2.2755789756774902
     },
-    "socks4://163.172.164.115:16379": {
+    "http://201.91.82.155:3128": {
         "status": "success",
-        "country": "Sweden",
-        "countryCode": "SE",
-        "region": "AB",
-        "regionName": "Stockholm County",
-        "city": "Stockholm",
-        "zip": "100 04",
-        "lat": 59.3253,
-        "lon": 18.0678,
-        "timezone": "Europe/Stockholm",
-        "isp": "No ACK Group Holding AB",
-        "org": "No ACK Group Holding AB",
-        "as": "AS30893 No ACK Group Holding AB",
-        "query": "195.47.238.83",
-        "response_time": 4.498220205307007
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "Santos",
+        "zip": "11045",
+        "lat": -23.9569,
+        "lon": -46.3446,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Vivo",
+        "org": "TELEF\ufffdNICA BRASIL S.A",
+        "as": "AS10429 TELEF\u00d4NICA BRASIL S.A",
+        "query": "201.91.82.155",
+        "response_time": 3.546328067779541
     }
 }
