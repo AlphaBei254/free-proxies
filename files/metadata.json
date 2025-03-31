@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.24184274673461914
+        "response_time": 0.23485970497131348
     },
     "socks4://170.78.211.161:1080": {
         "status": "success",
@@ -31,7 +31,24 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.22291326522827148
+        "response_time": 0.2984437942504883
+    },
+    "socks4://179.1.110.88:5678": {
+        "status": "success",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "NSA",
+        "regionName": "Norte de Santander Department",
+        "city": "C\u00facuta",
+        "zip": "540001",
+        "lat": 7.8948,
+        "lon": -72.5021,
+        "timezone": "America/Bogota",
+        "isp": "InterNexa Global Network",
+        "org": "Internexa S.a. E.S.P",
+        "as": "AS262589 SAMM TECNOLOGIA E TELECOMUNICACOES S.A",
+        "query": "179.1.110.82",
+        "response_time": 0.46910762786865234
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +65,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.46186399459838867
+        "response_time": 0.4470794200897217
     },
-    "socks4://103.159.225.30:1080": {
+    "http://200.174.198.86:8888": {
         "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JB",
-        "regionName": "West Java",
-        "city": "Majalengka",
-        "zip": "",
-        "lat": -6.8314,
-        "lon": 108.207,
-        "timezone": "Asia/Jakarta",
-        "isp": "PT Arkananta Global Media",
-        "org": "PT Arkananta Global Media",
-        "as": "AS141147 PT Arkananta Global Media",
-        "query": "103.159.224.254",
-        "response_time": 3.0946333408355713
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.236",
+        "response_time": 1.2858562469482422
     },
     "socks4://64.202.184.249:15986": {
         "status": "success",
@@ -82,6 +99,91 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 3.957915782928467
+        "response_time": 1.895634651184082
+    },
+    "socks4://91.185.236.239:4145": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "SA",
+        "regionName": "Sakha",
+        "city": "Yakutsk",
+        "zip": "677000",
+        "lat": 61.995,
+        "lon": 129.773,
+        "timezone": "Asia/Yakutsk",
+        "isp": "Sakhatelecom",
+        "org": "",
+        "as": "AS21487 PJSC Rostelecom",
+        "query": "91.185.236.239",
+        "response_time": 2.1767544746398926
+    },
+    "http://216.229.112.25:8080": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Muleshoe",
+        "zip": "79347",
+        "lat": 34.2265,
+        "lon": -102.7238,
+        "timezone": "America/Chicago",
+        "isp": "Five Area Systems, LLC",
+        "org": "Five Area Systems, LLC",
+        "as": "AS29843 Five Area Systems, LLC",
+        "query": "216.229.112.25",
+        "response_time": 2.485389471054077
+    },
+    "http://201.91.82.155:3128": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "Santos",
+        "zip": "11045",
+        "lat": -23.9569,
+        "lon": -46.3446,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Vivo",
+        "org": "TELEF\ufffdNICA BRASIL S.A",
+        "as": "AS10429 TELEF\u00d4NICA BRASIL S.A",
+        "query": "201.91.82.155",
+        "response_time": 3.535111427307129
+    },
+    "socks5://163.172.132.115:16379": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1012",
+        "lat": 52.3676,
+        "lon": 4.90414,
+        "timezone": "Europe/Amsterdam",
+        "isp": "Surf B.V.",
+        "org": "Nothing to hide",
+        "as": "AS1101 SURF B.V.",
+        "query": "192.42.116.211",
+        "response_time": 4.052438020706177
+    },
+    "socks5://163.172.128.222:16379": {
+        "status": "success",
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BB",
+        "regionName": "Brandenburg",
+        "city": "Brandenburg",
+        "zip": "14621",
+        "lat": 52.6171,
+        "lon": 13.1207,
+        "timezone": "Europe/Berlin",
+        "isp": "Stiftung Erneuerbare Freiheit",
+        "org": "Digitalcourage e.V",
+        "as": "AS60729 Stiftung Erneuerbare Freiheit",
+        "query": "185.220.101.107",
+        "response_time": 5.13048243522644
     }
 }
