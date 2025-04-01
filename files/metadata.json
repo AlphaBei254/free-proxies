@@ -1,4 +1,38 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78117",
+        "lat": 22.111,
+        "lon": -100.9464,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.22262167930603027
+    },
+    "socks4://85.89.184.87:5678": {
+        "status": "success",
+        "country": "Poland",
+        "countryCode": "PL",
+        "region": "10",
+        "regionName": "\u0141\u00f3d\u017a Voivodeship",
+        "city": "Lodz",
+        "zip": "90-127",
+        "lat": 51.7704,
+        "lon": 19.4667,
+        "timezone": "Europe/Warsaw",
+        "isp": "TOYA Sp. z o.o.",
+        "org": "Toya:net",
+        "as": "AS16342 Toya sp.z.o.o",
+        "query": "85.89.184.87",
+        "response_time": 1.5237319469451904
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.27703857421875
+        "response_time": 2.3608267307281494
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,57 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.493802547454834
+        "response_time": 2.46128249168396
     },
-    "socks4://64.202.184.249:15986": {
+    "http://31.145.149.75:9090": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20149",
-        "lat": 39.0469,
-        "lon": -77.4903,
-        "timezone": "America/New_York",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "64.202.184.249",
-        "response_time": 0.7773053646087646
-    },
-    "socks4://37.52.50.28:5678": {
-        "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "30",
-        "regionName": "Kyiv City",
-        "city": "Kyiv",
-        "zip": "01010",
-        "lat": 50.4443,
-        "lon": 30.5108,
-        "timezone": "Europe/Kiev",
-        "isp": "UKRTELECOM",
-        "org": "JSC Ukrtelecom",
-        "as": "AS6849 JSC \"Ukrtelecom\"",
-        "query": "37.52.50.28",
-        "response_time": 0.9812760353088379
-    },
-    "http://187.111.144.102:8080": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "city": "S\u00e3o Sebasti\u00e3o do Ca\u00ed",
-        "zip": "95760",
-        "lat": -29.5909,
-        "lon": -51.3508,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Caezar Provedor de Internet EIRELI",
-        "org": "Caezar Provedor de Internet EIRELI",
-        "as": "AS262715 Caezar Provedor de Internet EIRELI",
-        "query": "187.111.144.102",
-        "response_time": 1.7990200519561768
+        "country": "T\u00fcrkiye",
+        "countryCode": "TR",
+        "region": "34",
+        "regionName": "Istanbul",
+        "city": "Istanbul",
+        "zip": "34096",
+        "lat": 41.0145,
+        "lon": 28.9533,
+        "timezone": "Europe/Istanbul",
+        "isp": "Vodafone Net Iletisim Hizmetler AS",
+        "org": "Vodafone Net Iletisim Hizmetler",
+        "as": "AS15924 Vodafone Net Iletisim Hizmetler AS",
+        "query": "31.145.149.74",
+        "response_time": 4.888149261474609
     }
 }
