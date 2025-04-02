@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2086026668548584
+        "response_time": 0.2959158420562744
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,41 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.39081788063049316
+        "response_time": 0.5590641498565674
     },
-    "http://113.160.132.195:8080": {
+    "http://200.174.198.86:8888": {
         "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "66",
-        "regionName": "H\u01b0ng Y\u00ean Province",
-        "city": "B\u1ea9n Y\u00ean Nh\u00e2n",
-        "zip": "",
-        "lat": 20.9365,
-        "lon": 106.057,
-        "timezone": "Asia/Bangkok",
-        "isp": "VietNam Post and Telecom Corporation",
-        "org": "Vietnam Posts and Telecommunications Group",
-        "as": "AS45899 VNPT Corp",
-        "query": "113.160.132.195",
-        "response_time": 0.9043869972229004
-    },
-    "http://38.22.17.50:3128": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "GA",
-        "regionName": "Georgia",
-        "city": "Atlanta",
-        "zip": "",
-        "lat": 33.7489,
-        "lon": -84.3879,
-        "timezone": "America/New_York",
-        "isp": "GTHost",
-        "org": "Cytranet",
-        "as": "AS63023 GTHost",
-        "query": "38.22.17.50",
-        "response_time": 1.0849847793579102
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.173",
+        "response_time": 0.673069953918457
     },
     "http://106.227.5.2:655": {
         "status": "success",
@@ -82,6 +65,57 @@
         "org": "Chinanet JX",
         "as": "AS134238 CHINANET Jiangx province IDC network",
         "query": "106.227.5.2",
-        "response_time": 1.1875548362731934
+        "response_time": 1.139174461364746
+    },
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 1.5432920455932617
+    },
+    "socks4://64.202.184.249:15986": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 1.7641575336456299
+    },
+    "socks5://103.189.218.83:6969": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Tongi",
+        "zip": "1230",
+        "lat": 23.8915,
+        "lon": 90.4023,
+        "timezone": "Asia/Dhaka",
+        "isp": "Comfort Solutions",
+        "org": "Md. Ruhul Amin Sarker",
+        "as": "AS149868 Comfort Solutions",
+        "query": "103.189.218.83",
+        "response_time": 3.5223045349121094
     }
 }
