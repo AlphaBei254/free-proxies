@@ -14,24 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2099761962890625
+        "response_time": 0.19559478759765625
     },
-    "http://200.174.198.86:8888": {
+    "socks4://170.78.211.161:1080": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.233",
-        "response_time": 0.5191421508789062
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78117",
+        "lat": 22.111,
+        "lon": -100.9464,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.22408819198608398
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +48,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4797217845916748
+        "response_time": 0.38618922233581543
     },
-    "http://80.80.163.194:46276": {
+    "http://200.174.198.86:8888": {
         "status": "success",
-        "country": "Kosovo",
-        "countryCode": "XK",
-        "region": "",
-        "regionName": "Pristina",
-        "city": "Pristina",
-        "zip": "",
-        "lat": 42.6629,
-        "lon": 21.1655,
-        "timezone": "Europe/Belgrade",
-        "isp": "IPKO Telecommunications LLC",
-        "org": "",
-        "as": "AS21246 IPKO Telecommunications LLC",
-        "query": "80.80.163.194",
-        "response_time": 2.8092195987701416
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.87",
+        "response_time": 0.5230028629302979
     }
 }
