@@ -1,4 +1,38 @@
 {
+    "socks4://110.77.149.227:4153": {
+        "status": "success",
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "20",
+        "regionName": "Chon Buri",
+        "city": "Ban Talat Bueng",
+        "zip": "20170",
+        "lat": 13.0715,
+        "lon": 101.003,
+        "timezone": "Asia/Bangkok",
+        "isp": "CAT Telecom Public Company Limited",
+        "org": "CAT BB",
+        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
+        "query": "110.77.149.227",
+        "response_time": 1.9987273216247559
+    },
+    "socks4://183.88.212.167:4153": {
+        "status": "success",
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "20",
+        "regionName": "Chon Buri",
+        "city": "Pattaya",
+        "zip": "76130",
+        "lat": 12.9333,
+        "lon": 100.883,
+        "timezone": "Asia/Bangkok",
+        "isp": "Triple T Broadband Public Company Limited",
+        "org": "Triple T Broadband Public Company Limited",
+        "as": "AS45758 Triple T Broadband Public Company Limited",
+        "query": "183.88.212.167",
+        "response_time": 2.0816993713378906
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.234475612640381
+        "response_time": 2.4343221187591553
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,23 +65,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.440673828125
+        "response_time": 2.720388889312744
     },
-    "socks4://51.158.65.148:16379": {
+    "socks4://31.209.98.18:51688": {
         "status": "success",
-        "country": "Germany",
-        "countryCode": "DE",
-        "region": "BB",
-        "regionName": "Brandenburg",
-        "city": "Sch\u00f6nwalde",
-        "zip": "14621",
-        "lat": 52.6171,
-        "lon": 13.1207,
-        "timezone": "Europe/Berlin",
-        "isp": "Stiftung Erneuerbare Freiheit",
-        "org": "CIA TRIAD SECURITY LLC",
-        "as": "AS60729 Stiftung Erneuerbare Freiheit",
-        "query": "185.220.101.171",
-        "response_time": 2.6584722995758057
+        "country": "T\u00fcrkiye",
+        "countryCode": "TR",
+        "region": "33",
+        "regionName": "Mersin",
+        "city": "Mersin",
+        "zip": "33940",
+        "lat": 36.812,
+        "lon": 34.6389,
+        "timezone": "Europe/Istanbul",
+        "isp": "Netonline Bilisim Sirketi LTD",
+        "org": "Multimax",
+        "as": "AS44558 Netonline Bilisim Sirketi LTD",
+        "query": "31.209.98.18",
+        "response_time": 2.8112363815307617
+    },
+    "socks5://138.68.21.132:45793": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "Santa Clara",
+        "zip": "95051",
+        "lat": 37.3419,
+        "lon": -121.9754,
+        "timezone": "America/Los_Angeles",
+        "isp": "DigitalOcean, LLC",
+        "org": "DigitalOcean, LLC",
+        "as": "AS14061 DigitalOcean, LLC",
+        "query": "138.68.21.132",
+        "response_time": 2.908812999725342
     }
 }
