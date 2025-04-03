@@ -1,38 +1,4 @@
 {
-    "http://38.22.17.50:3128": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "GA",
-        "regionName": "Georgia",
-        "city": "Atlanta",
-        "zip": "",
-        "lat": 33.7489,
-        "lon": -84.3879,
-        "timezone": "America/New_York",
-        "isp": "GTHost",
-        "org": "Cytranet",
-        "as": "AS63023 GTHost",
-        "query": "38.22.17.50",
-        "response_time": 0.14559102058410645
-    },
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78117",
-        "lat": 22.111,
-        "lon": -100.9464,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.24939465522766113
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -48,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2964322566986084
+        "response_time": 0.3070542812347412
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.562802791595459
+        "response_time": 0.5933926105499268
     },
     "socks4://64.202.184.249:15986": {
         "status": "success",
@@ -82,7 +48,7 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 0.8331234455108643
+        "response_time": 1.6237282752990723
     },
     "http://216.229.112.25:8080": {
         "status": "success",
@@ -99,26 +65,26 @@
         "org": "Five Area Systems, LLC",
         "as": "AS29843 Five Area Systems, LLC",
         "query": "216.229.112.25",
-        "response_time": 1.2208507061004639
+        "response_time": 1.8019518852233887
     },
-    "socks4://190.4.205.226:4153": {
+    "socks4://193.122.123.43:28080": {
         "status": "success",
-        "country": "Chile",
-        "countryCode": "CL",
-        "region": "RM",
-        "regionName": "Santiago Metropolitan",
-        "city": "Santiago",
-        "zip": "34033",
-        "lat": -33.4521,
-        "lon": -70.6536,
-        "timezone": "America/Santiago",
-        "isp": "CTC. CORP S.A. (TELEFONICA EMPRESAS)",
-        "org": "Telefonica Movil De Chile S.A",
-        "as": "AS16629 CTC. CORP S.A. (TELEFONICA EMPRESAS)",
-        "query": "190.4.205.226",
-        "response_time": 2.7841365337371826
+        "country": "South Korea",
+        "countryCode": "KR",
+        "region": "11",
+        "regionName": "Seoul",
+        "city": "Seoul",
+        "zip": "02878",
+        "lat": 37.5985,
+        "lon": 126.9783,
+        "timezone": "Asia/Seoul",
+        "isp": "Oracle Corporation",
+        "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
+        "as": "AS31898 Oracle Corporation",
+        "query": "193.122.123.43",
+        "response_time": 2.8874876499176025
     },
-    "socks4://163.172.132.115:16379": {
+    "socks5://51.158.70.246:16379": {
         "status": "success",
         "country": "Iceland",
         "countryCode": "IS",
@@ -133,23 +99,6 @@
         "org": "Stark Industries Solutions LTD",
         "as": "AS44477 STARK INDUSTRIES SOLUTIONS LTD",
         "query": "45.83.21.193",
-        "response_time": 2.9944419860839844
-    },
-    "socks4://104.128.103.32:64312": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "HI",
-        "regionName": "Hawaii",
-        "city": "Honolulu",
-        "zip": "96814",
-        "lat": 21.2982,
-        "lon": -157.8444,
-        "timezone": "Pacific/Honolulu",
-        "isp": "Dialogix Telecom",
-        "org": "Hawaii Dialogix Telecom LLC",
-        "as": "AS19233 Dialogix Telecom",
-        "query": "104.128.103.32",
-        "response_time": 4.82474422454834
+        "response_time": 6.686271667480469
     }
 }
