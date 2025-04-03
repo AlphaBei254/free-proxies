@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3070542812347412
+        "response_time": 0.3005092144012451
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5933926105499268
+        "response_time": 0.5721824169158936
     },
-    "socks4://64.202.184.249:15986": {
+    "socks4://185.14.149.33:4145": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20149",
-        "lat": 39.0469,
-        "lon": -77.4903,
-        "timezone": "America/New_York",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "64.202.184.249",
-        "response_time": 1.6237282752990723
+        "country": "Poland",
+        "countryCode": "PL",
+        "region": "08",
+        "regionName": "Lubusz",
+        "city": "Zielona G\u00f3ra",
+        "zip": "65-001",
+        "lat": 51.9412,
+        "lon": 15.5124,
+        "timezone": "Europe/Warsaw",
+        "isp": "TERRA",
+        "org": "",
+        "as": "AS61233 Enformatel Sp. z o.o.",
+        "query": "185.14.148.66",
+        "response_time": 2.6726720333099365
     },
     "http://216.229.112.25:8080": {
         "status": "success",
@@ -65,40 +65,6 @@
         "org": "Five Area Systems, LLC",
         "as": "AS29843 Five Area Systems, LLC",
         "query": "216.229.112.25",
-        "response_time": 1.8019518852233887
-    },
-    "socks4://193.122.123.43:28080": {
-        "status": "success",
-        "country": "South Korea",
-        "countryCode": "KR",
-        "region": "11",
-        "regionName": "Seoul",
-        "city": "Seoul",
-        "zip": "02878",
-        "lat": 37.5985,
-        "lon": 126.9783,
-        "timezone": "Asia/Seoul",
-        "isp": "Oracle Corporation",
-        "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
-        "as": "AS31898 Oracle Corporation",
-        "query": "193.122.123.43",
-        "response_time": 2.8874876499176025
-    },
-    "socks5://51.158.70.246:16379": {
-        "status": "success",
-        "country": "Iceland",
-        "countryCode": "IS",
-        "region": "1",
-        "regionName": "Capital Region",
-        "city": "Reykjavik",
-        "zip": "102",
-        "lat": 64.1318,
-        "lon": -21.9466,
-        "timezone": "Atlantic/Reykjavik",
-        "isp": "Stark Industries Solutions LTD",
-        "org": "Stark Industries Solutions LTD",
-        "as": "AS44477 STARK INDUSTRIES SOLUTIONS LTD",
-        "query": "45.83.21.193",
-        "response_time": 6.686271667480469
+        "response_time": 5.005266427993774
     }
 }
