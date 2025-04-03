@@ -1,38 +1,4 @@
 {
-    "socks4://110.77.149.227:4153": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "20",
-        "regionName": "Chon Buri",
-        "city": "Ban Talat Bueng",
-        "zip": "20170",
-        "lat": 13.0715,
-        "lon": 101.003,
-        "timezone": "Asia/Bangkok",
-        "isp": "CAT Telecom Public Company Limited",
-        "org": "CAT BB",
-        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
-        "query": "110.77.149.227",
-        "response_time": 1.9987273216247559
-    },
-    "socks4://183.88.212.167:4153": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "20",
-        "regionName": "Chon Buri",
-        "city": "Pattaya",
-        "zip": "76130",
-        "lat": 12.9333,
-        "lon": 100.883,
-        "timezone": "Asia/Bangkok",
-        "isp": "Triple T Broadband Public Company Limited",
-        "org": "Triple T Broadband Public Company Limited",
-        "as": "AS45758 Triple T Broadband Public Company Limited",
-        "query": "183.88.212.167",
-        "response_time": 2.0816993713378906
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -48,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4343221187591553
+        "response_time": 0.1952829360961914
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,40 +31,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.720388889312744
+        "response_time": 0.36777758598327637
     },
-    "socks4://31.209.98.18:51688": {
+    "http://200.174.198.86:8888": {
         "status": "success",
-        "country": "T\u00fcrkiye",
-        "countryCode": "TR",
-        "region": "33",
-        "regionName": "Mersin",
-        "city": "Mersin",
-        "zip": "33940",
-        "lat": 36.812,
-        "lon": 34.6389,
-        "timezone": "Europe/Istanbul",
-        "isp": "Netonline Bilisim Sirketi LTD",
-        "org": "Multimax",
-        "as": "AS44558 Netonline Bilisim Sirketi LTD",
-        "query": "31.209.98.18",
-        "response_time": 2.8112363815307617
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.122",
+        "response_time": 0.5534646511077881
     },
-    "socks5://138.68.21.132:45793": {
+    "http://4.155.2.13:80": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
-        "region": "CA",
-        "regionName": "California",
-        "city": "Santa Clara",
-        "zip": "95051",
-        "lat": 37.3419,
-        "lon": -121.9754,
+        "region": "WA",
+        "regionName": "Washington",
+        "city": "Quincy",
+        "zip": "98848",
+        "lat": 47.233,
+        "lon": -119.852,
         "timezone": "America/Los_Angeles",
-        "isp": "DigitalOcean, LLC",
-        "org": "DigitalOcean, LLC",
-        "as": "AS14061 DigitalOcean, LLC",
-        "query": "138.68.21.132",
-        "response_time": 2.908812999725342
+        "isp": "Microsoft Corporation",
+        "org": "Microsoft Azure Cloud (westus2)",
+        "as": "AS8075 Microsoft Corporation",
+        "query": "4.155.2.13",
+        "response_time": 2.2984097003936768
+    },
+    "socks4://64.202.184.249:15986": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 2.8792810440063477
     }
 }
