@@ -1,55 +1,4 @@
 {
-    "socks4://175.203.138.160:5678": {
-        "status": "success",
-        "country": "South Korea",
-        "countryCode": "KR",
-        "region": "44",
-        "regionName": "Chungcheongnam-do",
-        "city": "Asan",
-        "zip": "314",
-        "lat": 36.8619,
-        "lon": 126.9464,
-        "timezone": "Asia/Seoul",
-        "isp": "Korea Telecom",
-        "org": "Kornet",
-        "as": "AS4766 Korea Telecom",
-        "query": "175.203.138.160",
-        "response_time": 1.009798526763916
-    },
-    "http://110.43.221.121:7088": {
-        "status": "success",
-        "country": "China",
-        "countryCode": "CN",
-        "region": "SH",
-        "regionName": "Shanghai",
-        "city": "Shanghai",
-        "zip": "",
-        "lat": 31.2222,
-        "lon": 121.4581,
-        "timezone": "Asia/Shanghai",
-        "isp": "Tianjij, ",
-        "org": "Chinanet TJ",
-        "as": "AS58542 Tianjij,300000",
-        "query": "42.81.157.160",
-        "response_time": 1.1129546165466309
-    },
-    "socks4://64.202.184.249:15986": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20149",
-        "lat": 39.0469,
-        "lon": -77.4903,
-        "timezone": "America/New_York",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "64.202.184.249",
-        "response_time": 1.6445562839508057
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -65,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2419228553771973
+        "response_time": 2.234475612640381
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,23 +31,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4430813789367676
+        "response_time": 2.440673828125
     },
-    "http://216.229.112.25:8080": {
+    "socks4://51.158.65.148:16379": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "TX",
-        "regionName": "Texas",
-        "city": "Muleshoe",
-        "zip": "79347",
-        "lat": 34.2265,
-        "lon": -102.7238,
-        "timezone": "America/Chicago",
-        "isp": "Five Area Systems, LLC",
-        "org": "Five Area Systems, LLC",
-        "as": "AS29843 Five Area Systems, LLC",
-        "query": "216.229.112.25",
-        "response_time": 3.1847031116485596
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BB",
+        "regionName": "Brandenburg",
+        "city": "Sch\u00f6nwalde",
+        "zip": "14621",
+        "lat": 52.6171,
+        "lon": 13.1207,
+        "timezone": "Europe/Berlin",
+        "isp": "Stiftung Erneuerbare Freiheit",
+        "org": "CIA TRIAD SECURITY LLC",
+        "as": "AS60729 Stiftung Erneuerbare Freiheit",
+        "query": "185.220.101.171",
+        "response_time": 2.6584722995758057
     }
 }
