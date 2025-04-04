@@ -1,4 +1,21 @@
 {
+    "socks5://202.40.186.66:9090": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Dhaka",
+        "zip": "1215",
+        "lat": 23.7655,
+        "lon": 90.3878,
+        "timezone": "Asia/Dhaka",
+        "isp": "Ranks ITT",
+        "org": "Ranks ITT Ltd.",
+        "as": "AS23991 Ranks ITT Ltd.",
+        "query": "202.40.186.66",
+        "response_time": 1.6741459369659424
+    },
     "http://38.22.17.50:3128": {
         "status": "success",
         "country": "United States",
@@ -14,7 +31,7 @@
         "org": "Cytranet",
         "as": "AS63023 GTHost",
         "query": "38.22.17.50",
-        "response_time": 0.0569911003112793
+        "response_time": 2.045999050140381
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +48,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2890310287475586
+        "response_time": 2.4088621139526367
+    },
+    "http://45.155.226.176:3128": {
+        "status": "success",
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "HE",
+        "regionName": "Hesse",
+        "city": "Frankfurt am Main",
+        "zip": "60313",
+        "lat": 50.1109,
+        "lon": 8.68213,
+        "timezone": "Europe/Berlin",
+        "isp": "haoxiangyun",
+        "org": "LogicWeb Inc",
+        "as": "AS141718 haoxiangyun",
+        "query": "154.6.189.35",
+        "response_time": 2.486759662628174
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,74 +82,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.41432714462280273
+        "response_time": 2.620338201522827
     },
-    "socks4://46.209.115.130:2022": {
+    "socks4://51.15.232.175:16379": {
         "status": "success",
-        "country": "Iran",
-        "countryCode": "IR",
-        "region": "23",
-        "regionName": "Tehran",
-        "city": "Tehran",
+        "country": "Antarctica",
+        "countryCode": "AQ",
+        "region": "",
+        "regionName": "",
+        "city": "Kunlun",
         "zip": "",
-        "lat": 35.6824,
-        "lon": 51.4158,
-        "timezone": "Asia/Tehran",
-        "isp": "Respina Networks & Beyond PJSC",
-        "org": "Respina",
-        "as": "AS42337 Respina Networks & Beyond PJSC",
-        "query": "46.209.115.130",
-        "response_time": 0.870391845703125
-    },
-    "socks4://91.185.236.24:4145": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "SA",
-        "regionName": "Sakha",
-        "city": "Yakutsk",
-        "zip": "677000",
-        "lat": 61.995,
-        "lon": 129.773,
-        "timezone": "Asia/Yakutsk",
-        "isp": "Sakhatelecom",
-        "org": "",
-        "as": "AS21487 PJSC Rostelecom",
-        "query": "91.185.236.24",
-        "response_time": 2.136596441268921
-    },
-    "socks4://168.196.24.29:60606": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "R",
-        "regionName": "Rio Negro",
-        "city": "San Antonio Oeste",
-        "zip": "8520",
-        "lat": -40.7421,
-        "lon": -65.1398,
-        "timezone": "America/Argentina/Salta",
-        "isp": "ISP GROUP SRL",
-        "org": "ISP GROUP SRL",
-        "as": "AS264758 ISP GROUP SRL",
-        "query": "168.196.24.29",
-        "response_time": 2.8769984245300293
-    },
-    "socks4://125.87.80.85:2324": {
-        "status": "success",
-        "country": "China",
-        "countryCode": "CN",
-        "region": "CQ",
-        "regionName": "Chongqing",
-        "city": "Chongqing",
-        "zip": "",
-        "lat": 29.5657,
-        "lon": 106.551,
-        "timezone": "Asia/Shanghai",
-        "isp": "China Telecom",
-        "org": "",
-        "as": "AS4134 CHINANET-BACKBONE",
-        "query": "125.87.80.85",
-        "response_time": 3.6377065181732178
+        "lat": -72.0114,
+        "lon": 2.535,
+        "timezone": "Antarctica/Vostok",
+        "isp": "QuxLabs AB",
+        "org": "R0CKET-CLOUD",
+        "as": "AS214503 QuxLabs AB",
+        "query": "45.84.107.76",
+        "response_time": 3.4393582344055176
     }
 }
