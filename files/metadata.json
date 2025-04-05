@@ -14,24 +14,24 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.16088652610778809
+        "response_time": 0.25147485733032227
     },
-    "socks4://179.1.110.88:5678": {
+    "socks4://141.105.107.152:5678": {
         "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "NSA",
-        "regionName": "Norte de Santander Department",
-        "city": "C\u00facuta",
-        "zip": "540001",
-        "lat": 7.8948,
-        "lon": -72.5021,
-        "timezone": "America/Bogota",
-        "isp": "InterNexa Global Network",
-        "org": "Internexa S.a. E.S.P",
-        "as": "AS262589 SAMM TECNOLOGIA E TELECOMUNICACOES S.A",
-        "query": "179.1.110.82",
-        "response_time": 0.46091270446777344
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "IB",
+        "regionName": "Balearic Islands",
+        "city": "Pollen\u00e7a",
+        "zip": "07460",
+        "lat": 39.8775,
+        "lon": 3.0114,
+        "timezone": "Europe/Madrid",
+        "isp": "Red digital de telecomunicaciones de las Islas Baleares S.L",
+        "org": "Ibred",
+        "as": "AS200064 Red digital de telecomunicaciones de las Islas Baleares S.L",
+        "query": "141.105.107.152",
+        "response_time": 0.38016653060913086
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,58 +48,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8040206432342529
-    },
-    "http://47.90.205.231:33333": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Richmond",
-        "zip": "23173",
-        "lat": 37.4316,
-        "lon": -78.6569,
-        "timezone": "America/New_York",
-        "isp": "Alibaba.com LLC",
-        "org": "ALICLOUD-US",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "47.90.205.231",
-        "response_time": 1.139979362487793
-    },
-    "http://4.155.2.13:9401": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "WA",
-        "regionName": "Washington",
-        "city": "Quincy",
-        "zip": "98848",
-        "lat": 47.233,
-        "lon": -119.852,
-        "timezone": "America/Los_Angeles",
-        "isp": "Microsoft Corporation",
-        "org": "Microsoft Azure Cloud (westus2)",
-        "as": "AS8075 Microsoft Corporation",
-        "query": "4.155.2.13",
-        "response_time": 1.7102928161621094
-    },
-    "socks4://183.88.240.139:4153": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "20",
-        "regionName": "Chon Buri",
-        "city": "Bang Lamung",
-        "zip": "20150",
-        "lat": 13.0508,
-        "lon": 100.9367,
-        "timezone": "Asia/Bangkok",
-        "isp": "Triple T Broadband Public Company Limited",
-        "org": "Triple T Broadband Public Company Limited",
-        "as": "AS45758 Triple T Broadband Public Company Limited",
-        "query": "223.206.60.204",
-        "response_time": 1.73305344581604
+        "response_time": 0.6684417724609375
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -116,7 +65,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3384599685668945
+        "response_time": 2.259420394897461
+    },
+    "http://47.252.29.28:11222": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOS",
+        "regionName": "Moscow Oblast",
+        "city": "Lobnya",
+        "zip": "141730",
+        "lat": 56.0331,
+        "lon": 37.4822,
+        "timezone": "Europe/Moscow",
+        "isp": "Host Sailor Ltd",
+        "org": "Selena Telecom LLC",
+        "as": "AS60117 Host Sailor Ltd",
+        "query": "94.137.78.235",
+        "response_time": 2.3629820346832275
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -133,6 +99,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.585451126098633
+        "response_time": 2.587617874145508
+    },
+    "http://216.229.112.25:8080": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Muleshoe",
+        "zip": "79347",
+        "lat": 34.2265,
+        "lon": -102.7238,
+        "timezone": "America/Chicago",
+        "isp": "Five Area Systems, LLC",
+        "org": "Five Area Systems, LLC",
+        "as": "AS29843 Five Area Systems, LLC",
+        "query": "216.229.112.25",
+        "response_time": 2.9355146884918213
+    },
+    "socks5://118.70.151.55:1080": {
+        "status": "success",
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "HN",
+        "regionName": "Hanoi",
+        "city": "Hanoi",
+        "zip": "100000",
+        "lat": 21.0184,
+        "lon": 105.8461,
+        "timezone": "Asia/Bangkok",
+        "isp": "FPT Telecom Company",
+        "org": "Vietnam Internet Network Information Center",
+        "as": "AS18403 FPT Telecom Company",
+        "query": "118.70.151.55",
+        "response_time": 3.4020519256591797
     }
 }
