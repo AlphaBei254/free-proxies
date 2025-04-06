@@ -1,55 +1,4 @@
 {
-    "socks4://37.186.66.36:3629": {
-        "status": "success",
-        "country": "Armenia",
-        "countryCode": "AM",
-        "region": "ER",
-        "regionName": "Yerevan",
-        "city": "Yerevan",
-        "zip": "",
-        "lat": 40.1814,
-        "lon": 44.5102,
-        "timezone": "Asia/Yerevan",
-        "isp": "GNC-Alfa CJSC",
-        "org": "GNC",
-        "as": "AS49800 GNC-Alfa CJSC",
-        "query": "37.186.66.36",
-        "response_time": 0.7971534729003906
-    },
-    "socks4://183.80.130.10:4145": {
-        "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "SG",
-        "regionName": "Ho Chi Minh",
-        "city": "Ho Chi Minh City",
-        "zip": "",
-        "lat": 10.8231,
-        "lon": 106.63,
-        "timezone": "Asia/Ho_Chi_Minh",
-        "isp": "Vietnam Internet Network Information Center",
-        "org": "",
-        "as": "AS18403 FPT Telecom Company",
-        "query": "183.80.130.10",
-        "response_time": 1.1154770851135254
-    },
-    "socks4://31.209.96.173:51688": {
-        "status": "success",
-        "country": "T\u00fcrkiye",
-        "countryCode": "TR",
-        "region": "33",
-        "regionName": "Mersin",
-        "city": "Mersin",
-        "zip": "33940",
-        "lat": 36.812,
-        "lon": 34.6389,
-        "timezone": "Europe/Istanbul",
-        "isp": "Netonline Bilisim Sirketi LTD",
-        "org": "Multimax",
-        "as": "AS44558 Netonline Bilisim Sirketi LTD",
-        "query": "31.209.98.18",
-        "response_time": 1.590832233428955
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -65,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2413690090179443
+        "response_time": 0.20999646186828613
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +31,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.499614715576172
+        "response_time": 0.3888392448425293
+    },
+    "http://8.219.97.248:80": {
+        "status": "success",
+        "country": "Singapore",
+        "countryCode": "SG",
+        "region": "03",
+        "regionName": "North West",
+        "city": "Singapore",
+        "zip": "858877",
+        "lat": 1.35208,
+        "lon": 103.82,
+        "timezone": "Asia/Singapore",
+        "isp": "Alibaba (US) Technology Co., Ltd.",
+        "org": "Alibaba.com Singapore E-Commerce Private Limited",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "8.219.64.236",
+        "response_time": 1.7134878635406494
+    },
+    "http://161.97.136.251:3128": {
+        "status": "success",
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "NW",
+        "regionName": "North Rhine-Westphalia",
+        "city": "D\u00fcsseldorf",
+        "zip": "40599",
+        "lat": 51.1864,
+        "lon": 6.8624,
+        "timezone": "Europe/Berlin",
+        "isp": "Contabo GmbH",
+        "org": "Contabo GmbH",
+        "as": "AS51167 Contabo GmbH",
+        "query": "161.97.136.251",
+        "response_time": 2.3561346530914307
+    },
+    "socks4://46.214.153.223:5678": {
+        "status": "success",
+        "country": "Romania",
+        "countryCode": "RO",
+        "region": "SV",
+        "regionName": "Suceava",
+        "city": "Radauti",
+        "zip": "725400",
+        "lat": 47.8462,
+        "lon": 25.9154,
+        "timezone": "Europe/Bucharest",
+        "isp": "SC NextGen Communications SRL",
+        "org": "SC NextGen Communications SRL",
+        "as": "AS48161 NEXTGEN COMMUNICATIONS SRL",
+        "query": "46.214.153.223",
+        "response_time": 2.566115140914917
     }
 }
