@@ -1,38 +1,4 @@
 {
-    "socks5://8.218.39.40:10800": {
-        "status": "success",
-        "country": "Hong Kong",
-        "countryCode": "HK",
-        "region": "",
-        "regionName": "Kowloon",
-        "city": "Hong Kong",
-        "zip": "999077",
-        "lat": 22.3193,
-        "lon": 114.169,
-        "timezone": "Asia/Hong_Kong",
-        "isp": "Alibaba (US) Technology Co., Ltd.",
-        "org": "Alibaba.com Singapore E-Commerce Private Limited",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "8.218.39.40",
-        "response_time": 0.9324283599853516
-    },
-    "socks4://200.43.231.16:4153": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "N",
-        "regionName": "Misiones",
-        "city": "Ober\u00e1",
-        "zip": "3360",
-        "lat": -27.4869,
-        "lon": -55.1201,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Telecom Argentina S.A.",
-        "org": "Telecom Argentina S.A",
-        "as": "AS7303 Telecom Argentina S.A.",
-        "query": "200.43.231.14",
-        "response_time": 1.0244886875152588
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -48,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3806064128875732
+        "response_time": 0.20728063583374023
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +31,74 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.819364309310913
+        "response_time": 0.38906121253967285
+    },
+    "socks5://103.189.218.83:6969": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Tongi",
+        "zip": "1230",
+        "lat": 23.8915,
+        "lon": 90.4023,
+        "timezone": "Asia/Dhaka",
+        "isp": "Comfort Solutions",
+        "org": "Md. Ruhul Amin Sarker",
+        "as": "AS149868 Comfort Solutions",
+        "query": "103.189.218.83",
+        "response_time": 1.4681072235107422
+    },
+    "socks4://103.224.48.38:31433": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "UP",
+        "regionName": "Uttar Pradesh",
+        "city": "Kanpur",
+        "zip": "208027",
+        "lat": 26.4631,
+        "lon": 80.3479,
+        "timezone": "Asia/Kolkata",
+        "isp": "R TECHNOLOGIES",
+        "org": "Renu Softtech Sales and Services",
+        "as": "AS134922 R G TECHNOSOLUTIONS PVT LTD",
+        "query": "103.224.48.38",
+        "response_time": 3.1338868141174316
+    },
+    "socks5://212.34.152.172:8081": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1012",
+        "lat": 52.3759,
+        "lon": 4.8975,
+        "timezone": "Europe/Amsterdam",
+        "isp": "Servers Tech Fzco",
+        "org": "Servers Tech Fzco",
+        "as": "AS216071 SERVERS TECH FZCO",
+        "query": "212.34.152.172",
+        "response_time": 3.2648086547851562
+    },
+    "http://216.229.112.25:8080": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Muleshoe",
+        "zip": "79347",
+        "lat": 34.2265,
+        "lon": -102.7238,
+        "timezone": "America/Chicago",
+        "isp": "Five Area Systems, LLC",
+        "org": "Five Area Systems, LLC",
+        "as": "AS29843 Five Area Systems, LLC",
+        "query": "216.229.112.25",
+        "response_time": 3.9461896419525146
     }
 }
