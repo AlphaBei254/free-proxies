@@ -14,7 +14,7 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.24851632118225098
+        "response_time": 0.24540376663208008
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,75 +31,58 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7347180843353271
+        "response_time": 0.887972354888916
     },
-    "http://47.252.29.28:11222": {
+    "socks4://103.83.252.61:1080": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "NY",
-        "regionName": "New York",
-        "city": "New York",
-        "zip": "10123",
-        "lat": 40.7128,
-        "lon": -74.006,
-        "timezone": "America/New_York",
-        "isp": "GTT Communications Inc.",
-        "org": "LLC \"Universal Inside Corporate\"",
-        "as": "AS3257 GTT Communications Inc.",
-        "query": "195.160.192.135",
-        "response_time": 0.746950626373291
-    },
-    "socks4://109.166.210.170:5678": {
-        "status": "success",
-        "country": "Romania",
-        "countryCode": "RO",
-        "region": "B",
-        "regionName": "Bucure\u0219ti",
-        "city": "Bucharest",
-        "zip": "050719",
-        "lat": 44.4291,
-        "lon": 26.1006,
-        "timezone": "Europe/Bucharest",
-        "isp": "Orange Romania Network",
-        "org": "Orange Romania S.A.",
-        "as": "AS8953 Orange Romania S.A.",
-        "query": "109.166.210.170",
-        "response_time": 1.7525935173034668
-    },
-    "socks4://46.36.65.117:1080": {
-        "status": "success",
-        "country": "Lithuania",
-        "countryCode": "LT",
-        "region": "TE",
-        "regionName": "Telsiai",
-        "city": "Ma\u017eeikiai",
-        "zip": "89001",
-        "lat": 56.3176,
-        "lon": 22.3463,
-        "timezone": "Europe/Vilnius",
-        "isp": "KLI",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "MP",
+        "regionName": "Madhya Pradesh",
+        "city": "Indore",
+        "zip": "452001",
+        "lat": 22.723,
+        "lon": 75.882,
+        "timezone": "Asia/Kolkata",
+        "isp": "RB5",
         "org": "",
-        "as": "AS43627 UAB \"Besmegeniai\"",
-        "query": "46.36.65.117",
-        "response_time": 1.7741024494171143
+        "as": "AS59165 Auspice Infratel Pvt. Ltd.",
+        "query": "103.204.54.50",
+        "response_time": 1.2357301712036133
     },
-    "http://20.27.86.185:8080": {
+    "socks4://37.186.66.36:3629": {
         "status": "success",
-        "country": "Japan",
-        "countryCode": "JP",
-        "region": "27",
-        "regionName": "\u014csaka",
-        "city": "Osaka",
-        "zip": "540-0002",
-        "lat": 34.6939,
-        "lon": 135.5022,
-        "timezone": "Asia/Tokyo",
-        "isp": "Microsoft Corporation",
-        "org": "Microsoft Azure Cloud (japanwest)",
-        "as": "AS8075 Microsoft Corporation",
-        "query": "20.27.86.185",
-        "response_time": 1.931199312210083
+        "country": "Armenia",
+        "countryCode": "AM",
+        "region": "ER",
+        "regionName": "Yerevan",
+        "city": "Yerevan",
+        "zip": "",
+        "lat": 40.1814,
+        "lon": 44.5102,
+        "timezone": "Asia/Yerevan",
+        "isp": "GNC-Alfa CJSC",
+        "org": "GNC",
+        "as": "AS49800 GNC-Alfa CJSC",
+        "query": "37.186.66.36",
+        "response_time": 2.0017576217651367
+    },
+    "socks4://182.93.69.74:5678": {
+        "status": "success",
+        "country": "Nepal",
+        "countryCode": "NP",
+        "region": "P3",
+        "regionName": "Bagmati Province",
+        "city": "Kathmandu",
+        "zip": "",
+        "lat": 27.7108,
+        "lon": 85.3251,
+        "timezone": "Asia/Kathmandu",
+        "isp": "Subisu Cablenet",
+        "org": "",
+        "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
+        "query": "182.93.69.74",
+        "response_time": 2.3290464878082275
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -116,7 +99,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3230137825012207
+        "response_time": 2.417177200317383
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -133,23 +116,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.662372350692749
-    },
-    "socks5://178.33.42.161:49062": {
-        "status": "success",
-        "country": "France",
-        "countryCode": "FR",
-        "region": "HDF",
-        "regionName": "Hauts-de-France",
-        "city": "Wattrelos",
-        "zip": "59150",
-        "lat": 50.7012,
-        "lon": 3.21501,
-        "timezone": "Europe/Paris",
-        "isp": "OVH SAS",
-        "org": "OVH",
-        "as": "AS16276 OVH SAS",
-        "query": "162.19.107.54",
-        "response_time": 2.7098569869995117
+        "response_time": 2.8777389526367188
     }
 }
