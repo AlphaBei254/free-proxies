@@ -1,20 +1,20 @@
 {
-    "socks4://170.78.211.161:1080": {
+    "socks4://100.1.53.24:5678": {
         "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78117",
-        "lat": 22.111,
-        "lon": -100.9464,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.24540376663208008
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NJ",
+        "regionName": "New Jersey",
+        "city": "Elizabeth",
+        "zip": "07206",
+        "lat": 40.6513,
+        "lon": -74.1879,
+        "timezone": "America/New_York",
+        "isp": "Verizon Business",
+        "org": "Verizon Business",
+        "as": "AS701 Verizon Business",
+        "query": "100.1.53.24",
+        "response_time": 0.1292741298675537
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,58 +31,24 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.887972354888916
+        "response_time": 0.801748514175415
     },
-    "socks4://103.83.252.61:1080": {
+    "socks4://31.209.96.173:51688": {
         "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "MP",
-        "regionName": "Madhya Pradesh",
-        "city": "Indore",
-        "zip": "452001",
-        "lat": 22.723,
-        "lon": 75.882,
-        "timezone": "Asia/Kolkata",
-        "isp": "RB5",
-        "org": "",
-        "as": "AS59165 Auspice Infratel Pvt. Ltd.",
-        "query": "103.204.54.50",
-        "response_time": 1.2357301712036133
-    },
-    "socks4://37.186.66.36:3629": {
-        "status": "success",
-        "country": "Armenia",
-        "countryCode": "AM",
-        "region": "ER",
-        "regionName": "Yerevan",
-        "city": "Yerevan",
-        "zip": "",
-        "lat": 40.1814,
-        "lon": 44.5102,
-        "timezone": "Asia/Yerevan",
-        "isp": "GNC-Alfa CJSC",
-        "org": "GNC",
-        "as": "AS49800 GNC-Alfa CJSC",
-        "query": "37.186.66.36",
-        "response_time": 2.0017576217651367
-    },
-    "socks4://182.93.69.74:5678": {
-        "status": "success",
-        "country": "Nepal",
-        "countryCode": "NP",
-        "region": "P3",
-        "regionName": "Bagmati Province",
-        "city": "Kathmandu",
-        "zip": "",
-        "lat": 27.7108,
-        "lon": 85.3251,
-        "timezone": "Asia/Kathmandu",
-        "isp": "Subisu Cablenet",
-        "org": "",
-        "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
-        "query": "182.93.69.74",
-        "response_time": 2.3290464878082275
+        "country": "T\u00fcrkiye",
+        "countryCode": "TR",
+        "region": "33",
+        "regionName": "Mersin",
+        "city": "Mersin",
+        "zip": "33940",
+        "lat": 36.812,
+        "lon": 34.6389,
+        "timezone": "Europe/Istanbul",
+        "isp": "Netonline Bilisim Sirketi LTD",
+        "org": "Multimax",
+        "as": "AS44558 Netonline Bilisim Sirketi LTD",
+        "query": "31.209.98.18",
+        "response_time": 1.7571289539337158
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -99,7 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.417177200317383
+        "response_time": 2.315887451171875
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -116,6 +82,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.8777389526367188
+        "response_time": 2.697725772857666
+    },
+    "socks4://212.47.235.205:16379": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1012",
+        "lat": 52.3676,
+        "lon": 4.90414,
+        "timezone": "Europe/Amsterdam",
+        "isp": "Surf B.V.",
+        "org": "Nothing to hide",
+        "as": "AS1101 SURF B.V.",
+        "query": "192.42.116.178",
+        "response_time": 4.359072923660278
     }
 }
