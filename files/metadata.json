@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2324974536895752
+        "response_time": 0.2120223045349121
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5388140678405762
+        "response_time": 0.40822410583496094
     },
     "socks4://64.202.184.249:15986": {
         "status": "success",
@@ -48,6 +48,91 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 1.9408705234527588
+        "response_time": 1.646442174911499
+    },
+    "socks4://95.31.42.199:3629": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "",
+        "lat": 55.797,
+        "lon": 37.5594,
+        "timezone": "Europe/Moscow",
+        "isp": "PJSC \"Vimpelcom\"",
+        "org": "CORBINA-BROADBAND",
+        "as": "AS8402 PJSC \"Vimpelcom\"",
+        "query": "95.31.42.199",
+        "response_time": 1.6730120182037354
+    },
+    "http://161.97.136.251:3128": {
+        "status": "success",
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "NW",
+        "regionName": "North Rhine-Westphalia",
+        "city": "D\u00fcsseldorf",
+        "zip": "40599",
+        "lat": 51.1864,
+        "lon": 6.8624,
+        "timezone": "Europe/Berlin",
+        "isp": "Contabo GmbH",
+        "org": "Contabo GmbH",
+        "as": "AS51167 Contabo GmbH",
+        "query": "161.97.136.251",
+        "response_time": 1.975381851196289
+    },
+    "socks4://41.21.182.179:5678": {
+        "status": "success",
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "region": "GP",
+        "regionName": "Gauteng",
+        "city": "Pretoria",
+        "zip": "0183",
+        "lat": -25.757,
+        "lon": 28.1443,
+        "timezone": "Africa/Johannesburg",
+        "isp": "Vodacom Shared ENS NSA",
+        "org": "",
+        "as": "AS36994 Vodacom",
+        "query": "41.21.182.179",
+        "response_time": 2.0548410415649414
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.205",
+        "response_time": 2.4591777324676514
+    },
+    "socks5://118.70.151.55:1080": {
+        "status": "success",
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "HN",
+        "regionName": "Hanoi",
+        "city": "Hanoi",
+        "zip": "100000",
+        "lat": 21.0184,
+        "lon": 105.8461,
+        "timezone": "Asia/Bangkok",
+        "isp": "FPT Telecom Company",
+        "org": "Vietnam Internet Network Information Center",
+        "as": "AS18403 FPT Telecom Company",
+        "query": "118.70.151.55",
+        "response_time": 3.376694917678833
     }
 }
