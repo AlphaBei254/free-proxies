@@ -1,21 +1,4 @@
 {
-    "http://38.22.17.50:3128": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "GA",
-        "regionName": "Georgia",
-        "city": "Atlanta",
-        "zip": "",
-        "lat": 33.7489,
-        "lon": -84.3879,
-        "timezone": "America/New_York",
-        "isp": "GTHost",
-        "org": "Cytranet",
-        "as": "AS63023 GTHost",
-        "query": "38.22.17.50",
-        "response_time": 0.07617878913879395
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.24120354652404785
+        "response_time": 0.2324974536895752
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +31,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5383765697479248
+        "response_time": 0.5388140678405762
     },
-    "socks4://181.129.74.58:30431": {
+    "socks4://64.202.184.249:15986": {
         "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "ANT",
-        "regionName": "Antioquia",
-        "city": "Medell\u00edn",
-        "zip": "050021",
-        "lat": 6.2529,
-        "lon": -75.5646,
-        "timezone": "America/Bogota",
-        "isp": "EPM Telecomunicaciones S.A. E.S.P.",
-        "org": "EPM Telecomunicaciones S.A. E.S.P",
-        "as": "AS13489 UNE EPM TELECOMUNICACIONES S.A.",
-        "query": "181.129.74.58",
-        "response_time": 1.4937593936920166
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 1.9408705234527588
     }
 }
