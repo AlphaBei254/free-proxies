@@ -14,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.20862197875976562
-    },
-    "socks4://195.74.72.111:5678": {
-        "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "26",
-        "regionName": "Ivano-Frankivsk Oblast",
-        "city": "Ivano-Frankivsk",
-        "zip": "76000",
-        "lat": 48.9226,
-        "lon": 24.7111,
-        "timezone": "Europe/Kiev",
-        "isp": "Branch Enterprise \"Netgroup-Service\"",
-        "org": "Netgroup",
-        "as": "AS35004 Branch Enterprise \"Netgroup-Service\"",
-        "query": "195.74.72.111",
-        "response_time": 0.4719531536102295
+        "response_time": 0.34047913551330566
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 1.406614065170288
+        "response_time": 0.6547741889953613
     },
-    "socks4://31.209.96.173:51688": {
+    "socks5://170.106.151.187:42576": {
         "status": "success",
-        "country": "T\u00fcrkiye",
-        "countryCode": "TR",
-        "region": "33",
-        "regionName": "Mersin",
-        "city": "Mersin",
-        "zip": "33940",
-        "lat": 36.812,
-        "lon": 34.6389,
-        "timezone": "Europe/Istanbul",
-        "isp": "Netonline Bilisim Sirketi LTD",
-        "org": "Multimax",
-        "as": "AS44558 Netonline Bilisim Sirketi LTD",
-        "query": "31.209.98.18",
-        "response_time": 1.5919101238250732
+        "country": "United States",
+        "countryCode": "US",
+        "region": "WA",
+        "regionName": "Washington",
+        "city": "Bellevue",
+        "zip": "98015",
+        "lat": 47.6104,
+        "lon": -122.201,
+        "timezone": "America/Los_Angeles",
+        "isp": "AT&T Services, Inc.",
+        "org": "Service Provider Corporation",
+        "as": "AS7018 AT&T Services, Inc.",
+        "query": "166.198.252.26",
+        "response_time": 1.0054278373718262
     },
     "socks4://64.202.184.249:15986": {
         "status": "success",
@@ -82,6 +65,40 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 1.6083827018737793
+        "response_time": 1.3558375835418701
+    },
+    "socks5://103.163.244.106:1080": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "HR",
+        "regionName": "Haryana",
+        "city": "Panipat",
+        "zip": "132103",
+        "lat": 29.3885,
+        "lon": 76.9669,
+        "timezone": "Asia/Kolkata",
+        "isp": "Infolink System",
+        "org": "",
+        "as": "AS132746 Infolink System",
+        "query": "103.163.244.106",
+        "response_time": 3.670806407928467
+    },
+    "http://187.111.144.102:8080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "city": "S\u00e3o Sebasti\u00e3o do Ca\u00ed",
+        "zip": "95760",
+        "lat": -29.5909,
+        "lon": -51.3508,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Caezar Provedor de Internet EIRELI",
+        "org": "Caezar Provedor de Internet EIRELI",
+        "as": "AS262715 Caezar Provedor de Internet EIRELI",
+        "query": "187.111.144.102",
+        "response_time": 5.172644376754761
     }
 }
