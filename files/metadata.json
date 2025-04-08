@@ -14,7 +14,24 @@
         "org": "Cytranet",
         "as": "AS63023 GTHost",
         "query": "38.22.17.50",
-        "response_time": 0.21578121185302734
+        "response_time": 0.23802971839904785
+    },
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78117",
+        "lat": 22.111,
+        "lon": -100.9464,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.2426435947418213
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2109208106994629
+        "response_time": 0.33318352699279785
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,41 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.42130541801452637
-    },
-    "socks4://181.204.217.194:4145": {
-        "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "SAN",
-        "regionName": "Santander Department",
-        "city": "Bucaramanga",
-        "zip": "680001",
-        "lat": 7.1274,
-        "lon": -73.1191,
-        "timezone": "America/Bogota",
-        "isp": "EPM Telecomunicaciones S.A. E.S.P.",
-        "org": "Colombia M\u00f3vil",
-        "as": "AS13489 UNE EPM TELECOMUNICACIONES S.A.",
-        "query": "181.204.217.194",
-        "response_time": 0.5102324485778809
-    },
-    "socks4://109.248.236.150:60606": {
-        "status": "success",
-        "country": "Kazakhstan",
-        "countryCode": "KZ",
-        "region": "39",
-        "regionName": "Qostanay Oblysy",
-        "city": "Kostanay",
-        "zip": "",
-        "lat": 53.2123,
-        "lon": 63.6281,
-        "timezone": "Asia/Qostanay",
-        "isp": "Uplink LLC",
-        "org": "Uplink LLC",
-        "as": "AS8200 Uplink LLC",
-        "query": "109.248.236.150",
-        "response_time": 0.6147387027740479
+        "response_time": 0.64310622215271
     },
     "http://83.217.23.34:8090": {
         "status": "success",
@@ -99,7 +82,41 @@
         "org": "PJSC Rostelecom",
         "as": "AS12389 PJSC Rostelecom",
         "query": "83.217.23.35",
-        "response_time": 0.7221996784210205
+        "response_time": 0.870945930480957
+    },
+    "socks4://37.52.50.28:5678": {
+        "status": "success",
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "30",
+        "regionName": "Kyiv City",
+        "city": "Kyiv",
+        "zip": "01010",
+        "lat": 50.4443,
+        "lon": 30.5108,
+        "timezone": "Europe/Kiev",
+        "isp": "UKRTELECOM",
+        "org": "JSC Ukrtelecom",
+        "as": "AS6849 JSC \"Ukrtelecom\"",
+        "query": "37.52.50.28",
+        "response_time": 1.7095947265625
+    },
+    "socks4://31.209.96.173:51688": {
+        "status": "success",
+        "country": "T\u00fcrkiye",
+        "countryCode": "TR",
+        "region": "33",
+        "regionName": "Mersin",
+        "city": "Mersin",
+        "zip": "33940",
+        "lat": 36.812,
+        "lon": 34.6389,
+        "timezone": "Europe/Istanbul",
+        "isp": "Netonline Bilisim Sirketi LTD",
+        "org": "Multimax",
+        "as": "AS44558 Netonline Bilisim Sirketi LTD",
+        "query": "31.209.98.18",
+        "response_time": 1.7595744132995605
     },
     "socks4://64.202.184.249:15986": {
         "status": "success",
@@ -116,6 +133,40 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 1.1525919437408447
+        "response_time": 2.946816921234131
+    },
+    "socks4://91.150.77.57:56921": {
+        "status": "success",
+        "country": "Serbia",
+        "countryCode": "RS",
+        "region": "00",
+        "regionName": "Belgrade",
+        "city": "Belgrade",
+        "zip": "",
+        "lat": 44.8046,
+        "lon": 20.4637,
+        "timezone": "Europe/Belgrade",
+        "isp": "TELEKOM-SRBIJA",
+        "org": "",
+        "as": "AS8400 TELEKOM SRBIJA a.d.",
+        "query": "79.101.45.94",
+        "response_time": 3.3295300006866455
+    },
+    "socks5://46.10.229.243:7777": {
+        "status": "success",
+        "country": "Bulgaria",
+        "countryCode": "BG",
+        "region": "22",
+        "regionName": "Sofia-Capital",
+        "city": "Sofia",
+        "zip": "1000",
+        "lat": 42.6826,
+        "lon": 23.3223,
+        "timezone": "Europe/Sofia",
+        "isp": "Vivacom Bulgaria EAD",
+        "org": "Vivacom Bulgaria EAD",
+        "as": "AS8866 Vivacom Bulgaria EAD",
+        "query": "46.10.229.243",
+        "response_time": 3.359720468521118
     }
 }
