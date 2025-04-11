@@ -1,4 +1,21 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78117",
+        "lat": 22.111,
+        "lon": -100.9464,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.18517470359802246
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.20073914527893066
+        "response_time": 0.2575404644012451
     },
     "http://65.108.159.129:8081": {
         "status": "success",
@@ -31,7 +48,7 @@
         "org": "Hetzner Online GmbH",
         "as": "AS24940 Hetzner Online GmbH",
         "query": "65.108.159.129",
-        "response_time": 0.2935614585876465
+        "response_time": 0.3753397464752197
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.38857173919677734
+        "response_time": 0.6168761253356934
     },
     "socks5://185.25.119.34:6128": {
         "status": "success",
@@ -65,91 +82,40 @@
         "org": "new Hosting",
         "as": "AS200000 Hosting Ukraine LTD",
         "query": "185.25.119.34",
-        "response_time": 0.5020794868469238
+        "response_time": 0.7030355930328369
     },
-    "http://83.217.23.34:8090": {
+    "socks4://37.186.66.36:3629": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
+        "country": "Armenia",
+        "countryCode": "AM",
+        "region": "ER",
+        "regionName": "Yerevan",
+        "city": "Yerevan",
         "zip": "",
-        "lat": 55.8236,
-        "lon": 37.6034,
-        "timezone": "Europe/Moscow",
-        "isp": "PJSC Rostelecom",
-        "org": "PJSC Rostelecom",
-        "as": "AS12389 PJSC Rostelecom",
-        "query": "83.217.23.35",
-        "response_time": 0.7038769721984863
+        "lat": 40.1814,
+        "lon": 44.5102,
+        "timezone": "Asia/Yerevan",
+        "isp": "GNC-Alfa CJSC",
+        "org": "GNC",
+        "as": "AS49800 GNC-Alfa CJSC",
+        "query": "37.186.66.36",
+        "response_time": 0.8745694160461426
     },
-    "http://83.217.23.36:8090": {
+    "socks5://163.172.132.115:16379": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "",
-        "lat": 55.8236,
-        "lon": 37.6034,
-        "timezone": "Europe/Moscow",
-        "isp": "PJSC Rostelecom",
-        "org": "PJSC Rostelecom",
-        "as": "AS12389 PJSC Rostelecom",
-        "query": "83.217.23.36",
-        "response_time": 1.1703948974609375
-    },
-    "socks4://170.245.248.45:60606": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "city": "Goi\u00e2nia",
-        "zip": "74000",
-        "lat": -16.6391,
-        "lon": -49.2622,
-        "timezone": "America/Sao_Paulo",
-        "isp": "T.A.LUIZ ELETRONICO LTDA - ME",
-        "org": "T.A.LUIZ ELETRONICO LTDA - ME",
-        "as": "AS266032 T.A.LUIZ ELETRONICO LTDA - ME",
-        "query": "170.245.250.186",
-        "response_time": 1.8325238227844238
-    },
-    "socks4://172.233.14.116:1080": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 2.5299770832061768
-    },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.132",
-        "response_time": 2.94600510597229
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "30",
+        "regionName": "Kyiv City",
+        "city": "Kyiv",
+        "zip": "04116",
+        "lat": 50.458,
+        "lon": 30.5303,
+        "timezone": "Europe/Kyiv",
+        "isp": "UDN",
+        "org": "",
+        "as": "",
+        "query": "193.218.118.94",
+        "response_time": 5.674900770187378
     }
 }
