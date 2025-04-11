@@ -14,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.233109712600708
+        "response_time": 0.2024221420288086
+    },
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78117",
+        "lat": 22.111,
+        "lon": -100.9464,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.236497163772583
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,58 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4709932804107666
-    },
-    "socks4://185.14.149.33:4145": {
-        "status": "success",
-        "country": "Poland",
-        "countryCode": "PL",
-        "region": "08",
-        "regionName": "Lubusz",
-        "city": "Zielona G\u00f3ra",
-        "zip": "65-001",
-        "lat": 51.9412,
-        "lon": 15.5124,
-        "timezone": "Europe/Warsaw",
-        "isp": "TERRA",
-        "org": "",
-        "as": "AS61233 Enformatel Sp. z o.o.",
-        "query": "185.14.148.66",
-        "response_time": 0.5133557319641113
-    },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.187",
-        "response_time": 0.6583316326141357
-    },
-    "socks4://179.27.86.36:4153": {
-        "status": "success",
-        "country": "Uruguay",
-        "countryCode": "UY",
-        "region": "MO",
-        "regionName": "Montevideo Department",
-        "city": "Montevideo",
-        "zip": "11200",
-        "lat": -34.9064,
-        "lon": -56.1629,
-        "timezone": "America/Montevideo",
-        "isp": "Administracion Nacional de Telecomunicaciones",
-        "org": "Cliente Antel Uruguay",
-        "as": "AS6057 Administracion Nacional de Telecomunicaciones",
-        "query": "179.27.86.36",
-        "response_time": 0.845360279083252
+        "response_time": 0.3863711357116699
     },
     "socks5://185.25.119.34:6128": {
         "status": "success",
@@ -99,24 +65,7 @@
         "org": "new Hosting",
         "as": "AS200000 Hosting Ukraine LTD",
         "query": "185.25.119.34",
-        "response_time": 0.9699540138244629
-    },
-    "socks5://163.172.128.222:16379": {
-        "status": "success",
-        "country": "Iceland",
-        "countryCode": "IS",
-        "region": "1",
-        "regionName": "Capital Region",
-        "city": "Reykjavik",
-        "zip": "102",
-        "lat": 64.1318,
-        "lon": -21.9466,
-        "timezone": "Atlantic/Reykjavik",
-        "isp": "Stark Industries Solutions LTD",
-        "org": "Stark Industries Solutions LTD",
-        "as": "AS44477 STARK INDUSTRIES SOLUTIONS LTD",
-        "query": "45.83.21.193",
-        "response_time": 1.0496442317962646
+        "response_time": 0.5866327285766602
     },
     "http://83.217.23.36:8090": {
         "status": "success",
@@ -133,6 +82,40 @@
         "org": "PJSC Rostelecom",
         "as": "AS12389 PJSC Rostelecom",
         "query": "83.217.23.36",
-        "response_time": 2.81441068649292
+        "response_time": 1.0658214092254639
+    },
+    "socks4://163.172.134.29:16379": {
+        "status": "success",
+        "country": "France",
+        "countryCode": "FR",
+        "region": "IDF",
+        "regionName": "\u00cele-de-France",
+        "city": "Paris",
+        "zip": "75001",
+        "lat": 48.8558,
+        "lon": 2.3494,
+        "timezone": "Europe/Paris",
+        "isp": "MilkyWan Association",
+        "org": "MilkyWan",
+        "as": "AS2027 MilkyWan Association",
+        "query": "80.67.167.81",
+        "response_time": 1.7148313522338867
+    },
+    "http://83.217.23.34:8090": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "",
+        "lat": 55.8236,
+        "lon": 37.6034,
+        "timezone": "Europe/Moscow",
+        "isp": "PJSC Rostelecom",
+        "org": "PJSC Rostelecom",
+        "as": "AS12389 PJSC Rostelecom",
+        "query": "83.217.23.35",
+        "response_time": 1.7835590839385986
     }
 }
