@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.19938421249389648
+        "response_time": 0.29772186279296875
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,41 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3964259624481201
+        "response_time": 0.5960421562194824
+    },
+    "socks4://88.213.214.254:4145": {
+        "status": "success",
+        "country": "Bulgaria",
+        "countryCode": "BG",
+        "region": "27",
+        "regionName": "Shumen",
+        "city": "Gabritsa",
+        "zip": "9779",
+        "lat": 43.5016,
+        "lon": 26.9616,
+        "timezone": "Europe/Sofia",
+        "isp": "Netbox LTD",
+        "org": "NETBOX Mododex",
+        "as": "AS61071 NETBOX LTD",
+        "query": "88.213.215.28",
+        "response_time": 0.7975766658782959
+    },
+    "socks4://91.150.77.58:56921": {
+        "status": "success",
+        "country": "Serbia",
+        "countryCode": "RS",
+        "region": "00",
+        "regionName": "Belgrade",
+        "city": "Belgrade",
+        "zip": "",
+        "lat": 44.8046,
+        "lon": 20.4637,
+        "timezone": "Europe/Belgrade",
+        "isp": "TELEKOM-SRBIJA",
+        "org": "",
+        "as": "AS8400 TELEKOM SRBIJA a.d.",
+        "query": "79.101.45.94",
+        "response_time": 1.7788965702056885
     },
     "socks5://185.25.119.34:6128": {
         "status": "success",
@@ -48,41 +82,7 @@
         "org": "new Hosting",
         "as": "AS200000 Hosting Ukraine LTD",
         "query": "185.25.119.34",
-        "response_time": 0.9553263187408447
-    },
-    "socks5://46.147.65.44:61986": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "TA",
-        "regionName": "Tatarstan Republic",
-        "city": "Naberezhnyye Chelny",
-        "zip": "423800",
-        "lat": 55.7582,
-        "lon": 52.4302,
-        "timezone": "Europe/Moscow",
-        "isp": "CJSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
-        "org": "JSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
-        "as": "AS42116 JSC \"ER-Telecom Holding\"",
-        "query": "46.147.65.44",
-        "response_time": 1.912783145904541
-    },
-    "socks4://163.172.164.115:16379": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1012",
-        "lat": 52.3676,
-        "lon": 4.90414,
-        "timezone": "Europe/Amsterdam",
-        "isp": "Surf B.V.",
-        "org": "Nothing to hide",
-        "as": "AS1101 SURF B.V.",
-        "query": "192.42.116.214",
-        "response_time": 2.428950548171997
+        "response_time": 1.805084228515625
     },
     "http://83.217.23.36:8090": {
         "status": "success",
@@ -99,23 +99,57 @@
         "org": "PJSC Rostelecom",
         "as": "AS12389 PJSC Rostelecom",
         "query": "83.217.23.36",
-        "response_time": 2.770815849304199
+        "response_time": 2.0523340702056885
     },
-    "socks4://163.172.176.95:16379": {
+    "http://83.217.23.34:8090": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1012",
-        "lat": 52.3676,
-        "lon": 4.90414,
-        "timezone": "Europe/Amsterdam",
-        "isp": "Surf B.V.",
-        "org": "Nothing to hide",
-        "as": "AS1101 SURF B.V.",
-        "query": "192.42.116.178",
-        "response_time": 3.414475679397583
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "",
+        "lat": 55.8236,
+        "lon": 37.6034,
+        "timezone": "Europe/Moscow",
+        "isp": "PJSC Rostelecom",
+        "org": "PJSC Rostelecom",
+        "as": "AS12389 PJSC Rostelecom",
+        "query": "83.217.23.35",
+        "response_time": 2.999652862548828
+    },
+    "socks4://103.167.156.102:1080": {
+        "status": "success",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JT",
+        "regionName": "Central Java",
+        "city": "Pemalang",
+        "zip": "52319",
+        "lat": -6.8903,
+        "lon": 109.3807,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT Jaringan Tiang Indonesia Group",
+        "org": "PT Jaringan Tiang Indonesia Group",
+        "as": "AS150554 PT Jaringan Tiang Indonesia Group",
+        "query": "103.167.156.102",
+        "response_time": 3.0227560997009277
+    },
+    "socks5://51.158.70.246:16379": {
+        "status": "success",
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BB",
+        "regionName": "Brandenburg",
+        "city": "Brandenburg",
+        "zip": "14621",
+        "lat": 52.6171,
+        "lon": 13.1207,
+        "timezone": "Europe/Berlin",
+        "isp": "Stiftung Erneuerbare Freiheit",
+        "org": "ForPrivacyNET",
+        "as": "AS60729 Stiftung Erneuerbare Freiheit",
+        "query": "185.220.101.34",
+        "response_time": 5.563951015472412
     }
 }
