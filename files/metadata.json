@@ -1,20 +1,20 @@
 {
-    "socks4://170.78.211.161:1080": {
+    "http://38.22.17.50:3128": {
         "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78117",
-        "lat": 22.111,
-        "lon": -100.9464,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.21687531471252441
+        "country": "United States",
+        "countryCode": "US",
+        "region": "GA",
+        "regionName": "Georgia",
+        "city": "Atlanta",
+        "zip": "",
+        "lat": 33.7489,
+        "lon": -84.3879,
+        "timezone": "America/New_York",
+        "isp": "GTHost",
+        "org": "Cytranet",
+        "as": "AS63023 GTHost",
+        "query": "38.22.17.50",
+        "response_time": 0.1463778018951416
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2521781921386719
+        "response_time": 0.34574198722839355
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,57 +48,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.44945740699768066
+        "response_time": 0.7627928256988525
     },
-    "http://222.174.178.122:4999": {
-        "status": "success",
-        "country": "China",
-        "countryCode": "CN",
-        "region": "SD",
-        "regionName": "Shandong",
-        "city": "Jinan",
-        "zip": "250000",
-        "lat": 36.6683,
-        "lon": 117.021,
-        "timezone": "Asia/Shanghai",
-        "isp": "Chinanet",
-        "org": "Chinanet SD",
-        "as": "AS4134 CHINANET-BACKBONE",
-        "query": "222.174.178.122",
-        "response_time": 1.8749973773956299
-    },
-    "socks4://221.144.252.148:5678": {
-        "status": "success",
-        "country": "South Korea",
-        "countryCode": "KR",
-        "region": "42",
-        "regionName": "Gangwon-do",
-        "city": "Gangneung",
-        "zip": "255",
-        "lat": 37.751,
-        "lon": 128.8993,
-        "timezone": "Asia/Seoul",
-        "isp": "Korea Telecom",
-        "org": "Korea Telecom",
-        "as": "AS4766 Korea Telecom",
-        "query": "221.144.252.148",
-        "response_time": 2.2168943881988525
-    },
-    "socks4://51.158.65.148:16379": {
+    "socks4://64.124.191.98:32688": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
-        "region": "NV",
-        "regionName": "Nevada",
-        "city": "Las Vegas",
-        "zip": "89101",
-        "lat": 36.1697,
-        "lon": -115.1236,
-        "timezone": "America/Los_Angeles",
-        "isp": "FranTech Solutions",
-        "org": "FranTech Solutions",
-        "as": "AS53667 FranTech Solutions",
-        "query": "205.185.116.215",
-        "response_time": 5.875345945358276
+        "region": "PA",
+        "regionName": "Pennsylvania",
+        "city": "Conshohocken",
+        "zip": "19428",
+        "lat": 40.0864,
+        "lon": -75.2931,
+        "timezone": "America/New_York",
+        "isp": "Zayo Bandwidth",
+        "org": "Web Werks",
+        "as": "AS6461 Zayo Bandwidth",
+        "query": "64.124.191.98",
+        "response_time": 1.2489721775054932
+    },
+    "socks5://185.25.119.34:6128": {
+        "status": "success",
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "30",
+        "regionName": "Kyiv City",
+        "city": "Kyiv",
+        "zip": "",
+        "lat": 50.449,
+        "lon": 30.4245,
+        "timezone": "Europe/Kiev",
+        "isp": "Hosting Ukraine LTD",
+        "org": "new Hosting",
+        "as": "AS200000 Hosting Ukraine LTD",
+        "query": "185.25.119.34",
+        "response_time": 1.8018391132354736
     }
 }
