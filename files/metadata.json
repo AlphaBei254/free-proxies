@@ -14,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2030320167541504
+        "response_time": 0.22694754600524902
+    },
+    "http://45.155.226.176:3128": {
+        "status": "success",
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "HE",
+        "regionName": "Hesse",
+        "city": "Frankfurt am Main",
+        "zip": "60313",
+        "lat": 50.1109,
+        "lon": 8.68213,
+        "timezone": "Europe/Berlin",
+        "isp": "haoxiangyun",
+        "org": "LogicWeb Inc",
+        "as": "AS141718 haoxiangyun",
+        "query": "154.6.189.35",
+        "response_time": 0.3290867805480957
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +48,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4408543109893799
+        "response_time": 0.44315361976623535
+    },
+    "http://38.22.17.50:3128": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "GA",
+        "regionName": "Georgia",
+        "city": "Atlanta",
+        "zip": "",
+        "lat": 33.7489,
+        "lon": -84.3879,
+        "timezone": "America/New_York",
+        "isp": "GTHost",
+        "org": "Cytranet",
+        "as": "AS63023 GTHost",
+        "query": "38.22.17.50",
+        "response_time": 0.5523662567138672
     },
     "http://200.174.198.86:8888": {
         "status": "success",
@@ -47,8 +81,8 @@
         "isp": "Claro S.A",
         "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
         "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.151",
-        "response_time": 0.5255265235900879
+        "query": "200.174.198.206",
+        "response_time": 0.5516812801361084
     },
     "socks5://185.25.119.34:6128": {
         "status": "success",
@@ -65,24 +99,7 @@
         "org": "new Hosting",
         "as": "AS200000 Hosting Ukraine LTD",
         "query": "185.25.119.34",
-        "response_time": 0.5014336109161377
-    },
-    "socks4://103.189.234.161:1080": {
-        "status": "success",
-        "country": "Singapore",
-        "countryCode": "SG",
-        "region": "01",
-        "regionName": "Central Singapore",
-        "city": "Singapore",
-        "zip": "079903",
-        "lat": 1.2757,
-        "lon": 103.846,
-        "timezone": "Asia/Singapore",
-        "isp": "Cloud Host Pte Ltd",
-        "org": "Cloud Host Pte Ltd",
-        "as": "AS138608 Cloud Host Pte Ltd",
-        "query": "103.189.234.161",
-        "response_time": 0.9606921672821045
+        "response_time": 0.5561842918395996
     },
     "http://83.217.23.34:8090": {
         "status": "success",
@@ -99,7 +116,7 @@
         "org": "PJSC Rostelecom",
         "as": "AS12389 PJSC Rostelecom",
         "query": "83.217.23.35",
-        "response_time": 1.0695500373840332
+        "response_time": 0.7459192276000977
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -116,57 +133,74 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.0827791690826416
+        "response_time": 0.7852561473846436
     },
-    "socks5://103.163.244.106:1080": {
+    "http://83.217.23.36:8090": {
         "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "HR",
-        "regionName": "Haryana",
-        "city": "Panipat",
-        "zip": "132103",
-        "lat": 29.3885,
-        "lon": 76.9669,
-        "timezone": "Asia/Kolkata",
-        "isp": "Infolink System",
-        "org": "",
-        "as": "AS132746 Infolink System",
-        "query": "103.163.244.106",
-        "response_time": 1.4747533798217773
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "",
+        "lat": 55.8236,
+        "lon": 37.6034,
+        "timezone": "Europe/Moscow",
+        "isp": "PJSC Rostelecom",
+        "org": "PJSC Rostelecom",
+        "as": "AS12389 PJSC Rostelecom",
+        "query": "83.217.23.36",
+        "response_time": 0.8195984363555908
     },
-    "socks4://51.158.125.47:16379": {
+    "socks4://181.13.142.45:5678": {
         "status": "success",
-        "country": "Poland",
-        "countryCode": "PL",
-        "region": "14",
-        "regionName": "Mazovia",
-        "city": "Warsaw",
-        "zip": "00-510",
-        "lat": 52.2299,
-        "lon": 21.0093,
-        "timezone": "Europe/Warsaw",
-        "isp": "1337 Services GmbH",
-        "org": "1337 Services GmbH",
-        "as": "AS210558 1337 Services GmbH",
-        "query": "45.141.215.21",
-        "response_time": 1.8495609760284424
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "T",
+        "regionName": "Tucuman",
+        "city": "San Miguel de Tucum\u00e1n",
+        "zip": "4000",
+        "lat": -26.8249,
+        "lon": -65.2237,
+        "timezone": "America/Argentina/Tucuman",
+        "isp": "Telecom Argentina S.A.",
+        "org": "Frigorifico Industrial Del Norte SA",
+        "as": "AS7303 Telecom Argentina S.A.",
+        "query": "181.13.142.45",
+        "response_time": 0.8908047676086426
     },
-    "socks4://163.172.176.95:16379": {
+    "socks4://190.246.55.235:5678": {
         "status": "success",
-        "country": "Germany",
-        "countryCode": "DE",
-        "region": "BB",
-        "regionName": "Brandenburg",
-        "city": "Brandenburg",
-        "zip": "14621",
-        "lat": 52.6171,
-        "lon": 13.1207,
-        "timezone": "Europe/Berlin",
-        "isp": "Stiftung Erneuerbare Freiheit",
-        "org": "ForPrivacyNET",
-        "as": "AS60729 Stiftung Erneuerbare Freiheit",
-        "query": "185.220.101.36",
-        "response_time": 2.7955925464630127
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "X",
+        "regionName": "Cordoba",
+        "city": "C\u00f3rdoba",
+        "zip": "5000",
+        "lat": -31.429,
+        "lon": -64.1756,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Telecom Argentina S.A",
+        "org": "Fibertel",
+        "as": "AS7303 Telecom Argentina S.A.",
+        "query": "190.246.55.235",
+        "response_time": 2.9247019290924072
+    },
+    "socks4://163.172.128.222:16379": {
+        "status": "success",
+        "country": "Antarctica",
+        "countryCode": "AQ",
+        "region": "",
+        "regionName": "",
+        "city": "Kunlun",
+        "zip": "",
+        "lat": -72.0114,
+        "lon": 2.535,
+        "timezone": "Antarctica/Vostok",
+        "isp": "QuxLabs AB",
+        "org": "R0CKET-CLOUD",
+        "as": "AS214503 QuxLabs AB",
+        "query": "45.84.107.222",
+        "response_time": 3.6646103858947754
     }
 }
