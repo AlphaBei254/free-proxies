@@ -1,21 +1,4 @@
 {
-    "socks4://64.124.191.98:32688": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "PA",
-        "regionName": "Pennsylvania",
-        "city": "Conshohocken",
-        "zip": "19428",
-        "lat": 40.0864,
-        "lon": -75.2931,
-        "timezone": "America/New_York",
-        "isp": "Zayo Bandwidth",
-        "org": "Web Werks",
-        "as": "AS6461 Zayo Bandwidth",
-        "query": "64.124.191.98",
-        "response_time": 0.05116128921508789
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.21240901947021484
+        "response_time": 0.3063490390777588
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,41 +31,75 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.40325427055358887
+        "response_time": 0.5426537990570068
     },
-    "http://200.174.198.86:8888": {
+    "socks4://201.148.125.126:4153": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "city": "Santa Helena de Goi\u00e1s",
+        "zip": "73930",
+        "lat": -17.8136,
+        "lon": -50.5969,
+        "timezone": "America/Sao_Paulo",
+        "isp": "America-NET Ltda.",
+        "org": "America-NET Ltda",
+        "as": "AS61844 America-NET Ltda.",
+        "query": "201.148.125.126",
+        "response_time": 0.7683227062225342
+    },
+    "socks5://187.63.9.62:63253": {
         "status": "success",
         "country": "Brazil",
         "countryCode": "BR",
         "region": "RJ",
         "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
+        "city": "Arraial do Cabo",
+        "zip": "28930",
+        "lat": -22.9634,
+        "lon": -42.0259,
         "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.132",
-        "response_time": 0.5289032459259033
+        "isp": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
+        "org": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multi",
+        "as": "AS28658 Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
+        "query": "187.63.9.62",
+        "response_time": 0.9219779968261719
     },
-    "socks4://200.43.231.16:4153": {
+    "socks4://213.6.68.210:4145": {
         "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "N",
-        "regionName": "Misiones",
-        "city": "Ober\u00e1",
-        "zip": "3360",
-        "lat": -27.4869,
-        "lon": -55.1201,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Telecom Argentina S.A.",
-        "org": "Telecom Argentina S.A",
-        "as": "AS7303 Telecom Argentina S.A.",
-        "query": "200.43.231.14",
-        "response_time": 0.8436357975006104
+        "country": "Palestine",
+        "countryCode": "PS",
+        "region": "NBS",
+        "regionName": "Nablus Governorate",
+        "city": "Nablus",
+        "zip": "",
+        "lat": 32.2207,
+        "lon": 35.2542,
+        "timezone": "Asia/Hebron",
+        "isp": "Palestine Telecommunications Company",
+        "org": "Palestine Telecommunications Company",
+        "as": "AS12975 Palestine Telecommunications Company (PALTEL)",
+        "query": "213.6.68.210",
+        "response_time": 1.6233174800872803
+    },
+    "socks4://51.158.113.139:16379": {
+        "status": "success",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "region": "AB",
+        "regionName": "Stockholm County",
+        "city": "Stockholm",
+        "zip": "100 05",
+        "lat": 59.3289,
+        "lon": 18.0649,
+        "timezone": "Europe/Stockholm",
+        "isp": "Periquito",
+        "org": "PRQ AB",
+        "as": "AS33837 Fredrik Holmqvist",
+        "query": "88.80.26.2",
+        "response_time": 2.609914779663086
     },
     "http://83.217.23.36:8090": {
         "status": "success",
@@ -99,6 +116,6 @@
         "org": "PJSC Rostelecom",
         "as": "AS12389 PJSC Rostelecom",
         "query": "83.217.23.36",
-        "response_time": 1.2156603336334229
+        "response_time": 2.6589012145996094
     }
 }
