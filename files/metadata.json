@@ -14,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.34656763076782227
-    },
-    "socks4://179.1.110.88:5678": {
-        "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "NSA",
-        "regionName": "Norte de Santander Department",
-        "city": "C\u00facuta",
-        "zip": "540001",
-        "lat": 7.8948,
-        "lon": -72.5021,
-        "timezone": "America/Bogota",
-        "isp": "InterNexa Global Network",
-        "org": "Internexa S.a. E.S.P",
-        "as": "AS262589 SAMM TECNOLOGIA E TELECOMUNICACOES S.A",
-        "query": "179.1.110.82",
-        "response_time": 0.48724865913391113
+        "response_time": 0.20660948753356934
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6865355968475342
+        "response_time": 0.40889716148376465
+    },
+    "http://83.217.23.34:8090": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "",
+        "lat": 55.8236,
+        "lon": 37.6034,
+        "timezone": "Europe/Moscow",
+        "isp": "PJSC Rostelecom",
+        "org": "PJSC Rostelecom",
+        "as": "AS12389 PJSC Rostelecom",
+        "query": "83.217.23.35",
+        "response_time": 1.8293135166168213
     },
     "http://83.217.23.36:8090": {
         "status": "success",
@@ -65,40 +65,40 @@
         "org": "PJSC Rostelecom",
         "as": "AS12389 PJSC Rostelecom",
         "query": "83.217.23.36",
-        "response_time": 0.9737906455993652
+        "response_time": 2.0907392501831055
     },
-    "http://65.108.159.129:8081": {
+    "http://47.252.29.28:11222": {
         "status": "success",
-        "country": "Finland",
-        "countryCode": "FI",
-        "region": "18",
-        "regionName": "Uusimaa",
-        "city": "Helsinki",
-        "zip": "00201",
-        "lat": 60.1719,
-        "lon": 24.9347,
-        "timezone": "Europe/Helsinki",
-        "isp": "Hetzner Online GmbH",
-        "org": "Hetzner Online GmbH",
-        "as": "AS24940 Hetzner Online GmbH",
-        "query": "65.108.159.129",
-        "response_time": 2.4646530151367188
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "KRS",
+        "regionName": "Kursk Oblast",
+        "city": "Fatezh",
+        "zip": "307100",
+        "lat": 52.0888,
+        "lon": 35.8599,
+        "timezone": "Europe/Moscow",
+        "isp": "SIA \"Singularity Telecom\"",
+        "org": "Dom Tehniki Ltd",
+        "as": "AS209372 SIA \"Singularity Telecom\"",
+        "query": "149.126.218.84",
+        "response_time": 2.2519924640655518
     },
-    "socks4://38.51.233.146:60606": {
+    "socks4://181.13.142.45:5678": {
         "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "NAR",
-        "regionName": "Nari\u00f1o",
-        "city": "Pasto",
-        "zip": "520001",
-        "lat": 1.2146,
-        "lon": -77.2785,
-        "timezone": "America/Bogota",
-        "isp": "SP SISTEMAS PALACIOS LTDA",
-        "org": "SP SISTEMAS PALACIOS",
-        "as": "AS267708 SP SISTEMAS PALACIOS LTDA",
-        "query": "38.51.233.146",
-        "response_time": 2.658953905105591
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "T",
+        "regionName": "Tucuman",
+        "city": "San Miguel de Tucum\u00e1n",
+        "zip": "4000",
+        "lat": -26.8249,
+        "lon": -65.2237,
+        "timezone": "America/Argentina/Tucuman",
+        "isp": "Telecom Argentina S.A.",
+        "org": "Frigorifico Industrial Del Norte SA",
+        "as": "AS7303 Telecom Argentina S.A.",
+        "query": "181.13.142.45",
+        "response_time": 2.8598077297210693
     }
 }
