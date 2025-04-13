@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.20581436157226562
+        "response_time": 0.30572056770324707
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,57 +31,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4091031551361084
+        "response_time": 0.7320122718811035
     },
-    "socks4://138.186.222.129:5678": {
+    "socks4://180.180.124.248:49992": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "city": "Patroc\u00ednio",
-        "zip": "38740",
-        "lat": -19.0131,
-        "lon": -47.0679,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Dione Balarim Prieto Tecnologia e Internet",
-        "org": "Dione Balarim Prieto Tecnologia e Internet",
-        "as": "AS263874 Dione Balarim Prieto Tecnologia e Internet",
-        "query": "138.186.222.129",
-        "response_time": 0.6798131465911865
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "21",
+        "regionName": "Rayong",
+        "city": "Rayong",
+        "zip": "21140",
+        "lat": 12.9662,
+        "lon": 101.2178,
+        "timezone": "Asia/Bangkok",
+        "isp": "TOT Public Company Limited",
+        "org": "TOT Public Company Limited",
+        "as": "AS23969 TOT Public Company Limited",
+        "query": "180.180.124.248",
+        "response_time": 0.9609849452972412
     },
-    "socks4://163.172.134.29:16379": {
+    "socks4://112.78.39.90:4153": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1012",
-        "lat": 52.3676,
-        "lon": 4.90414,
-        "timezone": "Europe/Amsterdam",
-        "isp": "Surf B.V.",
-        "org": "Nothing to hide",
-        "as": "AS1101 SURF B.V.",
-        "query": "192.42.116.209",
-        "response_time": 2.119657516479492
-    },
-    "socks4://181.129.74.58:30431": {
-        "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "ANT",
-        "regionName": "Antioquia",
-        "city": "Medell\u00edn",
-        "zip": "050021",
-        "lat": 6.2529,
-        "lon": -75.5646,
-        "timezone": "America/Bogota",
-        "isp": "EPM Telecomunicaciones S.A. E.S.P.",
-        "org": "EPM Telecomunicaciones S.A. E.S.P",
-        "as": "AS13489 UNE EPM TELECOMUNICACIONES S.A.",
-        "query": "181.129.74.58",
-        "response_time": 2.5267364978790283
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JT",
+        "regionName": "Central Java",
+        "city": "Semarang",
+        "zip": "50111",
+        "lat": -6.9932,
+        "lon": 110.4215,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT Media Sarana Data",
+        "org": "Gmedia ID Semarang",
+        "as": "AS55666 PT Media Sarana Data",
+        "query": "112.78.39.91",
+        "response_time": 2.8907039165496826
     }
 }
