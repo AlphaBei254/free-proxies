@@ -1,21 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78117",
-        "lat": 22.111,
-        "lon": -100.9464,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.23467803001403809
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,24 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.34799981117248535
+        "response_time": 0.36121582984924316
     },
-    "socks5://170.106.151.187:42576": {
+    "http://200.174.198.86:8888": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "MD",
-        "regionName": "Maryland",
-        "city": "Riverdale Park",
-        "zip": "20737",
-        "lat": 38.957,
-        "lon": -76.9144,
-        "timezone": "America/New_York",
-        "isp": "AT&T Services, Inc.",
-        "org": "AT&T Mobility LLC",
-        "as": "AS7018 AT&T Services, Inc.",
-        "query": "107.116.89.63",
-        "response_time": 0.6369483470916748
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.8",
+        "response_time": 0.6888763904571533
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6707780361175537
-    },
-    "socks4://27.115.33.94:4153": {
-        "status": "success",
-        "country": "China",
-        "countryCode": "CN",
-        "region": "SH",
-        "regionName": "Shanghai",
-        "city": "Shanghai",
-        "zip": "",
-        "lat": 31.2222,
-        "lon": 121.4581,
-        "timezone": "Asia/Shanghai",
-        "isp": "China Unicom Shanghai Province Network",
-        "org": "",
-        "as": "AS17621 China Unicom Shanghai network",
-        "query": "27.115.33.94",
-        "response_time": 3.3662474155426025
+        "response_time": 0.7241532802581787
     }
 }
