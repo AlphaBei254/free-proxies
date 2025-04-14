@@ -1,4 +1,21 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78117",
+        "lat": 22.111,
+        "lon": -100.9464,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.15603423118591309
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2572906017303467
+        "response_time": 0.2634730339050293
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,41 +48,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6195313930511475
+        "response_time": 0.5268344879150391
     },
-    "socks4://110.77.149.227:4153": {
+    "http://83.217.23.34:8090": {
         "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "20",
-        "regionName": "Chon Buri",
-        "city": "Ban Talat Bueng",
-        "zip": "20170",
-        "lat": 13.0715,
-        "lon": 101.003,
-        "timezone": "Asia/Bangkok",
-        "isp": "CAT Telecom Public Company Limited",
-        "org": "CAT BB",
-        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
-        "query": "110.77.149.227",
-        "response_time": 2.038130521774292
-    },
-    "socks5://163.172.190.59:16379": {
-        "status": "success",
-        "country": "Germany",
-        "countryCode": "DE",
-        "region": "BB",
-        "regionName": "Brandenburg",
-        "city": "Brandenburg",
-        "zip": "14621",
-        "lat": 52.6171,
-        "lon": 13.1207,
-        "timezone": "Europe/Berlin",
-        "isp": "Stiftung Erneuerbare Freiheit",
-        "org": "ForPrivacyNET",
-        "as": "AS60729 Stiftung Erneuerbare Freiheit",
-        "query": "185.220.101.49",
-        "response_time": 2.098174810409546
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "",
+        "lat": 55.8236,
+        "lon": 37.6034,
+        "timezone": "Europe/Moscow",
+        "isp": "PJSC Rostelecom",
+        "org": "PJSC Rostelecom",
+        "as": "AS12389 PJSC Rostelecom",
+        "query": "83.217.23.35",
+        "response_time": 1.2921068668365479
     },
     "socks4://179.27.86.36:4153": {
         "status": "success",
@@ -82,23 +82,23 @@
         "org": "Cliente Antel Uruguay",
         "as": "AS6057 Administracion Nacional de Telecomunicaciones",
         "query": "179.27.86.36",
-        "response_time": 2.8501675128936768
+        "response_time": 1.842411994934082
     },
-    "socks4://164.52.42.6:4145": {
+    "socks4://198.0.198.132:54321": {
         "status": "success",
-        "country": "South Korea",
-        "countryCode": "KR",
-        "region": "11",
-        "regionName": "Seoul",
-        "city": "Seoul",
-        "zip": "04524",
-        "lat": 37.5658,
-        "lon": 126.978,
-        "timezone": "Asia/Seoul",
-        "isp": "CDS Global Cloud Co., Ltd",
-        "org": "Ucul",
-        "as": "AS63199 CDS Global Cloud Co., Ltd",
-        "query": "164.52.42.6",
-        "response_time": 3.1379950046539307
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "San Jose",
+        "zip": "95126",
+        "lat": 37.3209,
+        "lon": -121.9126,
+        "timezone": "America/Los_Angeles",
+        "isp": "Comcast Cable Communications",
+        "org": "SMX SM PUBLIC ARPRT DIST",
+        "as": "AS7922 Comcast Cable Communications, LLC",
+        "query": "198.0.198.132",
+        "response_time": 2.2948968410491943
     }
 }
