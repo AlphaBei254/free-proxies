@@ -1,20 +1,20 @@
 {
-    "socks4://94.253.95.241:3629": {
+    "http://200.174.198.86:8888": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOS",
-        "regionName": "Moscow Oblast",
-        "city": "Ivanteyevka",
-        "zip": "141280",
-        "lat": 55.9833,
-        "lon": 37.9333,
-        "timezone": "Europe/Moscow",
-        "isp": "Itkm ISP",
-        "org": "",
-        "as": "AS48149 Ivanteevskie telecommunicacii Ltd",
-        "query": "94.253.95.241",
-        "response_time": 1.6433205604553223
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.41",
+        "response_time": 1.8294572830200195
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3474652767181396
+        "response_time": 2.419872283935547
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.8023808002471924
+        "response_time": 2.795888662338257
     }
 }
