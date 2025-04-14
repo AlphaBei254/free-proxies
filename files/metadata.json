@@ -1,4 +1,21 @@
 {
+    "socks4://104.238.100.115:45314": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "AZ",
+        "regionName": "Arizona",
+        "city": "Tempe",
+        "zip": "85284",
+        "lat": 33.3359,
+        "lon": -111.894,
+        "timezone": "America/Phoenix",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "104.238.100.115",
+        "response_time": 0.21244335174560547
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3057541847229004
+        "response_time": 0.29055333137512207
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +48,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6075754165649414
+        "response_time": 0.7267739772796631
     },
-    "http://83.217.23.34:8090": {
+    "socks5://103.174.178.166:2017": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JI",
+        "regionName": "East Java",
+        "city": "Jember",
         "zip": "",
-        "lat": 55.8236,
-        "lon": 37.6034,
-        "timezone": "Europe/Moscow",
-        "isp": "PJSC Rostelecom",
-        "org": "PJSC Rostelecom",
-        "as": "AS12389 PJSC Rostelecom",
-        "query": "83.217.23.35",
-        "response_time": 0.8550536632537842
+        "lat": -8.19301,
+        "lon": 113.707,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT Gasatek Bintang Nusantara",
+        "org": "",
+        "as": "AS139418 PT Gasatek Bintang Nusantara",
+        "query": "103.174.178.166",
+        "response_time": 1.1340436935424805
     },
     "http://200.174.198.86:8888": {
         "status": "success",
@@ -64,75 +81,7 @@
         "isp": "Claro S.A",
         "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
         "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.91",
-        "response_time": 0.8831212520599365
-    },
-    "socks5://103.221.220.22:45069": {
-        "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "SG",
-        "regionName": "Ho Chi Minh",
-        "city": "Ho Chi Minh City",
-        "zip": "700000",
-        "lat": 10.822,
-        "lon": 106.6257,
-        "timezone": "Asia/Ho_Chi_Minh",
-        "isp": "AZDIGI Corporation",
-        "org": "AZDIGI",
-        "as": "AS63760 AZDIGI Corporation",
-        "query": "103.221.220.22",
-        "response_time": 1.2477622032165527
-    },
-    "socks4://181.129.62.2:47377": {
-        "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "ANT",
-        "regionName": "Antioquia",
-        "city": "Medell\u00edn",
-        "zip": "050020",
-        "lat": 6.2529,
-        "lon": -75.5646,
-        "timezone": "America/Bogota",
-        "isp": "EPM Telecomunicaciones S.A. E.S.P.",
-        "org": "EPM Telecomunicaciones S.A. E.S.P",
-        "as": "AS13489 UNE EPM TELECOMUNICACIONES S.A.",
-        "query": "181.129.62.2",
-        "response_time": 2.5521931648254395
-    },
-    "socks4://163.172.134.29:16379": {
-        "status": "success",
-        "country": "Antarctica",
-        "countryCode": "AQ",
-        "region": "",
-        "regionName": "",
-        "city": "Kunlun",
-        "zip": "",
-        "lat": -72.0114,
-        "lon": 2.535,
-        "timezone": "Antarctica/Vostok",
-        "isp": "QuxLabs AB",
-        "org": "R0CKET-CLOUD",
-        "as": "AS214503 QuxLabs AB",
-        "query": "45.84.107.101",
-        "response_time": 2.9318974018096924
-    },
-    "socks4://163.172.176.95:16379": {
-        "status": "success",
-        "country": "Antarctica",
-        "countryCode": "AQ",
-        "region": "",
-        "regionName": "",
-        "city": "Kunlun",
-        "zip": "",
-        "lat": -72.0114,
-        "lon": 2.535,
-        "timezone": "Antarctica/Vostok",
-        "isp": "QuxLabs AB",
-        "org": "R0CKET-CLOUD",
-        "as": "AS214503 QuxLabs AB",
-        "query": "45.84.107.222",
-        "response_time": 3.0068089962005615
+        "query": "200.174.198.187",
+        "response_time": 2.9155113697052
     }
 }
