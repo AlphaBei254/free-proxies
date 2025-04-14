@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.33294010162353516
+        "response_time": 0.20291519165039062
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,40 +31,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6445746421813965
+        "response_time": 0.39041662216186523
     },
-    "socks5://8.218.39.40:10800": {
+    "socks4://179.27.86.36:4153": {
         "status": "success",
-        "country": "Hong Kong",
-        "countryCode": "HK",
-        "region": "",
-        "regionName": "Kowloon",
-        "city": "Hong Kong",
-        "zip": "999077",
-        "lat": 22.3193,
-        "lon": 114.169,
-        "timezone": "Asia/Hong_Kong",
-        "isp": "Alibaba (US) Technology Co., Ltd.",
-        "org": "Alibaba.com Singapore E-Commerce Private Limited",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "8.218.39.40",
-        "response_time": 0.9558477401733398
+        "country": "Uruguay",
+        "countryCode": "UY",
+        "region": "MO",
+        "regionName": "Montevideo Department",
+        "city": "Montevideo",
+        "zip": "11200",
+        "lat": -34.9064,
+        "lon": -56.1629,
+        "timezone": "America/Montevideo",
+        "isp": "Administracion Nacional de Telecomunicaciones",
+        "org": "Cliente Antel Uruguay",
+        "as": "AS6057 Administracion Nacional de Telecomunicaciones",
+        "query": "179.27.86.36",
+        "response_time": 0.7510735988616943
     },
-    "http://222.174.178.122:4999": {
+    "http://161.97.136.251:3128": {
         "status": "success",
-        "country": "China",
-        "countryCode": "CN",
-        "region": "SD",
-        "regionName": "Shandong",
-        "city": "Jinan",
-        "zip": "250000",
-        "lat": 36.6683,
-        "lon": 117.021,
-        "timezone": "Asia/Shanghai",
-        "isp": "Chinanet",
-        "org": "Chinanet SD",
-        "as": "AS4134 CHINANET-BACKBONE",
-        "query": "222.174.178.122",
-        "response_time": 4.602685928344727
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "NW",
+        "regionName": "North Rhine-Westphalia",
+        "city": "D\u00fcsseldorf",
+        "zip": "40599",
+        "lat": 51.1864,
+        "lon": 6.8624,
+        "timezone": "Europe/Berlin",
+        "isp": "Contabo GmbH",
+        "org": "Contabo GmbH",
+        "as": "AS51167 Contabo GmbH",
+        "query": "161.97.136.251",
+        "response_time": 0.932335376739502
+    },
+    "http://216.229.112.25:8080": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Muleshoe",
+        "zip": "79347",
+        "lat": 34.2265,
+        "lon": -102.7238,
+        "timezone": "America/Chicago",
+        "isp": "Five Area Systems, LLC",
+        "org": "Five Area Systems, LLC",
+        "as": "AS29843 Five Area Systems, LLC",
+        "query": "216.229.112.25",
+        "response_time": 4.008017539978027
     }
 }
