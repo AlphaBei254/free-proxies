@@ -1,37 +1,37 @@
 {
-    "socks5://187.63.9.62:63253": {
+    "socks4://103.221.220.22:45069": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Arraial do Cabo",
-        "zip": "28930",
-        "lat": -22.9634,
-        "lon": -42.0259,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
-        "org": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multi",
-        "as": "AS28658 Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
-        "query": "187.63.9.62",
-        "response_time": 0.9766063690185547
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "SG",
+        "regionName": "Ho Chi Minh",
+        "city": "Ho Chi Minh City",
+        "zip": "700000",
+        "lat": 10.822,
+        "lon": 106.6257,
+        "timezone": "Asia/Ho_Chi_Minh",
+        "isp": "AZDIGI Corporation",
+        "org": "AZDIGI",
+        "as": "AS63760 AZDIGI Corporation",
+        "query": "103.221.220.22",
+        "response_time": 1.0059874057769775
     },
-    "socks4://181.129.74.58:30431": {
+    "socks4://91.92.80.199:4145": {
         "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "ANT",
-        "regionName": "Antioquia",
-        "city": "Medell\u00edn",
-        "zip": "050021",
-        "lat": 6.2529,
-        "lon": -75.5646,
-        "timezone": "America/Bogota",
-        "isp": "EPM Telecomunicaciones S.A. E.S.P.",
-        "org": "EPM Telecomunicaciones S.A. E.S.P",
-        "as": "AS13489 UNE EPM TELECOMUNICACIONES S.A.",
-        "query": "181.129.74.58",
-        "response_time": 1.4985790252685547
+        "country": "Bulgaria",
+        "countryCode": "BG",
+        "region": "16",
+        "regionName": "Plovdiv",
+        "city": "Plovdiv",
+        "zip": "4000",
+        "lat": 42.1513,
+        "lon": 24.7518,
+        "timezone": "Europe/Sofia",
+        "isp": "Netguard LLC",
+        "org": "Netguard LLC",
+        "as": "AS39251 NETGUARD LLC",
+        "query": "91.92.80.199",
+        "response_time": 1.691394567489624
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.377058744430542
+        "response_time": 2.338292360305786
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.664759635925293
+        "response_time": 2.5100901126861572
     }
 }
