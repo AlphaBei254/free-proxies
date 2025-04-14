@@ -1,71 +1,37 @@
 {
-    "http://200.174.198.86:8888": {
+    "socks5://187.63.9.62:63253": {
         "status": "success",
         "country": "Brazil",
         "countryCode": "BR",
         "region": "RJ",
         "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
+        "city": "Arraial do Cabo",
+        "zip": "28930",
+        "lat": -22.9634,
+        "lon": -42.0259,
         "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.213",
-        "response_time": 0.6469521522521973
+        "isp": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
+        "org": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multi",
+        "as": "AS28658 Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
+        "query": "187.63.9.62",
+        "response_time": 0.9766063690185547
     },
-    "socks4://192.141.232.12:33998": {
+    "socks4://181.129.74.58:30431": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "DF",
-        "regionName": "Federal District",
-        "city": "Guar\u00e1",
-        "zip": "",
-        "lat": -15.8068,
-        "lon": -47.9747,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Brasil Central Telecomunica\u00e7\u00e3o",
-        "org": "Brasil Central Telecomunica\u00e7\u00e3o",
-        "as": "AS267495 Brasil Central Telecomunica\u00e7\u00e3o",
-        "query": "192.141.232.130",
-        "response_time": 0.7809710502624512
-    },
-    "socks5://193.122.123.43:28080": {
-        "status": "success",
-        "country": "South Korea",
-        "countryCode": "KR",
-        "region": "11",
-        "regionName": "Seoul",
-        "city": "Seoul",
-        "zip": "02878",
-        "lat": 37.5985,
-        "lon": 126.9783,
-        "timezone": "Asia/Seoul",
-        "isp": "Oracle Corporation",
-        "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
-        "as": "AS31898 Oracle Corporation",
-        "query": "193.122.123.43",
-        "response_time": 1.123600721359253
-    },
-    "socks4://193.122.123.43:28080": {
-        "status": "success",
-        "country": "South Korea",
-        "countryCode": "KR",
-        "region": "11",
-        "regionName": "Seoul",
-        "city": "Seoul",
-        "zip": "02878",
-        "lat": 37.5985,
-        "lon": 126.9783,
-        "timezone": "Asia/Seoul",
-        "isp": "Oracle Corporation",
-        "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
-        "as": "AS31898 Oracle Corporation",
-        "query": "193.122.123.43",
-        "response_time": 1.950772762298584
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "ANT",
+        "regionName": "Antioquia",
+        "city": "Medell\u00edn",
+        "zip": "050021",
+        "lat": 6.2529,
+        "lon": -75.5646,
+        "timezone": "America/Bogota",
+        "isp": "EPM Telecomunicaciones S.A. E.S.P.",
+        "org": "EPM Telecomunicaciones S.A. E.S.P",
+        "as": "AS13489 UNE EPM TELECOMUNICACIONES S.A.",
+        "query": "181.129.74.58",
+        "response_time": 1.4985790252685547
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -82,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.248361349105835
+        "response_time": 2.377058744430542
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -99,6 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4709761142730713
+        "response_time": 2.664759635925293
     }
 }
