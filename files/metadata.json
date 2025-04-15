@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.32793617248535156
+        "response_time": 2.3372015953063965
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,23 +31,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.7759232521057129
+        "response_time": 2.622652053833008
     },
-    "http://47.251.43.115:33333": {
+    "socks4://163.172.134.29:16379": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "CA",
-        "regionName": "California",
-        "city": "Santa Clara",
-        "zip": "95052",
-        "lat": 37.353,
-        "lon": -121.9544,
-        "timezone": "America/Los_Angeles",
-        "isp": "Alibaba Cloud LLC",
-        "org": "ALICLOUD-US",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "47.251.43.115",
-        "response_time": 2.040062189102173
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BB",
+        "regionName": "Brandenburg",
+        "city": "Brandenburg",
+        "zip": "14621",
+        "lat": 52.6171,
+        "lon": 13.1207,
+        "timezone": "Europe/Berlin",
+        "isp": "Stiftung Erneuerbare Freiheit",
+        "org": "ForPrivacyNET",
+        "as": "AS60729 Stiftung Erneuerbare Freiheit",
+        "query": "185.220.101.48",
+        "response_time": 5.366820812225342
     }
 }
