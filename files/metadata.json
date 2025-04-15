@@ -1,21 +1,4 @@
 {
-    "socks5://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.6489138603210449
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,23 +14,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.396289348602295
+        "response_time": 0.32793617248535156
     },
-    "socks4://177.136.124.36:3629": {
+    "socks5://45.140.143.77:18080": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "BA",
-        "regionName": "Bahia",
-        "city": "Salvador",
-        "zip": "40000",
-        "lat": -12.8665,
-        "lon": -38.4858,
-        "timezone": "America/Bahia",
-        "isp": "ITS TELECOMUNICACOES LTDA",
-        "org": "ITS TELECOMUNICACOES LTDA",
-        "as": "AS28186 ITS TELECOMUNICACOES LTDA",
-        "query": "177.136.124.36",
-        "response_time": 2.9384028911590576
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.7759232521057129
+    },
+    "http://47.251.43.115:33333": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "Santa Clara",
+        "zip": "95052",
+        "lat": 37.353,
+        "lon": -121.9544,
+        "timezone": "America/Los_Angeles",
+        "isp": "Alibaba Cloud LLC",
+        "org": "ALICLOUD-US",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "47.251.43.115",
+        "response_time": 2.040062189102173
     }
 }
