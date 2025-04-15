@@ -1,20 +1,54 @@
 {
-    "socks4://170.78.211.161:1080": {
+    "http://113.160.132.195:8080": {
         "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.22792792320251465
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "66",
+        "regionName": "H\u01b0ng Y\u00ean Province",
+        "city": "B\u1ea9n Y\u00ean Nh\u00e2n",
+        "zip": "",
+        "lat": 20.9365,
+        "lon": 106.057,
+        "timezone": "Asia/Bangkok",
+        "isp": "VietNam Post and Telecom Corporation",
+        "org": "Vietnam Posts and Telecommunications Group",
+        "as": "AS45899 VNPT Corp",
+        "query": "113.160.132.195",
+        "response_time": 0.8183255195617676
+    },
+    "socks4://195.230.26.231:60606": {
+        "status": "success",
+        "country": "Bulgaria",
+        "countryCode": "BG",
+        "region": "13",
+        "regionName": "Pazardzhik",
+        "city": "Ivaylo",
+        "zip": "4407",
+        "lat": 42.218,
+        "lon": 24.3384,
+        "timezone": "Europe/Sofia",
+        "isp": "Novatech EOOD",
+        "org": "Setcom Ltd.",
+        "as": "AS49072 Novatech EOOD",
+        "query": "195.230.26.231",
+        "response_time": 0.8909783363342285
+    },
+    "socks4://14.241.182.44:5678": {
+        "status": "success",
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "CT",
+        "regionName": "Can Tho",
+        "city": "Qu\u1eadn Ninh Ki\u1ec1u",
+        "zip": "090000",
+        "lat": 10.0323,
+        "lon": 105.7639,
+        "timezone": "Asia/Ho_Chi_Minh",
+        "isp": "VNPT",
+        "org": "Vietnam Posts and Telecommunications Group",
+        "as": "AS45899 VNPT Corp",
+        "query": "14.241.182.44",
+        "response_time": 2.051165819168091
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 1.2193927764892578
-    },
-    "http://113.160.132.195:8080": {
-        "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "66",
-        "regionName": "H\u01b0ng Y\u00ean Province",
-        "city": "B\u1ea9n Y\u00ean Nh\u00e2n",
-        "zip": "",
-        "lat": 20.9365,
-        "lon": 106.057,
-        "timezone": "Asia/Bangkok",
-        "isp": "VietNam Post and Telecom Corporation",
-        "org": "Vietnam Posts and Telecommunications Group",
-        "as": "AS45899 VNPT Corp",
-        "query": "113.160.132.195",
-        "response_time": 1.2967562675476074
+        "response_time": 2.3765788078308105
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +82,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.6227126121520996
-    },
-    "socks5://163.172.132.115:16379": {
-        "status": "success",
-        "country": "Hong Kong",
-        "countryCode": "HK",
-        "region": "",
-        "regionName": "Kowloon",
-        "city": "Hong Kong",
-        "zip": "999077",
-        "lat": 22.3193,
-        "lon": 114.169,
-        "timezone": "Asia/Hong_Kong",
-        "isp": "Sakura Link Limited",
-        "org": "Dom Tehniki Ltd",
-        "as": "AS49304 SAKURA LINK LIMITED",
-        "query": "46.232.104.56",
-        "response_time": 5.157094240188599
+        "response_time": 2.6130740642547607
     }
 }
