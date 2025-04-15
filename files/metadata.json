@@ -1,20 +1,20 @@
 {
-    "http://216.229.112.25:8080": {
+    "socks4://97.105.12.186:4153": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
         "region": "TX",
         "regionName": "Texas",
-        "city": "Muleshoe",
-        "zip": "79347",
-        "lat": 34.2265,
-        "lon": -102.7238,
+        "city": "Austin",
+        "zip": "78721",
+        "lat": 30.2775,
+        "lon": -97.6824,
         "timezone": "America/Chicago",
-        "isp": "Five Area Systems, LLC",
-        "org": "Five Area Systems, LLC",
-        "as": "AS29843 Five Area Systems, LLC",
-        "query": "216.229.112.25",
-        "response_time": 1.866652250289917
+        "isp": "Spectrum",
+        "org": "Royal Express Inc",
+        "as": "AS11427 Charter Communications Inc",
+        "query": "97.105.12.186",
+        "response_time": 1.2220044136047363
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3939075469970703
-    },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.40",
-        "response_time": 2.5526981353759766
+        "response_time": 2.2267062664031982
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +48,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.712446689605713
+        "response_time": 2.430572986602783
+    },
+    "http://216.229.112.25:8080": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Muleshoe",
+        "zip": "79347",
+        "lat": 34.2265,
+        "lon": -102.7238,
+        "timezone": "America/Chicago",
+        "isp": "Five Area Systems, LLC",
+        "org": "Five Area Systems, LLC",
+        "as": "AS29843 Five Area Systems, LLC",
+        "query": "216.229.112.25",
+        "response_time": 2.7391457557678223
+    },
+    "http://222.174.178.122:4999": {
+        "status": "success",
+        "country": "China",
+        "countryCode": "CN",
+        "region": "SD",
+        "regionName": "Shandong",
+        "city": "Jinan",
+        "zip": "250000",
+        "lat": 36.6683,
+        "lon": 117.021,
+        "timezone": "Asia/Shanghai",
+        "isp": "Chinanet",
+        "org": "Chinanet SD",
+        "as": "AS4134 CHINANET-BACKBONE",
+        "query": "222.174.178.122",
+        "response_time": 3.1771914958953857
     }
 }
