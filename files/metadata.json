@@ -1,71 +1,37 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.2247929573059082
-    },
-    "http://65.108.159.129:8081": {
-        "status": "success",
-        "country": "Finland",
-        "countryCode": "FI",
-        "region": "18",
-        "regionName": "Uusimaa",
-        "city": "Helsinki",
-        "zip": "00201",
-        "lat": 60.1719,
-        "lon": 24.9347,
-        "timezone": "Europe/Helsinki",
-        "isp": "Hetzner Online GmbH",
-        "org": "Hetzner Online GmbH",
-        "as": "AS24940 Hetzner Online GmbH",
-        "query": "65.108.159.129",
-        "response_time": 0.31336474418640137
-    },
-    "socks4://64.49.67.164:5678": {
+    "http://4.155.2.13:80": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
-        "region": "NY",
-        "regionName": "New York",
-        "city": "New York",
-        "zip": "10118",
-        "lat": 40.7126,
-        "lon": -74.0066,
-        "timezone": "America/New_York",
-        "isp": "WNET TELECOM USA Corp.",
-        "org": "Everest Broadband Networks",
-        "as": "AS1820 WNET TELECOM USA Corp.",
-        "query": "64.49.67.164",
-        "response_time": 2.15568208694458
+        "region": "WA",
+        "regionName": "Washington",
+        "city": "Quincy",
+        "zip": "98848",
+        "lat": 47.233,
+        "lon": -119.852,
+        "timezone": "America/Los_Angeles",
+        "isp": "Microsoft Corporation",
+        "org": "Microsoft Azure Cloud (westus2)",
+        "as": "AS8075 Microsoft Corporation",
+        "query": "4.155.2.13",
+        "response_time": 0.4639251232147217
     },
-    "http://45.87.68.5:15321": {
+    "socks5://170.106.151.187:42576": {
         "status": "success",
-        "country": "Germany",
-        "countryCode": "DE",
-        "region": "HE",
-        "regionName": "Hesse",
-        "city": "Frankfurt am Main",
-        "zip": "60313",
-        "lat": 50.1109,
-        "lon": 8.68213,
-        "timezone": "Europe/Berlin",
-        "isp": "Cogent Communications",
-        "org": "InternetINFrankfurt",
-        "as": "AS174 Cogent Communications",
-        "query": "45.87.68.5",
-        "response_time": 2.2923648357391357
+        "country": "United States",
+        "countryCode": "US",
+        "region": "WA",
+        "regionName": "Washington",
+        "city": "Bellevue",
+        "zip": "98015",
+        "lat": 47.6104,
+        "lon": -122.201,
+        "timezone": "America/Los_Angeles",
+        "isp": "AT&T Enterprises, LLC",
+        "org": "AT&T Enterprises, LLC",
+        "as": "AS7018 AT&T Enterprises, LLC",
+        "query": "107.122.81.12",
+        "response_time": 2.2078135013580322
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -82,7 +48,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.418304204940796
+        "response_time": 2.3339405059814453
+    },
+    "http://216.229.112.25:8080": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Muleshoe",
+        "zip": "79347",
+        "lat": 34.2265,
+        "lon": -102.7238,
+        "timezone": "America/Chicago",
+        "isp": "Five Area Systems, LLC",
+        "org": "Five Area Systems, LLC",
+        "as": "AS29843 Five Area Systems, LLC",
+        "query": "216.229.112.25",
+        "response_time": 2.391115665435791
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -99,6 +82,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5683939456939697
+        "response_time": 2.459446668624878
     }
 }
