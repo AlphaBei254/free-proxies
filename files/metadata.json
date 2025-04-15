@@ -1,21 +1,4 @@
 {
-    "socks5://170.106.151.187:42576": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "WA",
-        "regionName": "Washington",
-        "city": "Bellevue",
-        "zip": "98015",
-        "lat": 47.6104,
-        "lon": -122.201,
-        "timezone": "America/Los_Angeles",
-        "isp": "AT&T Enterprises, LLC",
-        "org": "AT&T Enterprises, LLC",
-        "as": "AS7018 AT&T Enterprises, LLC",
-        "query": "107.122.81.12",
-        "response_time": 0.43561887741088867
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,24 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 1.269252061843872
+        "response_time": 0.2966885566711426
     },
-    "socks5://103.174.178.140:2016": {
+    "http://128.140.113.110:3128": {
         "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JI",
-        "regionName": "East Java",
-        "city": "Jember",
-        "zip": "",
-        "lat": -8.19301,
-        "lon": 113.707,
-        "timezone": "Asia/Jakarta",
-        "isp": "PT Gasatek Bintang Nusantara",
-        "org": "",
-        "as": "AS139418 PT Gasatek Bintang Nusantara",
-        "query": "103.174.178.140",
-        "response_time": 1.3089163303375244
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "SN",
+        "regionName": "Saxony",
+        "city": "Falkenstein",
+        "zip": "08223",
+        "lat": 50.4777,
+        "lon": 12.3649,
+        "timezone": "Europe/Berlin",
+        "isp": "Hetzner Online GmbH",
+        "org": "Hetzner Online GmbH",
+        "as": "AS24940 Hetzner Online GmbH",
+        "query": "128.140.113.110",
+        "response_time": 0.3222057819366455
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,40 +48,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4454190731048584
+        "response_time": 0.6095008850097656
     },
-    "socks4://190.144.224.182:44550": {
+    "socks4://163.172.128.222:16379": {
         "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "DC",
-        "regionName": "Bogota D.C.",
-        "city": "Bogot\u00e1",
-        "zip": "111621",
-        "lat": 4.6043,
-        "lon": -74.1226,
-        "timezone": "America/Bogota",
-        "isp": "Telmex Colombia S.A.",
-        "org": "Telmex Colombia S.A.",
-        "as": "AS14080 Telmex Colombia S.A.",
-        "query": "190.144.224.182",
-        "response_time": 2.658886671066284
-    },
-    "socks4://163.172.134.29:16379": {
-        "status": "success",
-        "country": "Germany",
-        "countryCode": "DE",
-        "region": "BB",
-        "regionName": "Brandenburg",
-        "city": "Brandenburg",
-        "zip": "14621",
-        "lat": 52.6171,
-        "lon": 13.1207,
-        "timezone": "Europe/Berlin",
-        "isp": "Stiftung Erneuerbare Freiheit",
-        "org": "Digitalcourage e.V",
-        "as": "AS60729 Stiftung Erneuerbare Freiheit",
-        "query": "185.220.101.106",
-        "response_time": 3.8722989559173584
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1012",
+        "lat": 52.3676,
+        "lon": 4.90414,
+        "timezone": "Europe/Amsterdam",
+        "isp": "Surf B.V.",
+        "org": "Nothing to hide",
+        "as": "AS1101 SURF B.V.",
+        "query": "192.42.116.215",
+        "response_time": 2.7865610122680664
     }
 }
