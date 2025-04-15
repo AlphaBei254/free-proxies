@@ -1,21 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78117",
-        "lat": 22.111,
-        "lon": -100.9464,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.23166227340698242
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.33477139472961426
+        "response_time": 0.26209497451782227
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5646250247955322
+        "response_time": 0.5107858180999756
     },
     "http://200.174.198.86:8888": {
         "status": "success",
@@ -64,8 +47,25 @@
         "isp": "Claro S.A",
         "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
         "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.122",
-        "response_time": 0.6307632923126221
+        "query": "200.174.198.215",
+        "response_time": 0.5567517280578613
+    },
+    "socks4://166.62.121.102:45886": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "AZ",
+        "regionName": "Arizona",
+        "city": "Tempe",
+        "zip": "85284",
+        "lat": 33.3359,
+        "lon": -111.894,
+        "timezone": "America/Phoenix",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "166.62.121.102",
+        "response_time": 1.1402242183685303
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,6 +82,23 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.4410371780395508
+        "response_time": 1.2120397090911865
+    },
+    "socks5://170.233.30.33:4153": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "Z",
+        "regionName": "Santa Cruz",
+        "city": "R\u00edo Gallegos",
+        "zip": "9400",
+        "lat": -51.6233,
+        "lon": -69.216,
+        "timezone": "America/Argentina/Rio_Gallegos",
+        "isp": "Sebastian Souto",
+        "org": "Sebastian Souto",
+        "as": "AS264738 Sebastian Souto (SSSERVICIOS)",
+        "query": "170.233.30.33",
+        "response_time": 1.2132811546325684
     }
 }
