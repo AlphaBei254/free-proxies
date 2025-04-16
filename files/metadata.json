@@ -1,4 +1,55 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.22985124588012695
+    },
+    "socks4://201.148.125.126:4153": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "city": "Santa Helena de Goi\u00e1s",
+        "zip": "73930",
+        "lat": -17.8136,
+        "lon": -50.5969,
+        "timezone": "America/Sao_Paulo",
+        "isp": "America-NET Ltda.",
+        "org": "America-NET Ltda",
+        "as": "AS61844 America-NET Ltda.",
+        "query": "201.148.125.126",
+        "response_time": 0.7864277362823486
+    },
+    "socks4://183.80.130.10:4145": {
+        "status": "success",
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "HN",
+        "regionName": "Hanoi",
+        "city": "Hanoi",
+        "zip": "100000",
+        "lat": 21.0184,
+        "lon": 105.8461,
+        "timezone": "Asia/Bangkok",
+        "isp": "Vietnam Internet Network Information Center",
+        "org": "",
+        "as": "AS18403 FPT Telecom Company",
+        "query": "183.80.130.10",
+        "response_time": 2.078688144683838
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.287470817565918
+        "response_time": 2.2715625762939453
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,23 +82,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4439966678619385
+        "response_time": 2.4630002975463867
     },
-    "socks4://203.174.26.137:4153": {
+    "http://216.229.112.25:8080": {
         "status": "success",
-        "country": "Mongolia",
-        "countryCode": "MN",
-        "region": "057",
-        "regionName": "Dzavhan Aymag",
-        "city": "Altay",
-        "zip": "",
-        "lat": 49.7061,
-        "lon": 96.3594,
-        "timezone": "Asia/Hovd",
-        "isp": "Gemnet",
-        "org": "Gemnet",
-        "as": "AS45204 GEMNET LLC",
-        "query": "180.149.95.214",
-        "response_time": 2.624805450439453
+        "country": "United States",
+        "countryCode": "US",
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Muleshoe",
+        "zip": "79347",
+        "lat": 34.2265,
+        "lon": -102.7238,
+        "timezone": "America/Chicago",
+        "isp": "Five Area Systems, LLC",
+        "org": "Five Area Systems, LLC",
+        "as": "AS29843 Five Area Systems, LLC",
+        "query": "216.229.112.25",
+        "response_time": 5.084122180938721
     }
 }
