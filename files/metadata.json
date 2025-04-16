@@ -1,20 +1,37 @@
 {
-    "socks4://85.116.120.106:3629": {
+    "socks4://172.233.14.116:1080": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "CHE",
-        "regionName": "Chelyabinsk Oblast",
-        "city": "Chelyabinsk",
-        "zip": "454082",
-        "lat": 55.1644,
-        "lon": 61.4368,
-        "timezone": "Asia/Yekaterinburg",
-        "isp": "JSC \"Uralsvyazinform\" Chelyabinsk",
-        "org": "",
-        "as": "AS12389 PJSC Rostelecom",
-        "query": "85.116.120.106",
-        "response_time": 1.135218858718872
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 1.278210163116455
+    },
+    "http://216.229.112.25:8080": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Muleshoe",
+        "zip": "79347",
+        "lat": 34.2265,
+        "lon": -102.7238,
+        "timezone": "America/Chicago",
+        "isp": "Five Area Systems, LLC",
+        "org": "Five Area Systems, LLC",
+        "as": "AS29843 Five Area Systems, LLC",
+        "query": "216.229.112.25",
+        "response_time": 1.4780592918395996
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2851126194000244
-    },
-    "socks4://172.233.14.116:1080": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 2.348113536834717
+        "response_time": 2.3290557861328125
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.430175542831421
-    },
-    "socks4://195.230.26.231:60606": {
-        "status": "success",
-        "country": "Bulgaria",
-        "countryCode": "BG",
-        "region": "13",
-        "regionName": "Pazardzhik",
-        "city": "Ivaylo",
-        "zip": "4407",
-        "lat": 42.218,
-        "lon": 24.3384,
-        "timezone": "Europe/Sofia",
-        "isp": "Novatech EOOD",
-        "org": "Setcom Ltd.",
-        "as": "AS49072 Novatech EOOD",
-        "query": "195.230.26.231",
-        "response_time": 2.6837854385375977
+        "response_time": 2.4916300773620605
     }
 }
