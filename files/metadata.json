@@ -1,4 +1,21 @@
 {
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.175",
+        "response_time": 2.0631320476531982
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2753636837005615
-    },
-    "socks5://103.158.253.162:8199": {
-        "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta",
-        "zip": "12850",
-        "lat": -6.2114,
-        "lon": 106.8446,
-        "timezone": "Asia/Jakarta",
-        "isp": "Rapid Network",
-        "org": "",
-        "as": "AS141137 PT Media Cepat Indonesia",
-        "query": "103.158.253.162",
-        "response_time": 2.2370755672454834
+        "response_time": 2.27069091796875
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +48,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4783172607421875
+        "response_time": 2.442624092102051
     },
-    "http://216.229.112.25:8080": {
+    "socks4://104.128.103.32:64312": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
-        "region": "TX",
-        "regionName": "Texas",
-        "city": "Muleshoe",
-        "zip": "79347",
-        "lat": 34.2265,
-        "lon": -102.7238,
-        "timezone": "America/Chicago",
-        "isp": "Five Area Systems, LLC",
-        "org": "Five Area Systems, LLC",
-        "as": "AS29843 Five Area Systems, LLC",
-        "query": "216.229.112.25",
-        "response_time": 3.075819253921509
+        "region": "HI",
+        "regionName": "Hawaii",
+        "city": "Honolulu",
+        "zip": "96813",
+        "lat": 21.3195,
+        "lon": -157.8525,
+        "timezone": "Pacific/Honolulu",
+        "isp": "Dialogix Telecom",
+        "org": "Hawaii Dialogix Telecom LLC",
+        "as": "AS19233 Dialogix Telecom",
+        "query": "104.128.103.32",
+        "response_time": 2.547363519668579
+    },
+    "socks4://212.47.248.107:16379": {
+        "status": "success",
+        "country": "Antarctica",
+        "countryCode": "AQ",
+        "region": "",
+        "regionName": "",
+        "city": "Kunlun",
+        "zip": "",
+        "lat": -72.0114,
+        "lon": 2.535,
+        "timezone": "Antarctica/Vostok",
+        "isp": "QuxLabs AB",
+        "org": "R0CKET-CLOUD",
+        "as": "AS214503 QuxLabs AB",
+        "query": "45.84.107.128",
+        "response_time": 4.751508712768555
     }
 }
