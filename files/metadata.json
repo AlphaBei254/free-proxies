@@ -1,20 +1,20 @@
 {
-    "socks4://81.12.169.254:4153": {
+    "http://65.108.159.129:8081": {
         "status": "success",
-        "country": "Romania",
-        "countryCode": "RO",
-        "region": "IF",
-        "regionName": "Ilfov",
-        "city": "Otopeni",
-        "zip": "075100",
-        "lat": 44.55,
-        "lon": 26.0724,
-        "timezone": "Europe/Bucharest",
-        "isp": "Vodafone RO",
-        "org": "Vodafone Romania S.A.",
-        "as": "AS12302 Vodafone Romania S.A.",
-        "query": "81.12.169.254",
-        "response_time": 0.47703075408935547
+        "country": "Finland",
+        "countryCode": "FI",
+        "region": "18",
+        "regionName": "Uusimaa",
+        "city": "Helsinki",
+        "zip": "00201",
+        "lat": 60.1719,
+        "lon": 24.9347,
+        "timezone": "Europe/Helsinki",
+        "isp": "Hetzner Online GmbH",
+        "org": "Hetzner Online GmbH",
+        "as": "AS24940 Hetzner Online GmbH",
+        "query": "65.108.159.129",
+        "response_time": 0.31044626235961914
     },
     "http://38.22.17.50:3128": {
         "status": "success",
@@ -31,7 +31,24 @@
         "org": "Cytranet",
         "as": "AS63023 GTHost",
         "query": "38.22.17.50",
-        "response_time": 0.6917035579681396
+        "response_time": 0.3370075225830078
+    },
+    "socks5://103.163.244.106:1080": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "HR",
+        "regionName": "Haryana",
+        "city": "Panipat",
+        "zip": "132103",
+        "lat": 29.3885,
+        "lon": 76.9669,
+        "timezone": "Asia/Kolkata",
+        "isp": "Infolink System",
+        "org": "",
+        "as": "AS132746 Infolink System",
+        "query": "103.163.244.106",
+        "response_time": 1.5898516178131104
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2289607524871826
-    },
-    "socks4://103.229.47.120:4153": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "E",
-        "regionName": "Rajshahi Division",
-        "city": "Mahastan",
-        "zip": "5810",
-        "lat": 24.9611,
-        "lon": 89.3428,
-        "timezone": "Asia/Dhaka",
-        "isp": "MSHELPLINE",
-        "org": "",
-        "as": "AS59340 Help Line",
-        "query": "103.229.47.120",
-        "response_time": 2.3258488178253174
+        "response_time": 2.2760403156280518
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,23 +82,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4058730602264404
+        "response_time": 2.4982972145080566
     },
-    "socks4://202.79.47.194:1080": {
+    "http://222.174.178.122:4999": {
         "status": "success",
-        "country": "Nepal",
-        "countryCode": "NP",
-        "region": "P3",
-        "regionName": "Bagmati Province",
-        "city": "Kathmandu",
-        "zip": "",
-        "lat": 27.7017,
-        "lon": 85.3206,
-        "timezone": "Asia/Kathmandu",
-        "isp": "WorldLink Communications",
-        "org": "",
-        "as": "AS17501 WorldLink Communications Pvt Ltd",
-        "query": "202.79.47.194",
-        "response_time": 3.280266761779785
+        "country": "China",
+        "countryCode": "CN",
+        "region": "SD",
+        "regionName": "Shandong",
+        "city": "Jinan",
+        "zip": "250000",
+        "lat": 36.6683,
+        "lon": 117.021,
+        "timezone": "Asia/Shanghai",
+        "isp": "Chinanet",
+        "org": "Chinanet SD",
+        "as": "AS4134 CHINANET-BACKBONE",
+        "query": "222.174.178.122",
+        "response_time": 4.304284334182739
+    },
+    "socks4://162.19.107.54:52529": {
+        "status": "success",
+        "country": "France",
+        "countryCode": "FR",
+        "region": "HDF",
+        "regionName": "Hauts-de-France",
+        "city": "Wattrelos",
+        "zip": "59150",
+        "lat": 50.7012,
+        "lon": 3.21501,
+        "timezone": "Europe/Paris",
+        "isp": "OVH SAS",
+        "org": "OVH",
+        "as": "AS16276 OVH SAS",
+        "query": "162.19.107.54",
+        "response_time": 4.925287961959839
     }
 }
