@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.292330265045166
+        "response_time": 2.287470817565918
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,57 +31,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.7762627601623535
+        "response_time": 2.4439966678619385
     },
-    "socks4://31.172.133.253:4153": {
+    "socks4://203.174.26.137:4153": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "STA",
-        "regionName": "Stavropol Kray",
-        "city": "Pyatigorsk",
-        "zip": "357500",
-        "lat": 44.0499,
-        "lon": 43.0396,
-        "timezone": "Europe/Moscow",
-        "isp": "KMVtelecom Stavropol IP",
-        "org": "",
-        "as": "AS44963 Stavtelecom LLC",
-        "query": "31.172.133.253",
-        "response_time": 2.9082775115966797
-    },
-    "socks4://122.15.255.229:60606": {
-        "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "WB",
-        "regionName": "West Bengal",
-        "city": "Kolkata",
-        "zip": "700095",
-        "lat": 22.5643,
-        "lon": 88.3693,
-        "timezone": "Asia/Kolkata",
-        "isp": "VODAFONE-STATIC",
-        "org": "",
-        "as": "AS55410 Vodafone Idea Ltd",
-        "query": "122.15.255.229",
-        "response_time": 2.9602737426757812
-    },
-    "socks5://46.10.229.243:7777": {
-        "status": "success",
-        "country": "Bulgaria",
-        "countryCode": "BG",
-        "region": "16",
-        "regionName": "Plovdiv",
-        "city": "Plovdiv",
-        "zip": "4000",
-        "lat": 42.1513,
-        "lon": 24.7518,
-        "timezone": "Europe/Sofia",
-        "isp": "Vivacom Bulgaria EAD",
-        "org": "Vivacom Bulgaria EAD",
-        "as": "AS8866 Vivacom Bulgaria EAD",
-        "query": "46.10.229.243",
-        "response_time": 3.026172637939453
+        "country": "Mongolia",
+        "countryCode": "MN",
+        "region": "057",
+        "regionName": "Dzavhan Aymag",
+        "city": "Altay",
+        "zip": "",
+        "lat": 49.7061,
+        "lon": 96.3594,
+        "timezone": "Asia/Hovd",
+        "isp": "Gemnet",
+        "org": "Gemnet",
+        "as": "AS45204 GEMNET LLC",
+        "query": "180.149.95.214",
+        "response_time": 2.624805450439453
     }
 }
