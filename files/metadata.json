@@ -1,37 +1,71 @@
 {
-    "socks4://170.78.211.161:1080": {
+    "socks4://202.51.124.166:1080": {
         "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.22317767143249512
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JK",
+        "regionName": "Jakarta",
+        "city": "Jakarta",
+        "zip": "",
+        "lat": -6.1967,
+        "lon": 106.822,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT iForte Global Internet",
+        "org": "",
+        "as": "AS17995 PT iForte Global Internet",
+        "query": "202.51.124.166",
+        "response_time": 0.94217848777771
     },
-    "socks4://122.15.255.229:60606": {
+    "socks4://103.197.32.205:5678": {
         "status": "success",
         "country": "India",
         "countryCode": "IN",
-        "region": "WB",
-        "regionName": "West Bengal",
-        "city": "Kolkata",
-        "zip": "700095",
-        "lat": 22.5643,
-        "lon": 88.3693,
+        "region": "TN",
+        "regionName": "Tamil Nadu",
+        "city": "Perambalur",
+        "zip": "621212",
+        "lat": 11.2269,
+        "lon": 78.885,
         "timezone": "Asia/Kolkata",
-        "isp": "VODAFONE-STATIC",
-        "org": "",
-        "as": "AS55410 Vodafone Idea Ltd",
-        "query": "122.15.255.229",
-        "response_time": 0.8323168754577637
+        "isp": "ZERONE Networks pvt ltd",
+        "org": "ZERONE Networks pvt ltd",
+        "as": "AS134260 ZERONE Networks pvt ltd",
+        "query": "103.197.32.205",
+        "response_time": 1.1987876892089844
+    },
+    "socks4://51.158.125.47:16379": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1012",
+        "lat": 52.3676,
+        "lon": 4.90414,
+        "timezone": "Europe/Amsterdam",
+        "isp": "Surf B.V.",
+        "org": "Nothing to hide",
+        "as": "AS1101 SURF B.V.",
+        "query": "192.42.116.218",
+        "response_time": 2.1343562602996826
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.8",
+        "response_time": 2.237926721572876
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +82,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5449469089508057
+        "response_time": 2.5851707458496094
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +99,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.079983711242676
+        "response_time": 3.063706874847412
+    },
+    "socks5://163.172.128.222:16379": {
+        "status": "success",
+        "country": "Antarctica",
+        "countryCode": "AQ",
+        "region": "",
+        "regionName": "",
+        "city": "Kunlun",
+        "zip": "",
+        "lat": -72.0114,
+        "lon": 2.535,
+        "timezone": "Antarctica/Vostok",
+        "isp": "QuxLabs AB",
+        "org": "R0CKET-CLOUD",
+        "as": "AS214503 QuxLabs AB",
+        "query": "45.84.107.101",
+        "response_time": 5.032672166824341
     }
 }
