@@ -1,55 +1,4 @@
 {
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.241",
-        "response_time": 0.6571121215820312
-    },
-    "socks5://46.10.229.243:7777": {
-        "status": "success",
-        "country": "Bulgaria",
-        "countryCode": "BG",
-        "region": "16",
-        "regionName": "Plovdiv",
-        "city": "Plovdiv",
-        "zip": "4000",
-        "lat": 42.1513,
-        "lon": 24.7518,
-        "timezone": "Europe/Sofia",
-        "isp": "Vivacom Bulgaria EAD",
-        "org": "Vivacom Bulgaria EAD",
-        "as": "AS8866 Vivacom Bulgaria EAD",
-        "query": "46.10.229.243",
-        "response_time": 1.1573901176452637
-    },
-    "socks5://103.163.244.106:1080": {
-        "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "HR",
-        "regionName": "Haryana",
-        "city": "Panipat",
-        "zip": "132103",
-        "lat": 29.3885,
-        "lon": 76.9669,
-        "timezone": "Asia/Kolkata",
-        "isp": "Infolink System",
-        "org": "",
-        "as": "AS132746 Infolink System",
-        "query": "103.163.244.106",
-        "response_time": 1.6631853580474854
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -65,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5874133110046387
+        "response_time": 2.578122854232788
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +31,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.1892006397247314
+        "response_time": 3.107238292694092
     }
 }
