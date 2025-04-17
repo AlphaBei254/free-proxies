@@ -1,4 +1,21 @@
 {
+    "http://38.22.17.50:3128": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "GA",
+        "regionName": "Georgia",
+        "city": "Atlanta",
+        "zip": "",
+        "lat": 33.7489,
+        "lon": -84.3879,
+        "timezone": "America/New_York",
+        "isp": "GTHost",
+        "org": "Cytranet",
+        "as": "AS63023 GTHost",
+        "query": "38.22.17.50",
+        "response_time": 0.30727434158325195
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3272666931152344
+        "response_time": 0.4125993251800537
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,6 +48,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.676650047302246
+        "response_time": 0.6435174942016602
+    },
+    "socks4://138.68.21.132:45793": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "Santa Clara",
+        "zip": "95051",
+        "lat": 37.3419,
+        "lon": -121.9754,
+        "timezone": "America/Los_Angeles",
+        "isp": "DigitalOcean, LLC",
+        "org": "DigitalOcean, LLC",
+        "as": "AS14061 DigitalOcean, LLC",
+        "query": "138.68.21.132",
+        "response_time": 3.240938663482666
+    },
+    "socks5://138.68.21.132:45793": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "Santa Clara",
+        "zip": "95051",
+        "lat": 37.3419,
+        "lon": -121.9754,
+        "timezone": "America/Los_Angeles",
+        "isp": "DigitalOcean, LLC",
+        "org": "DigitalOcean, LLC",
+        "as": "AS14061 DigitalOcean, LLC",
+        "query": "138.68.21.132",
+        "response_time": 3.246821880340576
+    },
+    "socks5://163.172.128.222:16379": {
+        "status": "success",
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BB",
+        "regionName": "Brandenburg",
+        "city": "Brandenburg",
+        "zip": "14621",
+        "lat": 52.6171,
+        "lon": 13.1207,
+        "timezone": "Europe/Berlin",
+        "isp": "Stiftung Erneuerbare Freiheit",
+        "org": "Digitalcourage e.V",
+        "as": "AS60729 Stiftung Erneuerbare Freiheit",
+        "query": "185.220.101.99",
+        "response_time": 3.867974281311035
     }
 }
