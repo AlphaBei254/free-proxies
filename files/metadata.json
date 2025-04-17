@@ -1,20 +1,54 @@
 {
-    "socks4://1.4.195.114:4145": {
+    "http://200.174.198.86:8888": {
         "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "10",
-        "regionName": "Bangkok",
-        "city": "Bangkok",
-        "zip": "10240",
-        "lat": 13.7663,
-        "lon": 100.6503,
-        "timezone": "Asia/Bangkok",
-        "isp": "TOT Public Company Limited",
-        "org": "TOT Public Company Limited",
-        "as": "AS23969 TOT Public Company Limited",
-        "query": "1.4.195.114",
-        "response_time": 2.083712339401245
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.241",
+        "response_time": 0.6571121215820312
+    },
+    "socks5://46.10.229.243:7777": {
+        "status": "success",
+        "country": "Bulgaria",
+        "countryCode": "BG",
+        "region": "16",
+        "regionName": "Plovdiv",
+        "city": "Plovdiv",
+        "zip": "4000",
+        "lat": 42.1513,
+        "lon": 24.7518,
+        "timezone": "Europe/Sofia",
+        "isp": "Vivacom Bulgaria EAD",
+        "org": "Vivacom Bulgaria EAD",
+        "as": "AS8866 Vivacom Bulgaria EAD",
+        "query": "46.10.229.243",
+        "response_time": 1.1573901176452637
+    },
+    "socks5://103.163.244.106:1080": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "HR",
+        "regionName": "Haryana",
+        "city": "Panipat",
+        "zip": "132103",
+        "lat": 29.3885,
+        "lon": 76.9669,
+        "timezone": "Asia/Kolkata",
+        "isp": "Infolink System",
+        "org": "",
+        "as": "AS132746 Infolink System",
+        "query": "103.163.244.106",
+        "response_time": 1.6631853580474854
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.27364444732666
+        "response_time": 2.5874133110046387
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +82,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4229626655578613
-    },
-    "socks4://183.88.240.139:4153": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "20",
-        "regionName": "Chon Buri",
-        "city": "Pattaya",
-        "zip": "20150",
-        "lat": 13.0508,
-        "lon": 100.9367,
-        "timezone": "Asia/Bangkok",
-        "isp": "Triple T Broadband Public Company Limited",
-        "org": "Triple T Broadband Public Company Limited",
-        "as": "AS45758 Triple T Broadband Public Company Limited",
-        "query": "171.6.79.93",
-        "response_time": 3.2869935035705566
+        "response_time": 3.1892006397247314
     }
 }
