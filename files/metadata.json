@@ -1,20 +1,20 @@
 {
-    "http://65.108.159.129:8081": {
+    "socks5://103.163.244.106:1080": {
         "status": "success",
-        "country": "Finland",
-        "countryCode": "FI",
-        "region": "18",
-        "regionName": "Uusimaa",
-        "city": "Helsinki",
-        "zip": "00201",
-        "lat": 60.1719,
-        "lon": 24.9347,
-        "timezone": "Europe/Helsinki",
-        "isp": "Hetzner Online GmbH",
-        "org": "Hetzner Online GmbH",
-        "as": "AS24940 Hetzner Online GmbH",
-        "query": "65.108.159.129",
-        "response_time": 0.31134772300720215
+        "country": "India",
+        "countryCode": "IN",
+        "region": "HR",
+        "regionName": "Haryana",
+        "city": "Panipat",
+        "zip": "132103",
+        "lat": 29.3885,
+        "lon": 76.9669,
+        "timezone": "Asia/Kolkata",
+        "isp": "Infolink System",
+        "org": "",
+        "as": "AS132746 Infolink System",
+        "query": "103.163.244.106",
+        "response_time": 1.4938201904296875
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.314883232116699
+        "response_time": 2.2982959747314453
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,57 +48,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.530060291290283
+        "response_time": 2.4722838401794434
     },
-    "socks5://46.10.229.243:7777": {
+    "socks4://103.189.234.161:1080": {
         "status": "success",
-        "country": "Bulgaria",
-        "countryCode": "BG",
-        "region": "16",
-        "regionName": "Plovdiv",
-        "city": "Plovdiv",
-        "zip": "4000",
-        "lat": 42.1513,
-        "lon": 24.7518,
-        "timezone": "Europe/Sofia",
-        "isp": "Vivacom Bulgaria EAD",
-        "org": "Vivacom Bulgaria EAD",
-        "as": "AS8866 Vivacom Bulgaria EAD",
-        "query": "46.10.229.243",
-        "response_time": 3.0382158756256104
-    },
-    "socks4://183.80.130.10:4145": {
-        "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "HN",
-        "regionName": "Hanoi",
-        "city": "Hanoi",
-        "zip": "100000",
-        "lat": 21.0184,
-        "lon": 105.8461,
-        "timezone": "Asia/Bangkok",
-        "isp": "Vietnam Internet Network Information Center",
-        "org": "",
-        "as": "AS18403 FPT Telecom Company",
-        "query": "183.80.130.10",
-        "response_time": 3.099647045135498
-    },
-    "socks5://185.35.130.16:61212": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "IN",
-        "regionName": "Ingushetiya Republic",
-        "city": "Nazran",
-        "zip": "386000",
-        "lat": 43.2286,
-        "lon": 44.7819,
-        "timezone": "Europe/Moscow",
-        "isp": "Plazmatelekom LLC",
-        "org": "PLAZMA Static IPs",
-        "as": "AS62440 PLAZMATELEKOM LLC",
-        "query": "185.35.130.16",
-        "response_time": 3.1423122882843018
+        "country": "Singapore",
+        "countryCode": "SG",
+        "region": "01",
+        "regionName": "Central Singapore",
+        "city": "Singapore",
+        "zip": "079903",
+        "lat": 1.2757,
+        "lon": 103.846,
+        "timezone": "Asia/Singapore",
+        "isp": "Cloud Host Pte Ltd",
+        "org": "Cloud Host Pte Ltd",
+        "as": "AS138608 Cloud Host Pte Ltd",
+        "query": "103.189.234.161",
+        "response_time": 3.1693036556243896
     }
 }
