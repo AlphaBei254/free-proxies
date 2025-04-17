@@ -1,4 +1,38 @@
 {
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 0.7234387397766113
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.40",
+        "response_time": 1.8349511623382568
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,24 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.6026649475097656
-    },
-    "socks4://103.229.83.106:6789": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1208",
-        "lat": 23.7643,
-        "lon": 90.4155,
-        "timezone": "Asia/Dhaka",
-        "isp": "Fiber@Home Global Limited",
-        "org": "Bismillah Telecom",
-        "as": "AS10075 Fiber@Home Global Limited",
-        "query": "103.131.156.90",
-        "response_time": 3.099043130874634
+        "response_time": 2.5613794326782227
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.1075377464294434
+        "response_time": 3.071275472640991
+    },
+    "socks4://49.87.154.98:10800": {
+        "status": "success",
+        "country": "China",
+        "countryCode": "CN",
+        "region": "JS",
+        "regionName": "Jiangsu",
+        "city": "Nanjing",
+        "zip": "210000",
+        "lat": 32.0607,
+        "lon": 118.763,
+        "timezone": "Asia/Shanghai",
+        "isp": "Chinanet",
+        "org": "Chinanet JS",
+        "as": "AS4134 CHINANET-BACKBONE",
+        "query": "49.87.154.98",
+        "response_time": 3.526059627532959
     }
 }
