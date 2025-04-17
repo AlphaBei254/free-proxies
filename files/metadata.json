@@ -1,55 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.2194681167602539
-    },
-    "socks4://37.186.66.36:3629": {
-        "status": "success",
-        "country": "Armenia",
-        "countryCode": "AM",
-        "region": "ER",
-        "regionName": "Yerevan",
-        "city": "Yerevan",
-        "zip": "",
-        "lat": 40.1814,
-        "lon": 44.5102,
-        "timezone": "Asia/Yerevan",
-        "isp": "GNC-Alfa CJSC",
-        "org": "GNC",
-        "as": "AS49800 GNC-Alfa CJSC",
-        "query": "37.186.66.36",
-        "response_time": 1.7516303062438965
-    },
-    "socks4://212.47.235.205:16379": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "IL",
-        "regionName": "Illinois",
-        "city": "Chicago",
-        "zip": "60616",
-        "lat": 41.8486,
-        "lon": -87.6288,
-        "timezone": "America/Chicago",
-        "isp": "DataWagon LLC",
-        "org": "DataWagon, LLC",
-        "as": "AS27176 DataWagon LLC",
-        "query": "172.81.135.157",
-        "response_time": 2.341832160949707
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -65,24 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5411183834075928
+        "response_time": 2.6026649475097656
     },
-    "socks5://103.163.244.106:1080": {
+    "socks4://103.229.83.106:6789": {
         "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "HR",
-        "regionName": "Haryana",
-        "city": "Panipat",
-        "zip": "132103",
-        "lat": 29.3885,
-        "lon": 76.9669,
-        "timezone": "Asia/Kolkata",
-        "isp": "Infolink System",
-        "org": "",
-        "as": "AS132746 Infolink System",
-        "query": "103.163.244.106",
-        "response_time": 2.6277658939361572
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Dhaka",
+        "zip": "1208",
+        "lat": 23.7643,
+        "lon": 90.4155,
+        "timezone": "Asia/Dhaka",
+        "isp": "Fiber@Home Global Limited",
+        "org": "Bismillah Telecom",
+        "as": "AS10075 Fiber@Home Global Limited",
+        "query": "103.131.156.90",
+        "response_time": 3.099043130874634
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -99,23 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.0423672199249268
-    },
-    "socks5://8.218.39.40:10800": {
-        "status": "success",
-        "country": "Hong Kong",
-        "countryCode": "HK",
-        "region": "",
-        "regionName": "Kowloon",
-        "city": "Hong Kong",
-        "zip": "999077",
-        "lat": 22.3193,
-        "lon": 114.169,
-        "timezone": "Asia/Hong_Kong",
-        "isp": "Alibaba (US) Technology Co., Ltd.",
-        "org": "Alibaba.com Singapore E-Commerce Private Limited",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "8.218.39.40",
-        "response_time": 3.1655147075653076
+        "response_time": 3.1075377464294434
     }
 }
