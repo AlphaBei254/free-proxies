@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.18869805335998535
+        "response_time": 0.3272666931152344
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,74 +31,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.47805356979370117
-    },
-    "socks4://110.74.195.152:1080": {
-        "status": "success",
-        "country": "Cambodia",
-        "countryCode": "KH",
-        "region": "12",
-        "regionName": "Phnom Penh",
-        "city": "Phnom Penh",
-        "zip": "",
-        "lat": 11.5583,
-        "lon": 104.9121,
-        "timezone": "Asia/Phnom_Penh",
-        "isp": "EZECOM CO., LTD.",
-        "org": "EZECOM limited",
-        "as": "AS38901 EZECOM CO., LTD.",
-        "query": "110.74.195.152",
-        "response_time": 1.0811684131622314
-    },
-    "socks4://103.102.142.98:4145": {
-        "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta",
-        "zip": "",
-        "lat": -6.20321,
-        "lon": 106.845,
-        "timezone": "Asia/Jakarta",
-        "isp": "PT. PALAPA RING BARAT",
-        "org": "",
-        "as": "AS136854 PT. PALAPA RING BARAT",
-        "query": "103.102.142.98",
-        "response_time": 2.113776445388794
-    },
-    "http://222.174.178.122:4999": {
-        "status": "success",
-        "country": "China",
-        "countryCode": "CN",
-        "region": "SD",
-        "regionName": "Shandong",
-        "city": "Jinan",
-        "zip": "250000",
-        "lat": 36.6683,
-        "lon": 117.021,
-        "timezone": "Asia/Shanghai",
-        "isp": "Chinanet",
-        "org": "Chinanet SD",
-        "as": "AS4134 CHINANET-BACKBONE",
-        "query": "222.174.178.122",
-        "response_time": 2.787578821182251
-    },
-    "http://110.43.221.121:7088": {
-        "status": "success",
-        "country": "China",
-        "countryCode": "CN",
-        "region": "SH",
-        "regionName": "Shanghai",
-        "city": "Shanghai",
-        "zip": "",
-        "lat": 31.2222,
-        "lon": 121.4581,
-        "timezone": "Asia/Shanghai",
-        "isp": "Tianjij, ",
-        "org": "Chinanet TJ",
-        "as": "AS58542 Tianjij,300000",
-        "query": "42.81.157.160",
-        "response_time": 2.951812744140625
+        "response_time": 2.676650047302246
     }
 }
