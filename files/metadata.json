@@ -1,37 +1,37 @@
 {
-    "http://38.22.17.50:3128": {
+    "http://200.174.198.86:8888": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "GA",
-        "regionName": "Georgia",
-        "city": "Atlanta",
-        "zip": "",
-        "lat": 33.7489,
-        "lon": -84.3879,
-        "timezone": "America/New_York",
-        "isp": "GTHost",
-        "org": "Cytranet",
-        "as": "AS63023 GTHost",
-        "query": "38.22.17.50",
-        "response_time": 0.8440732955932617
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.142",
+        "response_time": 0.7086701393127441
     },
-    "socks4://112.78.39.90:4153": {
+    "socks4://37.186.66.36:3629": {
         "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JT",
-        "regionName": "Central Java",
-        "city": "Semarang",
-        "zip": "50232",
-        "lat": -6.9932,
-        "lon": 110.4215,
-        "timezone": "Asia/Jakarta",
-        "isp": "PT Media Sarana Data",
-        "org": "Gmedia ID Semarang",
-        "as": "AS55666 PT Media Sarana Data",
-        "query": "112.78.39.91",
-        "response_time": 1.0170438289642334
+        "country": "Armenia",
+        "countryCode": "AM",
+        "region": "ER",
+        "regionName": "Yerevan",
+        "city": "Yerevan",
+        "zip": "",
+        "lat": 40.1814,
+        "lon": 44.5102,
+        "timezone": "Asia/Yerevan",
+        "isp": "GNC-Alfa CJSC",
+        "org": "GNC",
+        "as": "AS49800 GNC-Alfa CJSC",
+        "query": "37.186.66.36",
+        "response_time": 2.070007801055908
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +48,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.552910804748535
+        "response_time": 2.5610570907592773
     },
-    "socks5://51.158.113.139:16379": {
+    "http://110.43.221.121:7088": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1012",
-        "lat": 52.3676,
-        "lon": 4.90414,
-        "timezone": "Europe/Amsterdam",
-        "isp": "Surf B.V.",
-        "org": "Nothing to hide",
-        "as": "AS1101 SURF B.V.",
-        "query": "192.42.116.210",
-        "response_time": 2.5601210594177246
+        "country": "China",
+        "countryCode": "CN",
+        "region": "SH",
+        "regionName": "Shanghai",
+        "city": "Shanghai",
+        "zip": "",
+        "lat": 31.2222,
+        "lon": 121.4581,
+        "timezone": "Asia/Shanghai",
+        "isp": "Tianjij, ",
+        "org": "Chinanet TJ",
+        "as": "AS58542 Tianjij,300000",
+        "query": "42.81.157.160",
+        "response_time": 2.942112684249878
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +82,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.1153628826141357
+        "response_time": 3.075666666030884
     }
 }
