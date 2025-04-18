@@ -1,55 +1,4 @@
 {
-    "socks4://118.174.14.65:44336": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "32",
-        "regionName": "Surin",
-        "city": "Tha Tum",
-        "zip": "",
-        "lat": 15.3195,
-        "lon": 103.675,
-        "timezone": "Asia/Bangkok",
-        "isp": "TOT Public Company Limited",
-        "org": "TOT Public Company Limited",
-        "as": "AS23969 TOT Public Company Limited",
-        "query": "118.174.219.120",
-        "response_time": 0.9889566898345947
-    },
-    "socks4://131.161.68.41:35944": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "23045",
-        "lat": -22.9072,
-        "lon": -43.1883,
-        "timezone": "America/Sao_Paulo",
-        "isp": "MS NUNES INFORMA\u00c7\u00c3O TECNOLOGICA LTDA",
-        "org": "MS NUNES INFORMA\u00c7\u00c3O TECNOLOGICA LTDA",
-        "as": "AS264402 MS NUNES INFORMA\u00c7\u00c3O TECNOLOGICA LTDA",
-        "query": "131.161.68.38",
-        "response_time": 1.774306058883667
-    },
-    "socks4://1.4.195.114:4145": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "10",
-        "regionName": "Bangkok",
-        "city": "Bangkok",
-        "zip": "10240",
-        "lat": 13.7663,
-        "lon": 100.6503,
-        "timezone": "Asia/Bangkok",
-        "isp": "TOT Public Company Limited",
-        "org": "TOT Public Company Limited",
-        "as": "AS23969 TOT Public Company Limited",
-        "query": "1.4.195.114",
-        "response_time": 1.8964784145355225
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -65,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.6907927989959717
-    },
-    "socks4://80.92.224.141:5678": {
-        "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "30",
-        "regionName": "Kyiv City",
-        "city": "Kyiv",
-        "zip": "02063",
-        "lat": 50.458,
-        "lon": 30.5303,
-        "timezone": "Europe/Kyiv",
-        "isp": "WNET TELECOM USA Corp.",
-        "org": "LoadMe",
-        "as": "AS1820 WNET TELECOM USA Corp.",
-        "query": "80.92.224.141",
-        "response_time": 2.6729416847229004
+        "response_time": 2.6104440689086914
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -99,6 +31,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.13431715965271
+        "response_time": 3.023223638534546
     }
 }
