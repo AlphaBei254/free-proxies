@@ -1,21 +1,4 @@
 {
-    "http://38.22.17.50:3128": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "GA",
-        "regionName": "Georgia",
-        "city": "Atlanta",
-        "zip": "",
-        "lat": 33.7489,
-        "lon": -84.3879,
-        "timezone": "America/New_York",
-        "isp": "GTHost",
-        "org": "Cytranet",
-        "as": "AS63023 GTHost",
-        "query": "38.22.17.50",
-        "response_time": 0.07938337326049805
-    },
     "socks4://170.78.211.161:1080": {
         "status": "success",
         "country": "Mexico",
@@ -31,58 +14,7 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.25159716606140137
-    },
-    "socks4://195.175.22.194:5678": {
-        "status": "success",
-        "country": "T\u00fcrkiye",
-        "countryCode": "TR",
-        "region": "34",
-        "regionName": "Istanbul",
-        "city": "Istanbul",
-        "zip": "34096",
-        "lat": 41.0145,
-        "lon": 28.9533,
-        "timezone": "Europe/Istanbul",
-        "isp": "Turk Telekomunikasyon A.S",
-        "org": "TTnetTurkTelekom",
-        "as": "AS9121 Turk Telekomunikasyon Anonim Sirketi",
-        "query": "195.175.22.194",
-        "response_time": 1.648024320602417
-    },
-    "socks4://162.19.107.54:52529": {
-        "status": "success",
-        "country": "France",
-        "countryCode": "FR",
-        "region": "HDF",
-        "regionName": "Hauts-de-France",
-        "city": "Wattrelos",
-        "zip": "59150",
-        "lat": 50.7012,
-        "lon": 3.21501,
-        "timezone": "Europe/Paris",
-        "isp": "OVH SAS",
-        "org": "OVH",
-        "as": "AS16276 OVH SAS",
-        "query": "162.19.107.54",
-        "response_time": 1.7407877445220947
-    },
-    "socks4://46.209.115.130:2022": {
-        "status": "success",
-        "country": "Iran",
-        "countryCode": "IR",
-        "region": "23",
-        "regionName": "Tehran",
-        "city": "Tehran",
-        "zip": "",
-        "lat": 35.7219,
-        "lon": 51.3347,
-        "timezone": "Asia/Tehran",
-        "isp": "Respina Networks & Beyond PJSC",
-        "org": "Respina",
-        "as": "AS42337 Respina Networks & Beyond PJSC",
-        "query": "46.209.115.130",
-        "response_time": 1.824390172958374
+        "response_time": 0.23860406875610352
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -99,7 +31,41 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.643040657043457
+        "response_time": 0.5210990905761719
+    },
+    "http://222.174.178.122:4999": {
+        "status": "success",
+        "country": "China",
+        "countryCode": "CN",
+        "region": "SD",
+        "regionName": "Shandong",
+        "city": "Jinan",
+        "zip": "250000",
+        "lat": 36.6683,
+        "lon": 117.021,
+        "timezone": "Asia/Shanghai",
+        "isp": "Chinanet",
+        "org": "Chinanet SD",
+        "as": "AS4134 CHINANET-BACKBONE",
+        "query": "222.174.178.122",
+        "response_time": 1.2574334144592285
+    },
+    "socks4://46.209.115.130:2022": {
+        "status": "success",
+        "country": "Iran",
+        "countryCode": "IR",
+        "region": "23",
+        "regionName": "Tehran",
+        "city": "Tehran",
+        "zip": "",
+        "lat": 35.7219,
+        "lon": 51.3347,
+        "timezone": "Asia/Tehran",
+        "isp": "Respina Networks & Beyond PJSC",
+        "org": "Respina",
+        "as": "AS42337 Respina Networks & Beyond PJSC",
+        "query": "46.209.115.130",
+        "response_time": 2.0699071884155273
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -116,6 +82,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.251917600631714
+        "response_time": 3.0723695755004883
     }
 }
