@@ -1,4 +1,21 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.21490192413330078
+    },
     "socks4://172.233.14.116:1080": {
         "status": "success",
         "country": "Brazil",
@@ -14,24 +31,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.3127288818359375
-    },
-    "http://38.22.17.50:3128": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "GA",
-        "regionName": "Georgia",
-        "city": "Atlanta",
-        "zip": "",
-        "lat": 33.7489,
-        "lon": -84.3879,
-        "timezone": "America/New_York",
-        "isp": "GTHost",
-        "org": "Cytranet",
-        "as": "AS63023 GTHost",
-        "query": "38.22.17.50",
-        "response_time": 2.1214115619659424
+        "response_time": 1.582275390625
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,41 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5535261631011963
-    },
-    "socks4://178.115.255.177:5678": {
-        "status": "success",
-        "country": "Austria",
-        "countryCode": "AT",
-        "region": "4",
-        "regionName": "Upper Austria",
-        "city": "Pasching",
-        "zip": "4061",
-        "lat": 48.2614,
-        "lon": 14.2117,
-        "timezone": "Europe/Vienna",
-        "isp": "customers with static IP",
-        "org": "",
-        "as": "AS25255 Hutchison Drei Austria GmbH",
-        "query": "178.115.255.177",
-        "response_time": 2.746718645095825
-    },
-    "socks4://190.104.26.227:33638": {
-        "status": "success",
-        "country": "Bolivia",
-        "countryCode": "BO",
-        "region": "S",
-        "regionName": "Santa Cruz Department",
-        "city": "Santa Cruz",
-        "zip": "",
-        "lat": -17.7834,
-        "lon": -63.1822,
-        "timezone": "America/La_Paz",
-        "isp": "Telef\u00f3nica Celular de Bolivia S.A.",
-        "org": "Telef\u00f3nica Celular de Bolivia S.A",
-        "as": "AS27882 Telef\u00f3nica Celular de Bolivia S.A.",
-        "query": "190.104.26.227",
-        "response_time": 2.884444236755371
+        "response_time": 2.563387632369995
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -99,6 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.108431339263916
+        "response_time": 3.1656699180603027
     }
 }
