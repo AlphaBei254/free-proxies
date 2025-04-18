@@ -1,20 +1,37 @@
 {
-    "socks4://175.139.201.193:4153": {
+    "http://38.22.17.50:3128": {
         "status": "success",
-        "country": "Malaysia",
-        "countryCode": "MY",
-        "region": "14",
-        "regionName": "Kuala Lumpur",
-        "city": "Kuala Lumpur",
-        "zip": "57000",
-        "lat": 3.1013,
-        "lon": 101.6915,
-        "timezone": "Asia/Kuala_Lumpur",
-        "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-        "org": "Adsl Streamyx",
-        "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-        "query": "175.139.201.193",
-        "response_time": 2.2049241065979004
+        "country": "United States",
+        "countryCode": "US",
+        "region": "GA",
+        "regionName": "Georgia",
+        "city": "Atlanta",
+        "zip": "",
+        "lat": 33.7489,
+        "lon": -84.3879,
+        "timezone": "America/New_York",
+        "isp": "GTHost",
+        "org": "Cytranet",
+        "as": "AS63023 GTHost",
+        "query": "38.22.17.50",
+        "response_time": 0.8440732955932617
+    },
+    "socks4://112.78.39.90:4153": {
+        "status": "success",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JT",
+        "regionName": "Central Java",
+        "city": "Semarang",
+        "zip": "50232",
+        "lat": -6.9932,
+        "lon": 110.4215,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT Media Sarana Data",
+        "org": "Gmedia ID Semarang",
+        "as": "AS55666 PT Media Sarana Data",
+        "query": "112.78.39.91",
+        "response_time": 1.0170438289642334
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,41 +48,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5663864612579346
+        "response_time": 2.552910804748535
     },
-    "socks4://85.89.184.87:5678": {
+    "socks5://51.158.113.139:16379": {
         "status": "success",
-        "country": "Poland",
-        "countryCode": "PL",
-        "region": "10",
-        "regionName": "\u0141\u00f3d\u017a Voivodeship",
-        "city": "Lodz",
-        "zip": "90-127",
-        "lat": 51.7704,
-        "lon": 19.4667,
-        "timezone": "Europe/Warsaw",
-        "isp": "TOYA Sp. z o.o.",
-        "org": "Toya:net",
-        "as": "AS16342 Toya sp.z.o.o",
-        "query": "85.89.184.87",
-        "response_time": 2.6733977794647217
-    },
-    "socks4://193.68.17.141:60606": {
-        "status": "success",
-        "country": "Bulgaria",
-        "countryCode": "BG",
-        "region": "08",
-        "regionName": "Dobrich",
-        "city": "Dobrich",
-        "zip": "9300",
-        "lat": 43.5606,
-        "lon": 27.8299,
-        "timezone": "Europe/Sofia",
-        "isp": "Digital Systems",
-        "org": "Digital Systems Ltd",
-        "as": "AS3245 Digital Systems Ltd",
-        "query": "193.68.17.141",
-        "response_time": 2.845268964767456
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1012",
+        "lat": 52.3676,
+        "lon": 4.90414,
+        "timezone": "Europe/Amsterdam",
+        "isp": "Surf B.V.",
+        "org": "Nothing to hide",
+        "as": "AS1101 SURF B.V.",
+        "query": "192.42.116.210",
+        "response_time": 2.5601210594177246
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +82,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.055260181427002
+        "response_time": 3.1153628826141357
     }
 }
