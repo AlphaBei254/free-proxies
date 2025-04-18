@@ -1,20 +1,20 @@
 {
-    "socks4://163.172.134.29:16379": {
+    "socks4://79.7.101.98:5678": {
         "status": "success",
-        "country": "Luxembourg",
-        "countryCode": "LU",
-        "region": "LU",
-        "regionName": "Luxembourg",
-        "city": "Luxembourg",
-        "zip": "L-1661",
-        "lat": 49.6113,
-        "lon": 6.1294,
-        "timezone": "Europe/Luxembourg",
-        "isp": "FranTech Solutions",
-        "org": "FranTech Solutions",
-        "as": "AS53667 FranTech Solutions",
-        "query": "107.189.13.254",
-        "response_time": 2.381756067276001
+        "country": "Italy",
+        "countryCode": "IT",
+        "region": "25",
+        "regionName": "Lombardy",
+        "city": "Milan",
+        "zip": "20121",
+        "lat": 45.4642,
+        "lon": 9.18998,
+        "timezone": "Europe/Rome",
+        "isp": "Telecom Italia S.p.A. TIN EASY LITE",
+        "org": "INTERBUSINESS",
+        "as": "AS3269 Telecom Italia S.p.A.",
+        "query": "79.7.101.98",
+        "response_time": 0.883962869644165
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5369536876678467
-    },
-    "socks4://190.211.161.212:32410": {
-        "status": "success",
-        "country": "Chile",
-        "countryCode": "CL",
-        "region": "ML",
-        "regionName": "Maule Region",
-        "city": "Curepto",
-        "zip": "",
-        "lat": -35.0849,
-        "lon": -72.022,
-        "timezone": "America/Santiago",
-        "isp": "INTERNEXA Chile S.A",
-        "org": "Tumundo Digital Telecomunicaciones SPA",
-        "as": "AS262589 SAMM TECNOLOGIA E TELECOMUNICACOES S.A",
-        "query": "190.211.161.212",
-        "response_time": 2.7003884315490723
+        "response_time": 2.560800313949585
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.111060857772827
-    },
-    "socks4://163.172.128.222:16379": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NB",
-        "regionName": "North Brabant",
-        "city": "Roosendaal",
-        "zip": "4701",
-        "lat": 51.5359,
-        "lon": 4.46532,
-        "timezone": "Europe/Amsterdam",
-        "isp": "NFOrce Entertainment BV",
-        "org": "NForce Entertainment B.V",
-        "as": "AS43350 NForce Entertainment B.V.",
-        "query": "185.107.57.64",
-        "response_time": 3.4047703742980957
+        "response_time": 3.0753426551818848
     }
 }
