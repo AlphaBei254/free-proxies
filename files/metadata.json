@@ -14,24 +14,58 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.2368454933166504
+        "response_time": 0.24081969261169434
     },
-    "socks4://88.213.214.254:4145": {
+    "socks4://47.176.213.210:39593": {
         "status": "success",
-        "country": "Bulgaria",
-        "countryCode": "BG",
-        "region": "27",
-        "regionName": "Shumen",
-        "city": "Chernoglavtsi",
-        "zip": "9778",
-        "lat": 43.5314,
-        "lon": 26.9957,
-        "timezone": "Europe/Sofia",
-        "isp": "Netbox LTD",
-        "org": "NETBOX Mododex",
-        "as": "AS61071 NETBOX LTD",
-        "query": "88.213.215.28",
-        "response_time": 1.8601922988891602
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "Santa Fe Springs",
+        "zip": "90670",
+        "lat": 33.9451,
+        "lon": -118.0817,
+        "timezone": "America/Los_Angeles",
+        "isp": "Frontier Communications of America, Inc.",
+        "org": "Frontier Communications Corporation",
+        "as": "AS5650 Frontier Communications of America, Inc.",
+        "query": "47.176.213.210",
+        "response_time": 0.2728264331817627
+    },
+    "http://216.229.112.25:8080": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Muleshoe",
+        "zip": "79347",
+        "lat": 34.2265,
+        "lon": -102.7238,
+        "timezone": "America/Chicago",
+        "isp": "Five Area Systems, LLC",
+        "org": "Five Area Systems, LLC",
+        "as": "AS29843 Five Area Systems, LLC",
+        "query": "216.229.112.25",
+        "response_time": 1.3686916828155518
+    },
+    "socks4://51.158.70.181:16379": {
+        "status": "success",
+        "country": "Denmark",
+        "countryCode": "DK",
+        "region": "84",
+        "regionName": "Capital Region",
+        "city": "Gr\u00e6sted",
+        "zip": "3230",
+        "lat": 56.0954,
+        "lon": 12.2008,
+        "timezone": "Europe/Copenhagen",
+        "isp": "Forening for DotSrc",
+        "org": "TOR Servers2",
+        "as": "AS210731 Forening for DotSrc",
+        "query": "185.129.61.8",
+        "response_time": 1.9585342407226562
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +82,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.376661539077759
-    },
-    "http://62.33.53.248:3128": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOS",
-        "regionName": "Moscow Oblast",
-        "city": "Drezna",
-        "zip": "142660",
-        "lat": 55.7424,
-        "lon": 38.8442,
-        "timezone": "Europe/Moscow",
-        "isp": "TRANS-TELECOM",
-        "org": "",
-        "as": "AS20485 Joint Stock Company TransTeleCom",
-        "query": "62.33.53.248",
-        "response_time": 2.4938395023345947
+        "response_time": 2.2258267402648926
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,23 +99,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.682051420211792
-    },
-    "socks5://163.172.190.59:16379": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "IL",
-        "regionName": "Illinois",
-        "city": "Chicago",
-        "zip": "60616",
-        "lat": 41.8486,
-        "lon": -87.6288,
-        "timezone": "America/Chicago",
-        "isp": "DataWagon LLC",
-        "org": "DataWagon, LLC",
-        "as": "AS27176 DataWagon LLC",
-        "query": "172.81.135.157",
-        "response_time": 4.4027018547058105
+        "response_time": 2.4273946285247803
     }
 }
