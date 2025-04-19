@@ -1,54 +1,20 @@
 {
-    "socks4://90.182.147.170:4145": {
+    "socks4://114.4.200.222:5678": {
         "status": "success",
-        "country": "Czechia",
-        "countryCode": "CZ",
-        "region": "10",
-        "regionName": "Prague",
-        "city": "Prague",
-        "zip": "170 00",
-        "lat": 50.1113,
-        "lon": 14.4063,
-        "timezone": "Europe/Prague",
-        "isp": "O2 Czech Republic",
-        "org": "CZ.CZNET",
-        "as": "AS5610 O2 Czech Republic, a.s.",
-        "query": "90.182.147.170",
-        "response_time": 0.7419157028198242
-    },
-    "socks4://103.96.106.230:1080": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1209",
-        "lat": 23.7534,
-        "lon": 90.3722,
-        "timezone": "Asia/Dhaka",
-        "isp": "Xplore Cyber &",
-        "org": "",
-        "as": "AS134153 Xplore Net BD",
-        "query": "103.96.106.230",
-        "response_time": 1.1803228855133057
-    },
-    "socks4://37.186.66.36:3629": {
-        "status": "success",
-        "country": "Armenia",
-        "countryCode": "AM",
-        "region": "ER",
-        "regionName": "Yerevan",
-        "city": "Yerevan",
-        "zip": "",
-        "lat": 40.1814,
-        "lon": 44.5102,
-        "timezone": "Asia/Yerevan",
-        "isp": "GNC-Alfa CJSC",
-        "org": "GNC",
-        "as": "AS49800 GNC-Alfa CJSC",
-        "query": "37.186.66.36",
-        "response_time": 2.0018911361694336
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JK",
+        "regionName": "Jakarta",
+        "city": "Jakarta",
+        "zip": "12850",
+        "lat": -6.2114,
+        "lon": 106.8446,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT. INDOSAT Tbk",
+        "org": "PT. INDOSAT Tbk",
+        "as": "AS4761 INDOSAT Internet Network Provider",
+        "query": "114.4.200.222",
+        "response_time": 0.8323874473571777
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.601522207260132
-    },
-    "socks4://181.28.137.18:5678": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "R",
-        "regionName": "Rio Negro",
-        "city": "General Roca",
-        "zip": "8332",
-        "lat": -39.0576,
-        "lon": -67.5301,
-        "timezone": "America/Argentina/Salta",
-        "isp": "Telecom Argentina S.A",
-        "org": "Fibertel",
-        "as": "AS7303 Telecom Argentina S.A.",
-        "query": "181.28.137.18",
-        "response_time": 3.0019524097442627
+        "response_time": 2.5644800662994385
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -99,23 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.117257833480835
-    },
-    "socks4://41.216.232.213:4153": {
-        "status": "success",
-        "country": "Cameroon",
-        "countryCode": "CM",
-        "region": "CE",
-        "regionName": "Centre",
-        "city": "Yaound\u00e9",
-        "zip": "",
-        "lat": 3.86169,
-        "lon": 11.5202,
-        "timezone": "Africa/Douala",
-        "isp": "Gateway Cameroun",
-        "org": "",
-        "as": "AS37672 INQ DIGITAL CAMEROON SA",
-        "query": "217.14.84.154",
-        "response_time": 4.098456144332886
+        "response_time": 3.0452840328216553
     }
 }
