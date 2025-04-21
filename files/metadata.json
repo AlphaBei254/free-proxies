@@ -14,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.21185541152954102
-    },
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.21514415740966797
+        "response_time": 0.1952049732208252
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4057798385620117
+        "response_time": 0.4189720153808594
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,23 +48,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8875536918640137
+        "response_time": 0.8772594928741455
     },
-    "socks4://212.47.235.205:16379": {
+    "socks5://163.172.132.115:16379": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "IL",
-        "regionName": "Illinois",
-        "city": "Chicago",
-        "zip": "60616",
-        "lat": 41.8486,
-        "lon": -87.6288,
-        "timezone": "America/Chicago",
-        "isp": "DataWagon LLC",
-        "org": "DataWagon, LLC",
-        "as": "AS27176 DataWagon LLC",
-        "query": "172.81.135.157",
-        "response_time": 3.5727972984313965
+        "country": "Poland",
+        "countryCode": "PL",
+        "region": "14",
+        "regionName": "Mazovia",
+        "city": "Warsaw",
+        "zip": "00-510",
+        "lat": 52.2299,
+        "lon": 21.0093,
+        "timezone": "Europe/Warsaw",
+        "isp": "1337 Services GmbH",
+        "org": "1337 Services GmbH",
+        "as": "AS210558 1337 Services GmbH",
+        "query": "45.141.215.133",
+        "response_time": 1.8592698574066162
+    },
+    "socks5://103.163.244.106:1080": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "HR",
+        "regionName": "Haryana",
+        "city": "Panipat",
+        "zip": "132103",
+        "lat": 29.3885,
+        "lon": 76.9669,
+        "timezone": "Asia/Kolkata",
+        "isp": "Infolink System",
+        "org": "",
+        "as": "AS132746 Infolink System",
+        "query": "103.163.244.106",
+        "response_time": 2.7487761974334717
     }
 }
