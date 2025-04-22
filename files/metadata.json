@@ -1,20 +1,37 @@
 {
-    "socks4://103.166.39.9:3629": {
+    "http://65.108.159.129:8081": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1205",
-        "lat": 23.746,
-        "lon": 90.382,
-        "timezone": "Asia/Dhaka",
-        "isp": "Fast Network",
-        "org": "Md Mamun Ahmed Sujon",
-        "as": "AS142058 Fast Network",
-        "query": "103.166.39.217",
-        "response_time": 1.3389506340026855
+        "country": "Finland",
+        "countryCode": "FI",
+        "region": "18",
+        "regionName": "Uusimaa",
+        "city": "Helsinki",
+        "zip": "00201",
+        "lat": 60.1719,
+        "lon": 24.9347,
+        "timezone": "Europe/Helsinki",
+        "isp": "Hetzner Online GmbH",
+        "org": "Hetzner Online GmbH",
+        "as": "AS24940 Hetzner Online GmbH",
+        "query": "65.108.159.129",
+        "response_time": 0.3120427131652832
+    },
+    "socks4://85.237.51.73:4145": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "PNZ",
+        "regionName": "Penza Oblast",
+        "city": "Penza",
+        "zip": "440000",
+        "lat": 53.1963,
+        "lon": 45.0217,
+        "timezone": "Europe/Moscow",
+        "isp": "PJSC Rostelecom",
+        "org": "PJSC Rostelecom",
+        "as": "AS12389 PJSC Rostelecom",
+        "query": "85.237.51.73",
+        "response_time": 0.797919750213623
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3294522762298584
+        "response_time": 2.2255077362060547
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.439591646194458
+        "response_time": 2.386871337890625
     }
 }
