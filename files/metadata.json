@@ -1,20 +1,20 @@
 {
-    "socks4://179.27.86.36:4153": {
+    "socks4://103.166.39.9:3629": {
         "status": "success",
-        "country": "Uruguay",
-        "countryCode": "UY",
-        "region": "MO",
-        "regionName": "Montevideo Department",
-        "city": "Montevideo",
-        "zip": "11200",
-        "lat": -34.9064,
-        "lon": -56.1629,
-        "timezone": "America/Montevideo",
-        "isp": "Administracion Nacional de Telecomunicaciones",
-        "org": "Cliente Antel Uruguay",
-        "as": "AS6057 Administracion Nacional de Telecomunicaciones",
-        "query": "179.27.86.36",
-        "response_time": 1.8716557025909424
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Dhaka",
+        "zip": "1205",
+        "lat": 23.746,
+        "lon": 90.382,
+        "timezone": "Asia/Dhaka",
+        "isp": "Fast Network",
+        "org": "Md Mamun Ahmed Sujon",
+        "as": "AS142058 Fast Network",
+        "query": "103.166.39.217",
+        "response_time": 1.3389506340026855
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.371932029724121
-    },
-    "socks5://51.158.70.246:16379": {
-        "status": "success",
-        "country": "Antarctica",
-        "countryCode": "AQ",
-        "region": "",
-        "regionName": "",
-        "city": "Kunlun",
-        "zip": "",
-        "lat": -72.0114,
-        "lon": 2.535,
-        "timezone": "Antarctica/Vostok",
-        "isp": "QuxLabs AB",
-        "org": "R0CKET-CLOUD",
-        "as": "AS214503 QuxLabs AB",
-        "query": "45.84.107.128",
-        "response_time": 2.494990825653076
+        "response_time": 2.3294522762298584
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.6381845474243164
+        "response_time": 2.439591646194458
     }
 }
