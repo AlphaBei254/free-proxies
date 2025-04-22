@@ -1,37 +1,37 @@
 {
-    "http://65.108.159.129:8081": {
+    "socks4://177.136.124.36:3629": {
         "status": "success",
-        "country": "Finland",
-        "countryCode": "FI",
-        "region": "18",
-        "regionName": "Uusimaa",
-        "city": "Helsinki",
-        "zip": "00201",
-        "lat": 60.1719,
-        "lon": 24.9347,
-        "timezone": "Europe/Helsinki",
-        "isp": "Hetzner Online GmbH",
-        "org": "Hetzner Online GmbH",
-        "as": "AS24940 Hetzner Online GmbH",
-        "query": "65.108.159.129",
-        "response_time": 0.3120427131652832
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "BA",
+        "regionName": "Bahia",
+        "city": "Salvador",
+        "zip": "40000",
+        "lat": -12.8665,
+        "lon": -38.4858,
+        "timezone": "America/Bahia",
+        "isp": "ITS TELECOMUNICACOES LTDA",
+        "org": "ITS TELECOMUNICACOES LTDA",
+        "as": "AS28186 ITS TELECOMUNICACOES LTDA",
+        "query": "177.136.124.36",
+        "response_time": 0.7190821170806885
     },
-    "socks4://85.237.51.73:4145": {
+    "socks4://64.124.191.98:32688": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "PNZ",
-        "regionName": "Penza Oblast",
-        "city": "Penza",
-        "zip": "440000",
-        "lat": 53.1963,
-        "lon": 45.0217,
-        "timezone": "Europe/Moscow",
-        "isp": "PJSC Rostelecom",
-        "org": "PJSC Rostelecom",
-        "as": "AS12389 PJSC Rostelecom",
-        "query": "85.237.51.73",
-        "response_time": 0.797919750213623
+        "country": "United States",
+        "countryCode": "US",
+        "region": "PA",
+        "regionName": "Pennsylvania",
+        "city": "Conshohocken",
+        "zip": "19428",
+        "lat": 40.0864,
+        "lon": -75.2931,
+        "timezone": "America/New_York",
+        "isp": "Zayo Bandwidth",
+        "org": "Web Werks",
+        "as": "AS6461 Zayo Bandwidth",
+        "query": "64.124.191.98",
+        "response_time": 1.0773236751556396
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2255077362060547
+        "response_time": 2.2278494834899902
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.386871337890625
+        "response_time": 2.454575538635254
+    },
+    "socks5://103.189.218.83:6969": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Tongi",
+        "zip": "1230",
+        "lat": 23.8915,
+        "lon": 90.4023,
+        "timezone": "Asia/Dhaka",
+        "isp": "Comfort Solutions",
+        "org": "Md. Ruhul Amin Sarker",
+        "as": "AS149868 Comfort Solutions",
+        "query": "103.189.218.83",
+        "response_time": 2.8308329582214355
     }
 }
