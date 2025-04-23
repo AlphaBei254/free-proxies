@@ -1,4 +1,21 @@
 {
+    "socks4://64.202.184.249:15986": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 0.25679922103881836
+    },
     "socks4://170.78.211.161:1080": {
         "status": "success",
         "country": "Mexico",
@@ -14,58 +31,41 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.2532370090484619
+        "response_time": 0.3078134059906006
     },
-    "socks4://31.209.96.173:51688": {
+    "socks4://190.220.1.173:35376": {
         "status": "success",
-        "country": "T\u00fcrkiye",
-        "countryCode": "TR",
-        "region": "33",
-        "regionName": "Mersin",
-        "city": "Mersin",
-        "zip": "33940",
-        "lat": 36.812,
-        "lon": 34.6389,
-        "timezone": "Europe/Istanbul",
-        "isp": "Netonline Bilisim Sirketi LTD",
-        "org": "Multimax",
-        "as": "AS44558 Netonline Bilisim Sirketi LTD",
-        "query": "31.209.98.18",
-        "response_time": 0.5529415607452393
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "C",
+        "regionName": "Buenos Aires F.D.",
+        "city": "Buenos Aires",
+        "zip": "1871",
+        "lat": -34.6142,
+        "lon": -58.3811,
+        "timezone": "America/Argentina/Buenos_Aires",
+        "isp": "Techtel LMDS Comunicaciones Interactivas S.A.",
+        "org": "RYO VALLE SRL",
+        "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
+        "query": "190.220.1.173",
+        "response_time": 0.7938492298126221
     },
-    "socks4://45.234.100.112:1080": {
+    "socks4://102.165.125.102:5678": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "PE",
-        "regionName": "Pernambuco",
-        "city": "Recife",
-        "zip": "53000",
-        "lat": -8.0009,
-        "lon": -34.8687,
-        "timezone": "America/Recife",
-        "isp": "Fortlink Internet Corporativa",
-        "org": "Fortlink Internet Corporativa",
-        "as": "AS61592 FORTLINK INTERNET CORPORATIVA",
-        "query": "45.234.100.102",
-        "response_time": 0.6497986316680908
-    },
-    "socks4://180.180.124.248:49992": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "21",
-        "regionName": "Rayong",
-        "city": "Rayong",
-        "zip": "21180",
-        "lat": 12.8139,
-        "lon": 101.308,
-        "timezone": "Asia/Bangkok",
-        "isp": "TOT Public Company Limited",
-        "org": "TOT Public Company Limited",
-        "as": "AS23969 TOT Public Company Limited",
-        "query": "180.180.124.248",
-        "response_time": 1.119163990020752
+        "country": "Nigeria",
+        "countryCode": "NG",
+        "region": "FC",
+        "regionName": "FCT",
+        "city": "Abuja",
+        "zip": "",
+        "lat": 9.05785,
+        "lon": 7.49508,
+        "timezone": "Africa/Lagos",
+        "isp": "Internet Solutions Nigeria Limited",
+        "org": "Internet Solutions Nigeria Limited",
+        "as": "AS37521 Internet Solutions Nigeria Limited",
+        "query": "102.165.125.102",
+        "response_time": 0.9075825214385986
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -82,7 +82,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.275120735168457
+        "response_time": 2.343744993209839
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -99,23 +99,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4892067909240723
+        "response_time": 2.5835695266723633
     },
-    "socks5://51.158.113.139:16379": {
+    "socks4://163.172.132.115:16379": {
         "status": "success",
-        "country": "Luxembourg",
-        "countryCode": "LU",
-        "region": "ME",
-        "regionName": "Mersch",
-        "city": "Bissen",
-        "zip": "L-7795",
-        "lat": 49.7902,
-        "lon": 6.08557,
-        "timezone": "Europe/Luxembourg",
-        "isp": "FranTech Solutions",
-        "org": "BuyVM",
-        "as": "AS53667 FranTech Solutions",
-        "query": "107.189.30.69",
-        "response_time": 5.427040338516235
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1012",
+        "lat": 52.3676,
+        "lon": 4.90414,
+        "timezone": "Europe/Amsterdam",
+        "isp": "Surf B.V.",
+        "org": "Nothing to hide",
+        "as": "AS1101 SURF B.V.",
+        "query": "192.42.116.214",
+        "response_time": 4.611615180969238
     }
 }
