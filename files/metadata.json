@@ -1,54 +1,37 @@
 {
-    "http://4.155.2.13:80": {
+    "http://47.252.29.28:11222": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "WA",
-        "regionName": "Washington",
-        "city": "Quincy",
-        "zip": "98848",
-        "lat": 47.233,
-        "lon": -119.852,
-        "timezone": "America/Los_Angeles",
-        "isp": "Microsoft Corporation",
-        "org": "Microsoft Azure Cloud (westus2)",
-        "as": "AS8075 Microsoft Corporation",
-        "query": "4.155.2.13",
-        "response_time": 0.17485356330871582
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "101194",
+        "lat": 55.7382,
+        "lon": 37.6856,
+        "timezone": "Europe/Moscow",
+        "isp": "SIA \"Singularity Telecom\"",
+        "org": "Dom Tehniki Ltd",
+        "as": "AS209372 SIA \"Singularity Telecom\"",
+        "query": "46.3.132.111",
+        "response_time": 1.1105997562408447
     },
-    "socks4://46.214.153.223:5678": {
+    "socks5://46.10.229.243:7777": {
         "status": "success",
-        "country": "Romania",
-        "countryCode": "RO",
-        "region": "SV",
-        "regionName": "Suceava",
-        "city": "Radauti",
-        "zip": "725400",
-        "lat": 47.8462,
-        "lon": 25.9154,
-        "timezone": "Europe/Bucharest",
-        "isp": "SC NextGen Communications SRL",
-        "org": "SC NextGen Communications SRL",
-        "as": "AS48161 NEXTGEN COMMUNICATIONS SRL",
-        "query": "46.214.153.223",
-        "response_time": 0.5838706493377686
-    },
-    "socks4://75.81.166.118:39593": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "KS",
-        "regionName": "Kansas",
-        "city": "Kansas City",
-        "zip": "66106",
-        "lat": 39.0679,
-        "lon": -94.713,
-        "timezone": "America/Chicago",
-        "isp": "Spectrum",
-        "org": "RRWE",
-        "as": "AS11427 Charter Communications Inc",
-        "query": "75.81.166.118",
-        "response_time": 1.4558110237121582
+        "country": "Bulgaria",
+        "countryCode": "BG",
+        "region": "16",
+        "regionName": "Plovdiv",
+        "city": "Plovdiv",
+        "zip": "4000",
+        "lat": 42.1513,
+        "lon": 24.7518,
+        "timezone": "Europe/Sofia",
+        "isp": "Vivacom Bulgaria EAD",
+        "org": "Vivacom Bulgaria EAD",
+        "as": "AS8866 Vivacom Bulgaria EAD",
+        "query": "46.10.229.243",
+        "response_time": 1.0814383029937744
     },
     "socks4://64.202.184.249:15986": {
         "status": "success",
@@ -65,7 +48,7 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 1.510488510131836
+        "response_time": 1.5045549869537354
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,24 +65,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 2.077754497528076
-    },
-    "socks4://163.172.176.95:16379": {
-        "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "30",
-        "regionName": "Kyiv City",
-        "city": "Kyiv",
-        "zip": "04116",
-        "lat": 50.458,
-        "lon": 30.5303,
-        "timezone": "Europe/Kyiv",
-        "isp": "Epinatura LLC",
-        "org": "",
-        "as": "AS207656 Epinatura LLC",
-        "query": "193.218.118.156",
-        "response_time": 2.202749252319336
+        "response_time": 2.0349831581115723
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -116,7 +82,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2488393783569336
+        "response_time": 2.294253349304199
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -133,23 +99,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5043141841888428
-    },
-    "socks4://114.4.200.222:5678": {
-        "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta",
-        "zip": "12850",
-        "lat": -6.2114,
-        "lon": 106.8446,
-        "timezone": "Asia/Jakarta",
-        "isp": "PT. INDOSAT Tbk",
-        "org": "PT. INDOSAT Tbk",
-        "as": "AS4761 INDOSAT Internet Network Provider",
-        "query": "114.4.200.222",
-        "response_time": 3.1023242473602295
+        "response_time": 2.5280706882476807
     }
 }
