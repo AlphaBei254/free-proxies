@@ -1,4 +1,48 @@
 {
+    "http://52.26.114.229:1080": {
+        "status": "success",
+        "continent": "North America",
+        "continentCode": "NA",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NY",
+        "regionName": "Oregon",
+        "city": "Boardman",
+        "district": "",
+        "zip": "97818",
+        "lat": 40.674,
+        "lon": -73.9701,
+        "timezone": "America/Los_Angeles",
+        "offset": -14400,
+        "currency": "USD",
+        "isp": "Amazon.com",
+        "org": "AS16509 Amazon.com, Inc.",
+        "as": "AS16509 Amazon.com, Inc.",
+        "asname": "Amazon.com",
+        "reverse": "ec2-44-244-245-214.us-west-2.compute.amazonaws.com",
+        "mobile": false,
+        "proxy": true,
+        "hosting": true,
+        "query": "44.244.245.214",
+        "response_time": 0.16788268089294434
+    },
+    "socks4://103.146.170.244:5678": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "TS",
+        "regionName": "Telangana",
+        "city": "Hyderabad",
+        "zip": "500068",
+        "lat": 17.3843,
+        "lon": 78.4583,
+        "timezone": "Asia/Kolkata",
+        "isp": "Thrishul Broadband Private Ltd",
+        "org": "Thrishul Broadband Private Ltd",
+        "as": "AS139510 Thrishul Broadband Private Ltd",
+        "query": "103.146.170.244",
+        "response_time": 1.0847582817077637
+    },
     "socks4://46.214.153.223:5678": {
         "status": "success",
         "country": "Romania",
@@ -14,41 +58,7 @@
         "org": "SC NextGen Communications SRL",
         "as": "AS48161 NEXTGEN COMMUNICATIONS SRL",
         "query": "46.214.153.223",
-        "response_time": 0.6012237071990967
-    },
-    "socks4://181.13.142.45:5678": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "T",
-        "regionName": "Tucuman",
-        "city": "San Miguel de Tucum\u00e1n",
-        "zip": "4000",
-        "lat": -26.8249,
-        "lon": -65.2237,
-        "timezone": "America/Argentina/Tucuman",
-        "isp": "Telecom Argentina S.A.",
-        "org": "Frigorifico Industrial Del Norte SA",
-        "as": "AS7303 Telecom Argentina S.A.",
-        "query": "181.13.142.45",
-        "response_time": 0.8281843662261963
-    },
-    "socks4://190.140.31.195:9900": {
-        "status": "success",
-        "country": "Panama",
-        "countryCode": "PA",
-        "region": "8",
-        "regionName": "Provincia de Panam\u00e1",
-        "city": "Panama City",
-        "zip": "34002",
-        "lat": 8.9948,
-        "lon": -79.523,
-        "timezone": "America/Panama",
-        "isp": "Cable Onda",
-        "org": "PARSA, S.A",
-        "as": "AS18809 Cable Onda",
-        "query": "190.140.31.195",
-        "response_time": 1.4697949886322021
+        "response_time": 1.568685531616211
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,7 +75,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.441751003265381
+        "response_time": 2.291398286819458
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,23 +92,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5686473846435547
+        "response_time": 2.403484582901001
     },
-    "socks4://188.165.220.50:62878": {
+    "socks5://185.35.130.16:61212": {
         "status": "success",
-        "country": "France",
-        "countryCode": "FR",
-        "region": "HDF",
-        "regionName": "Hauts-de-France",
-        "city": "Roubaix",
-        "zip": "59100",
-        "lat": 50.6917,
-        "lon": 3.20157,
-        "timezone": "Europe/Paris",
-        "isp": "OVH SAS",
-        "org": "OVH ISP",
-        "as": "AS16276 OVH SAS",
-        "query": "188.165.220.50",
-        "response_time": 3.5840704441070557
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "IN",
+        "regionName": "Ingushetiya Republic",
+        "city": "Nazran",
+        "zip": "386000",
+        "lat": 43.2286,
+        "lon": 44.7819,
+        "timezone": "Europe/Moscow",
+        "isp": "Plazmatelekom LLC",
+        "org": "PLAZMA Static IPs",
+        "as": "AS62440 PLAZMATELEKOM LLC",
+        "query": "185.35.130.16",
+        "response_time": 3.0253608226776123
     }
 }
