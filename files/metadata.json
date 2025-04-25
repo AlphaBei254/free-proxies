@@ -1,20 +1,20 @@
 {
-    "socks4://179.27.86.36:4153": {
+    "socks5://187.63.9.62:63253": {
         "status": "success",
-        "country": "Uruguay",
-        "countryCode": "UY",
-        "region": "MO",
-        "regionName": "Montevideo Department",
-        "city": "Montevideo",
-        "zip": "11200",
-        "lat": -34.9064,
-        "lon": -56.1629,
-        "timezone": "America/Montevideo",
-        "isp": "Administracion Nacional de Telecomunicaciones",
-        "org": "Cliente Antel Uruguay",
-        "as": "AS6057 Administracion Nacional de Telecomunicaciones",
-        "query": "179.27.86.36",
-        "response_time": 0.7707681655883789
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Arraial do Cabo",
+        "zip": "28930",
+        "lat": -22.9634,
+        "lon": -42.0259,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
+        "org": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multi",
+        "as": "AS28658 Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
+        "query": "187.63.9.62",
+        "response_time": 0.950101375579834
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2363831996917725
+        "response_time": 2.352262258529663
+    },
+    "socks4://201.148.125.126:4153": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "city": "Santa Helena de Goi\u00e1s",
+        "zip": "73930",
+        "lat": -17.8136,
+        "lon": -50.5969,
+        "timezone": "America/Sao_Paulo",
+        "isp": "America-NET Ltda.",
+        "org": "America-NET Ltda",
+        "as": "AS61844 America-NET Ltda.",
+        "query": "201.148.125.126",
+        "response_time": 2.6509218215942383
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,40 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4815258979797363
-    },
-    "socks4://120.50.13.41:40308": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "K\u0101frul",
-        "zip": "1207",
-        "lat": 23.7715,
-        "lon": 90.3568,
-        "timezone": "Asia/Dhaka",
-        "isp": "TelNET Communication Ltd",
-        "org": "Telnet",
-        "as": "AS38712 Telnet Communication Limited Network and Transit Service Provider. Having Nationwide MPLS Network For Internet and Data Connectivity Through Telnets Own Network Infrastructure",
-        "query": "120.50.13.38",
-        "response_time": 3.191415309906006
-    },
-    "http://216.229.112.25:8080": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "TX",
-        "regionName": "Texas",
-        "city": "Muleshoe",
-        "zip": "79347",
-        "lat": 34.2265,
-        "lon": -102.7238,
-        "timezone": "America/Chicago",
-        "isp": "Five Area Systems, LLC",
-        "org": "Five Area Systems, LLC",
-        "as": "AS29843 Five Area Systems, LLC",
-        "query": "216.229.112.25",
-        "response_time": 4.754871129989624
+        "response_time": 2.665616989135742
     }
 }
