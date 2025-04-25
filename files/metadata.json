@@ -1,37 +1,20 @@
 {
-    "socks4://103.76.190.37:31756": {
+    "socks4://88.213.214.254:4145": {
         "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "TN",
-        "regionName": "Tamil Nadu",
-        "city": "Vellore",
-        "zip": "632509",
-        "lat": 12.9202,
-        "lon": 79.1306,
-        "timezone": "Asia/Kolkata",
-        "isp": "Alacriy Net System Service Private Limited",
-        "org": "Alacriy Net System Service Private Limited",
-        "as": "AS135758 Alacriy Net System Service Private Limited",
-        "query": "103.76.190.37",
-        "response_time": 1.297243356704712
-    },
-    "socks4://110.77.149.227:4153": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "10",
-        "regionName": "Bangkok",
-        "city": "Bangkok",
-        "zip": "10500",
-        "lat": 13.7326,
-        "lon": 100.539,
-        "timezone": "Asia/Bangkok",
-        "isp": "CAT Telecom Public Company Limited",
-        "org": "CAT BB",
-        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
-        "query": "110.77.149.227",
-        "response_time": 2.0059266090393066
+        "country": "Bulgaria",
+        "countryCode": "BG",
+        "region": "27",
+        "regionName": "Shumen",
+        "city": "Chernoglavtsi",
+        "zip": "9778",
+        "lat": 43.5314,
+        "lon": 26.9957,
+        "timezone": "Europe/Sofia",
+        "isp": "Netbox LTD",
+        "org": "NETBOX Mododex",
+        "as": "AS61071 NETBOX LTD",
+        "query": "88.213.215.28",
+        "response_time": 0.747122049331665
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.367103099822998
+        "response_time": 2.348048686981201
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.6517770290374756
-    },
-    "socks4://190.104.26.227:33638": {
-        "status": "success",
-        "country": "Bolivia",
-        "countryCode": "BO",
-        "region": "S",
-        "regionName": "Santa Cruz Department",
-        "city": "Santa Cruz",
-        "zip": "",
-        "lat": -17.7834,
-        "lon": -63.1822,
-        "timezone": "America/La_Paz",
-        "isp": "Telef\u00f3nica Celular de Bolivia S.A.",
-        "org": "Telef\u00f3nica Celular de Bolivia S.A",
-        "as": "AS27882 Telef\u00f3nica Celular de Bolivia S.A.",
-        "query": "190.104.26.227",
-        "response_time": 2.7512502670288086
+        "response_time": 2.651355028152466
     }
 }
