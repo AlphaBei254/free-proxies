@@ -1,20 +1,37 @@
 {
-    "socks4://89.216.47.137:5678": {
+    "socks4://141.105.107.152:5678": {
         "status": "success",
-        "country": "Serbia",
-        "countryCode": "RS",
-        "region": "00",
-        "regionName": "Belgrade",
-        "city": "Belgrade",
-        "zip": "",
-        "lat": 44.8046,
-        "lon": 20.4637,
-        "timezone": "Europe/Belgrade",
-        "isp": "Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
-        "org": "SBB Zona Wifi",
-        "as": "AS31042 Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
-        "query": "82.117.212.234",
-        "response_time": 0.6594076156616211
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "IB",
+        "regionName": "Balearic Islands",
+        "city": "Llub\u00ed",
+        "zip": "07430",
+        "lat": 39.6961,
+        "lon": 3.0026,
+        "timezone": "Europe/Madrid",
+        "isp": "Red digital de telecomunicaciones de las Islas Baleares S.L",
+        "org": "Ibred",
+        "as": "AS200064 Red digital de telecomunicaciones de las Islas Baleares S.L",
+        "query": "141.105.107.152",
+        "response_time": 0.5949077606201172
+    },
+    "socks4://95.31.42.199:3629": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "109382",
+        "lat": 55.7487,
+        "lon": 37.6187,
+        "timezone": "Europe/Moscow",
+        "isp": "PJSC \"Vimpelcom\"",
+        "org": "CORBINA-BROADBAND",
+        "as": "AS8402 PJSC \"Vimpelcom\"",
+        "query": "95.31.42.199",
+        "response_time": 0.902639627456665
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.373720169067383
-    },
-    "socks4://85.89.184.87:5678": {
-        "status": "success",
-        "country": "Poland",
-        "countryCode": "PL",
-        "region": "10",
-        "regionName": "\u0141\u00f3d\u017a Voivodeship",
-        "city": "Lodz",
-        "zip": "90-127",
-        "lat": 51.7704,
-        "lon": 19.4667,
-        "timezone": "Europe/Warsaw",
-        "isp": "TOYA Sp. z o.o.",
-        "org": "Toya:net",
-        "as": "AS16342 Toya sp.z.o.o",
-        "query": "85.89.184.87",
-        "response_time": 2.6939122676849365
+        "response_time": 2.3922667503356934
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.6805965900421143
-    },
-    "socks4://138.68.21.132:45793": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "CA",
-        "regionName": "California",
-        "city": "Santa Clara",
-        "zip": "95051",
-        "lat": 37.3419,
-        "lon": -121.9754,
-        "timezone": "America/Los_Angeles",
-        "isp": "DigitalOcean, LLC",
-        "org": "DigitalOcean, LLC",
-        "as": "AS14061 DigitalOcean, LLC",
-        "query": "138.68.21.132",
-        "response_time": 4.09640908241272
+        "response_time": 2.6959433555603027
     }
 }
