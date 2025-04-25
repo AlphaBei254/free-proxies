@@ -1,20 +1,20 @@
 {
-    "socks4://202.69.38.42:5678": {
+    "socks4://179.27.86.36:4153": {
         "status": "success",
-        "country": "Pakistan",
-        "countryCode": "PK",
-        "region": "PB",
-        "regionName": "Punjab",
-        "city": "Lahore",
-        "zip": "54000",
-        "lat": 31.5826,
-        "lon": 74.3276,
-        "timezone": "Asia/Karachi",
-        "isp": "Gerrys Information Technology (PVT) Ltd",
-        "org": "Gerrys Information Technology (PVT) Ltd",
-        "as": "AS23750 GERRYS INFORMATION TECHNOLOGY PVT LTD.",
-        "query": "202.69.38.42",
-        "response_time": 1.1530883312225342
+        "country": "Uruguay",
+        "countryCode": "UY",
+        "region": "MO",
+        "regionName": "Montevideo Department",
+        "city": "Montevideo",
+        "zip": "11200",
+        "lat": -34.9064,
+        "lon": -56.1629,
+        "timezone": "America/Montevideo",
+        "isp": "Administracion Nacional de Telecomunicaciones",
+        "org": "Cliente Antel Uruguay",
+        "as": "AS6057 Administracion Nacional de Telecomunicaciones",
+        "query": "179.27.86.36",
+        "response_time": 0.7707681655883789
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.418377161026001
+        "response_time": 2.2363831996917725
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +48,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.6441967487335205
+        "response_time": 2.4815258979797363
+    },
+    "socks4://120.50.13.41:40308": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "K\u0101frul",
+        "zip": "1207",
+        "lat": 23.7715,
+        "lon": 90.3568,
+        "timezone": "Asia/Dhaka",
+        "isp": "TelNET Communication Ltd",
+        "org": "Telnet",
+        "as": "AS38712 Telnet Communication Limited Network and Transit Service Provider. Having Nationwide MPLS Network For Internet and Data Connectivity Through Telnets Own Network Infrastructure",
+        "query": "120.50.13.38",
+        "response_time": 3.191415309906006
+    },
+    "http://216.229.112.25:8080": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Muleshoe",
+        "zip": "79347",
+        "lat": 34.2265,
+        "lon": -102.7238,
+        "timezone": "America/Chicago",
+        "isp": "Five Area Systems, LLC",
+        "org": "Five Area Systems, LLC",
+        "as": "AS29843 Five Area Systems, LLC",
+        "query": "216.229.112.25",
+        "response_time": 4.754871129989624
     }
 }
