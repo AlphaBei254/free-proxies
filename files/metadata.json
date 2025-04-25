@@ -1,37 +1,20 @@
 {
-    "socks4://94.181.33.149:40840": {
+    "socks4://202.69.38.42:5678": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "CHE",
-        "regionName": "Chelyabinsk Oblast",
-        "city": "Chelyabinsk",
-        "zip": "454082",
-        "lat": 55.1644,
-        "lon": 61.4368,
-        "timezone": "Asia/Yekaterinburg",
-        "isp": "CJSC \"ER-Telecom Holding\" Chelyabinsk branch",
-        "org": "JSC \"ER-Telecom Holding\" Chelyabinsk Branch",
-        "as": "AS41661 JSC \"ER-Telecom Holding\"",
-        "query": "94.181.33.149",
-        "response_time": 0.8628530502319336
-    },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.206",
-        "response_time": 0.9781656265258789
+        "country": "Pakistan",
+        "countryCode": "PK",
+        "region": "PB",
+        "regionName": "Punjab",
+        "city": "Lahore",
+        "zip": "54000",
+        "lat": 31.5826,
+        "lon": 74.3276,
+        "timezone": "Asia/Karachi",
+        "isp": "Gerrys Information Technology (PVT) Ltd",
+        "org": "Gerrys Information Technology (PVT) Ltd",
+        "as": "AS23750 GERRYS INFORMATION TECHNOLOGY PVT LTD.",
+        "query": "202.69.38.42",
+        "response_time": 1.1530883312225342
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3016388416290283
+        "response_time": 2.418377161026001
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,40 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.47269606590271
-    },
-    "socks4://177.136.124.36:3629": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "BA",
-        "regionName": "Bahia",
-        "city": "Salvador",
-        "zip": "40000",
-        "lat": -12.8665,
-        "lon": -38.4858,
-        "timezone": "America/Bahia",
-        "isp": "ITS TELECOMUNICACOES LTDA",
-        "org": "ITS TELECOMUNICACOES LTDA",
-        "as": "AS28186 ITS TELECOMUNICACOES LTDA",
-        "query": "177.136.124.36",
-        "response_time": 2.7839386463165283
-    },
-    "socks4://175.203.138.160:5678": {
-        "status": "success",
-        "country": "South Korea",
-        "countryCode": "KR",
-        "region": "44",
-        "regionName": "Chungcheongnam-do",
-        "city": "Yesan",
-        "zip": "324",
-        "lat": 36.6781,
-        "lon": 126.6946,
-        "timezone": "Asia/Seoul",
-        "isp": "Korea Telecom",
-        "org": "Kornet",
-        "as": "AS4766 Korea Telecom",
-        "query": "175.203.138.160",
-        "response_time": 2.9471077919006348
+        "response_time": 2.6441967487335205
     }
 }
