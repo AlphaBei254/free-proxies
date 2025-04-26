@@ -1,54 +1,37 @@
 {
-    "socks4://183.88.212.167:4153": {
+    "socks4://168.196.24.29:60606": {
         "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "20",
-        "regionName": "Chon Buri",
-        "city": "Chon Buri",
-        "zip": "20160",
-        "lat": 13.4672,
-        "lon": 101.0972,
-        "timezone": "Asia/Bangkok",
-        "isp": "Triple T Broadband Public Company Limited",
-        "org": "Triple T Broadband Public Company Limited",
-        "as": "AS45758 Triple T Broadband Public Company Limited",
-        "query": "183.88.212.167",
-        "response_time": 1.0583972930908203
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "R",
+        "regionName": "Rio Negro",
+        "city": "San Antonio Oeste",
+        "zip": "8520",
+        "lat": -40.7281,
+        "lon": -64.9252,
+        "timezone": "America/Argentina/Salta",
+        "isp": "ISP GROUP SRL",
+        "org": "ISP GROUP SRL",
+        "as": "AS264758 ISP GROUP SRL",
+        "query": "168.196.24.29",
+        "response_time": 1.2120516300201416
     },
-    "socks4://103.224.48.38:31433": {
+    "socks4://8.39.228.33:39593": {
         "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "UP",
-        "regionName": "Uttar Pradesh",
-        "city": "Kanpur",
-        "zip": "208027",
-        "lat": 26.4631,
-        "lon": 80.3479,
-        "timezone": "Asia/Kolkata",
-        "isp": "R TECHNOLOGIES",
-        "org": "Renu Softtech Sales and Services",
-        "as": "AS134922 R G TECHNOSOLUTIONS PVT LTD",
-        "query": "103.224.48.38",
-        "response_time": 1.1968247890472412
-    },
-    "socks4://202.131.246.250:5678": {
-        "status": "success",
-        "country": "Mongolia",
-        "countryCode": "MN",
-        "region": "1",
-        "regionName": "Ulaanbaatar",
-        "city": "Ulan Bator",
-        "zip": "",
-        "lat": 47.913,
-        "lon": 106.929,
-        "timezone": "Asia/Ulaanbaatar",
-        "isp": "Mobinet LLC",
-        "org": "MOBINET-LL",
-        "as": "AS9484 Mobinet LLC. AS Mobinet Internet Service Provider",
-        "query": "202.131.246.250",
-        "response_time": 2.0977864265441895
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CO",
+        "regionName": "Colorado",
+        "city": "Golden",
+        "zip": "80403",
+        "lat": 39.8232,
+        "lon": -105.2825,
+        "timezone": "America/Denver",
+        "isp": "Mountain Broadband",
+        "org": "Mountain Broadband",
+        "as": "AS399869 Mountain Broadband",
+        "query": "165.140.184.90",
+        "response_time": 1.2511308193206787
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,24 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.570091485977173
-    },
-    "socks5://46.147.65.44:61986": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "TA",
-        "regionName": "Tatarstan Republic",
-        "city": "Naberezhnyye Chelny",
-        "zip": "423806",
-        "lat": 55.7458,
-        "lon": 52.4183,
-        "timezone": "Europe/Moscow",
-        "isp": "CJSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
-        "org": "JSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
-        "as": "AS42116 JSC \"ER-Telecom Holding\"",
-        "query": "46.147.65.44",
-        "response_time": 3.0754737854003906
+        "response_time": 2.573850393295288
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -99,6 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.0813229084014893
+        "response_time": 3.083223819732666
     }
 }
