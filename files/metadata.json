@@ -1,37 +1,20 @@
 {
-    "socks4://93.117.72.27:55770": {
-        "status": "success",
-        "country": "Moldova",
-        "countryCode": "MD",
-        "region": "CU",
-        "regionName": "Chi\u0219in\u0103u Municipality",
-        "city": "Ciorescu",
-        "zip": "MD-2089",
-        "lat": 47.1349,
-        "lon": 28.8816,
-        "timezone": "Europe/Chisinau",
-        "isp": "Moldtelecom SA",
-        "org": "JSC Moldtelecom S.A.",
-        "as": "AS8926 Moldtelecom SA",
-        "query": "93.117.72.27",
-        "response_time": 0.6470305919647217
-    },
-    "socks4://69.49.234.59:55804": {
+    "socks4://64.124.191.98:32688": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
-        "region": "GA",
-        "regionName": "Georgia",
-        "city": "Atlanta",
-        "zip": "30302",
-        "lat": 33.7488,
-        "lon": -84.3877,
+        "region": "PA",
+        "regionName": "Pennsylvania",
+        "city": "Conshohocken",
+        "zip": "19428",
+        "lat": 40.0864,
+        "lon": -75.2931,
         "timezone": "America/New_York",
-        "isp": "Network Solutions, LLC",
-        "org": "Newfold Digital, Inc.",
-        "as": "AS19871 Network Solutions, LLC",
-        "query": "69.49.234.59",
-        "response_time": 1.386711835861206
+        "isp": "Zayo Bandwidth",
+        "org": "Web Werks",
+        "as": "AS6461 Zayo Bandwidth",
+        "query": "64.124.191.98",
+        "response_time": 0.058280229568481445
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2370660305023193
+        "response_time": 2.277953863143921
+    },
+    "socks4://198.0.198.132:54321": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "Berkeley",
+        "zip": "94703",
+        "lat": 37.8637,
+        "lon": -122.276,
+        "timezone": "America/Los_Angeles",
+        "isp": "Comcast Cable Communications",
+        "org": "SMX SM PUBLIC ARPRT DIST",
+        "as": "AS7922 Comcast Cable Communications, LLC",
+        "query": "198.0.198.132",
+        "response_time": 2.3141446113586426
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4595108032226562
+        "response_time": 2.5602715015411377
+    },
+    "socks4://163.172.128.222:16379": {
+        "status": "success",
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BY",
+        "regionName": "Bavaria",
+        "city": "Ha\u00dffurt",
+        "zip": "97437",
+        "lat": 50.0263,
+        "lon": 10.5157,
+        "timezone": "Europe/Berlin",
+        "isp": "F3 Netze e.V.",
+        "org": "F3 Netze e.V",
+        "as": "AS205100 F3 Netze e.V.",
+        "query": "185.220.100.252",
+        "response_time": 4.736914873123169
     }
 }
