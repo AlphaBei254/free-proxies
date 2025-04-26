@@ -1,4 +1,38 @@
 {
+    "socks5://81.177.224.173:1337": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "STA",
+        "regionName": "Stavropol Kray",
+        "city": "Stavropol",
+        "zip": "355000",
+        "lat": 45.039,
+        "lon": 41.9632,
+        "timezone": "Europe/Moscow",
+        "isp": "OOO SET",
+        "org": "OOO Set network",
+        "as": "AS48176 OOO SET",
+        "query": "81.177.224.173",
+        "response_time": 1.2116262912750244
+    },
+    "http://188.166.197.129:3128": {
+        "status": "success",
+        "country": "Singapore",
+        "countryCode": "SG",
+        "region": "05",
+        "regionName": "South West",
+        "city": "Singapore",
+        "zip": "627753",
+        "lat": 1.32123,
+        "lon": 103.695,
+        "timezone": "Asia/Singapore",
+        "isp": "DigitalOcean, LLC",
+        "org": "DigitalOcean, LLC",
+        "as": "AS14061 DigitalOcean, LLC",
+        "query": "174.138.18.105",
+        "response_time": 1.3925652503967285
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,24 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.245225429534912
-    },
-    "socks4://183.88.212.167:4153": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "20",
-        "regionName": "Chon Buri",
-        "city": "Chon Buri",
-        "zip": "20160",
-        "lat": 13.4672,
-        "lon": 101.0972,
-        "timezone": "Asia/Bangkok",
-        "isp": "Triple T Broadband Public Company Limited",
-        "org": "Triple T Broadband Public Company Limited",
-        "as": "AS45758 Triple T Broadband Public Company Limited",
-        "query": "183.88.212.167",
-        "response_time": 2.3306398391723633
+        "response_time": 2.353874921798706
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +65,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4229581356048584
+        "response_time": 2.6758615970611572
     },
-    "http://216.229.112.25:8080": {
+    "socks4://163.172.190.59:16379": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "TX",
-        "regionName": "Texas",
-        "city": "Muleshoe",
-        "zip": "79347",
-        "lat": 34.2265,
-        "lon": -102.7238,
-        "timezone": "America/Chicago",
-        "isp": "Five Area Systems, LLC",
-        "org": "Five Area Systems, LLC",
-        "as": "AS29843 Five Area Systems, LLC",
-        "query": "216.229.112.25",
-        "response_time": 3.023500680923462
+        "country": "Sweden",
+        "countryCode": "SE",
+        "region": "AB",
+        "regionName": "Stockholm County",
+        "city": "Stockholm",
+        "zip": "100 04",
+        "lat": 59.3253,
+        "lon": 18.0678,
+        "timezone": "Europe/Stockholm",
+        "isp": "No ACK Group Holding AB",
+        "org": "No ACK Group Holding AB",
+        "as": "AS30893 No ACK Group Holding AB",
+        "query": "195.47.238.89",
+        "response_time": 3.5681800842285156
+    },
+    "socks4://51.158.113.139:16379": {
+        "status": "success",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "region": "AB",
+        "regionName": "Stockholm County",
+        "city": "Stockholm",
+        "zip": "100 05",
+        "lat": 59.3289,
+        "lon": 18.0649,
+        "timezone": "Europe/Stockholm",
+        "isp": "Periquito",
+        "org": "PRQ AB",
+        "as": "AS33837 Fredrik Holmqvist",
+        "query": "88.80.26.3",
+        "response_time": 5.093969821929932
     }
 }
