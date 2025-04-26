@@ -14,58 +14,24 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.21955418586730957
+        "response_time": 0.2841484546661377
     },
-    "socks4://90.182.147.170:4145": {
+    "socks5://103.158.253.162:8199": {
         "status": "success",
-        "country": "Czechia",
-        "countryCode": "CZ",
-        "region": "10",
-        "regionName": "Prague",
-        "city": "Prague",
-        "zip": "170 00",
-        "lat": 50.1113,
-        "lon": 14.4063,
-        "timezone": "Europe/Prague",
-        "isp": "O2 Czech Republic",
-        "org": "CZ.CZNET",
-        "as": "AS5610 O2 Czech Republic, a.s.",
-        "query": "90.182.147.170",
-        "response_time": 0.833972692489624
-    },
-    "socks4://200.29.109.112:14888": {
-        "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "VAC",
-        "regionName": "Valle del Cauca Department",
-        "city": "Santiago de Cali",
-        "zip": "760002",
-        "lat": 3.4385,
-        "lon": -76.523,
-        "timezone": "America/Bogota",
-        "isp": "Empresas Municipales De Cali E.i.c.e. E.S.P.",
-        "org": "EMCALI - RANGOS FIJOS PPPoE",
-        "as": "AS10299 EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.",
-        "query": "200.29.109.112",
-        "response_time": 1.9507498741149902
-    },
-    "socks4://64.124.191.98:32688": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "PA",
-        "regionName": "Pennsylvania",
-        "city": "Conshohocken",
-        "zip": "19428",
-        "lat": 40.0864,
-        "lon": -75.2931,
-        "timezone": "America/New_York",
-        "isp": "Zayo Bandwidth",
-        "org": "Web Werks",
-        "as": "AS6461 Zayo Bandwidth",
-        "query": "64.124.191.98",
-        "response_time": 2.2269086837768555
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JK",
+        "regionName": "Jakarta",
+        "city": "Jakarta",
+        "zip": "12850",
+        "lat": -6.2114,
+        "lon": 106.8446,
+        "timezone": "Asia/Jakarta",
+        "isp": "Rapid Network",
+        "org": "",
+        "as": "AS141137 PT Media Cepat Indonesia",
+        "query": "103.158.253.162",
+        "response_time": 2.025519371032715
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -82,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.315708637237549
+        "response_time": 2.4768295288085938
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -99,6 +65,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.6547176837921143
+        "response_time": 2.6335277557373047
+    },
+    "socks4://51.158.65.148:16379": {
+        "status": "success",
+        "country": "Antarctica",
+        "countryCode": "AQ",
+        "region": "",
+        "regionName": "",
+        "city": "Kunlun",
+        "zip": "",
+        "lat": -72.0114,
+        "lon": 2.535,
+        "timezone": "Antarctica/Vostok",
+        "isp": "QuxLabs AB",
+        "org": "R0CKET-CLOUD",
+        "as": "AS214503 QuxLabs AB",
+        "query": "45.84.107.128",
+        "response_time": 4.1335768699646
+    },
+    "socks4://163.172.128.222:16379": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NV",
+        "regionName": "Nevada",
+        "city": "Las Vegas",
+        "zip": "89101",
+        "lat": 36.1697,
+        "lon": -115.1236,
+        "timezone": "America/Los_Angeles",
+        "isp": "FranTech Solutions",
+        "org": "FranTech Solutions",
+        "as": "AS53667 FranTech Solutions",
+        "query": "205.185.116.215",
+        "response_time": 5.22497034072876
     }
 }
