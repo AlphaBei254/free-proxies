@@ -1,37 +1,37 @@
 {
-    "socks4://170.78.211.161:1080": {
+    "socks4://93.117.72.27:55770": {
         "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.2841484546661377
+        "country": "Moldova",
+        "countryCode": "MD",
+        "region": "CU",
+        "regionName": "Chi\u0219in\u0103u Municipality",
+        "city": "Ciorescu",
+        "zip": "MD-2089",
+        "lat": 47.1349,
+        "lon": 28.8816,
+        "timezone": "Europe/Chisinau",
+        "isp": "Moldtelecom SA",
+        "org": "JSC Moldtelecom S.A.",
+        "as": "AS8926 Moldtelecom SA",
+        "query": "93.117.72.27",
+        "response_time": 0.6470305919647217
     },
-    "socks5://103.158.253.162:8199": {
+    "socks4://69.49.234.59:55804": {
         "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta",
-        "zip": "12850",
-        "lat": -6.2114,
-        "lon": 106.8446,
-        "timezone": "Asia/Jakarta",
-        "isp": "Rapid Network",
-        "org": "",
-        "as": "AS141137 PT Media Cepat Indonesia",
-        "query": "103.158.253.162",
-        "response_time": 2.025519371032715
+        "country": "United States",
+        "countryCode": "US",
+        "region": "GA",
+        "regionName": "Georgia",
+        "city": "Atlanta",
+        "zip": "30302",
+        "lat": 33.7488,
+        "lon": -84.3877,
+        "timezone": "America/New_York",
+        "isp": "Network Solutions, LLC",
+        "org": "Newfold Digital, Inc.",
+        "as": "AS19871 Network Solutions, LLC",
+        "query": "69.49.234.59",
+        "response_time": 1.386711835861206
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4768295288085938
+        "response_time": 2.2370660305023193
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,40 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.6335277557373047
-    },
-    "socks4://51.158.65.148:16379": {
-        "status": "success",
-        "country": "Antarctica",
-        "countryCode": "AQ",
-        "region": "",
-        "regionName": "",
-        "city": "Kunlun",
-        "zip": "",
-        "lat": -72.0114,
-        "lon": 2.535,
-        "timezone": "Antarctica/Vostok",
-        "isp": "QuxLabs AB",
-        "org": "R0CKET-CLOUD",
-        "as": "AS214503 QuxLabs AB",
-        "query": "45.84.107.128",
-        "response_time": 4.1335768699646
-    },
-    "socks4://163.172.128.222:16379": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "NV",
-        "regionName": "Nevada",
-        "city": "Las Vegas",
-        "zip": "89101",
-        "lat": 36.1697,
-        "lon": -115.1236,
-        "timezone": "America/Los_Angeles",
-        "isp": "FranTech Solutions",
-        "org": "FranTech Solutions",
-        "as": "AS53667 FranTech Solutions",
-        "query": "205.185.116.215",
-        "response_time": 5.22497034072876
+        "response_time": 2.4595108032226562
     }
 }
