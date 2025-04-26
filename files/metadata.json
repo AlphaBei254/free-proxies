@@ -1,4 +1,21 @@
 {
+    "socks4://95.213.154.54:31337": {
+        "status": "success",
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "TH",
+        "regionName": "Thuringia",
+        "city": "Erfurt",
+        "zip": "99084",
+        "lat": 50.9729,
+        "lon": 11.0276,
+        "timezone": "Europe/Berlin",
+        "isp": "Keyweb AG",
+        "org": "KEYWEB-II",
+        "as": "AS31103 Keyweb AG",
+        "query": "84.19.182.20",
+        "response_time": 1.8134965896606445
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3586220741271973
-    },
-    "socks4://181.129.62.2:47377": {
-        "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "ANT",
-        "regionName": "Antioquia",
-        "city": "Medell\u00edn",
-        "zip": "050020",
-        "lat": 6.2529,
-        "lon": -75.5646,
-        "timezone": "America/Bogota",
-        "isp": "EPM Telecomunicaciones S.A. E.S.P.",
-        "org": "EPM Telecomunicaciones S.A. E.S.P",
-        "as": "AS13489 UNE EPM TELECOMUNICACIONES S.A.",
-        "query": "181.129.62.2",
-        "response_time": 2.6216325759887695
+        "response_time": 2.2789969444274902
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.678532600402832
-    },
-    "socks4://103.115.255.225:36331": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Savar Upazila",
-        "zip": "1340",
-        "lat": 23.8468,
-        "lon": 90.2417,
-        "timezone": "Asia/Dhaka",
-        "isp": "Star Internet Service",
-        "org": "Md. Murad Hossain Ripon",
-        "as": "AS137868 Star Internet Service",
-        "query": "103.115.255.238",
-        "response_time": 3.008727550506592
+        "response_time": 2.641079902648926
     }
 }
