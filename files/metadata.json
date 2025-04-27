@@ -1,54 +1,20 @@
 {
-    "socks4://190.4.205.226:4153": {
+    "socks4://180.180.124.248:49992": {
         "status": "success",
-        "country": "Chile",
-        "countryCode": "CL",
-        "region": "RM",
-        "regionName": "Santiago Metropolitan",
-        "city": "Santiago",
-        "zip": "34033",
-        "lat": -33.4521,
-        "lon": -70.6536,
-        "timezone": "America/Santiago",
-        "isp": "CTC. CORP S.A. (TELEFONICA EMPRESAS)",
-        "org": "Telefonica Movil De Chile S.A",
-        "as": "AS16629 CTC. CORP S.A. (TELEFONICA EMPRESAS)",
-        "query": "190.4.205.226",
-        "response_time": 0.7485888004302979
-    },
-    "socks4://77.104.75.97:5678": {
-        "status": "success",
-        "country": "Iran",
-        "countryCode": "IR",
-        "region": "23",
-        "regionName": "Tehran",
-        "city": "Tehran",
-        "zip": "",
-        "lat": 35.7471,
-        "lon": 51.4115,
-        "timezone": "Asia/Tehran",
-        "isp": "Respina Networks & Beyond PJSC",
-        "org": "Respina",
-        "as": "AS42337 Respina Networks & Beyond PJSC",
-        "query": "77.104.75.97",
-        "response_time": 0.9345643520355225
-    },
-    "socks4://47.176.213.210:39593": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "CA",
-        "regionName": "California",
-        "city": "Santa Fe Springs",
-        "zip": "90670",
-        "lat": 33.9451,
-        "lon": -118.0817,
-        "timezone": "America/Los_Angeles",
-        "isp": "Frontier Communications of America, Inc.",
-        "org": "Frontier Communications Corporation",
-        "as": "AS5650 Frontier Communications of America, Inc.",
-        "query": "47.176.213.210",
-        "response_time": 2.144261121749878
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "21",
+        "regionName": "Rayong",
+        "city": "Rayong",
+        "zip": "21180",
+        "lat": 12.8139,
+        "lon": 101.308,
+        "timezone": "Asia/Bangkok",
+        "isp": "TOT Public Company Limited",
+        "org": "TOT Public Company Limited",
+        "as": "AS23969 TOT Public Company Limited",
+        "query": "180.180.124.248",
+        "response_time": 2.1269991397857666
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5572409629821777
-    },
-    "socks4://221.144.252.148:5678": {
-        "status": "success",
-        "country": "South Korea",
-        "countryCode": "KR",
-        "region": "11",
-        "regionName": "Seoul",
-        "city": "Gangbuk-gu",
-        "zip": "010",
-        "lat": 37.6445,
-        "lon": 127.0037,
-        "timezone": "Asia/Seoul",
-        "isp": "Korea Telecom",
-        "org": "Korea Telecom",
-        "as": "AS4766 Korea Telecom",
-        "query": "221.144.252.148",
-        "response_time": 2.86194109916687
+        "response_time": 2.621103286743164
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -99,23 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.0517377853393555
-    },
-    "socks4://172.233.14.116:1080": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 3.435641288757324
+        "response_time": 3.081995964050293
     }
 }
