@@ -1,4 +1,38 @@
 {
+    "http://65.108.203.37:28080": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "DC",
+        "regionName": "Washington, D.C.",
+        "city": "Washington",
+        "zip": "20146",
+        "lat": 38.9071,
+        "lon": -77.0368,
+        "timezone": "America/New_York",
+        "isp": "Opera Browser VPN",
+        "org": "Opera Software LLC",
+        "as": "AS205016 HERN Labs AB",
+        "query": "77.111.246.41",
+        "response_time": 1.1132309436798096
+    },
+    "socks4://75.81.166.118:39593": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "KS",
+        "regionName": "Kansas",
+        "city": "Kansas City",
+        "zip": "66106",
+        "lat": 39.0679,
+        "lon": -94.713,
+        "timezone": "America/Chicago",
+        "isp": "Spectrum",
+        "org": "RRWE",
+        "as": "AS11427 Charter Communications Inc",
+        "query": "75.81.166.118",
+        "response_time": 1.4280879497528076
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,24 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.21679329872131348
-    },
-    "socks4://213.14.32.66:4153": {
-        "status": "success",
-        "country": "T\u00fcrkiye",
-        "countryCode": "TR",
-        "region": "34",
-        "regionName": "Istanbul",
-        "city": "Istanbul",
-        "zip": "34096",
-        "lat": 41.0145,
-        "lon": 28.9533,
-        "timezone": "Europe/Istanbul",
-        "isp": "Superonline Iletisim Hizmetleri A.S.",
-        "org": "Hipernet Bilisim VE Telekomunikasyon Hizmetleri Sanayi VE Ticaret Limited",
-        "as": "AS34984 Superonline Iletisim Hizmetleri A.S.",
-        "query": "213.14.32.66",
-        "response_time": 0.5243356227874756
+        "response_time": 2.346100330352783
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4926466941833496
-    },
-    "socks4://90.182.147.170:4145": {
-        "status": "success",
-        "country": "Czechia",
-        "countryCode": "CZ",
-        "region": "10",
-        "regionName": "Prague",
-        "city": "Prague",
-        "zip": "170 00",
-        "lat": 50.1113,
-        "lon": 14.4063,
-        "timezone": "Europe/Prague",
-        "isp": "O2 Czech Republic",
-        "org": "CZ.CZNET",
-        "as": "AS5610 O2 Czech Republic, a.s.",
-        "query": "90.182.147.170",
-        "response_time": 0.645179033279419
+        "response_time": 2.6485915184020996
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,23 +82,6 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7531921863555908
-    },
-    "socks4://103.167.156.102:1080": {
-        "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JT",
-        "regionName": "Central Java",
-        "city": "Pemalang",
-        "zip": "51117",
-        "lat": -6.8903,
-        "lon": 109.3807,
-        "timezone": "Asia/Jakarta",
-        "isp": "PT Jaringan Tiang Indonesia Group",
-        "org": "PT Jaringan Tiang Indonesia Group",
-        "as": "AS150554 PT Jaringan Tiang Indonesia Group",
-        "query": "103.167.156.102",
-        "response_time": 2.0522239208221436
+        "response_time": 2.8583176136016846
     }
 }
