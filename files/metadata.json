@@ -1,20 +1,37 @@
 {
-    "http://45.140.143.77:18080": {
+    "socks4://64.202.184.249:15986": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 2.595104932785034
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 0.5099701881408691
+    },
+    "http://113.160.132.195:8080": {
+        "status": "success",
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "66",
+        "regionName": "H\u01b0ng Y\u00ean Province",
+        "city": "B\u1ea9n Y\u00ean Nh\u00e2n",
+        "zip": "",
+        "lat": 20.9365,
+        "lon": 106.057,
+        "timezone": "Asia/Bangkok",
+        "isp": "VietNam Post and Telecom Corporation",
+        "org": "Vietnam Posts and Telecommunications Group",
+        "as": "AS45899 VNPT Corp",
+        "query": "113.160.132.195",
+        "response_time": 0.7855935096740723
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,7 +48,41 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 2.920808792114258
+        "response_time": 0.9978952407836914
+    },
+    "http://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.5402166843414307
+    },
+    "socks4://5.58.47.25:3629": {
+        "status": "success",
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "61",
+        "regionName": "Ternopil Oblast",
+        "city": "Ternopil",
+        "zip": "46001",
+        "lat": 49.5535,
+        "lon": 25.5947,
+        "timezone": "Europe/Kiev",
+        "isp": "Columbus",
+        "org": "Lanet Network Ltd",
+        "as": "AS16223 MAXNET TELECOM, LTD",
+        "query": "5.58.47.25",
+        "response_time": 2.9286398887634277
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +99,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.11374831199646
+        "response_time": 3.0491273403167725
+    },
+    "socks4://163.172.128.222:16379": {
+        "status": "success",
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BB",
+        "regionName": "Brandenburg",
+        "city": "Brandenburg",
+        "zip": "14621",
+        "lat": 52.6171,
+        "lon": 13.1207,
+        "timezone": "Europe/Berlin",
+        "isp": "Stiftung Erneuerbare Freiheit",
+        "org": "ForPrivacyNET",
+        "as": "AS60729 Stiftung Erneuerbare Freiheit",
+        "query": "185.220.101.53",
+        "response_time": 4.075577735900879
     }
 }
