@@ -1,21 +1,4 @@
 {
-    "socks4://180.180.124.248:49992": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "21",
-        "regionName": "Rayong",
-        "city": "Rayong",
-        "zip": "21180",
-        "lat": 12.8139,
-        "lon": 101.308,
-        "timezone": "Asia/Bangkok",
-        "isp": "TOT Public Company Limited",
-        "org": "TOT Public Company Limited",
-        "as": "AS23969 TOT Public Company Limited",
-        "query": "180.180.124.248",
-        "response_time": 2.1269991397857666
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.621103286743164
+        "response_time": 2.595104932785034
+    },
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 2.920808792114258
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.081995964050293
+        "response_time": 3.11374831199646
     }
 }
