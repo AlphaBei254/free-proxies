@@ -1,21 +1,4 @@
 {
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.31138181686401367
-    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,41 +14,41 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5985066890716553
+        "response_time": 0.35665225982666016
     },
-    "socks4://45.65.65.18:4145": {
+    "socks5://8.218.39.40:10800": {
         "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MC",
-        "regionName": "Murcia",
-        "city": "Archena",
-        "zip": "30600",
-        "lat": 38.1147,
-        "lon": -1.2944,
-        "timezone": "Europe/Madrid",
-        "isp": "Ditt Redmovil SL",
-        "org": "Number One in Fiber S.L",
-        "as": "AS209910 DITT REDMOVIL SL",
-        "query": "45.65.65.18",
-        "response_time": 1.5960781574249268
+        "country": "Hong Kong",
+        "countryCode": "HK",
+        "region": "",
+        "regionName": "Kowloon",
+        "city": "Hong Kong",
+        "zip": "999077",
+        "lat": 22.3193,
+        "lon": 114.169,
+        "timezone": "Asia/Hong_Kong",
+        "isp": "Alibaba (US) Technology Co., Ltd.",
+        "org": "Alibaba.com Singapore E-Commerce Private Limited",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "8.218.39.40",
+        "response_time": 1.8252429962158203
     },
-    "socks4://172.233.14.116:1080": {
+    "http://45.140.143.77:18080": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 1.7092602252960205
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.276115894317627
     },
     "socks5://37.139.102.170:50080": {
         "status": "success",
@@ -82,23 +65,6 @@
         "org": "Lancom Ltd",
         "as": "AS35816 Lancom Ltd.",
         "query": "37.139.102.170",
-        "response_time": 2.302361249923706
-    },
-    "socks5://103.189.218.83:6969": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Tongi",
-        "zip": "1230",
-        "lat": 23.8915,
-        "lon": 90.4023,
-        "timezone": "Asia/Dhaka",
-        "isp": "Comfort Solutions",
-        "org": "Md. Ruhul Amin Sarker",
-        "as": "AS149868 Comfort Solutions",
-        "query": "103.189.218.83",
-        "response_time": 3.3592751026153564
+        "response_time": 3.0277371406555176
     }
 }
