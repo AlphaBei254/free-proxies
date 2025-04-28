@@ -1,37 +1,20 @@
 {
-    "http://47.252.29.28:11222": {
+    "socks4://85.89.184.87:5678": {
         "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "30",
-        "regionName": "Kyiv City",
-        "city": "Kyiv",
-        "zip": "01010",
-        "lat": 50.4443,
-        "lon": 30.5108,
-        "timezone": "Europe/Kiev",
-        "isp": "Cogent Communications",
-        "org": "JSC \"Ukrtelecom\"",
-        "as": "AS174 Cogent Communications",
-        "query": "91.124.108.254",
-        "response_time": 1.6572680473327637
-    },
-    "socks5://213.250.198.146:7777": {
-        "status": "success",
-        "country": "Czechia",
-        "countryCode": "CZ",
-        "region": "53",
-        "regionName": "Pardubick\u00fd kraj",
-        "city": "Litomy\u0161l",
-        "zip": "570 01",
-        "lat": 49.854,
-        "lon": 16.2492,
-        "timezone": "Europe/Prague",
-        "isp": "Nordic Telecom Regional s.r.o.",
-        "org": "Nordictelecomregional",
-        "as": "AS42908 O2 Czech Republic, a.s.",
-        "query": "213.250.198.146",
-        "response_time": 1.727715015411377
+        "country": "Poland",
+        "countryCode": "PL",
+        "region": "10",
+        "regionName": "\u0141\u00f3d\u017a Voivodeship",
+        "city": "Lodz",
+        "zip": "90-127",
+        "lat": 51.7704,
+        "lon": 19.4667,
+        "timezone": "Europe/Warsaw",
+        "isp": "TOYA Sp. z o.o.",
+        "org": "Toya:net",
+        "as": "AS16342 Toya sp.z.o.o",
+        "query": "85.89.184.87",
+        "response_time": 0.5935418605804443
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3889713287353516
-    },
-    "socks4://212.47.248.107:16379": {
-        "status": "success",
-        "country": "Sweden",
-        "countryCode": "SE",
-        "region": "AB",
-        "regionName": "Stockholm County",
-        "city": "Stockholm",
-        "zip": "100 04",
-        "lat": 59.3253,
-        "lon": 18.0678,
-        "timezone": "Europe/Stockholm",
-        "isp": "No ACK Group Holding AB",
-        "org": "No ACK Group Holding AB",
-        "as": "AS30893 No ACK Group Holding AB",
-        "query": "195.47.238.90",
-        "response_time": 2.5372729301452637
+        "response_time": 2.3265175819396973
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +48,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.733396053314209
+        "response_time": 2.581559419631958
+    },
+    "socks4://163.172.164.115:16379": {
+        "status": "success",
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BB",
+        "regionName": "Brandenburg",
+        "city": "Brandenburg",
+        "zip": "14621",
+        "lat": 52.6171,
+        "lon": 13.1207,
+        "timezone": "Europe/Berlin",
+        "isp": "Stiftung Erneuerbare Freiheit",
+        "org": "CIA TRIAD SECURITY LLC",
+        "as": "AS60729 Stiftung Erneuerbare Freiheit",
+        "query": "185.220.101.166",
+        "response_time": 3.167518138885498
     }
 }
