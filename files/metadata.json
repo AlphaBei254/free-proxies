@@ -14,24 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3101508617401123
+        "response_time": 0.3133046627044678
     },
-    "socks4://213.14.32.67:4153": {
+    "socks4://170.78.211.161:1080": {
         "status": "success",
-        "country": "T\u00fcrkiye",
-        "countryCode": "TR",
-        "region": "34",
-        "regionName": "Istanbul",
-        "city": "Istanbul",
-        "zip": "34096",
-        "lat": 41.0145,
-        "lon": 28.9533,
-        "timezone": "Europe/Istanbul",
-        "isp": "Superonline Iletisim Hizmetleri A.S.",
-        "org": "Hipernet Bilisim VE Telekomunikasyon Hizmetleri Sanayi VE Ticaret Limited",
-        "as": "AS34984 Superonline Iletisim Hizmetleri A.S.",
-        "query": "213.14.32.66",
-        "response_time": 0.6972966194152832
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.37317895889282227
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +48,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6859490871429443
+        "response_time": 0.5654242038726807
     },
-    "socks4://201.148.125.126:4153": {
+    "socks4://103.60.138.65:4153": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "city": "Santa Helena de Goi\u00e1s",
-        "zip": "73930",
-        "lat": -17.8136,
-        "lon": -50.5969,
-        "timezone": "America/Sao_Paulo",
-        "isp": "America-NET Ltda.",
-        "org": "America-NET Ltda",
-        "as": "AS61844 America-NET Ltda.",
-        "query": "201.148.125.126",
-        "response_time": 0.9688613414764404
+        "country": "India",
+        "countryCode": "IN",
+        "region": "TN",
+        "regionName": "Tamil Nadu",
+        "city": "Chennai",
+        "zip": "600001",
+        "lat": 13.0762,
+        "lon": 80.2055,
+        "timezone": "Asia/Kolkata",
+        "isp": "Velocity Internet India Private Ltd",
+        "org": "Velocity Internet India Private Ltd",
+        "as": "AS134016 Velocity Internet India Private Ltd",
+        "query": "103.60.138.2",
+        "response_time": 1.1029775142669678
     }
 }
