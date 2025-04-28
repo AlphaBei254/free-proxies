@@ -1,20 +1,20 @@
 {
-    "http://45.140.143.77:18080": {
+    "socks4://76.26.114.253:39593": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.20132732391357422
+        "country": "United States",
+        "countryCode": "US",
+        "region": "WV",
+        "regionName": "West Virginia",
+        "city": "Huntington",
+        "zip": "25705",
+        "lat": 38.412,
+        "lon": -82.3698,
+        "timezone": "America/New_York",
+        "isp": "Comcast Cable Communications, LLC",
+        "org": "Comcast Cable Communications, LLC",
+        "as": "AS7922 Comcast Cable Communications, LLC",
+        "query": "76.26.114.253",
+        "response_time": 0.23337602615356445
     },
     "socks4://64.202.184.249:15986": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 0.23919034004211426
+        "response_time": 0.24855852127075195
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4521307945251465
-    },
-    "socks4://103.195.140.177:4153": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "B",
-        "regionName": "Chittagong",
-        "city": "Chittagong",
-        "zip": "4000",
-        "lat": 22.3468,
-        "lon": 91.83,
-        "timezone": "Asia/Dhaka",
-        "isp": "Razib Shahriar Rubence",
-        "org": "3 Net Technology",
-        "as": "AS64037 First n Fast IT Ltd",
-        "query": "103.177.168.13",
-        "response_time": 1.0601963996887207
+        "response_time": 0.6039094924926758
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,57 +65,57 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.4707365036010742
+        "response_time": 1.83935546875
     },
-    "socks4://109.248.236.150:60606": {
+    "http://45.140.143.77:18080": {
         "status": "success",
-        "country": "Kazakhstan",
-        "countryCode": "KZ",
-        "region": "39",
-        "regionName": "Qostanay Oblysy",
-        "city": "Kostanay",
-        "zip": "",
-        "lat": 53.2123,
-        "lon": 63.6281,
-        "timezone": "Asia/Qostanay",
-        "isp": "Uplink LLC",
-        "org": "Uplink LLC",
-        "as": "AS8200 Uplink LLC",
-        "query": "109.248.236.150",
-        "response_time": 2.690201759338379
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.380870819091797
     },
-    "socks4://175.139.200.17:4153": {
+    "socks4://45.120.38.246:1088": {
         "status": "success",
-        "country": "Malaysia",
-        "countryCode": "MY",
-        "region": "14",
-        "regionName": "Kuala Lumpur",
-        "city": "Kuala Lumpur",
-        "zip": "57000",
-        "lat": 3.1013,
-        "lon": 101.6915,
-        "timezone": "Asia/Kuala_Lumpur",
-        "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-        "org": "Adsl Streamyx",
-        "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-        "query": "175.139.200.17",
-        "response_time": 3.329779863357544
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Dhaka",
+        "zip": "1000",
+        "lat": 23.7278,
+        "lon": 90.4135,
+        "timezone": "Asia/Dhaka",
+        "isp": "Info Link",
+        "org": "",
+        "as": "AS58890 InfoLink",
+        "query": "45.120.38.246",
+        "response_time": 3.0155093669891357
     },
-    "socks4://163.172.190.59:16379": {
+    "http://47.252.29.28:11222": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
-        "region": "NV",
-        "regionName": "Nevada",
-        "city": "Las Vegas",
-        "zip": "89101",
-        "lat": 36.1697,
-        "lon": -115.1236,
-        "timezone": "America/Los_Angeles",
-        "isp": "FranTech Solutions",
-        "org": "FranTech Solutions",
-        "as": "AS53667 FranTech Solutions",
-        "query": "205.185.116.215",
-        "response_time": 4.911926031112671
+        "region": "NY",
+        "regionName": "New York",
+        "city": "New York",
+        "zip": "10118",
+        "lat": 40.7126,
+        "lon": -74.0066,
+        "timezone": "America/New_York",
+        "isp": "Datacamp Limited",
+        "org": "SSV IT PROVIDER ONLINE SERVICES LTD",
+        "as": "AS212238 Datacamp Limited",
+        "query": "146.103.51.107",
+        "response_time": 3.074704885482788
     }
 }
