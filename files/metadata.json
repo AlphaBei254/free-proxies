@@ -1,4 +1,21 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.24610280990600586
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.20888423919677734
+        "response_time": 0.3142223358154297
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.41025447845458984
+        "response_time": 0.6001513004302979
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,74 +65,6 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8001644611358643
-    },
-    "http://47.90.205.231:33333": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Charlottesville",
-        "zip": "22902",
-        "lat": 37.4316,
-        "lon": -78.6569,
-        "timezone": "America/Chicago",
-        "isp": "Alibaba.com LLC",
-        "org": "ALICLOUD-US",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "47.90.205.231",
-        "response_time": 1.044543981552124
-    },
-    "socks4://190.4.205.226:4153": {
-        "status": "success",
-        "country": "Chile",
-        "countryCode": "CL",
-        "region": "RM",
-        "regionName": "Santiago Metropolitan",
-        "city": "Santiago",
-        "zip": "34033",
-        "lat": -33.4521,
-        "lon": -70.6536,
-        "timezone": "America/Santiago",
-        "isp": "CTC. CORP S.A. (TELEFONICA EMPRESAS)",
-        "org": "Telefonica Movil De Chile S.A",
-        "as": "AS16629 CTC. CORP S.A. (TELEFONICA EMPRESAS)",
-        "query": "190.4.205.226",
-        "response_time": 1.6904196739196777
-    },
-    "socks4://27.116.53.13:5678": {
-        "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "GJ",
-        "regionName": "Gujarat",
-        "city": "Surat",
-        "zip": "394101",
-        "lat": 21.1981,
-        "lon": 72.8298,
-        "timezone": "Asia/Kolkata",
-        "isp": "Gujarat Telelik Pvt Ltd",
-        "org": "Gujarat Telelink Pvt Ltd.",
-        "as": "AS45916 Gujarat Telelink Pvt Ltd",
-        "query": "27.116.53.70",
-        "response_time": 2.1631710529327393
-    },
-    "http://216.229.112.25:8080": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "TX",
-        "regionName": "Texas",
-        "city": "Muleshoe",
-        "zip": "79347",
-        "lat": 34.2265,
-        "lon": -102.7238,
-        "timezone": "America/Chicago",
-        "isp": "Five Area Systems, LLC",
-        "org": "Five Area Systems, LLC",
-        "as": "AS29843 Five Area Systems, LLC",
-        "query": "216.229.112.25",
-        "response_time": 2.426934003829956
+        "response_time": 0.9069862365722656
     }
 }
