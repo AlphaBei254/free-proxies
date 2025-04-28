@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.49562764167785645
+        "response_time": 0.3077874183654785
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,40 +31,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 1.0140049457550049
+        "response_time": 0.5910398960113525
     },
-    "http://62.33.53.248:3128": {
+    "socks4://168.194.226.178:4153": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOS",
-        "regionName": "Moscow Oblast",
-        "city": "Drezna",
-        "zip": "142660",
-        "lat": 55.7424,
-        "lon": 38.8442,
-        "timezone": "Europe/Moscow",
-        "isp": "TRANS-TELECOM",
-        "org": "",
-        "as": "AS20485 Joint Stock Company TransTeleCom",
-        "query": "62.33.53.248",
-        "response_time": 2.4307072162628174
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "city": "Ibiraci",
+        "zip": "37990",
+        "lat": -20.3996,
+        "lon": -47.1402,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Infosystem Telecomunicacoes E Informatica Eirelli",
+        "org": "Infosystem Telecomunicacoes E Informatica Eirelli",
+        "as": "AS265401 INFOSYSTEM TELECOMUNICACOES E INFORMATICA EIRELLI",
+        "query": "168.194.226.178",
+        "response_time": 1.9164679050445557
     },
-    "socks5://213.250.198.146:7777": {
+    "socks5://187.63.9.62:63253": {
         "status": "success",
-        "country": "Czechia",
-        "countryCode": "CZ",
-        "region": "53",
-        "regionName": "Pardubick\u00fd kraj",
-        "city": "Litomy\u0161l",
-        "zip": "570 01",
-        "lat": 49.854,
-        "lon": 16.2492,
-        "timezone": "Europe/Prague",
-        "isp": "Nordic Telecom Regional s.r.o.",
-        "org": "Nordictelecomregional",
-        "as": "AS42908 O2 Czech Republic, a.s.",
-        "query": "213.250.198.146",
-        "response_time": 3.254866361618042
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Arraial do Cabo",
+        "zip": "28930",
+        "lat": -22.9634,
+        "lon": -42.0259,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
+        "org": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multi",
+        "as": "AS28658 Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
+        "query": "187.63.9.62",
+        "response_time": 1.9650342464447021
+    },
+    "socks4://200.46.30.210:4153": {
+        "status": "success",
+        "country": "Panama",
+        "countryCode": "PA",
+        "region": "8",
+        "regionName": "Provincia de Panam\u00e1",
+        "city": "Panama City",
+        "zip": "34002",
+        "lat": 8.9948,
+        "lon": -79.523,
+        "timezone": "America/Panama",
+        "isp": "Cable Onda",
+        "org": "Cable Onda",
+        "as": "AS21599 Cable Onda",
+        "query": "200.46.30.210",
+        "response_time": 2.5920915603637695
     }
 }
