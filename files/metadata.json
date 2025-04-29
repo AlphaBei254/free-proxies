@@ -1,4 +1,21 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.21370697021484375
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.296480655670166
+        "response_time": 2.255246639251709
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,23 +48,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6798529624938965
+        "response_time": 2.466784715652466
     },
-    "socks5://170.233.30.33:4153": {
+    "socks4://64.202.184.249:15986": {
         "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "Z",
-        "regionName": "Santa Cruz",
-        "city": "R\u00edo Gallegos",
-        "zip": "9400",
-        "lat": -51.6233,
-        "lon": -69.216,
-        "timezone": "America/Argentina/Rio_Gallegos",
-        "isp": "Sebastian Souto",
-        "org": "Sebastian Souto",
-        "as": "AS264738 Sebastian Souto (SSSERVICIOS)",
-        "query": "170.233.30.33",
-        "response_time": 1.3229100704193115
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 2.9362685680389404
+    },
+    "socks4://120.50.13.41:40308": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "K\u0101frul",
+        "zip": "1207",
+        "lat": 23.7715,
+        "lon": 90.3568,
+        "timezone": "Asia/Dhaka",
+        "isp": "TelNET Communication Ltd",
+        "org": "Telnet",
+        "as": "AS38712 Telnet Communication Limited Network and Transit Service Provider. Having Nationwide MPLS Network For Internet and Data Connectivity Through Telnets Own Network Infrastructure",
+        "query": "120.50.13.38",
+        "response_time": 3.291675090789795
     }
 }
