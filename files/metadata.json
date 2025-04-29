@@ -1,21 +1,4 @@
 {
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.21219658851623535
-    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3769106864929199
+        "response_time": 0.5871858596801758
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,57 +31,23 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7434654235839844
+        "response_time": 1.6407513618469238
     },
-    "socks4://82.223.165.28:44432": {
+    "http://45.140.143.77:18080": {
         "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4168,
-        "lon": -3.70379,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 1.7343897819519043
-    },
-    "socks5://51.158.113.139:16379": {
-        "status": "success",
-        "country": "Germany",
-        "countryCode": "DE",
-        "region": "BY",
-        "regionName": "Bavaria",
-        "city": "Nuremberg",
-        "zip": "90431",
-        "lat": 49.4423,
-        "lon": 11.0191,
-        "timezone": "Europe/Berlin",
-        "isp": "netcup GmbH",
-        "org": "netcup GmbH",
-        "as": "AS197540 netcup GmbH",
-        "query": "45.83.104.137",
-        "response_time": 3.178663730621338
-    },
-    "socks5://163.172.132.115:16379": {
-        "status": "success",
-        "country": "Germany",
-        "countryCode": "DE",
-        "region": "BY",
-        "regionName": "Bavaria",
-        "city": "Ha\u00dffurt",
-        "zip": "97437",
-        "lat": 50.0263,
-        "lon": 10.5157,
-        "timezone": "Europe/Berlin",
-        "isp": "F3 Netze e.V.",
-        "org": "F3 Netze e.V",
-        "as": "AS205100 F3 Netze e.V.",
-        "query": "185.220.100.246",
-        "response_time": 3.705857992172241
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.343327522277832
     }
 }
