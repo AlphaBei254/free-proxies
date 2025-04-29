@@ -1,21 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.25647854804992676
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.30164027214050293
+        "response_time": 0.21219658851623535
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5986952781677246
-    },
-    "socks4://64.202.184.249:15986": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20149",
-        "lat": 39.0469,
-        "lon": -77.4903,
-        "timezone": "America/New_York",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "64.202.184.249",
-        "response_time": 0.6212418079376221
+        "response_time": 0.3769106864929199
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,41 +48,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8273835182189941
-    },
-    "socks4://110.77.135.70:4145": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "10",
-        "regionName": "Bangkok",
-        "city": "Bangkok",
-        "zip": "10600",
-        "lat": 13.733,
-        "lon": 100.4865,
-        "timezone": "Asia/Bangkok",
-        "isp": "CAT Telecom Public Company Limited",
-        "org": "",
-        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
-        "query": "110.77.135.70",
-        "response_time": 2.002077341079712
-    },
-    "socks5://138.68.21.132:45793": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "CA",
-        "regionName": "California",
-        "city": "Santa Clara",
-        "zip": "95051",
-        "lat": 37.3419,
-        "lon": -121.9754,
-        "timezone": "America/Los_Angeles",
-        "isp": "DigitalOcean, LLC",
-        "org": "DigitalOcean, LLC",
-        "as": "AS14061 DigitalOcean, LLC",
-        "query": "138.68.21.132",
-        "response_time": 2.472774028778076
+        "response_time": 0.7434654235839844
     },
     "socks4://82.223.165.28:44432": {
         "status": "success",
@@ -133,57 +65,40 @@
         "org": "",
         "as": "AS8560 IONOS SE",
         "query": "82.223.165.28",
-        "response_time": 2.533597946166992
+        "response_time": 1.7343897819519043
     },
-    "socks4://202.131.246.250:5678": {
+    "socks5://51.158.113.139:16379": {
         "status": "success",
-        "country": "Mongolia",
-        "countryCode": "MN",
-        "region": "1",
-        "regionName": "Ulaanbaatar",
-        "city": "Ulan Bator",
-        "zip": "",
-        "lat": 47.913,
-        "lon": 106.929,
-        "timezone": "Asia/Ulaanbaatar",
-        "isp": "Mobinet LLC",
-        "org": "MOBINET-LL",
-        "as": "AS9484 Mobinet LLC. AS Mobinet Internet Service Provider",
-        "query": "202.131.246.250",
-        "response_time": 3.2187840938568115
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BY",
+        "regionName": "Bavaria",
+        "city": "Nuremberg",
+        "zip": "90431",
+        "lat": 49.4423,
+        "lon": 11.0191,
+        "timezone": "Europe/Berlin",
+        "isp": "netcup GmbH",
+        "org": "netcup GmbH",
+        "as": "AS197540 netcup GmbH",
+        "query": "45.83.104.137",
+        "response_time": 3.178663730621338
     },
     "socks5://163.172.132.115:16379": {
         "status": "success",
-        "country": "Sweden",
-        "countryCode": "SE",
-        "region": "AB",
-        "regionName": "Stockholm County",
-        "city": "Stockholm",
-        "zip": "100 05",
-        "lat": 59.3289,
-        "lon": 18.0649,
-        "timezone": "Europe/Stockholm",
-        "isp": "Periquito",
-        "org": "PRQ AB",
-        "as": "AS33837 Fredrik Holmqvist",
-        "query": "88.80.26.2",
-        "response_time": 4.326345205307007
-    },
-    "socks5://51.158.70.246:16379": {
-        "status": "success",
-        "country": "Antarctica",
-        "countryCode": "AQ",
-        "region": "",
-        "regionName": "",
-        "city": "Kunlun",
-        "zip": "",
-        "lat": -72.0114,
-        "lon": 2.535,
-        "timezone": "Antarctica/Vostok",
-        "isp": "QuxLabs AB",
-        "org": "R0CKET-CLOUD",
-        "as": "AS214503 QuxLabs AB",
-        "query": "45.84.107.54",
-        "response_time": 4.414311170578003
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BY",
+        "regionName": "Bavaria",
+        "city": "Ha\u00dffurt",
+        "zip": "97437",
+        "lat": 50.0263,
+        "lon": 10.5157,
+        "timezone": "Europe/Berlin",
+        "isp": "F3 Netze e.V.",
+        "org": "F3 Netze e.V",
+        "as": "AS205100 F3 Netze e.V.",
+        "query": "185.220.100.246",
+        "response_time": 3.705857992172241
     }
 }
