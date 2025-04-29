@@ -1,38 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.22583746910095215
-    },
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.585477352142334
-    },
     "socks4://64.202.184.249:15986": {
         "status": "success",
         "country": "United States",
@@ -48,7 +14,7 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 0.5825223922729492
+        "response_time": 0.24849724769592285
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,40 +31,23 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.9026937484741211
+        "response_time": 0.8927037715911865
     },
-    "socks5://45.140.143.77:18080": {
+    "socks5://8.218.39.40:10800": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 1.0108106136322021
-    },
-    "socks4://175.203.138.160:5678": {
-        "status": "success",
-        "country": "South Korea",
-        "countryCode": "KR",
-        "region": "44",
-        "regionName": "Chungcheongnam-do",
-        "city": "Yesan",
-        "zip": "324",
-        "lat": 36.6781,
-        "lon": 126.6946,
-        "timezone": "Asia/Seoul",
-        "isp": "Korea Telecom",
-        "org": "Kornet",
-        "as": "AS4766 Korea Telecom",
-        "query": "175.203.138.160",
-        "response_time": 2.993095636367798
+        "country": "Hong Kong",
+        "countryCode": "HK",
+        "region": "",
+        "regionName": "Kowloon",
+        "city": "Hong Kong",
+        "zip": "999077",
+        "lat": 22.3193,
+        "lon": 114.169,
+        "timezone": "Asia/Hong_Kong",
+        "isp": "Alibaba (US) Technology Co., Ltd.",
+        "org": "Alibaba.com Singapore E-Commerce Private Limited",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "8.218.39.40",
+        "response_time": 1.209510326385498
     }
 }
