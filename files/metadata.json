@@ -1,21 +1,4 @@
 {
-    "socks4://103.86.1.9:4145": {
-        "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "KA",
-        "regionName": "Karnataka",
-        "city": "Bengaluru",
-        "zip": "562130",
-        "lat": 12.9753,
-        "lon": 77.591,
-        "timezone": "Asia/Kolkata",
-        "isp": "Leadership Advisory Services PVT LTD",
-        "org": "CtrlS Datacenters Limited",
-        "as": "AS150008 Pioneer Elabs Ltd.",
-        "query": "43.225.27.178",
-        "response_time": 1.0878584384918213
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.403742790222168
+        "response_time": 0.20607900619506836
+    },
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.22617363929748535
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +48,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.6507043838500977
+        "response_time": 0.3775966167449951
     },
-    "socks4://193.68.17.141:60606": {
+    "http://216.229.112.25:8080": {
         "status": "success",
-        "country": "Bulgaria",
-        "countryCode": "BG",
-        "region": "08",
-        "regionName": "Dobrich",
-        "city": "Dobrich",
-        "zip": "9300",
-        "lat": 43.5606,
-        "lon": 27.8299,
-        "timezone": "Europe/Sofia",
-        "isp": "Digital Systems",
-        "org": "Digital Systems Ltd",
-        "as": "AS3245 Digital Systems Ltd",
-        "query": "193.68.17.141",
-        "response_time": 2.8569729328155518
+        "country": "United States",
+        "countryCode": "US",
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Muleshoe",
+        "zip": "79347",
+        "lat": 34.2265,
+        "lon": -102.7238,
+        "timezone": "America/Chicago",
+        "isp": "Five Area Systems, LLC",
+        "org": "Five Area Systems, LLC",
+        "as": "AS29843 Five Area Systems, LLC",
+        "query": "216.229.112.25",
+        "response_time": 2.224144458770752
     }
 }
