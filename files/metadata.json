@@ -1,20 +1,20 @@
 {
-    "socks5://45.140.143.77:18080": {
+    "http://113.160.132.195:8080": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.5871858596801758
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "66",
+        "regionName": "H\u01b0ng Y\u00ean Province",
+        "city": "B\u1ea9n Y\u00ean Nh\u00e2n",
+        "zip": "",
+        "lat": 20.9365,
+        "lon": 106.057,
+        "timezone": "Asia/Bangkok",
+        "isp": "VietNam Post and Telecom Corporation",
+        "org": "Vietnam Posts and Telecommunications Group",
+        "as": "AS45899 VNPT Corp",
+        "query": "113.160.132.195",
+        "response_time": 0.8643655776977539
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,7 +31,24 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.6407513618469238
+        "response_time": 0.8964903354644775
+    },
+    "socks4://202.131.246.250:5678": {
+        "status": "success",
+        "country": "Mongolia",
+        "countryCode": "MN",
+        "region": "1",
+        "regionName": "Ulaanbaatar",
+        "city": "Ulan Bator",
+        "zip": "",
+        "lat": 47.913,
+        "lon": 106.929,
+        "timezone": "Asia/Ulaanbaatar",
+        "isp": "Mobinet LLC",
+        "org": "MOBINET-LL",
+        "as": "AS9484 Mobinet LLC. AS Mobinet Internet Service Provider",
+        "query": "202.131.246.250",
+        "response_time": 1.1245951652526855
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +65,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.343327522277832
+        "response_time": 2.3278968334198
+    },
+    "socks5://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.604398488998413
+    },
+    "socks4://64.202.184.249:15986": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 2.9105751514434814
     }
 }
