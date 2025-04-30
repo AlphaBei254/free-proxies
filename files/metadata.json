@@ -1,4 +1,21 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.24618840217590332
+    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,41 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.601384162902832
-    },
-    "http://188.166.197.129:3128": {
-        "status": "success",
-        "country": "Singapore",
-        "countryCode": "SG",
-        "region": "05",
-        "regionName": "South West",
-        "city": "Singapore",
-        "zip": "627753",
-        "lat": 1.32123,
-        "lon": 103.695,
-        "timezone": "Asia/Singapore",
-        "isp": "DigitalOcean, LLC",
-        "org": "DigitalOcean, LLC",
-        "as": "AS14061 DigitalOcean, LLC",
-        "query": "174.138.18.105",
-        "response_time": 0.8708369731903076
-    },
-    "socks5://46.147.65.44:61986": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "TA",
-        "regionName": "Tatarstan Republic",
-        "city": "Naberezhnyye Chelny",
-        "zip": "423806",
-        "lat": 55.7458,
-        "lon": 52.4183,
-        "timezone": "Europe/Moscow",
-        "isp": "CJSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
-        "org": "JSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
-        "as": "AS42116 JSC \"ER-Telecom Holding\"",
-        "query": "46.147.65.44",
-        "response_time": 2.150603771209717
+        "response_time": 0.5996665954589844
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +48,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3418095111846924
+        "response_time": 2.392420530319214
     },
-    "socks4://110.77.135.70:4145": {
+    "socks5://46.147.65.44:61986": {
         "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "10",
-        "regionName": "Bangkok",
-        "city": "Bangkok",
-        "zip": "10600",
-        "lat": 13.733,
-        "lon": 100.4865,
-        "timezone": "Asia/Bangkok",
-        "isp": "CAT Telecom Public Company Limited",
-        "org": "",
-        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
-        "query": "110.77.135.70",
-        "response_time": 3.00368595123291
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "TA",
+        "regionName": "Tatarstan Republic",
+        "city": "Naberezhnyye Chelny",
+        "zip": "423806",
+        "lat": 55.7458,
+        "lon": 52.4183,
+        "timezone": "Europe/Moscow",
+        "isp": "CJSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
+        "org": "JSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
+        "as": "AS42116 JSC \"ER-Telecom Holding\"",
+        "query": "46.147.65.44",
+        "response_time": 2.936828374862671
+    },
+    "socks5://202.40.186.66:9090": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Dhaka",
+        "zip": "1215",
+        "lat": 23.7655,
+        "lon": 90.3878,
+        "timezone": "Asia/Dhaka",
+        "isp": "Ranks ITT",
+        "org": "Ranks ITT Ltd.",
+        "as": "AS23991 Ranks ITT Ltd.",
+        "query": "202.40.186.66",
+        "response_time": 3.6830592155456543
     }
 }
