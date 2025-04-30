@@ -1,4 +1,55 @@
 {
+    "socks4://80.92.224.141:5678": {
+        "status": "success",
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "30",
+        "regionName": "Kyiv City",
+        "city": "Kyiv",
+        "zip": "02063",
+        "lat": 50.458,
+        "lon": 30.5303,
+        "timezone": "Europe/Kyiv",
+        "isp": "WNET TELECOM USA Corp.",
+        "org": "LoadMe",
+        "as": "AS1820 WNET TELECOM USA Corp.",
+        "query": "80.92.224.141",
+        "response_time": 1.4765102863311768
+    },
+    "socks4://91.147.235.99:4145": {
+        "status": "success",
+        "country": "Hungary",
+        "countryCode": "HU",
+        "region": "HB",
+        "regionName": "Hajd\u00fa-Bihar",
+        "city": "Debrecen",
+        "zip": "4031",
+        "lat": 47.5232,
+        "lon": 21.6334,
+        "timezone": "Europe/Budapest",
+        "isp": "Magyar Telekom plc.",
+        "org": "Portal LLC",
+        "as": "AS5483 Magyar Telekom plc.",
+        "query": "91.147.235.99",
+        "response_time": 1.4820311069488525
+    },
+    "socks4://180.92.212.178:5678": {
+        "status": "success",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JK",
+        "regionName": "Jakarta",
+        "city": "Jakarta",
+        "zip": "",
+        "lat": -6.22927,
+        "lon": 106.811,
+        "timezone": "Asia/Jakarta",
+        "isp": "Sudirman Central Business District",
+        "org": "",
+        "as": "AS23953 PT ARTHA TELEKOMINDO",
+        "query": "180.92.212.178",
+        "response_time": 2.006168842315674
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.347945213317871
+        "response_time": 2.255119800567627
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,6 +82,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.688786506652832
+        "response_time": 2.6041712760925293
+    },
+    "socks5://185.35.130.16:61212": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "IN",
+        "regionName": "Ingushetiya Republic",
+        "city": "Nazran",
+        "zip": "386000",
+        "lat": 43.2286,
+        "lon": 44.7819,
+        "timezone": "Europe/Moscow",
+        "isp": "Plazmatelekom LLC",
+        "org": "PLAZMA Static IPs",
+        "as": "AS62440 PLAZMATELEKOM LLC",
+        "query": "185.35.130.16",
+        "response_time": 3.2689805030822754
     }
 }
