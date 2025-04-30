@@ -1,20 +1,37 @@
 {
-    "socks4://64.124.191.98:32688": {
+    "socks4://190.104.26.227:33638": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "PA",
-        "regionName": "Pennsylvania",
-        "city": "Conshohocken",
-        "zip": "19428",
-        "lat": 40.0864,
-        "lon": -75.2931,
-        "timezone": "America/New_York",
-        "isp": "Zayo Bandwidth",
-        "org": "Web Werks",
-        "as": "AS6461 Zayo Bandwidth",
-        "query": "64.124.191.98",
-        "response_time": 0.0624082088470459
+        "country": "Bolivia",
+        "countryCode": "BO",
+        "region": "S",
+        "regionName": "Santa Cruz Department",
+        "city": "Santa Cruz",
+        "zip": "",
+        "lat": -17.7834,
+        "lon": -63.1822,
+        "timezone": "America/La_Paz",
+        "isp": "Telef\u00f3nica Celular de Bolivia S.A.",
+        "org": "Telef\u00f3nica Celular de Bolivia S.A",
+        "as": "AS27882 Telef\u00f3nica Celular de Bolivia S.A.",
+        "query": "190.104.26.227",
+        "response_time": 0.7718706130981445
+    },
+    "socks4://175.203.138.160:5678": {
+        "status": "success",
+        "country": "South Korea",
+        "countryCode": "KR",
+        "region": "44",
+        "regionName": "Chungcheongnam-do",
+        "city": "Yesan",
+        "zip": "324",
+        "lat": 36.6781,
+        "lon": 126.6946,
+        "timezone": "Asia/Seoul",
+        "isp": "Korea Telecom",
+        "org": "Kornet",
+        "as": "AS4766 Korea Telecom",
+        "query": "175.203.138.160",
+        "response_time": 1.821641206741333
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,75 +48,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.0866456031799316
-    },
-    "socks4://93.94.90.180:4145": {
-        "status": "success",
-        "country": "Italy",
-        "countryCode": "IT",
-        "region": "36",
-        "regionName": "Friuli Venezia Giulia",
-        "city": "Udine",
-        "zip": "33100",
-        "lat": 46.0693,
-        "lon": 13.2372,
-        "timezone": "Europe/Rome",
-        "isp": "FIBERTELECOM",
-        "org": "",
-        "as": "AS41327 Fiber Telecom S.p.A.",
-        "query": "185.61.169.66",
-        "response_time": 1.512369155883789
-    },
-    "http://216.229.112.25:8080": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "TX",
-        "regionName": "Texas",
-        "city": "Muleshoe",
-        "zip": "79347",
-        "lat": 34.2265,
-        "lon": -102.7238,
-        "timezone": "America/Chicago",
-        "isp": "Five Area Systems, LLC",
-        "org": "Five Area Systems, LLC",
-        "as": "AS29843 Five Area Systems, LLC",
-        "query": "216.229.112.25",
-        "response_time": 1.562220573425293
-    },
-    "socks4://46.214.153.223:5678": {
-        "status": "success",
-        "country": "Romania",
-        "countryCode": "RO",
-        "region": "SV",
-        "regionName": "Suceava",
-        "city": "Radauti",
-        "zip": "725400",
-        "lat": 47.8462,
-        "lon": 25.9154,
-        "timezone": "Europe/Bucharest",
-        "isp": "SC NextGen Communications SRL",
-        "org": "SC NextGen Communications SRL",
-        "as": "AS48161 NEXTGEN COMMUNICATIONS SRL",
-        "query": "46.214.153.223",
-        "response_time": 1.5538721084594727
-    },
-    "socks4://114.4.200.222:5678": {
-        "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta",
-        "zip": "12850",
-        "lat": -6.2114,
-        "lon": 106.8446,
-        "timezone": "Asia/Jakarta",
-        "isp": "PT. INDOSAT Tbk",
-        "org": "PT. INDOSAT Tbk",
-        "as": "AS4761 INDOSAT Internet Network Provider",
-        "query": "114.4.200.222",
-        "response_time": 2.0349361896514893
+        "response_time": 2.0489695072174072
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -116,7 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2446749210357666
+        "response_time": 2.3168232440948486
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -133,23 +82,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.473095655441284
-    },
-    "socks4://175.144.198.226:31694": {
-        "status": "success",
-        "country": "Malaysia",
-        "countryCode": "MY",
-        "region": "01",
-        "regionName": "Johor",
-        "city": "Kluang",
-        "zip": "86000",
-        "lat": 2.0303,
-        "lon": 103.3213,
-        "timezone": "Asia/Kuala_Lumpur",
-        "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-        "org": "Adsl Streamyx",
-        "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-        "query": "175.144.198.225",
-        "response_time": 3.1474742889404297
+        "response_time": 2.6162214279174805
     }
 }
