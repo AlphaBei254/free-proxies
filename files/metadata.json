@@ -14,24 +14,41 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.22054505348205566
+        "response_time": 0.24300837516784668
     },
-    "socks4://193.68.17.141:60606": {
+    "socks4://103.83.252.61:1080": {
         "status": "success",
-        "country": "Bulgaria",
-        "countryCode": "BG",
-        "region": "08",
-        "regionName": "Dobrich",
-        "city": "Dobrich",
-        "zip": "9300",
-        "lat": 43.5606,
-        "lon": 27.8299,
-        "timezone": "Europe/Sofia",
-        "isp": "Digital Systems",
-        "org": "Digital Systems Ltd",
-        "as": "AS3245 Digital Systems Ltd",
-        "query": "193.68.17.141",
-        "response_time": 1.0784516334533691
+        "country": "India",
+        "countryCode": "IN",
+        "region": "MP",
+        "regionName": "Madhya Pradesh",
+        "city": "Indore",
+        "zip": "452016",
+        "lat": 22.717,
+        "lon": 75.8337,
+        "timezone": "Asia/Kolkata",
+        "isp": "RB5",
+        "org": "",
+        "as": "AS59165 Auspice Infratel Pvt. Ltd.",
+        "query": "103.204.54.50",
+        "response_time": 1.2301223278045654
+    },
+    "socks5://185.35.130.16:61212": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "IN",
+        "regionName": "Ingushetiya Republic",
+        "city": "Nazran",
+        "zip": "386000",
+        "lat": 43.2286,
+        "lon": 44.7819,
+        "timezone": "Europe/Moscow",
+        "isp": "Plazmatelekom LLC",
+        "org": "PLAZMA Static IPs",
+        "as": "AS62440 PLAZMATELEKOM LLC",
+        "query": "185.35.130.16",
+        "response_time": 1.3090996742248535
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.249997138977051
+        "response_time": 2.3453128337860107
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,40 +82,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4631693363189697
+        "response_time": 2.6686301231384277
     },
-    "http://216.229.112.25:8080": {
+    "socks4://36.37.244.41:5678": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "TX",
-        "regionName": "Texas",
-        "city": "Muleshoe",
-        "zip": "79347",
-        "lat": 34.2265,
-        "lon": -102.7238,
-        "timezone": "America/Chicago",
-        "isp": "Five Area Systems, LLC",
-        "org": "Five Area Systems, LLC",
-        "as": "AS29843 Five Area Systems, LLC",
-        "query": "216.229.112.25",
-        "response_time": 3.1536526679992676
-    },
-    "socks5://202.40.186.66:9090": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1215",
-        "lat": 23.7655,
-        "lon": 90.3878,
-        "timezone": "Asia/Dhaka",
-        "isp": "Ranks ITT",
-        "org": "Ranks ITT Ltd.",
-        "as": "AS23991 Ranks ITT Ltd.",
-        "query": "202.40.186.66",
-        "response_time": 3.4280126094818115
+        "country": "Cambodia",
+        "countryCode": "KH",
+        "region": "1",
+        "regionName": "Banteay Meanchey",
+        "city": "Sisophon",
+        "zip": "",
+        "lat": 13.5859,
+        "lon": 102.974,
+        "timezone": "Asia/Phnom_Penh",
+        "isp": "VIETTEL (CAMBODIA) PTE., LTD",
+        "org": "Viettel (cambodia) Pte., Ltd.",
+        "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
+        "query": "36.37.244.41",
+        "response_time": 2.992959499359131
     }
 }
