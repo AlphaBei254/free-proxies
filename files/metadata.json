@@ -14,41 +14,24 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.3565795421600342
+        "response_time": 0.22054505348205566
     },
-    "socks5://45.140.143.77:18080": {
+    "socks4://193.68.17.141:60606": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.39863038063049316
-    },
-    "socks4://122.15.255.229:60606": {
-        "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "WB",
-        "regionName": "West Bengal",
-        "city": "Kolkata",
-        "zip": "700095",
-        "lat": 22.5643,
-        "lon": 88.3693,
-        "timezone": "Asia/Kolkata",
-        "isp": "VODAFONE-STATIC",
-        "org": "",
-        "as": "AS55410 Vodafone Idea Ltd",
-        "query": "122.15.255.229",
-        "response_time": 1.9402344226837158
+        "country": "Bulgaria",
+        "countryCode": "BG",
+        "region": "08",
+        "regionName": "Dobrich",
+        "city": "Dobrich",
+        "zip": "9300",
+        "lat": 43.5606,
+        "lon": 27.8299,
+        "timezone": "Europe/Sofia",
+        "isp": "Digital Systems",
+        "org": "Digital Systems Ltd",
+        "as": "AS3245 Digital Systems Ltd",
+        "query": "193.68.17.141",
+        "response_time": 1.0784516334533691
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,24 +48,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2285711765289307
+        "response_time": 2.249997138977051
     },
-    "socks5://118.70.151.55:1080": {
+    "socks5://45.140.143.77:18080": {
         "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "HN",
-        "regionName": "Hanoi",
-        "city": "Hanoi",
-        "zip": "100000",
-        "lat": 21.0184,
-        "lon": 105.8461,
-        "timezone": "Asia/Bangkok",
-        "isp": "FPT Telecom Company",
-        "org": "Vietnam Internet Network Information Center",
-        "as": "AS18403 FPT Telecom Company",
-        "query": "118.70.151.55",
-        "response_time": 3.5304453372955322
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.4631693363189697
     },
     "http://216.229.112.25:8080": {
         "status": "success",
@@ -99,6 +82,23 @@
         "org": "Five Area Systems, LLC",
         "as": "AS29843 Five Area Systems, LLC",
         "query": "216.229.112.25",
-        "response_time": 4.720233201980591
+        "response_time": 3.1536526679992676
+    },
+    "socks5://202.40.186.66:9090": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Dhaka",
+        "zip": "1215",
+        "lat": 23.7655,
+        "lon": 90.3878,
+        "timezone": "Asia/Dhaka",
+        "isp": "Ranks ITT",
+        "org": "Ranks ITT Ltd.",
+        "as": "AS23991 Ranks ITT Ltd.",
+        "query": "202.40.186.66",
+        "response_time": 3.4280126094818115
     }
 }
