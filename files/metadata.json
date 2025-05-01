@@ -1,5 +1,5 @@
 {
-    "http://45.140.143.77:18080": {
+    "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
         "countryCode": "NL",
@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.25670385360717773
+        "response_time": 0.3773379325866699
     },
     "socks4://64.202.184.249:15986": {
         "status": "success",
@@ -31,9 +31,9 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 0.33483219146728516
+        "response_time": 0.8927063941955566
     },
-    "socks5://45.140.143.77:18080": {
+    "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
         "countryCode": "NL",
@@ -48,23 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5684363842010498
-    },
-    "socks4://1.4.195.114:4145": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "10",
-        "regionName": "Bangkok",
-        "city": "Bangkok",
-        "zip": "10240",
-        "lat": 13.7663,
-        "lon": 100.6503,
-        "timezone": "Asia/Bangkok",
-        "isp": "TOT Public Company Limited",
-        "org": "TOT Public Company Limited",
-        "as": "AS23969 TOT Public Company Limited",
-        "query": "1.4.195.114",
-        "response_time": 3.0638227462768555
+        "response_time": 2.3739922046661377
     }
 }
