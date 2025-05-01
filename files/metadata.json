@@ -14,7 +14,58 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3773379325866699
+        "response_time": 0.6090729236602783
+    },
+    "socks4://109.248.236.150:60606": {
+        "status": "success",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "region": "39",
+        "regionName": "Qostanay Oblysy",
+        "city": "Kostanay",
+        "zip": "",
+        "lat": 53.2123,
+        "lon": 63.6281,
+        "timezone": "Asia/Qostanay",
+        "isp": "Uplink LLC",
+        "org": "Uplink LLC",
+        "as": "AS8200 Uplink LLC",
+        "query": "109.248.236.150",
+        "response_time": 0.8041164875030518
+    },
+    "socks4://109.166.210.170:5678": {
+        "status": "success",
+        "country": "Romania",
+        "countryCode": "RO",
+        "region": "CJ",
+        "regionName": "Cluj County",
+        "city": "Cluj-Napoca",
+        "zip": "400635",
+        "lat": 46.7656,
+        "lon": 23.5945,
+        "timezone": "Europe/Bucharest",
+        "isp": "Orange Romania Network",
+        "org": "Orange Romania S.A.",
+        "as": "AS8953 Orange Romania S.A.",
+        "query": "109.166.210.170",
+        "response_time": 0.9225008487701416
+    },
+    "socks4://118.174.14.65:44336": {
+        "status": "success",
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "32",
+        "regionName": "Surin",
+        "city": "Tha Tum",
+        "zip": "",
+        "lat": 15.3195,
+        "lon": 103.675,
+        "timezone": "Asia/Bangkok",
+        "isp": "TOT Public Company Limited",
+        "org": "TOT Public Company Limited",
+        "as": "AS23969 TOT Public Company Limited",
+        "query": "118.174.219.120",
+        "response_time": 0.9142353534698486
     },
     "socks4://64.202.184.249:15986": {
         "status": "success",
@@ -31,7 +82,7 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 0.8927063941955566
+        "response_time": 1.671888828277588
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +99,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3739922046661377
+        "response_time": 2.3471362590789795
     }
 }
