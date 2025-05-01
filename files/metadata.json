@@ -1,21 +1,4 @@
 {
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.19132065773010254
-    },
     "socks4://64.202.184.249:15986": {
         "status": "success",
         "country": "United States",
@@ -31,7 +14,41 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 0.3357083797454834
+        "response_time": 0.07658267021179199
+    },
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.24954557418823242
+    },
+    "http://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.3039538860321045
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.40117621421813965
+        "response_time": 0.615962028503418
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,23 +82,23 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8183937072753906
+        "response_time": 0.8433668613433838
     },
-    "http://216.229.112.25:8080": {
+    "socks4://27.123.254.158:6969": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "TX",
-        "regionName": "Texas",
-        "city": "Muleshoe",
-        "zip": "79347",
-        "lat": 34.2265,
-        "lon": -102.7238,
-        "timezone": "America/Chicago",
-        "isp": "Five Area Systems, LLC",
-        "org": "Five Area Systems, LLC",
-        "as": "AS29843 Five Area Systems, LLC",
-        "query": "216.229.112.25",
-        "response_time": 3.8176324367523193
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "H",
+        "regionName": "Mymensingh Division",
+        "city": "Purbadhala",
+        "zip": "",
+        "lat": 24.9408,
+        "lon": 90.6003,
+        "timezone": "Asia/Dhaka",
+        "isp": "Kazi Sazzad Hossain T/A Millennium Computers & Networking",
+        "org": "Millennium Computers & Networking",
+        "as": "AS134113 Kazi Sazzad Hossain T/A Millennium Computers & Networking",
+        "query": "27.123.254.158",
+        "response_time": 2.1980226039886475
     }
 }
