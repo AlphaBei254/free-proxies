@@ -14,7 +14,41 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 0.08498644828796387
+        "response_time": 0.3098454475402832
+    },
+    "socks4://75.81.166.118:39593": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "KS",
+        "regionName": "Kansas",
+        "city": "Kansas City",
+        "zip": "66106",
+        "lat": 39.0679,
+        "lon": -94.713,
+        "timezone": "America/Chicago",
+        "isp": "Spectrum",
+        "org": "RRWE",
+        "as": "AS11427 Charter Communications Inc",
+        "query": "75.81.166.118",
+        "response_time": 0.35460948944091797
+    },
+    "socks4://103.189.234.161:1080": {
+        "status": "success",
+        "country": "Singapore",
+        "countryCode": "SG",
+        "region": "01",
+        "regionName": "Central Singapore",
+        "city": "Singapore",
+        "zip": "079903",
+        "lat": 1.2757,
+        "lon": 103.846,
+        "timezone": "Asia/Singapore",
+        "isp": "Cloud Host Pte Ltd",
+        "org": "Cloud Host Pte Ltd",
+        "as": "AS138608 Cloud Host Pte Ltd",
+        "query": "103.189.234.161",
+        "response_time": 0.7893514633178711
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3133430480957031
+        "response_time": 1.3492646217346191
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +82,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.607454776763916
+        "response_time": 1.7354850769042969
     },
-    "socks5://46.147.65.44:61986": {
+    "socks4://103.115.255.225:36331": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "TA",
-        "regionName": "Tatarstan Republic",
-        "city": "Naberezhnyye Chelny",
-        "zip": "423806",
-        "lat": 55.7458,
-        "lon": 52.4183,
-        "timezone": "Europe/Moscow",
-        "isp": "CJSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
-        "org": "JSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
-        "as": "AS42116 JSC \"ER-Telecom Holding\"",
-        "query": "46.147.65.44",
-        "response_time": 2.1160037517547607
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Savar Upazila",
+        "zip": "1340",
+        "lat": 23.8468,
+        "lon": 90.2417,
+        "timezone": "Asia/Dhaka",
+        "isp": "Star Internet Service",
+        "org": "Md. Murad Hossain Ripon",
+        "as": "AS137868 Star Internet Service",
+        "query": "103.115.255.238",
+        "response_time": 1.9687857627868652
+    },
+    "socks5://51.158.113.139:16379": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1012",
+        "lat": 52.3676,
+        "lon": 4.90414,
+        "timezone": "Europe/Amsterdam",
+        "isp": "Surf B.V.",
+        "org": "Nothing to hide",
+        "as": "AS1101 SURF B.V.",
+        "query": "192.42.116.214",
+        "response_time": 2.1445584297180176
+    },
+    "socks5://103.163.244.106:1080": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "HR",
+        "regionName": "Haryana",
+        "city": "Panipat",
+        "zip": "132103",
+        "lat": 29.3885,
+        "lon": 76.9669,
+        "timezone": "Asia/Kolkata",
+        "isp": "Infolink System",
+        "org": "",
+        "as": "AS132746 Infolink System",
+        "query": "103.163.244.106",
+        "response_time": 2.6877846717834473
     }
 }
