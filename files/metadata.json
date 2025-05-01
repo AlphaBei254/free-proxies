@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.19966959953308105
+        "response_time": 0.1992192268371582
     },
     "socks4://64.202.184.249:15986": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 0.21906352043151855
+        "response_time": 0.24194860458374023
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3476877212524414
-    },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.219",
-        "response_time": 0.6042966842651367
+        "response_time": 0.370128870010376
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,91 +65,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7415969371795654
+        "response_time": 0.8715457916259766
     },
-    "socks5://103.189.218.83:6969": {
+    "socks4://202.131.159.60:5678": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Tongi",
-        "zip": "1230",
-        "lat": 23.8915,
-        "lon": 90.4023,
-        "timezone": "Asia/Dhaka",
-        "isp": "Comfort Solutions",
-        "org": "Md. Ruhul Amin Sarker",
-        "as": "AS149868 Comfort Solutions",
-        "query": "103.189.218.83",
-        "response_time": 2.4821317195892334
+        "country": "India",
+        "countryCode": "IN",
+        "region": "MH",
+        "regionName": "Maharashtra",
+        "city": "Mumbai",
+        "zip": "400017",
+        "lat": 19.0748,
+        "lon": 72.8856,
+        "timezone": "Asia/Kolkata",
+        "isp": "Karuturi Telecom Pvt Ltd",
+        "org": "Ibus Virtual Network Services Private Limited",
+        "as": "AS17443 Karuturi Telecom Pvt Ltd",
+        "query": "202.131.159.60",
+        "response_time": 1.2203264236450195
     },
-    "http://216.229.112.25:8080": {
+    "http://200.174.198.86:8888": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "TX",
-        "regionName": "Texas",
-        "city": "Muleshoe",
-        "zip": "79347",
-        "lat": 34.2265,
-        "lon": -102.7238,
-        "timezone": "America/Chicago",
-        "isp": "Five Area Systems, LLC",
-        "org": "Five Area Systems, LLC",
-        "as": "AS29843 Five Area Systems, LLC",
-        "query": "216.229.112.25",
-        "response_time": 2.6554176807403564
-    },
-    "socks4://109.248.236.150:60606": {
-        "status": "success",
-        "country": "Kazakhstan",
-        "countryCode": "KZ",
-        "region": "39",
-        "regionName": "Qostanay Oblysy",
-        "city": "Kostanay",
-        "zip": "",
-        "lat": 53.2123,
-        "lon": 63.6281,
-        "timezone": "Asia/Qostanay",
-        "isp": "Uplink LLC",
-        "org": "Uplink LLC",
-        "as": "AS8200 Uplink LLC",
-        "query": "109.248.236.150",
-        "response_time": 2.6873669624328613
-    },
-    "socks4://103.115.255.225:36331": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Savar Upazila",
-        "zip": "1340",
-        "lat": 23.8468,
-        "lon": 90.2417,
-        "timezone": "Asia/Dhaka",
-        "isp": "Star Internet Service",
-        "org": "Md. Murad Hossain Ripon",
-        "as": "AS137868 Star Internet Service",
-        "query": "103.115.255.238",
-        "response_time": 3.1899383068084717
-    },
-    "socks4://110.77.149.227:4153": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "10",
-        "regionName": "Bangkok",
-        "city": "Bangkok",
-        "zip": "10500",
-        "lat": 13.7326,
-        "lon": 100.539,
-        "timezone": "Asia/Bangkok",
-        "isp": "CAT Telecom Public Company Limited",
-        "org": "CAT BB",
-        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
-        "query": "110.77.149.227",
-        "response_time": 3.1962645053863525
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.8",
+        "response_time": 1.9131600856781006
     }
 }
