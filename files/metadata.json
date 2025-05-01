@@ -1,21 +1,4 @@
 {
-    "socks4://64.202.184.249:15986": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20149",
-        "lat": 39.0469,
-        "lon": -77.4903,
-        "timezone": "America/New_York",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "64.202.184.249",
-        "response_time": 0.22763943672180176
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.237328052520752
+        "response_time": 0.19539952278137207
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +31,91 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.465385675430298
+        "response_time": 0.40039801597595215
+    },
+    "socks4://90.182.147.170:4145": {
+        "status": "success",
+        "country": "Czechia",
+        "countryCode": "CZ",
+        "region": "10",
+        "regionName": "Prague",
+        "city": "Prague",
+        "zip": "170 00",
+        "lat": 50.1113,
+        "lon": 14.4063,
+        "timezone": "Europe/Prague",
+        "isp": "O2 Czech Republic",
+        "org": "CZ.CZNET",
+        "as": "AS5610 O2 Czech Republic, a.s.",
+        "query": "90.182.147.170",
+        "response_time": 0.6179347038269043
+    },
+    "socks5://188.165.220.50:62878": {
+        "status": "success",
+        "country": "France",
+        "countryCode": "FR",
+        "region": "HDF",
+        "regionName": "Hauts-de-France",
+        "city": "Roubaix",
+        "zip": "59100",
+        "lat": 50.6917,
+        "lon": 3.20157,
+        "timezone": "Europe/Paris",
+        "isp": "OVH SAS",
+        "org": "OVH ISP",
+        "as": "AS16276 OVH SAS",
+        "query": "188.165.220.50",
+        "response_time": 0.6785728931427002
+    },
+    "socks4://200.122.92.211:5678": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "X",
+        "regionName": "Cordoba",
+        "city": "Bell Ville",
+        "zip": "2550",
+        "lat": -32.6203,
+        "lon": -62.702,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Telecom Argentina S.A.",
+        "org": "Telecom Argentina S.A",
+        "as": "AS7303 Telecom Argentina S.A.",
+        "query": "200.122.92.211",
+        "response_time": 1.8710203170776367
+    },
+    "socks4://202.69.38.42:5678": {
+        "status": "success",
+        "country": "Pakistan",
+        "countryCode": "PK",
+        "region": "PB",
+        "regionName": "Punjab",
+        "city": "Lahore",
+        "zip": "54000",
+        "lat": 31.5826,
+        "lon": 74.3276,
+        "timezone": "Asia/Karachi",
+        "isp": "Gerrys Information Technology (PVT) Ltd",
+        "org": "Gerrys Information Technology (PVT) Ltd",
+        "as": "AS23750 GERRYS INFORMATION TECHNOLOGY PVT LTD.",
+        "query": "202.69.38.42",
+        "response_time": 2.1614902019500732
+    },
+    "socks5://103.163.244.106:1080": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "HR",
+        "regionName": "Haryana",
+        "city": "Panipat",
+        "zip": "132103",
+        "lat": 29.3885,
+        "lon": 76.9669,
+        "timezone": "Asia/Kolkata",
+        "isp": "Infolink System",
+        "org": "",
+        "as": "AS132746 Infolink System",
+        "query": "103.163.244.106",
+        "response_time": 2.5067451000213623
     }
 }
