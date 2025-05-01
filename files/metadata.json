@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.1860668659210205
+        "response_time": 0.19132065773010254
     },
     "socks4://64.202.184.249:15986": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 0.28374505043029785
+        "response_time": 0.3357083797454834
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.38286924362182617
-    },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.31",
-        "response_time": 0.5143847465515137
+        "response_time": 0.40117621421813965
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,57 +65,23 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7985568046569824
+        "response_time": 0.8183937072753906
     },
-    "socks4://45.234.100.112:1080": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "PE",
-        "regionName": "Pernambuco",
-        "city": "Recife",
-        "zip": "53000",
-        "lat": -8.0009,
-        "lon": -34.8687,
-        "timezone": "America/Recife",
-        "isp": "Fortlink Internet Corporativa",
-        "org": "Fortlink Internet Corporativa",
-        "as": "AS61592 FORTLINK INTERNET CORPORATIVA",
-        "query": "45.234.100.102",
-        "response_time": 1.69075608253479
-    },
-    "socks4://41.216.232.213:4153": {
-        "status": "success",
-        "country": "Cameroon",
-        "countryCode": "CM",
-        "region": "CE",
-        "regionName": "Centre",
-        "city": "Yaound\u00e9",
-        "zip": "",
-        "lat": 3.86169,
-        "lon": 11.5202,
-        "timezone": "Africa/Douala",
-        "isp": "Gateway Cameroun",
-        "org": "",
-        "as": "AS37672 INQ DIGITAL CAMEROON SA",
-        "query": "217.14.84.154",
-        "response_time": 1.9749672412872314
-    },
-    "socks5://212.47.235.205:16379": {
+    "http://216.229.112.25:8080": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
-        "region": "IL",
-        "regionName": "Illinois",
-        "city": "Chicago",
-        "zip": "60666",
-        "lat": 41.8781,
-        "lon": -87.6298,
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Muleshoe",
+        "zip": "79347",
+        "lat": 34.2265,
+        "lon": -102.7238,
         "timezone": "America/Chicago",
-        "isp": "IONOS SE",
-        "org": "IONOS Inc",
-        "as": "AS8560 IONOS SE",
-        "query": "209.46.120.81",
-        "response_time": 3.658226251602173
+        "isp": "Five Area Systems, LLC",
+        "org": "Five Area Systems, LLC",
+        "as": "AS29843 Five Area Systems, LLC",
+        "query": "216.229.112.25",
+        "response_time": 3.8176324367523193
     }
 }
