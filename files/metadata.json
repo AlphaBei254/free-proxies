@@ -1,89 +1,4 @@
 {
-    "socks4://64.202.184.249:15986": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20149",
-        "lat": 39.0469,
-        "lon": -77.4903,
-        "timezone": "America/New_York",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "64.202.184.249",
-        "response_time": 0.19388508796691895
-    },
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.166",
-        "response_time": 0.23572444915771484
-    },
-    "http://216.229.112.25:8080": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "TX",
-        "regionName": "Texas",
-        "city": "Muleshoe",
-        "zip": "79347",
-        "lat": 34.2265,
-        "lon": -102.7238,
-        "timezone": "America/Chicago",
-        "isp": "Five Area Systems, LLC",
-        "org": "Five Area Systems, LLC",
-        "as": "AS29843 Five Area Systems, LLC",
-        "query": "216.229.112.25",
-        "response_time": 0.4867830276489258
-    },
-    "socks5://103.189.218.83:6969": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Tongi",
-        "zip": "1230",
-        "lat": 23.8915,
-        "lon": 90.4023,
-        "timezone": "Asia/Dhaka",
-        "isp": "Comfort Solutions",
-        "org": "Md. Ruhul Amin Sarker",
-        "as": "AS149868 Comfort Solutions",
-        "query": "103.189.218.83",
-        "response_time": 1.4179651737213135
-    },
-    "socks4://183.88.212.167:4153": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "20",
-        "regionName": "Chon Buri",
-        "city": "Chon Buri",
-        "zip": "20160",
-        "lat": 13.4672,
-        "lon": 101.0972,
-        "timezone": "Asia/Bangkok",
-        "isp": "Triple T Broadband Public Company Limited",
-        "org": "Triple T Broadband Public Company Limited",
-        "as": "AS45758 Triple T Broadband Public Company Limited",
-        "query": "183.88.212.167",
-        "response_time": 2.043794631958008
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -99,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3804445266723633
+        "response_time": 2.3469276428222656
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -116,6 +31,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.6695384979248047
+        "response_time": 2.684788227081299
+    },
+    "socks4://102.165.125.102:5678": {
+        "status": "success",
+        "country": "Nigeria",
+        "countryCode": "NG",
+        "region": "FC",
+        "regionName": "FCT",
+        "city": "Abuja",
+        "zip": "",
+        "lat": 9.05785,
+        "lon": 7.49508,
+        "timezone": "Africa/Lagos",
+        "isp": "Internet Solutions Nigeria Limited",
+        "org": "Internet Solutions Nigeria Limited",
+        "as": "AS37521 Internet Solutions Nigeria Limited",
+        "query": "102.165.125.102",
+        "response_time": 3.084803819656372
     }
 }
