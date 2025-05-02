@@ -1,4 +1,55 @@
 {
+    "socks4://64.202.184.249:15986": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 0.417219877243042
+    },
+    "socks4://175.144.198.226:31694": {
+        "status": "success",
+        "country": "Malaysia",
+        "countryCode": "MY",
+        "region": "01",
+        "regionName": "Johor",
+        "city": "Kluang",
+        "zip": "86000",
+        "lat": 2.0303,
+        "lon": 103.3213,
+        "timezone": "Asia/Kuala_Lumpur",
+        "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+        "org": "Adsl Streamyx",
+        "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+        "query": "175.144.198.13",
+        "response_time": 1.0163521766662598
+    },
+    "socks4://85.89.184.87:5678": {
+        "status": "success",
+        "country": "Poland",
+        "countryCode": "PL",
+        "region": "10",
+        "regionName": "\u0141\u00f3d\u017a Voivodeship",
+        "city": "Lodz",
+        "zip": "90-127",
+        "lat": 51.7704,
+        "lon": 19.4667,
+        "timezone": "Europe/Warsaw",
+        "isp": "TOYA Sp. z o.o.",
+        "org": "Toya:net",
+        "as": "AS16342 Toya sp.z.o.o",
+        "query": "85.89.184.87",
+        "response_time": 1.5167772769927979
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3469276428222656
+        "response_time": 2.2788429260253906
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,23 +82,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.684788227081299
+        "response_time": 2.4841058254241943
     },
-    "socks4://102.165.125.102:5678": {
+    "socks4://109.160.97.49:4145": {
         "status": "success",
-        "country": "Nigeria",
-        "countryCode": "NG",
-        "region": "FC",
-        "regionName": "FCT",
-        "city": "Abuja",
-        "zip": "",
-        "lat": 9.05785,
-        "lon": 7.49508,
-        "timezone": "Africa/Lagos",
-        "isp": "Internet Solutions Nigeria Limited",
-        "org": "Internet Solutions Nigeria Limited",
-        "as": "AS37521 Internet Solutions Nigeria Limited",
-        "query": "102.165.125.102",
-        "response_time": 3.084803819656372
+        "country": "Bulgaria",
+        "countryCode": "BG",
+        "region": "22",
+        "regionName": "Sofia-Capital",
+        "city": "Sofia",
+        "zip": "1000",
+        "lat": 42.7124,
+        "lon": 23.3815,
+        "timezone": "Europe/Sofia",
+        "isp": "Kabelnet LTD",
+        "org": "Global Communication Net Plc",
+        "as": "AS205352 KABELNET LTD",
+        "query": "109.160.97.49",
+        "response_time": 2.754194498062134
     }
 }
