@@ -1,4 +1,21 @@
 {
+    "http://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.21406126022338867
+    },
     "socks4://64.202.184.249:15986": {
         "status": "success",
         "country": "United States",
@@ -14,7 +31,24 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 0.24687409400939941
+        "response_time": 0.18882441520690918
+    },
+    "socks5://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.40583109855651855
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,6 +65,74 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.716538667678833
+        "response_time": 0.7294101715087891
+    },
+    "http://62.33.53.248:3128": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOS",
+        "regionName": "Moscow Oblast",
+        "city": "Drezna",
+        "zip": "142660",
+        "lat": 55.7424,
+        "lon": 38.8442,
+        "timezone": "Europe/Moscow",
+        "isp": "TRANS-TELECOM",
+        "org": "",
+        "as": "AS20485 Joint Stock Company TransTeleCom",
+        "query": "62.33.53.248",
+        "response_time": 1.0456476211547852
+    },
+    "socks4://163.172.132.115:16379": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1012",
+        "lat": 52.3676,
+        "lon": 4.90414,
+        "timezone": "Europe/Amsterdam",
+        "isp": "Surf B.V.",
+        "org": "Nothing to hide",
+        "as": "AS1101 SURF B.V.",
+        "query": "192.42.116.179",
+        "response_time": 2.340395450592041
+    },
+    "socks4://51.158.70.246:16379": {
+        "status": "success",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "region": "AB",
+        "regionName": "Stockholm County",
+        "city": "Stockholm",
+        "zip": "100 04",
+        "lat": 59.3253,
+        "lon": 18.0678,
+        "timezone": "Europe/Stockholm",
+        "isp": "No ACK Group Holding AB",
+        "org": "No ACK Group Holding AB",
+        "as": "AS30893 No ACK Group Holding AB",
+        "query": "195.47.238.90",
+        "response_time": 2.762625217437744
+    },
+    "socks4://177.136.124.36:3629": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "BA",
+        "regionName": "Bahia",
+        "city": "Salvador",
+        "zip": "40000",
+        "lat": -12.8665,
+        "lon": -38.4858,
+        "timezone": "America/Bahia",
+        "isp": "ITS TELECOMUNICACOES LTDA",
+        "org": "ITS TELECOMUNICACOES LTDA",
+        "as": "AS28186 ITS TELECOMUNICACOES LTDA",
+        "query": "177.136.124.36",
+        "response_time": 2.881481409072876
     }
 }
