@@ -14,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.21900177001953125
+        "response_time": 0.5066838264465332
+    },
+    "socks4://180.92.212.178:5678": {
+        "status": "success",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JK",
+        "regionName": "Jakarta",
+        "city": "Jakarta",
+        "zip": "",
+        "lat": -6.22927,
+        "lon": 106.811,
+        "timezone": "Asia/Jakarta",
+        "isp": "Sudirman Central Business District",
+        "org": "",
+        "as": "AS23953 PT ARTHA TELEKOMINDO",
+        "query": "180.92.212.178",
+        "response_time": 0.9869899749755859
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,23 +48,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6302704811096191
+        "response_time": 0.9952421188354492
     },
-    "socks4://103.66.176.45:32251": {
+    "socks4://202.51.124.166:1080": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "K\u0101frul",
-        "zip": "1207",
-        "lat": 23.7882,
-        "lon": 90.3736,
-        "timezone": "Asia/Dhaka",
-        "isp": "Dhaka Information Tecnology-DIT",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JK",
+        "regionName": "Jakarta",
+        "city": "Jakarta",
+        "zip": "",
+        "lat": -6.1967,
+        "lon": 106.822,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT iForte Global Internet",
         "org": "",
-        "as": "AS135578 Muhammad Nasir t/a Dhaka Information Technology",
-        "query": "103.66.177.0",
-        "response_time": 1.488426685333252
+        "as": "AS17995 PT iForte Global Internet",
+        "query": "202.51.124.166",
+        "response_time": 1.9937498569488525
+    },
+    "socks4://175.203.138.160:5678": {
+        "status": "success",
+        "country": "South Korea",
+        "countryCode": "KR",
+        "region": "44",
+        "regionName": "Chungcheongnam-do",
+        "city": "Yesan",
+        "zip": "324",
+        "lat": 36.6781,
+        "lon": 126.6946,
+        "timezone": "Asia/Seoul",
+        "isp": "Korea Telecom",
+        "org": "Kornet",
+        "as": "AS4766 Korea Telecom",
+        "query": "175.203.138.160",
+        "response_time": 3.032801389694214
+    },
+    "socks4://1.179.148.33:1080": {
+        "status": "success",
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "10",
+        "regionName": "Bangkok",
+        "city": "Bangkok",
+        "zip": "10510",
+        "lat": 13.8177,
+        "lon": 100.7465,
+        "timezone": "Asia/Bangkok",
+        "isp": "TOT Public Company Limited",
+        "org": "TOT Public Company Limited",
+        "as": "AS131293 TOT Public Company Limited",
+        "query": "1.179.148.33",
+        "response_time": 3.089838743209839
     }
 }
