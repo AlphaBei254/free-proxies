@@ -1,55 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.3041646480560303
-    },
-    "socks4://85.89.184.87:5678": {
-        "status": "success",
-        "country": "Poland",
-        "countryCode": "PL",
-        "region": "10",
-        "regionName": "\u0141\u00f3d\u017a Voivodeship",
-        "city": "Lodz",
-        "zip": "90-127",
-        "lat": 51.7704,
-        "lon": 19.4667,
-        "timezone": "Europe/Warsaw",
-        "isp": "TOYA Sp. z o.o.",
-        "org": "Toya:net",
-        "as": "AS16342 Toya sp.z.o.o",
-        "query": "85.89.184.87",
-        "response_time": 0.516676664352417
-    },
-    "socks4://103.115.255.225:36331": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Savar Upazila",
-        "zip": "1340",
-        "lat": 23.8468,
-        "lon": 90.2417,
-        "timezone": "Asia/Dhaka",
-        "isp": "Star Internet Service",
-        "org": "Md. Murad Hossain Ripon",
-        "as": "AS137868 Star Internet Service",
-        "query": "103.115.255.238",
-        "response_time": 1.141209602355957
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -65,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2600319385528564
+        "response_time": 2.2683370113372803
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,23 +31,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.6446738243103027
-    },
-    "socks4://27.147.221.140:5678": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "K\u0101frul",
-        "zip": "1207",
-        "lat": 23.7882,
-        "lon": 90.3736,
-        "timezone": "Asia/Dhaka",
-        "isp": "Link3 Technologies Limited",
-        "org": "Retail Subscriber",
-        "as": "AS23688 Link3 Technologies Ltd.",
-        "query": "27.147.221.140",
-        "response_time": 3.1237170696258545
+        "response_time": 2.4487907886505127
     }
 }
