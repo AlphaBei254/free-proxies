@@ -14,24 +14,24 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.2649085521697998
+        "response_time": 0.24774646759033203
     },
-    "socks4://201.148.125.126:4153": {
+    "socks4://61.7.147.227:4145": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "city": "Santa Helena de Goi\u00e1s",
-        "zip": "73930",
-        "lat": -17.8136,
-        "lon": -50.5969,
-        "timezone": "America/Sao_Paulo",
-        "isp": "America-NET Ltda.",
-        "org": "America-NET Ltda",
-        "as": "AS61844 America-NET Ltda.",
-        "query": "201.148.125.126",
-        "response_time": 0.9311199188232422
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "10",
+        "regionName": "Bangkok",
+        "city": "Bangkok",
+        "zip": "10120",
+        "lat": 13.7101,
+        "lon": 100.4543,
+        "timezone": "Asia/Bangkok",
+        "isp": "CAT Telecom Public Company Limited",
+        "org": "National Telecom Public Company Limited",
+        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
+        "query": "61.7.147.227",
+        "response_time": 0.8852977752685547
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3479080200195312
+        "response_time": 2.375380039215088
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.6480419635772705
+        "response_time": 2.6760287284851074
+    },
+    "socks4://195.74.72.111:5678": {
+        "status": "success",
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "26",
+        "regionName": "Ivano-Frankivsk Oblast",
+        "city": "Ivano-Frankivsk",
+        "zip": "76000",
+        "lat": 48.9226,
+        "lon": 24.7111,
+        "timezone": "Europe/Kiev",
+        "isp": "Branch Enterprise \"Netgroup-Service\"",
+        "org": "Netgroup",
+        "as": "AS35004 Branch Enterprise \"Netgroup-Service\"",
+        "query": "195.74.72.111",
+        "response_time": 2.7333767414093018
     }
 }
