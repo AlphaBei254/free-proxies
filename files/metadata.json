@@ -1,4 +1,38 @@
 {
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 0.759300947189331
+    },
+    "socks4://51.178.68.226:46753": {
+        "status": "success",
+        "country": "France",
+        "countryCode": "FR",
+        "region": "HDF",
+        "regionName": "Hauts-de-France",
+        "city": "Wattrelos",
+        "zip": "59150",
+        "lat": 50.7012,
+        "lon": 3.21501,
+        "timezone": "Europe/Paris",
+        "isp": "OVH SAS",
+        "org": "OVH",
+        "as": "AS16276 OVH SAS",
+        "query": "51.178.68.226",
+        "response_time": 1.861180305480957
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +48,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3281948566436768
+        "response_time": 2.2872824668884277
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.83",
+        "response_time": 2.4117002487182617
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,23 +82,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.623915195465088
+        "response_time": 2.6059272289276123
     },
-    "socks4://163.172.132.115:16379": {
+    "socks4://197.157.254.34:4145": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1012",
-        "lat": 52.3676,
-        "lon": 4.90414,
-        "timezone": "Europe/Amsterdam",
-        "isp": "FlokiNET ehf",
-        "org": "FlokiNET Netherlands",
-        "as": "AS200651 FlokiNET ehf",
-        "query": "185.246.188.73",
-        "response_time": 3.7551517486572266
+        "country": "Republic of the Congo",
+        "countryCode": "CG",
+        "region": "BZV",
+        "regionName": "Brazzaville",
+        "city": "Brazzaville",
+        "zip": "",
+        "lat": -4.28197,
+        "lon": 15.2696,
+        "timezone": "Africa/Brazzaville",
+        "isp": "Congo Telecom",
+        "org": "",
+        "as": "AS37451 CONGO TELECOM",
+        "query": "102.129.89.170",
+        "response_time": 3.196962594985962
     }
 }
