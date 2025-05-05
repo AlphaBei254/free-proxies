@@ -1,21 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.20522379875183105
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.21945929527282715
+        "response_time": 0.28496313095092773
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,57 +31,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4090850353240967
+        "response_time": 0.5576310157775879
     },
-    "socks5://51.158.70.246:16379": {
+    "socks4://103.120.202.53:5678": {
         "status": "success",
-        "country": "Antarctica",
-        "countryCode": "AQ",
-        "region": "",
-        "regionName": "",
-        "city": "Kunlun",
-        "zip": "",
-        "lat": -72.0114,
-        "lon": 2.535,
-        "timezone": "Antarctica/Vostok",
-        "isp": "QuxLabs AB",
-        "org": "R0CKET-CLOUD",
-        "as": "AS214503 QuxLabs AB",
-        "query": "45.84.107.172",
-        "response_time": 1.9359474182128906
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Paltan",
+        "zip": "1000",
+        "lat": 23.7362,
+        "lon": 90.4143,
+        "timezone": "Asia/Dhaka",
+        "isp": "Carnival Internet",
+        "org": "",
+        "as": "AS63526 Systems Solutions & development Technologies Limited",
+        "query": "103.120.202.53",
+        "response_time": 2.064955949783325
     },
-    "socks4://122.15.255.229:60606": {
+    "socks4://103.60.138.65:4153": {
         "status": "success",
         "country": "India",
         "countryCode": "IN",
-        "region": "WB",
-        "regionName": "West Bengal",
-        "city": "Kolkata",
-        "zip": "700095",
-        "lat": 22.5643,
-        "lon": 88.3693,
+        "region": "TN",
+        "regionName": "Tamil Nadu",
+        "city": "Chennai",
+        "zip": "600001",
+        "lat": 13.0762,
+        "lon": 80.2055,
         "timezone": "Asia/Kolkata",
-        "isp": "VODAFONE-STATIC",
-        "org": "",
-        "as": "AS55410 Vodafone Idea Ltd",
-        "query": "122.15.255.229",
-        "response_time": 2.9845781326293945
-    },
-    "http://216.229.112.25:8080": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "TX",
-        "regionName": "Texas",
-        "city": "Muleshoe",
-        "zip": "79347",
-        "lat": 34.2265,
-        "lon": -102.7238,
-        "timezone": "America/Chicago",
-        "isp": "Five Area Systems, LLC",
-        "org": "Five Area Systems, LLC",
-        "as": "AS29843 Five Area Systems, LLC",
-        "query": "216.229.112.25",
-        "response_time": 4.364760875701904
+        "isp": "Velocity Internet India Private Ltd",
+        "org": "Velocity Internet India Private Ltd",
+        "as": "AS134016 Velocity Internet India Private Ltd",
+        "query": "103.60.138.2",
+        "response_time": 3.246729612350464
     }
 }
