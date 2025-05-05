@@ -1,21 +1,4 @@
 {
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.21399450302124023
-    },
     "socks4://170.78.211.161:1080": {
         "status": "success",
         "country": "Mexico",
@@ -31,7 +14,24 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.21652889251708984
+        "response_time": 0.2419729232788086
+    },
+    "http://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.31345176696777344
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4125683307647705
+        "response_time": 0.5992307662963867
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,23 +65,57 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7864391803741455
+        "response_time": 0.8450229167938232
     },
-    "socks5://8.218.39.40:10800": {
+    "http://188.166.197.129:3128": {
         "status": "success",
-        "country": "Hong Kong",
-        "countryCode": "HK",
-        "region": "",
-        "regionName": "Kowloon",
-        "city": "Hong Kong",
-        "zip": "999077",
-        "lat": 22.3193,
-        "lon": 114.169,
-        "timezone": "Asia/Hong_Kong",
-        "isp": "Alibaba (US) Technology Co., Ltd.",
-        "org": "Alibaba.com Singapore E-Commerce Private Limited",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "8.218.39.40",
-        "response_time": 1.0922961235046387
+        "country": "Singapore",
+        "countryCode": "SG",
+        "region": "05",
+        "regionName": "South West",
+        "city": "Singapore",
+        "zip": "627753",
+        "lat": 1.32123,
+        "lon": 103.695,
+        "timezone": "Asia/Singapore",
+        "isp": "DigitalOcean, LLC",
+        "org": "DigitalOcean, LLC",
+        "as": "AS14061 DigitalOcean, LLC",
+        "query": "174.138.18.105",
+        "response_time": 1.4891479015350342
+    },
+    "socks4://179.27.86.36:4153": {
+        "status": "success",
+        "country": "Uruguay",
+        "countryCode": "UY",
+        "region": "MO",
+        "regionName": "Montevideo Department",
+        "city": "Montevideo",
+        "zip": "11200",
+        "lat": -34.9064,
+        "lon": -56.1629,
+        "timezone": "America/Montevideo",
+        "isp": "Administracion Nacional de Telecomunicaciones",
+        "org": "Cliente Antel Uruguay",
+        "as": "AS6057 Administracion Nacional de Telecomunicaciones",
+        "query": "179.27.86.36",
+        "response_time": 1.9154736995697021
+    },
+    "socks5://51.158.113.139:16379": {
+        "status": "success",
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "30",
+        "regionName": "Kyiv City",
+        "city": "Kyiv",
+        "zip": "04116",
+        "lat": 50.458,
+        "lon": 30.5303,
+        "timezone": "Europe/Kyiv",
+        "isp": "Epinatura LLC",
+        "org": "",
+        "as": "AS207656 Epinatura LLC",
+        "query": "193.218.118.156",
+        "response_time": 4.981099605560303
     }
 }
