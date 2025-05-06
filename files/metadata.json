@@ -1,54 +1,20 @@
 {
-    "socks5://118.70.151.55:1080": {
+    "socks5://170.233.30.33:4153": {
         "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "HN",
-        "regionName": "Hanoi",
-        "city": "Hanoi",
-        "zip": "100000",
-        "lat": 21.0184,
-        "lon": 105.8461,
-        "timezone": "Asia/Bangkok",
-        "isp": "FPT Telecom Company",
-        "org": "Vietnam Internet Network Information Center",
-        "as": "AS18403 FPT Telecom Company",
-        "query": "118.70.151.55",
-        "response_time": 1.0879592895507812
-    },
-    "socks5://103.189.218.83:6969": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Tongi",
-        "zip": "1230",
-        "lat": 23.8915,
-        "lon": 90.4023,
-        "timezone": "Asia/Dhaka",
-        "isp": "Comfort Solutions",
-        "org": "Md. Ruhul Amin Sarker",
-        "as": "AS149868 Comfort Solutions",
-        "query": "103.189.218.83",
-        "response_time": 1.3640177249908447
-    },
-    "socks4://41.216.232.213:4153": {
-        "status": "success",
-        "country": "Cameroon",
-        "countryCode": "CM",
-        "region": "CE",
-        "regionName": "Centre",
-        "city": "Yaound\u00e9",
-        "zip": "",
-        "lat": 3.86169,
-        "lon": 11.5202,
-        "timezone": "Africa/Douala",
-        "isp": "Gateway Cameroun",
-        "org": "",
-        "as": "AS37672 INQ DIGITAL CAMEROON SA",
-        "query": "217.14.84.154",
-        "response_time": 2.1614530086517334
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "Z",
+        "regionName": "Santa Cruz",
+        "city": "R\u00edo Gallegos",
+        "zip": "9400",
+        "lat": -51.6233,
+        "lon": -69.216,
+        "timezone": "America/Argentina/Rio_Gallegos",
+        "isp": "Sebastian Souto",
+        "org": "Sebastian Souto",
+        "as": "AS264738 Sebastian Souto (SSSERVICIOS)",
+        "query": "170.233.30.33",
+        "response_time": 1.0789847373962402
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,7 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3969204425811768
+        "response_time": 2.2373220920562744
+    },
+    "socks4://181.204.4.74:5678": {
+        "status": "success",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "BOL",
+        "regionName": "Departamento de Bol\u00edvar",
+        "city": "Cartagena",
+        "zip": "130001",
+        "lat": 10.3956,
+        "lon": -75.5117,
+        "timezone": "America/Bogota",
+        "isp": "EPM Telecomunicaciones S.A. E.S.P.",
+        "org": "Colombia M\u00f3vil",
+        "as": "AS13489 UNE EPM TELECOMUNICACIONES S.A.",
+        "query": "181.204.4.74",
+        "response_time": 2.4437484741210938
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.6416029930114746
+        "response_time": 2.436159372329712
+    },
+    "socks4://51.15.232.175:16379": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "IL",
+        "regionName": "Illinois",
+        "city": "Chicago",
+        "zip": "60666",
+        "lat": 41.8781,
+        "lon": -87.6298,
+        "timezone": "America/Chicago",
+        "isp": "IONOS SE",
+        "org": "IONOS Inc",
+        "as": "AS8560 IONOS SE",
+        "query": "209.46.120.81",
+        "response_time": 3.3101108074188232
     }
 }
