@@ -1,37 +1,54 @@
 {
-    "socks4://117.102.101.52:5678": {
+    "socks4://89.216.47.137:5678": {
         "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "BT",
-        "regionName": "Banten",
-        "city": "Tangerang",
-        "zip": "15810",
-        "lat": -6.177,
-        "lon": 106.6284,
-        "timezone": "Asia/Jakarta",
-        "isp": "Biznet Networks",
-        "org": "PT Nexcom Indonesia",
-        "as": "AS17451 BIZNET NETWORKS",
-        "query": "117.102.101.52",
-        "response_time": 0.8453435897827148
+        "country": "Serbia",
+        "countryCode": "RS",
+        "region": "00",
+        "regionName": "Belgrade",
+        "city": "Belgrade",
+        "zip": "",
+        "lat": 44.8046,
+        "lon": 20.4637,
+        "timezone": "Europe/Belgrade",
+        "isp": "Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
+        "org": "SBB Zona Wifi",
+        "as": "AS31042 Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
+        "query": "82.117.212.234",
+        "response_time": 0.4297821521759033
     },
-    "socks4://64.202.184.249:15986": {
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 0.7058134078979492
+    },
+    "socks4://64.139.79.35:54321": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20149",
-        "lat": 39.0469,
-        "lon": -77.4903,
-        "timezone": "America/New_York",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "64.202.184.249",
-        "response_time": 1.5549771785736084
+        "region": "AL",
+        "regionName": "Alabama",
+        "city": "Sheffield",
+        "zip": "35660",
+        "lat": 34.7651,
+        "lon": -87.6986,
+        "timezone": "America/Chicago",
+        "isp": "Comcast Cable Communications, LLC",
+        "org": "Comcast Business Communications, LLC",
+        "as": "AS7922 Comcast Cable Communications, LLC",
+        "query": "64.139.79.35",
+        "response_time": 1.1760587692260742
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5624518394470215
+        "response_time": 2.5302131175994873
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +82,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.012589693069458
+        "response_time": 3.0085525512695312
+    },
+    "socks4://163.172.132.115:16379": {
+        "status": "success",
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BB",
+        "regionName": "Brandenburg",
+        "city": "Brandenburg",
+        "zip": "14621",
+        "lat": 52.6171,
+        "lon": 13.1207,
+        "timezone": "Europe/Berlin",
+        "isp": "Stiftung Erneuerbare Freiheit",
+        "org": "ForPrivacyNET",
+        "as": "AS60729 Stiftung Erneuerbare Freiheit",
+        "query": "185.220.101.50",
+        "response_time": 3.708026647567749
     }
 }
