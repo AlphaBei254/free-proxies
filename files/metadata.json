@@ -1,37 +1,20 @@
 {
-    "socks5://163.172.132.115:16379": {
+    "socks4://170.78.211.161:1080": {
         "status": "success",
-        "country": "Antarctica",
-        "countryCode": "AQ",
-        "region": "",
-        "regionName": "",
-        "city": "Kunlun",
-        "zip": "",
-        "lat": -72.0114,
-        "lon": 2.535,
-        "timezone": "Antarctica/Vostok",
-        "isp": "QuxLabs AB",
-        "org": "R0CKET-CLOUD",
-        "as": "AS214503 QuxLabs AB",
-        "query": "45.84.107.17",
-        "response_time": 1.9254748821258545
-    },
-    "socks4://103.167.156.102:1080": {
-        "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JT",
-        "regionName": "Central Java",
-        "city": "Pemalang",
-        "zip": "51117",
-        "lat": -6.8903,
-        "lon": 109.3807,
-        "timezone": "Asia/Jakarta",
-        "isp": "PT Jaringan Tiang Indonesia Group",
-        "org": "PT Jaringan Tiang Indonesia Group",
-        "as": "AS150554 PT Jaringan Tiang Indonesia Group",
-        "query": "103.167.156.102",
-        "response_time": 2.003708839416504
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.24366188049316406
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.27579402923584
+        "response_time": 2.3893091678619385
+    },
+    "socks4://64.202.184.249:15986": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 2.6324191093444824
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,41 +65,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3970303535461426
+        "response_time": 2.702549934387207
     },
-    "socks4://180.92.212.178:5678": {
+    "socks4://88.213.214.254:4145": {
         "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta",
-        "zip": "",
-        "lat": -6.22927,
-        "lon": 106.811,
-        "timezone": "Asia/Jakarta",
-        "isp": "Sudirman Central Business District",
-        "org": "",
-        "as": "AS23953 PT ARTHA TELEKOMINDO",
-        "query": "180.92.212.178",
-        "response_time": 3.013279676437378
-    },
-    "socks4://51.158.70.181:16379": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "FL",
-        "regionName": "Flevoland",
-        "city": "Dronten",
-        "zip": "8253",
-        "lat": 52.5378,
-        "lon": 5.6966,
-        "timezone": "Europe/Amsterdam",
-        "isp": "The Infrastructure Group B.V.",
-        "org": "TIG",
-        "as": "AS60404 The Infrastructure Group B.V.",
-        "query": "5.255.114.171",
-        "response_time": 3.973252534866333
+        "country": "Bulgaria",
+        "countryCode": "BG",
+        "region": "27",
+        "regionName": "Shumen",
+        "city": "Chernoglavtsi",
+        "zip": "9778",
+        "lat": 43.5314,
+        "lon": 26.9957,
+        "timezone": "Europe/Sofia",
+        "isp": "Netbox LTD",
+        "org": "NETBOX Mododex",
+        "as": "AS61071 NETBOX LTD",
+        "query": "88.213.215.28",
+        "response_time": 2.9663939476013184
     },
     "http://216.229.112.25:8080": {
         "status": "success",
@@ -116,6 +99,6 @@
         "org": "Five Area Systems, LLC",
         "as": "AS29843 Five Area Systems, LLC",
         "query": "216.229.112.25",
-        "response_time": 4.128015518188477
+        "response_time": 4.040637493133545
     }
 }
