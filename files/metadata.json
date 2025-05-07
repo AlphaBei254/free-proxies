@@ -1,20 +1,20 @@
 {
-    "socks4://201.148.125.126:4153": {
+    "socks4://85.89.184.87:5678": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "city": "Santa Helena de Goi\u00e1s",
-        "zip": "73930",
-        "lat": -17.8136,
-        "lon": -50.5969,
-        "timezone": "America/Sao_Paulo",
-        "isp": "America-NET Ltda.",
-        "org": "America-NET Ltda",
-        "as": "AS61844 America-NET Ltda.",
-        "query": "201.148.125.126",
-        "response_time": 0.9174261093139648
+        "country": "Poland",
+        "countryCode": "PL",
+        "region": "10",
+        "regionName": "\u0141\u00f3d\u017a Voivodeship",
+        "city": "Lodz",
+        "zip": "90-127",
+        "lat": 51.7704,
+        "lon": 19.4667,
+        "timezone": "Europe/Warsaw",
+        "isp": "TOYA Sp. z o.o.",
+        "org": "Toya:net",
+        "as": "AS16342 Toya sp.z.o.o",
+        "query": "85.89.184.87",
+        "response_time": 0.4604794979095459
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.556039333343506
+        "response_time": 2.526350736618042
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.092034101486206
-    },
-    "socks4://110.74.195.152:1080": {
-        "status": "success",
-        "country": "Cambodia",
-        "countryCode": "KH",
-        "region": "12",
-        "regionName": "Phnom Penh",
-        "city": "Phnom Penh",
-        "zip": "",
-        "lat": 11.5583,
-        "lon": 104.9121,
-        "timezone": "Asia/Phnom_Penh",
-        "isp": "EZECOM CO., LTD.",
-        "org": "EZECOM limited",
-        "as": "AS38901 EZECOM CO., LTD.",
-        "query": "110.74.195.152",
-        "response_time": 3.977616548538208
+        "response_time": 3.0318100452423096
     }
 }
