@@ -1,4 +1,21 @@
 {
+    "socks4://201.148.125.126:4153": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "city": "Santa Helena de Goi\u00e1s",
+        "zip": "73930",
+        "lat": -17.8136,
+        "lon": -50.5969,
+        "timezone": "America/Sao_Paulo",
+        "isp": "America-NET Ltda.",
+        "org": "America-NET Ltda",
+        "as": "AS61844 America-NET Ltda.",
+        "query": "201.148.125.126",
+        "response_time": 0.9174261093139648
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.49889445304870605
+        "response_time": 2.556039333343506
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,40 +48,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.96584153175354
+        "response_time": 3.092034101486206
     },
-    "socks4://110.77.135.70:4145": {
+    "socks4://110.74.195.152:1080": {
         "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "10",
-        "regionName": "Bangkok",
-        "city": "Bangkok",
-        "zip": "10600",
-        "lat": 13.733,
-        "lon": 100.4865,
-        "timezone": "Asia/Bangkok",
-        "isp": "CAT Telecom Public Company Limited",
-        "org": "",
-        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
-        "query": "110.77.135.70",
-        "response_time": 2.0166428089141846
-    },
-    "socks5://161.49.176.173:1338": {
-        "status": "success",
-        "country": "Philippines",
-        "countryCode": "PH",
-        "region": "00",
-        "regionName": "Metro Manila",
-        "city": "Pasig",
-        "zip": "1600",
-        "lat": 14.5688,
-        "lon": 121.0827,
-        "timezone": "Asia/Manila",
-        "isp": "Converge ICT Solution Inc",
-        "org": "Converge ICT Solution Inc",
-        "as": "AS17639 Converge ICT Solutions Inc.",
-        "query": "161.49.176.173",
-        "response_time": 3.136582374572754
+        "country": "Cambodia",
+        "countryCode": "KH",
+        "region": "12",
+        "regionName": "Phnom Penh",
+        "city": "Phnom Penh",
+        "zip": "",
+        "lat": 11.5583,
+        "lon": 104.9121,
+        "timezone": "Asia/Phnom_Penh",
+        "isp": "EZECOM CO., LTD.",
+        "org": "EZECOM limited",
+        "as": "AS38901 EZECOM CO., LTD.",
+        "query": "110.74.195.152",
+        "response_time": 3.977616548538208
     }
 }
