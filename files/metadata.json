@@ -1,20 +1,37 @@
 {
-    "socks4://37.52.50.28:5678": {
+    "socks4://170.78.211.161:1080": {
         "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "30",
-        "regionName": "Kyiv City",
-        "city": "Kyiv",
-        "zip": "02092",
-        "lat": 50.458,
-        "lon": 30.5303,
-        "timezone": "Europe/Kyiv",
-        "isp": "UKRTELECOM",
-        "org": "JSC Ukrtelecom",
-        "as": "AS6849 JSC \"Ukrtelecom\"",
-        "query": "37.52.50.28",
-        "response_time": 0.49448418617248535
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.21079182624816895
+    },
+    "socks4://27.115.33.94:4153": {
+        "status": "success",
+        "country": "China",
+        "countryCode": "CN",
+        "region": "SH",
+        "regionName": "Shanghai",
+        "city": "Shanghai",
+        "zip": "",
+        "lat": 31.2222,
+        "lon": 121.4581,
+        "timezone": "Asia/Shanghai",
+        "isp": "China Unicom Shanghai Province Network",
+        "org": "",
+        "as": "AS17621 China Unicom Shanghai network",
+        "query": "27.115.33.94",
+        "response_time": 1.4338219165802002
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2770633697509766
+        "response_time": 2.2990827560424805
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4050326347351074
+        "response_time": 2.4573962688446045
+    },
+    "socks4://90.182.147.170:4145": {
+        "status": "success",
+        "country": "Czechia",
+        "countryCode": "CZ",
+        "region": "10",
+        "regionName": "Prague",
+        "city": "Prague",
+        "zip": "170 00",
+        "lat": 50.1113,
+        "lon": 14.4063,
+        "timezone": "Europe/Prague",
+        "isp": "O2 Czech Republic",
+        "org": "CZ.CZNET",
+        "as": "AS5610 O2 Czech Republic, a.s.",
+        "query": "90.182.147.170",
+        "response_time": 2.743321657180786
     }
 }
