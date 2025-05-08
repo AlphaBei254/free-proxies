@@ -1,20 +1,54 @@
 {
-    "socks4://64.202.184.249:15986": {
+    "socks4://185.130.219.12:4153": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20149",
-        "lat": 39.0469,
-        "lon": -77.4903,
-        "timezone": "America/New_York",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "64.202.184.249",
-        "response_time": 2.4031755924224854
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "VC",
+        "regionName": "Valencia",
+        "city": "Javea",
+        "zip": "03730",
+        "lat": 38.7764,
+        "lon": -0.0075,
+        "timezone": "Europe/Madrid",
+        "isp": "customers4",
+        "org": "",
+        "as": "AS56697 SUIS BOGA TELECOM SL",
+        "query": "185.130.219.10",
+        "response_time": 0.3936302661895752
+    },
+    "socks4://170.245.248.45:60606": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "city": "Goi\u00e2nia",
+        "zip": "74000",
+        "lat": -16.6391,
+        "lon": -49.2622,
+        "timezone": "America/Sao_Paulo",
+        "isp": "T.A.LUIZ ELETRONICO LTDA - ME",
+        "org": "T.A.LUIZ ELETRONICO LTDA - ME",
+        "as": "AS266032 T.A.LUIZ ELETRONICO LTDA - ME",
+        "query": "170.245.250.186",
+        "response_time": 1.7900598049163818
+    },
+    "socks4://94.181.33.149:40840": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "CHE",
+        "regionName": "Chelyabinsk Oblast",
+        "city": "Chelyabinsk",
+        "zip": "454082",
+        "lat": 55.1644,
+        "lon": 61.4368,
+        "timezone": "Asia/Yekaterinburg",
+        "isp": "CJSC \"ER-Telecom Holding\" Chelyabinsk branch",
+        "org": "JSC \"ER-Telecom Holding\" Chelyabinsk Branch",
+        "as": "AS41661 JSC \"ER-Telecom Holding\"",
+        "query": "94.181.33.149",
+        "response_time": 1.871302604675293
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.6002004146575928
+        "response_time": 2.27972149848938
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +82,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.188192129135132
+        "response_time": 2.4305503368377686
+    },
+    "socks4://64.202.184.249:15986": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 2.8375818729400635
     }
 }
