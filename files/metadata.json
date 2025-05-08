@@ -14,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2294583320617676
-    },
-    "socks4://97.105.12.186:4153": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "TX",
-        "regionName": "Texas",
-        "city": "Austin",
-        "zip": "78721",
-        "lat": 30.2775,
-        "lon": -97.6824,
-        "timezone": "America/Chicago",
-        "isp": "Spectrum",
-        "org": "Royal Express Inc",
-        "as": "AS11427 Charter Communications Inc",
-        "query": "97.105.12.186",
-        "response_time": 2.2333261966705322
+        "response_time": 2.2725586891174316
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,9 +31,9 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4692516326904297
+        "response_time": 2.4565958976745605
     },
-    "socks4://178.33.42.161:49062": {
+    "socks4://51.178.68.226:46753": {
         "status": "success",
         "country": "France",
         "countryCode": "FR",
@@ -64,24 +47,7 @@
         "isp": "OVH SAS",
         "org": "OVH",
         "as": "AS16276 OVH SAS",
-        "query": "162.19.107.54",
-        "response_time": 3.1163110733032227
-    },
-    "socks5://163.172.132.115:16379": {
-        "status": "success",
-        "country": "Germany",
-        "countryCode": "DE",
-        "region": "BB",
-        "regionName": "Brandenburg",
-        "city": "Brandenburg",
-        "zip": "14621",
-        "lat": 52.6171,
-        "lon": 13.1207,
-        "timezone": "Europe/Berlin",
-        "isp": "Stiftung Erneuerbare Freiheit",
-        "org": "ForPrivacyNET",
-        "as": "AS60729 Stiftung Erneuerbare Freiheit",
-        "query": "185.220.101.43",
-        "response_time": 6.347758531570435
+        "query": "51.178.68.226",
+        "response_time": 3.508228302001953
     }
 }
