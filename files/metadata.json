@@ -1,20 +1,37 @@
 {
-    "socks4://162.19.107.54:52529": {
+    "socks4://64.202.184.249:15986": {
         "status": "success",
-        "country": "France",
-        "countryCode": "FR",
-        "region": "HDF",
-        "regionName": "Hauts-de-France",
-        "city": "Wattrelos",
-        "zip": "59150",
-        "lat": 50.7012,
-        "lon": 3.21501,
-        "timezone": "Europe/Paris",
-        "isp": "OVH SAS",
-        "org": "OVH",
-        "as": "AS16276 OVH SAS",
-        "query": "162.19.107.54",
-        "response_time": 1.9337592124938965
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 0.0753335952758789
+    },
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 0.8195772171020508
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +48,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.571439504623413
+        "response_time": 2.583819627761841
+    },
+    "socks4://5.58.47.25:3629": {
+        "status": "success",
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "61",
+        "regionName": "Ternopil Oblast",
+        "city": "Ternopil",
+        "zip": "46001",
+        "lat": 49.5535,
+        "lon": 25.5947,
+        "timezone": "Europe/Kiev",
+        "isp": "Columbus",
+        "org": "Lanet Network Ltd",
+        "as": "AS16223 MAXNET TELECOM, LTD",
+        "query": "5.58.47.25",
+        "response_time": 2.8109822273254395
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +82,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.08260178565979
+        "response_time": 3.073345184326172
     }
 }
