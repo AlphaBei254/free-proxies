@@ -1,38 +1,4 @@
 {
-    "socks4://64.202.184.249:15986": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20149",
-        "lat": 39.0469,
-        "lon": -77.4903,
-        "timezone": "America/New_York",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "64.202.184.249",
-        "response_time": 0.08136987686157227
-    },
-    "socks4://168.194.226.178:4153": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "city": "Ibiraci",
-        "zip": "37990",
-        "lat": -20.3996,
-        "lon": -47.1402,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Infosystem Telecomunicacoes E Informatica Eirelli",
-        "org": "Infosystem Telecomunicacoes E Informatica Eirelli",
-        "as": "AS265401 INFOSYSTEM TELECOMUNICACOES E INFORMATICA EIRELLI",
-        "query": "168.194.226.178",
-        "response_time": 1.8495042324066162
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -48,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.396117925643921
-    },
-    "socks4://178.115.255.177:5678": {
-        "status": "success",
-        "country": "Austria",
-        "countryCode": "AT",
-        "region": "4",
-        "regionName": "Upper Austria",
-        "city": "Pasching",
-        "zip": "4061",
-        "lat": 48.2614,
-        "lon": 14.2117,
-        "timezone": "Europe/Vienna",
-        "isp": "customers with static IP",
-        "org": "",
-        "as": "AS25255 Hutchison Drei Austria GmbH",
-        "query": "178.115.255.177",
-        "response_time": 2.684142827987671
+        "response_time": 0.21063470840454102
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +31,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.6800692081451416
+        "response_time": 0.3731248378753662
+    },
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 0.7182676792144775
+    },
+    "socks5://46.147.65.44:61986": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "TA",
+        "regionName": "Tatarstan Republic",
+        "city": "Naberezhnyye Chelny",
+        "zip": "423806",
+        "lat": 55.7458,
+        "lon": 52.4183,
+        "timezone": "Europe/Moscow",
+        "isp": "CJSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
+        "org": "JSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
+        "as": "AS42116 JSC \"ER-Telecom Holding\"",
+        "query": "46.147.65.44",
+        "response_time": 3.12709903717041
+    },
+    "socks4://103.197.32.205:5678": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "TN",
+        "regionName": "Tamil Nadu",
+        "city": "Perambalur",
+        "zip": "621212",
+        "lat": 11.2269,
+        "lon": 78.885,
+        "timezone": "Asia/Kolkata",
+        "isp": "ZERONE Networks pvt ltd",
+        "org": "ZERONE Networks pvt ltd",
+        "as": "AS134260 ZERONE Networks pvt ltd",
+        "query": "103.197.32.205",
+        "response_time": 3.22835111618042
     }
 }
