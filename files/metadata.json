@@ -1,4 +1,38 @@
 {
+    "socks4://69.36.63.128:1080": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "MI",
+        "regionName": "Michigan",
+        "city": "Greenville",
+        "zip": "48838",
+        "lat": 43.1772,
+        "lon": -85.2473,
+        "timezone": "America/Detroit",
+        "isp": "Point Broadband Fiber Holding, LLC",
+        "org": "Point Broadband Fiber Holding, LLC",
+        "as": "AS19310 Point Broadband Fiber Holding, LLC",
+        "query": "173.225.205.227",
+        "response_time": 0.20927882194519043
+    },
+    "http://72.240.9.63:80": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "OH",
+        "regionName": "Ohio",
+        "city": "Toledo",
+        "zip": "43615",
+        "lat": 41.6432,
+        "lon": -83.6753,
+        "timezone": "America/New_York",
+        "isp": "Buckeye Cablevision, Inc.",
+        "org": "Buckeye Cablevision, Inc.",
+        "as": "AS13490 Buckeye Cablevision, Inc.",
+        "query": "72.240.9.63",
+        "response_time": 0.24816226959228516
+    },
     "socks4://170.78.211.161:1080": {
         "status": "success",
         "country": "Mexico",
@@ -14,7 +48,24 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.3279263973236084
+        "response_time": 0.24799609184265137
+    },
+    "socks4://179.1.110.88:5678": {
+        "status": "success",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "DC",
+        "regionName": "Bogota D.C.",
+        "city": "Bogot\u00e1",
+        "zip": "111121",
+        "lat": 4.71099,
+        "lon": -74.0721,
+        "timezone": "America/Bogota",
+        "isp": "Internexa S.a. E.S.P",
+        "org": "Royalnet Telecomunicaciones",
+        "as": "AS18678 INTERNEXA S.A. E.S.P",
+        "query": "179.1.209.72",
+        "response_time": 0.46193456649780273
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,24 +82,41 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.6678352355957031
+        "response_time": 0.6938936710357666
     },
-    "http://62.33.53.248:3128": {
+    "socks4://122.15.255.229:60606": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOS",
-        "regionName": "Moscow Oblast",
-        "city": "Drezna",
-        "zip": "142660",
-        "lat": 55.7424,
-        "lon": 38.8442,
-        "timezone": "Europe/Moscow",
-        "isp": "TRANS-TELECOM",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "WB",
+        "regionName": "West Bengal",
+        "city": "Kolkata",
+        "zip": "700095",
+        "lat": 22.5643,
+        "lon": 88.3693,
+        "timezone": "Asia/Kolkata",
+        "isp": "VODAFONE-STATIC",
         "org": "",
-        "as": "AS20485 Joint Stock Company TransTeleCom",
-        "query": "62.33.53.248",
-        "response_time": 2.322751522064209
+        "as": "AS55410 Vodafone Idea Ltd",
+        "query": "122.15.255.229",
+        "response_time": 0.8628947734832764
+    },
+    "socks4://110.74.195.152:1080": {
+        "status": "success",
+        "country": "Cambodia",
+        "countryCode": "KH",
+        "region": "12",
+        "regionName": "Phnom Penh",
+        "city": "Phnom Penh",
+        "zip": "",
+        "lat": 11.5583,
+        "lon": 104.9121,
+        "timezone": "Asia/Phnom_Penh",
+        "isp": "EZECOM CO., LTD.",
+        "org": "EZECOM limited",
+        "as": "AS38901 EZECOM CO., LTD.",
+        "query": "110.74.195.152",
+        "response_time": 1.101680040359497
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,7 +133,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.594855546951294
+        "response_time": 2.5528438091278076
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,40 +150,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.083242893218994
-    },
-    "socks5://163.172.190.59:16379": {
-        "status": "success",
-        "country": "Antarctica",
-        "countryCode": "AQ",
-        "region": "",
-        "regionName": "",
-        "city": "Kunlun",
-        "zip": "",
-        "lat": -72.0114,
-        "lon": 2.535,
-        "timezone": "Antarctica/Vostok",
-        "isp": "QuxLabs AB",
-        "org": "R0CKET-CLOUD",
-        "as": "AS214503 QuxLabs AB",
-        "query": "45.84.107.128",
-        "response_time": 4.972829341888428
-    },
-    "socks4://163.172.190.59:16379": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "IL",
-        "regionName": "Illinois",
-        "city": "Chicago",
-        "zip": "60666",
-        "lat": 41.8781,
-        "lon": -87.6298,
-        "timezone": "America/Chicago",
-        "isp": "IONOS SE",
-        "org": "IONOS Inc",
-        "as": "AS8560 IONOS SE",
-        "query": "209.46.120.81",
-        "response_time": 5.704788446426392
+        "response_time": 3.091355800628662
     }
 }
