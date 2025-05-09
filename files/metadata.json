@@ -1,4 +1,38 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.21586370468139648
+    },
+    "socks4://64.202.184.249:15986": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 0.8765549659729004
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.21063470840454102
+        "response_time": 2.2546396255493164
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,57 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3731248378753662
-    },
-    "socks4://172.233.14.116:1080": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 0.7182676792144775
-    },
-    "socks5://46.147.65.44:61986": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "TA",
-        "regionName": "Tatarstan Republic",
-        "city": "Naberezhnyye Chelny",
-        "zip": "423806",
-        "lat": 55.7458,
-        "lon": 52.4183,
-        "timezone": "Europe/Moscow",
-        "isp": "CJSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
-        "org": "JSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
-        "as": "AS42116 JSC \"ER-Telecom Holding\"",
-        "query": "46.147.65.44",
-        "response_time": 3.12709903717041
-    },
-    "socks4://103.197.32.205:5678": {
-        "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "TN",
-        "regionName": "Tamil Nadu",
-        "city": "Perambalur",
-        "zip": "621212",
-        "lat": 11.2269,
-        "lon": 78.885,
-        "timezone": "Asia/Kolkata",
-        "isp": "ZERONE Networks pvt ltd",
-        "org": "ZERONE Networks pvt ltd",
-        "as": "AS134260 ZERONE Networks pvt ltd",
-        "query": "103.197.32.205",
-        "response_time": 3.22835111618042
+        "response_time": 2.4084980487823486
     }
 }
