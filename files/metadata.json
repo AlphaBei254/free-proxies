@@ -1,54 +1,20 @@
 {
-    "socks4://64.202.184.249:15986": {
+    "socks4://162.19.107.54:52529": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20149",
-        "lat": 39.0469,
-        "lon": -77.4903,
-        "timezone": "America/New_York",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "64.202.184.249",
-        "response_time": 0.1051020622253418
-    },
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.179",
-        "response_time": 0.2471787929534912
-    },
-    "socks4://41.216.232.213:4153": {
-        "status": "success",
-        "country": "Cameroon",
-        "countryCode": "CM",
-        "region": "CE",
-        "regionName": "Centre",
-        "city": "Yaound\u00e9",
-        "zip": "",
-        "lat": 3.86169,
-        "lon": 11.5202,
-        "timezone": "Africa/Douala",
-        "isp": "Gateway Cameroun",
-        "org": "",
-        "as": "AS37672 INQ DIGITAL CAMEROON SA",
-        "query": "217.14.84.154",
-        "response_time": 2.108419895172119
+        "country": "France",
+        "countryCode": "FR",
+        "region": "HDF",
+        "regionName": "Hauts-de-France",
+        "city": "Wattrelos",
+        "zip": "59150",
+        "lat": 50.7012,
+        "lon": 3.21501,
+        "timezone": "Europe/Paris",
+        "isp": "OVH SAS",
+        "org": "OVH",
+        "as": "AS16276 OVH SAS",
+        "query": "162.19.107.54",
+        "response_time": 1.9337592124938965
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5649633407592773
+        "response_time": 2.571439504623413
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.049553632736206
+        "response_time": 3.08260178565979
     }
 }
