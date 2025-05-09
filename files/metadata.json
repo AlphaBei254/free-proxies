@@ -14,24 +14,24 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 0.22361254692077637
+        "response_time": 0.31423473358154297
     },
-    "socks5://45.140.143.77:18080": {
+    "http://65.108.203.37:28080": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.61749267578125
+        "country": "United States",
+        "countryCode": "US",
+        "region": "DC",
+        "regionName": "Washington, D.C.",
+        "city": "Washington",
+        "zip": "20146",
+        "lat": 38.9071,
+        "lon": -77.0368,
+        "timezone": "America/New_York",
+        "isp": "Opera Browser VPN",
+        "org": "Opera Software LLC",
+        "as": "AS205016 HERN Labs AB",
+        "query": "77.111.246.21",
+        "response_time": 0.7230534553527832
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,24 +48,24 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.816199541091919
+        "response_time": 1.7978289127349854
     },
-    "socks4://103.115.255.225:36331": {
+    "socks4://103.167.156.102:1080": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Savar Upazila",
-        "zip": "1340",
-        "lat": 23.8468,
-        "lon": 90.2417,
-        "timezone": "Asia/Dhaka",
-        "isp": "Star Internet Service",
-        "org": "Md. Murad Hossain Ripon",
-        "as": "AS137868 Star Internet Service",
-        "query": "103.115.255.238",
-        "response_time": 2.027164936065674
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JT",
+        "regionName": "Central Java",
+        "city": "Pemalang",
+        "zip": "51117",
+        "lat": -6.8903,
+        "lon": 109.3807,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT Jaringan Tiang Indonesia Group",
+        "org": "PT Jaringan Tiang Indonesia Group",
+        "as": "AS150554 PT Jaringan Tiang Indonesia Group",
+        "query": "103.167.156.102",
+        "response_time": 1.9710557460784912
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -82,40 +82,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.408275604248047
+        "response_time": 2.302661657333374
     },
-    "socks4://110.74.195.152:1080": {
+    "socks5://45.140.143.77:18080": {
         "status": "success",
-        "country": "Cambodia",
-        "countryCode": "KH",
-        "region": "12",
-        "regionName": "Phnom Penh",
-        "city": "Phnom Penh",
-        "zip": "",
-        "lat": 11.5583,
-        "lon": 104.9121,
-        "timezone": "Asia/Phnom_Penh",
-        "isp": "EZECOM CO., LTD.",
-        "org": "EZECOM limited",
-        "as": "AS38901 EZECOM CO., LTD.",
-        "query": "110.74.195.152",
-        "response_time": 3.005587100982666
-    },
-    "socks4://217.145.199.47:56746": {
-        "status": "success",
-        "country": "Slovakia",
-        "countryCode": "SK",
-        "region": "NI",
-        "regionName": "Nitra Region",
-        "city": "Kol\u00e1rovo",
-        "zip": "946 03",
-        "lat": 47.9261,
-        "lon": 17.9882,
-        "timezone": "Europe/Bratislava",
-        "isp": "Slovanet a.s.",
-        "org": "Gutanet",
-        "as": "AS12426 Slovanet a.s.",
-        "query": "217.145.199.47",
-        "response_time": 4.227187633514404
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.5637707710266113
     }
 }
