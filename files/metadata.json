@@ -14,7 +14,7 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 0.32674384117126465
+        "response_time": 0.12632226943969727
     },
     "socks4://170.78.211.161:1080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.4022665023803711
+        "response_time": 0.17127108573913574
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +48,41 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.39417433738708496
+        "response_time": 0.511476993560791
     },
-    "socks5://103.163.244.106:1080": {
+    "socks4://195.74.72.111:5678": {
         "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "HR",
-        "regionName": "Haryana",
-        "city": "Panipat",
-        "zip": "132103",
-        "lat": 29.3885,
-        "lon": 76.9669,
-        "timezone": "Asia/Kolkata",
-        "isp": "Infolink System",
-        "org": "",
-        "as": "AS132746 Infolink System",
-        "query": "103.163.244.106",
-        "response_time": 1.5205543041229248
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "26",
+        "regionName": "Ivano-Frankivsk Oblast",
+        "city": "Ivano-Frankivsk",
+        "zip": "76000",
+        "lat": 48.9226,
+        "lon": 24.7111,
+        "timezone": "Europe/Kiev",
+        "isp": "Branch Enterprise \"Netgroup-Service\"",
+        "org": "Netgroup",
+        "as": "AS35004 Branch Enterprise \"Netgroup-Service\"",
+        "query": "195.74.72.111",
+        "response_time": 0.5828938484191895
+    },
+    "socks4://102.165.125.102:5678": {
+        "status": "success",
+        "country": "Nigeria",
+        "countryCode": "NG",
+        "region": "FC",
+        "regionName": "FCT",
+        "city": "Abuja",
+        "zip": "",
+        "lat": 9.05785,
+        "lon": 7.49508,
+        "timezone": "Africa/Lagos",
+        "isp": "Internet Solutions Nigeria Limited",
+        "org": "Internet Solutions Nigeria Limited",
+        "as": "AS37521 Internet Solutions Nigeria Limited",
+        "query": "102.165.125.102",
+        "response_time": 1.9301202297210693
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -82,23 +99,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.245992422103882
+        "response_time": 2.2907228469848633
     },
-    "socks4://51.158.113.139:16379": {
+    "socks4://80.92.224.141:5678": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NB",
-        "regionName": "North Brabant",
-        "city": "Roosendaal",
-        "zip": "4701",
-        "lat": 51.5359,
-        "lon": 4.46532,
-        "timezone": "Europe/Amsterdam",
-        "isp": "NFOrce Entertainment BV",
-        "org": "NForce Entertainment B.V",
-        "as": "AS43350 NForce Entertainment B.V.",
-        "query": "185.107.57.65",
-        "response_time": 5.331747531890869
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "30",
+        "regionName": "Kyiv City",
+        "city": "Kyiv",
+        "zip": "02063",
+        "lat": 50.458,
+        "lon": 30.5303,
+        "timezone": "Europe/Kyiv",
+        "isp": "WNET TELECOM USA Corp.",
+        "org": "LoadMe",
+        "as": "AS1820 WNET TELECOM USA Corp.",
+        "query": "80.92.224.141",
+        "response_time": 2.5989363193511963
     }
 }
