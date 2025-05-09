@@ -1,37 +1,37 @@
 {
-    "socks5://45.140.143.77:18080": {
+    "socks4://64.202.184.249:15986": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.4387321472167969
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 0.25077247619628906
     },
-    "socks4://93.184.9.9:1080": {
+    "http://47.238.149.53:8888": {
         "status": "success",
-        "country": "Palestinian Territory",
-        "countryCode": "PS",
+        "country": "Hong Kong",
+        "countryCode": "HK",
         "region": "",
-        "regionName": "West Bank",
-        "city": "Ramallah",
-        "zip": "",
-        "lat": 31.9038,
-        "lon": 35.2034,
-        "timezone": "Asia/Hebron",
-        "isp": "BNET network",
-        "org": "",
-        "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
-        "query": "93.184.7.26",
-        "response_time": 1.5689949989318848
+        "regionName": "Kowloon",
+        "city": "Hong Kong",
+        "zip": "999077",
+        "lat": 22.3193,
+        "lon": 114.169,
+        "timezone": "Asia/Hong_Kong",
+        "isp": "Alibaba (US) Technology Co., Ltd.",
+        "org": "Alibaba.com LLC",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "47.238.149.53",
+        "response_time": 1.7289013862609863
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +48,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.241734027862549
+        "response_time": 2.2707479000091553
+    },
+    "socks5://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.6140358448028564
     }
 }
