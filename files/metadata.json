@@ -1,4 +1,21 @@
 {
+    "socks4://46.36.65.117:1080": {
+        "status": "success",
+        "country": "Lithuania",
+        "countryCode": "LT",
+        "region": "TE",
+        "regionName": "Telsiai",
+        "city": "Ma\u017eeikiai",
+        "zip": "89021",
+        "lat": 56.3176,
+        "lon": 22.3463,
+        "timezone": "Europe/Vilnius",
+        "isp": "KLI",
+        "org": "",
+        "as": "AS43627 UAB \"Besmegeniai\"",
+        "query": "46.36.65.117",
+        "response_time": 0.7105898857116699
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,6 +31,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.20204782485961914
+        "response_time": 2.3030006885528564
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.205",
+        "response_time": 2.5231661796569824
     }
 }
