@@ -1,21 +1,4 @@
 {
-    "socks4://46.36.65.117:1080": {
-        "status": "success",
-        "country": "Lithuania",
-        "countryCode": "LT",
-        "region": "TE",
-        "regionName": "Telsiai",
-        "city": "Ma\u017eeikiai",
-        "zip": "89021",
-        "lat": 56.3176,
-        "lon": 22.3463,
-        "timezone": "Europe/Vilnius",
-        "isp": "KLI",
-        "org": "",
-        "as": "AS43627 UAB \"Besmegeniai\"",
-        "query": "46.36.65.117",
-        "response_time": 0.7105898857116699
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,23 +14,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3030006885528564
+        "response_time": 0.2675483226776123
     },
-    "http://200.174.198.86:8888": {
+    "socks5://45.140.143.77:18080": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.205",
-        "response_time": 2.5231661796569824
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.620316743850708
+    },
+    "socks4://202.69.38.42:5678": {
+        "status": "success",
+        "country": "Pakistan",
+        "countryCode": "PK",
+        "region": "PB",
+        "regionName": "Punjab",
+        "city": "Lahore",
+        "zip": "54000",
+        "lat": 31.5826,
+        "lon": 74.3276,
+        "timezone": "Asia/Karachi",
+        "isp": "Gerrys Information Technology (PVT) Ltd",
+        "org": "Gerrys Information Technology (PVT) Ltd",
+        "as": "AS23750 GERRYS INFORMATION TECHNOLOGY PVT LTD.",
+        "query": "202.69.38.42",
+        "response_time": 1.0811848640441895
     }
 }
