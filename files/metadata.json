@@ -1,37 +1,20 @@
 {
-    "socks4://119.93.122.233:4145": {
+    "http://8.219.97.248:80": {
         "status": "success",
-        "country": "Philippines",
-        "countryCode": "PH",
+        "country": "Singapore",
+        "countryCode": "SG",
         "region": "03",
-        "regionName": "Central Luzon",
-        "city": "San Fernando City",
-        "zip": "2000",
-        "lat": 15.0381,
-        "lon": 120.6836,
-        "timezone": "Asia/Manila",
-        "isp": "Philippine Long Distance Telephone Co.",
-        "org": "Philippine Long Distance Telephone Company",
-        "as": "AS9299 Philippine Long Distance Telephone Company",
-        "query": "119.93.123.229",
-        "response_time": 0.9713633060455322
-    },
-    "socks4://175.144.198.226:31694": {
-        "status": "success",
-        "country": "Malaysia",
-        "countryCode": "MY",
-        "region": "01",
-        "regionName": "Johor",
-        "city": "Kluang",
-        "zip": "86000",
-        "lat": 2.0303,
-        "lon": 103.3213,
-        "timezone": "Asia/Kuala_Lumpur",
-        "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-        "org": "Adsl Streamyx",
-        "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-        "query": "175.144.198.225",
-        "response_time": 1.0928666591644287
+        "regionName": "North West",
+        "city": "Singapore",
+        "zip": "858877",
+        "lat": 1.35208,
+        "lon": 103.82,
+        "timezone": "Asia/Singapore",
+        "isp": "Alibaba (US) Technology Co., Ltd.",
+        "org": "Alibaba.com Singapore E-Commerce Private Limited",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "8.219.64.236",
+        "response_time": 1.6991119384765625
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.252983570098877
+        "response_time": 2.2669320106506348
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4940783977508545
+        "response_time": 2.4599549770355225
     }
 }
