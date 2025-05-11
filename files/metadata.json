@@ -1,20 +1,37 @@
 {
-    "socks4://36.37.244.41:5678": {
+    "socks5://103.163.244.106:1080": {
         "status": "success",
-        "country": "Cambodia",
-        "countryCode": "KH",
-        "region": "1",
-        "regionName": "Banteay Meanchey",
-        "city": "Sisophon",
-        "zip": "",
-        "lat": 13.5859,
-        "lon": 102.974,
-        "timezone": "Asia/Phnom_Penh",
-        "isp": "VIETTEL (CAMBODIA) PTE., LTD",
-        "org": "Viettel (cambodia) Pte., Ltd.",
-        "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
-        "query": "36.37.244.41",
-        "response_time": 0.9705209732055664
+        "country": "India",
+        "countryCode": "IN",
+        "region": "HR",
+        "regionName": "Haryana",
+        "city": "Panipat",
+        "zip": "132103",
+        "lat": 29.3885,
+        "lon": 76.9669,
+        "timezone": "Asia/Kolkata",
+        "isp": "Infolink System",
+        "org": "",
+        "as": "AS132746 Infolink System",
+        "query": "103.163.244.106",
+        "response_time": 1.643239974975586
+    },
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 2.0778157711029053
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +48,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.304114580154419
+        "response_time": 2.3115599155426025
+    },
+    "socks4://163.172.164.115:16379": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NY",
+        "regionName": "New York",
+        "city": "Buffalo",
+        "zip": "14205",
+        "lat": 42.8864,
+        "lon": -78.8784,
+        "timezone": "America/New_York",
+        "isp": "DataWagon LLC",
+        "org": "DataWagon LLC",
+        "as": "AS27176 DataWagon LLC",
+        "query": "104.192.3.74",
+        "response_time": 2.468111753463745
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +82,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.658672571182251
-    },
-    "http://188.166.197.129:3128": {
-        "status": "success",
-        "country": "Singapore",
-        "countryCode": "SG",
-        "region": "05",
-        "regionName": "South West",
-        "city": "Singapore",
-        "zip": "627753",
-        "lat": 1.32123,
-        "lon": 103.695,
-        "timezone": "Asia/Singapore",
-        "isp": "DigitalOcean, LLC",
-        "org": "DigitalOcean, LLC",
-        "as": "AS14061 DigitalOcean, LLC",
-        "query": "174.138.18.105",
-        "response_time": 3.003483295440674
+        "response_time": 2.5776736736297607
     },
     "socks4://64.202.184.249:15986": {
         "status": "success",
@@ -82,6 +99,23 @@
         "org": "GoDaddy.com, LLC",
         "as": "AS398101 GoDaddy.com, LLC",
         "query": "64.202.184.249",
-        "response_time": 3.25722336769104
+        "response_time": 2.7114508152008057
+    },
+    "socks5://81.177.224.173:1337": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "STA",
+        "regionName": "Stavropol Kray",
+        "city": "Stavropol",
+        "zip": "355000",
+        "lat": 45.039,
+        "lon": 41.9632,
+        "timezone": "Europe/Moscow",
+        "isp": "OOO SET",
+        "org": "OOO Set network",
+        "as": "AS48176 OOO SET",
+        "query": "81.177.224.173",
+        "response_time": 3.2127628326416016
     }
 }
