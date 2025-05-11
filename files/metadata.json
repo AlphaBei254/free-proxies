@@ -1,38 +1,4 @@
 {
-    "socks5://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.6048846244812012
-    },
-    "socks4://45.234.100.112:1080": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "PE",
-        "regionName": "Pernambuco",
-        "city": "Recife",
-        "zip": "53000",
-        "lat": -8.0009,
-        "lon": -34.8687,
-        "timezone": "America/Recife",
-        "isp": "Fortlink Internet Corporativa",
-        "org": "Fortlink Internet Corporativa",
-        "as": "AS61592 FORTLINK INTERNET CORPORATIVA",
-        "query": "45.234.100.102",
-        "response_time": 1.838836431503296
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -48,6 +14,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.361992359161377
+        "response_time": 0.196882963180542
+    },
+    "socks5://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.35604071617126465
+    },
+    "http://62.33.53.248:3128": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOS",
+        "regionName": "Moscow Oblast",
+        "city": "Drezna",
+        "zip": "142660",
+        "lat": 55.7424,
+        "lon": 38.8442,
+        "timezone": "Europe/Moscow",
+        "isp": "TRANS-TELECOM",
+        "org": "",
+        "as": "AS20485 Joint Stock Company TransTeleCom",
+        "query": "62.33.53.248",
+        "response_time": 1.0478906631469727
     }
 }
