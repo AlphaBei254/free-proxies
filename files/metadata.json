@@ -1,4 +1,38 @@
 {
+    "socks4://213.14.32.66:4153": {
+        "status": "success",
+        "country": "T\u00fcrkiye",
+        "countryCode": "TR",
+        "region": "34",
+        "regionName": "Istanbul",
+        "city": "Istanbul",
+        "zip": "34096",
+        "lat": 41.0145,
+        "lon": 28.9533,
+        "timezone": "Europe/Istanbul",
+        "isp": "Superonline Iletisim Hizmetleri A.S.",
+        "org": "Hipernet Bilisim VE Telekomunikasyon Hizmetleri Sanayi VE Ticaret Limited",
+        "as": "AS34984 Superonline Iletisim Hizmetleri A.S.",
+        "query": "213.14.32.66",
+        "response_time": 0.4912140369415283
+    },
+    "socks4://200.43.231.16:4153": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "N",
+        "regionName": "Misiones",
+        "city": "Ober\u00e1",
+        "zip": "3360",
+        "lat": -27.4869,
+        "lon": -55.1201,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Telecom Argentina S.A.",
+        "org": "Telecom Argentina S.A",
+        "as": "AS7303 Telecom Argentina S.A.",
+        "query": "200.43.231.14",
+        "response_time": 0.8860554695129395
+    },
     "socks4://172.233.14.116:1080": {
         "status": "success",
         "country": "Brazil",
@@ -14,41 +48,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8936371803283691
-    },
-    "socks4://37.186.66.36:3629": {
-        "status": "success",
-        "country": "Armenia",
-        "countryCode": "AM",
-        "region": "ER",
-        "regionName": "Yerevan",
-        "city": "Yerevan",
-        "zip": "",
-        "lat": 40.1814,
-        "lon": 44.5102,
-        "timezone": "Asia/Yerevan",
-        "isp": "GNC-Alfa CJSC",
-        "org": "GNC",
-        "as": "AS49800 GNC-Alfa CJSC",
-        "query": "37.186.66.36",
-        "response_time": 0.8752646446228027
-    },
-    "socks5://103.189.218.83:6969": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Tongi",
-        "zip": "1230",
-        "lat": 23.8915,
-        "lon": 90.4023,
-        "timezone": "Asia/Dhaka",
-        "isp": "Comfort Solutions",
-        "org": "Md. Ruhul Amin Sarker",
-        "as": "AS149868 Comfort Solutions",
-        "query": "103.189.218.83",
-        "response_time": 1.4838409423828125
+        "response_time": 1.5962703227996826
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,24 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.322481870651245
-    },
-    "socks4://27.115.33.94:4153": {
-        "status": "success",
-        "country": "China",
-        "countryCode": "CN",
-        "region": "SH",
-        "regionName": "Shanghai",
-        "city": "Shanghai",
-        "zip": "",
-        "lat": 31.2222,
-        "lon": 121.4581,
-        "timezone": "Asia/Shanghai",
-        "isp": "China Unicom Shanghai Province Network",
-        "org": "",
-        "as": "AS17621 China Unicom Shanghai network",
-        "query": "27.115.33.94",
-        "response_time": 2.3792264461517334
+        "response_time": 2.2502102851867676
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -99,6 +82,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4659416675567627
+        "response_time": 2.453585386276245
     }
 }
