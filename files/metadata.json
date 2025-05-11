@@ -1,21 +1,4 @@
 {
-    "http://188.166.197.129:3128": {
-        "status": "success",
-        "country": "Singapore",
-        "countryCode": "SG",
-        "region": "05",
-        "regionName": "South West",
-        "city": "Singapore",
-        "zip": "627753",
-        "lat": 1.32123,
-        "lon": 103.695,
-        "timezone": "Asia/Singapore",
-        "isp": "DigitalOcean, LLC",
-        "org": "DigitalOcean, LLC",
-        "as": "AS14061 DigitalOcean, LLC",
-        "query": "174.138.18.105",
-        "response_time": 0.5460844039916992
-    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,24 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5903029441833496
+        "response_time": 0.6048846244812012
     },
-    "socks4://64.202.184.249:15986": {
+    "socks4://45.234.100.112:1080": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20149",
-        "lat": 39.0469,
-        "lon": -77.4903,
-        "timezone": "America/New_York",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "64.202.184.249",
-        "response_time": 1.5596191883087158
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "PE",
+        "regionName": "Pernambuco",
+        "city": "Recife",
+        "zip": "53000",
+        "lat": -8.0009,
+        "lon": -34.8687,
+        "timezone": "America/Recife",
+        "isp": "Fortlink Internet Corporativa",
+        "org": "Fortlink Internet Corporativa",
+        "as": "AS61592 FORTLINK INTERNET CORPORATIVA",
+        "query": "45.234.100.102",
+        "response_time": 1.838836431503296
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3541033267974854
-    },
-    "socks5://202.40.186.66:9090": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1215",
-        "lat": 23.7655,
-        "lon": 90.3878,
-        "timezone": "Asia/Dhaka",
-        "isp": "Ranks ITT",
-        "org": "Ranks ITT Ltd.",
-        "as": "AS23991 Ranks ITT Ltd.",
-        "query": "202.40.186.66",
-        "response_time": 3.476483106613159
+        "response_time": 2.361992359161377
     }
 }
