@@ -1,4 +1,21 @@
 {
+    "socks4://36.37.244.41:5678": {
+        "status": "success",
+        "country": "Cambodia",
+        "countryCode": "KH",
+        "region": "1",
+        "regionName": "Banteay Meanchey",
+        "city": "Sisophon",
+        "zip": "",
+        "lat": 13.5859,
+        "lon": 102.974,
+        "timezone": "Asia/Phnom_Penh",
+        "isp": "VIETTEL (CAMBODIA) PTE., LTD",
+        "org": "Viettel (cambodia) Pte., Ltd.",
+        "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
+        "query": "36.37.244.41",
+        "response_time": 0.9705209732055664
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2600131034851074
-    },
-    "socks4://75.81.166.118:39593": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "KS",
-        "regionName": "Kansas",
-        "city": "Kansas City",
-        "zip": "66106",
-        "lat": 39.0679,
-        "lon": -94.713,
-        "timezone": "America/Chicago",
-        "isp": "Spectrum",
-        "org": "RRWE",
-        "as": "AS11427 Charter Communications Inc",
-        "query": "75.81.166.118",
-        "response_time": 0.4015789031982422
+        "response_time": 2.304114580154419
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,40 +48,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5073511600494385
+        "response_time": 2.658672571182251
     },
-    "socks4://212.47.248.107:16379": {
+    "http://188.166.197.129:3128": {
         "status": "success",
-        "country": "Germany",
-        "countryCode": "DE",
-        "region": "BB",
-        "regionName": "Brandenburg",
-        "city": "Brandenburg",
-        "zip": "14621",
-        "lat": 52.6171,
-        "lon": 13.1207,
-        "timezone": "Europe/Berlin",
-        "isp": "Stiftung Erneuerbare Freiheit",
-        "org": "CIA TRIAD SECURITY LLC",
-        "as": "AS60729 Stiftung Erneuerbare Freiheit",
-        "query": "185.220.101.138",
-        "response_time": 2.9825375080108643
+        "country": "Singapore",
+        "countryCode": "SG",
+        "region": "05",
+        "regionName": "South West",
+        "city": "Singapore",
+        "zip": "627753",
+        "lat": 1.32123,
+        "lon": 103.695,
+        "timezone": "Asia/Singapore",
+        "isp": "DigitalOcean, LLC",
+        "org": "DigitalOcean, LLC",
+        "as": "AS14061 DigitalOcean, LLC",
+        "query": "174.138.18.105",
+        "response_time": 3.003483295440674
     },
-    "socks5://46.10.229.243:7777": {
+    "socks4://64.202.184.249:15986": {
         "status": "success",
-        "country": "Bulgaria",
-        "countryCode": "BG",
-        "region": "16",
-        "regionName": "Plovdiv",
-        "city": "Plovdiv",
-        "zip": "4000",
-        "lat": 42.1513,
-        "lon": 24.7518,
-        "timezone": "Europe/Sofia",
-        "isp": "Vivacom Bulgaria EAD",
-        "org": "Vivacom Bulgaria EAD",
-        "as": "AS8866 Vivacom Bulgaria EAD",
-        "query": "46.10.229.243",
-        "response_time": 3.1428163051605225
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "64.202.184.249",
+        "response_time": 3.25722336769104
     }
 }
