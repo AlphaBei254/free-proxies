@@ -1,38 +1,4 @@
 {
-    "socks4://172.233.14.116:1080": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 0.8625881671905518
-    },
-    "socks4://94.181.33.149:40840": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "CHE",
-        "regionName": "Chelyabinsk Oblast",
-        "city": "Chelyabinsk",
-        "zip": "454082",
-        "lat": 55.1644,
-        "lon": 61.4368,
-        "timezone": "Asia/Yekaterinburg",
-        "isp": "CJSC \"ER-Telecom Holding\" Chelyabinsk branch",
-        "org": "JSC \"ER-Telecom Holding\" Chelyabinsk Branch",
-        "as": "AS41661 JSC \"ER-Telecom Holding\"",
-        "query": "94.181.33.149",
-        "response_time": 1.8100950717926025
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -48,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.558483362197876
-    },
-    "socks4://41.164.30.66:60606": {
-        "status": "success",
-        "country": "South Africa",
-        "countryCode": "ZA",
-        "region": "WC",
-        "regionName": "Western Cape",
-        "city": "Cape Town",
-        "zip": "7441",
-        "lat": -33.914,
-        "lon": 18.4129,
-        "timezone": "Africa/Johannesburg",
-        "isp": "Liquid Telecommunications Operations Limited",
-        "org": "Neotel WCape",
-        "as": "AS36937 Liquid Telecommunications South Africa (Pty) Ltd",
-        "query": "41.164.30.66",
-        "response_time": 2.9631741046905518
+        "response_time": 2.5482661724090576
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +31,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.073784589767456
+        "response_time": 3.136361598968506
     }
 }
