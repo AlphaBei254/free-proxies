@@ -1,38 +1,4 @@
 {
-    "socks4://103.146.170.244:5678": {
-        "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "TS",
-        "regionName": "Telangana",
-        "city": "Hyderabad",
-        "zip": "500068",
-        "lat": 17.3843,
-        "lon": 78.4583,
-        "timezone": "Asia/Kolkata",
-        "isp": "Thrishul Broadband Private Ltd",
-        "org": "Thrishul Broadband Private Ltd",
-        "as": "AS139510 Thrishul Broadband Private Ltd",
-        "query": "103.146.170.244",
-        "response_time": 1.0907058715820312
-    },
-    "socks4://82.223.165.28:44432": {
-        "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4168,
-        "lon": -3.70379,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 1.9041523933410645
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -48,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.558011054992676
+        "response_time": 2.540290117263794
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +31,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.085191011428833
+        "response_time": 3.0599148273468018
+    },
+    "socks5://81.177.224.173:1337": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "STA",
+        "regionName": "Stavropol Kray",
+        "city": "Stavropol",
+        "zip": "355000",
+        "lat": 45.039,
+        "lon": 41.9632,
+        "timezone": "Europe/Moscow",
+        "isp": "OOO SET",
+        "org": "OOO Set network",
+        "as": "AS48176 OOO SET",
+        "query": "81.177.224.173",
+        "response_time": 3.2393031120300293
     }
 }
