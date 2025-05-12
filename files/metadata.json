@@ -1,38 +1,4 @@
 {
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.19",
-        "response_time": 0.9414792060852051
-    },
-    "socks5://8.218.39.40:10800": {
-        "status": "success",
-        "country": "Hong Kong",
-        "countryCode": "HK",
-        "region": "",
-        "regionName": "Kowloon",
-        "city": "Hong Kong",
-        "zip": "999077",
-        "lat": 22.3193,
-        "lon": 114.169,
-        "timezone": "Asia/Hong_Kong",
-        "isp": "Alibaba (US) Technology Co., Ltd.",
-        "org": "Alibaba.com Singapore E-Commerce Private Limited",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "8.218.39.40",
-        "response_time": 0.9134585857391357
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -48,24 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.595019578933716
+        "response_time": 0.5312628746032715
     },
-    "socks4://103.86.1.9:4145": {
+    "socks4://77.104.75.97:5678": {
         "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "KA",
-        "regionName": "Karnataka",
-        "city": "Bengaluru",
-        "zip": "562130",
-        "lat": 12.9753,
-        "lon": 77.591,
-        "timezone": "Asia/Kolkata",
-        "isp": "Leadership Advisory Services PVT LTD",
-        "org": "CtrlS Datacenters Limited",
-        "as": "AS150008 Pioneer Elabs Ltd.",
-        "query": "43.225.27.178",
-        "response_time": 3.0352871417999268
+        "country": "Iran",
+        "countryCode": "IR",
+        "region": "23",
+        "regionName": "Tehran",
+        "city": "Tehran",
+        "zip": "",
+        "lat": 35.7471,
+        "lon": 51.4115,
+        "timezone": "Asia/Tehran",
+        "isp": "Respina Networks & Beyond PJSC",
+        "org": "Respina",
+        "as": "AS42337 Respina Networks & Beyond PJSC",
+        "query": "77.104.75.97",
+        "response_time": 0.7444045543670654
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +48,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.0974271297454834
+        "response_time": 1.081923246383667
+    },
+    "socks4://27.147.221.140:5678": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "K\u0101frul",
+        "zip": "1207",
+        "lat": 23.7882,
+        "lon": 90.3736,
+        "timezone": "Asia/Dhaka",
+        "isp": "Link3 Technologies Limited",
+        "org": "Retail Subscriber",
+        "as": "AS23688 Link3 Technologies Ltd.",
+        "query": "27.147.221.140",
+        "response_time": 3.197707176208496
+    },
+    "socks5://103.163.244.106:1080": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "HR",
+        "regionName": "Haryana",
+        "city": "Panipat",
+        "zip": "132103",
+        "lat": 29.3885,
+        "lon": 76.9669,
+        "timezone": "Asia/Kolkata",
+        "isp": "Infolink System",
+        "org": "",
+        "as": "AS132746 Infolink System",
+        "query": "103.163.244.106",
+        "response_time": 3.604583501815796
     }
 }
