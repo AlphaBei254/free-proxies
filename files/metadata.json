@@ -1,4 +1,21 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.26270008087158203
+    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,58 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.601956844329834
+        "response_time": 0.37453269958496094
     },
-    "socks4://185.14.149.33:4145": {
+    "socks4://37.52.50.28:5678": {
         "status": "success",
-        "country": "Poland",
-        "countryCode": "PL",
-        "region": "08",
-        "regionName": "Lubusz",
-        "city": "Zielona G\u00f3ra",
-        "zip": "65-735",
-        "lat": 51.9564,
-        "lon": 15.4993,
-        "timezone": "Europe/Warsaw",
-        "isp": "TERRA",
-        "org": "",
-        "as": "AS61233 Enformatel Sp. z o.o.",
-        "query": "185.14.148.66",
-        "response_time": 0.626492977142334
-    },
-    "socks4://180.92.212.178:5678": {
-        "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta",
-        "zip": "",
-        "lat": -6.22927,
-        "lon": 106.811,
-        "timezone": "Asia/Jakarta",
-        "isp": "Sudirman Central Business District",
-        "org": "",
-        "as": "AS23953 PT ARTHA TELEKOMINDO",
-        "query": "180.92.212.178",
-        "response_time": 1.8581898212432861
-    },
-    "socks4://190.246.55.235:5678": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "X",
-        "regionName": "Cordoba",
-        "city": "C\u00f3rdoba",
-        "zip": "5000",
-        "lat": -31.4057,
-        "lon": -64.1849,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Telecom Argentina S.A",
-        "org": "Fibertel",
-        "as": "AS7303 Telecom Argentina S.A.",
-        "query": "190.246.55.235",
-        "response_time": 1.9287958145141602
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "30",
+        "regionName": "Kyiv City",
+        "city": "Kyiv",
+        "zip": "02092",
+        "lat": 50.458,
+        "lon": 30.5303,
+        "timezone": "Europe/Kyiv",
+        "isp": "UKRTELECOM",
+        "org": "JSC Ukrtelecom",
+        "as": "AS6849 JSC \"Ukrtelecom\"",
+        "query": "37.52.50.28",
+        "response_time": 1.6379826068878174
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3786797523498535
+        "response_time": 2.227869749069214
     }
 }
