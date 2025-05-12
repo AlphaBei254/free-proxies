@@ -1,54 +1,20 @@
 {
-    "socks4://170.78.211.161:1080": {
+    "http://113.160.132.195:8080": {
         "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.32898974418640137
-    },
-    "socks5://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.42172908782958984
-    },
-    "socks4://81.12.169.254:4153": {
-        "status": "success",
-        "country": "Romania",
-        "countryCode": "RO",
-        "region": "IF",
-        "regionName": "Ilfov",
-        "city": "Otopeni",
-        "zip": "075100",
-        "lat": 44.55,
-        "lon": 26.0724,
-        "timezone": "Europe/Bucharest",
-        "isp": "Vodafone RO",
-        "org": "Vodafone Romania S.A.",
-        "as": "AS12302 Vodafone Romania S.A.",
-        "query": "81.12.169.254",
-        "response_time": 0.5271294116973877
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "66",
+        "regionName": "H\u01b0ng Y\u00ean Province",
+        "city": "B\u1ea9n Y\u00ean Nh\u00e2n",
+        "zip": "",
+        "lat": 20.9365,
+        "lon": 106.057,
+        "timezone": "Asia/Bangkok",
+        "isp": "VietNam Post and Telecom Corporation",
+        "org": "Vietnam Posts and Telecommunications Group",
+        "as": "AS45899 VNPT Corp",
+        "query": "113.160.132.195",
+        "response_time": 0.7390978336334229
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,7 +31,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.6172947883605957
+        "response_time": 1.229480266571045
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -82,23 +48,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2200117111206055
+        "response_time": 2.3629226684570312
     },
-    "socks5://163.172.132.115:16379": {
+    "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
         "countryCode": "NL",
         "region": "NH",
         "regionName": "North Holland",
         "city": "Amsterdam",
-        "zip": "1012",
-        "lat": 52.3676,
-        "lon": 4.90414,
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
         "timezone": "Europe/Amsterdam",
-        "isp": "Surf B.V.",
-        "org": "Nothing to hide",
-        "as": "AS1101 SURF B.V.",
-        "query": "192.42.116.179",
-        "response_time": 3.291055917739868
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.656646251678467
     }
 }
