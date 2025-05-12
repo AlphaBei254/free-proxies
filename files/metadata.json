@@ -1,20 +1,20 @@
 {
-    "socks4://170.78.211.161:1080": {
+    "http://113.160.132.195:8080": {
         "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.3077566623687744
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "66",
+        "regionName": "H\u01b0ng Y\u00ean Province",
+        "city": "B\u1ea9n Y\u00ean Nh\u00e2n",
+        "zip": "",
+        "lat": 20.9365,
+        "lon": 106.057,
+        "timezone": "Asia/Bangkok",
+        "isp": "VietNam Post and Telecom Corporation",
+        "org": "Vietnam Posts and Telecommunications Group",
+        "as": "AS45899 VNPT Corp",
+        "query": "113.160.132.195",
+        "response_time": 0.8566973209381104
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5974464416503906
+        "response_time": 2.53886079788208
     },
-    "socks4://182.53.216.73:4145": {
+    "http://116.203.139.209:5678": {
         "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "51",
-        "regionName": "Lamphun",
-        "city": "Lamphun",
-        "zip": "51000",
-        "lat": 18.5779,
-        "lon": 99.0097,
-        "timezone": "Asia/Bangkok",
-        "isp": "TOT Public Company Limited",
-        "org": "TOT Public Company Limited",
-        "as": "AS23969 TOT Public Company Limited",
-        "query": "182.53.216.73",
-        "response_time": 2.9599719047546387
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BY",
+        "regionName": "Bavaria",
+        "city": "Nuremberg",
+        "zip": "90403",
+        "lat": 49.4527,
+        "lon": 11.0783,
+        "timezone": "Europe/Berlin",
+        "isp": "Hetzner Online GmbH",
+        "org": "Hetzner",
+        "as": "AS24940 Hetzner Online GmbH",
+        "query": "116.203.139.209",
+        "response_time": 3.027754068374634
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.043677568435669
+        "response_time": 3.0251147747039795
     }
 }
