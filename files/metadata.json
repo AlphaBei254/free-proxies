@@ -1,54 +1,20 @@
 {
-    "socks5://170.106.151.187:42576": {
+    "socks4://108.175.23.225:13135": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
-        "region": "WA",
-        "regionName": "Washington",
-        "city": "Bellevue",
-        "zip": "98015",
-        "lat": 47.6104,
-        "lon": -122.201,
-        "timezone": "America/Los_Angeles",
-        "isp": "AT&T Enterprises, LLC",
-        "org": "Wireless Data Service Provider Corporation",
-        "as": "AS7018 AT&T Enterprises, LLC",
-        "query": "166.198.252.41",
-        "response_time": 0.4629049301147461
-    },
-    "socks5://103.158.253.162:8199": {
-        "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta",
-        "zip": "12850",
-        "lat": -6.2114,
-        "lon": 106.8446,
-        "timezone": "Asia/Jakarta",
-        "isp": "Rapid Network",
-        "org": "",
-        "as": "AS141137 PT Media Cepat Indonesia",
-        "query": "103.158.253.162",
-        "response_time": 1.3446853160858154
-    },
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 2.2576208114624023
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Houston",
+        "zip": "77002",
+        "lat": 29.7539,
+        "lon": -95.359,
+        "timezone": "America/Chicago",
+        "isp": "Cogent Communications",
+        "org": "Fertitta Reynal LLP",
+        "as": "AS174 Cogent Communications",
+        "query": "38.142.240.242",
+        "response_time": 0.17763209342956543
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +31,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.438495397567749
+        "response_time": 0.4081132411956787
+    },
+    "http://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.2541394233703613
     }
 }
