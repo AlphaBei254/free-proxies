@@ -1,4 +1,21 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.23447465896606445
+    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4921300411224365
+        "response_time": 0.45311594009399414
     },
     "http://113.160.132.195:8080": {
         "status": "success",
@@ -31,58 +48,24 @@
         "org": "Vietnam Posts and Telecommunications Group",
         "as": "AS45899 VNPT Corp",
         "query": "113.160.132.195",
-        "response_time": 0.769639253616333
+        "response_time": 0.9594550132751465
     },
-    "socks4://172.233.14.116:1080": {
+    "socks4://103.229.47.120:4153": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 0.7911171913146973
-    },
-    "socks4://183.80.130.10:4145": {
-        "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "HN",
-        "regionName": "Hanoi",
-        "city": "Hanoi",
-        "zip": "100000",
-        "lat": 21.0184,
-        "lon": 105.8461,
-        "timezone": "Asia/Bangkok",
-        "isp": "Vietnam Internet Network Information Center",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "E",
+        "regionName": "Rajshahi Division",
+        "city": "Mahastan",
+        "zip": "5810",
+        "lat": 24.9611,
+        "lon": 89.3428,
+        "timezone": "Asia/Dhaka",
+        "isp": "MSHELPLINE",
         "org": "",
-        "as": "AS18403 FPT Telecom Company",
-        "query": "183.80.130.10",
-        "response_time": 1.0312132835388184
-    },
-    "socks4://69.36.63.128:1080": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "MI",
-        "regionName": "Michigan",
-        "city": "Greenville",
-        "zip": "48838",
-        "lat": 43.1772,
-        "lon": -85.2473,
-        "timezone": "America/Detroit",
-        "isp": "Point Broadband Fiber Holding, LLC",
-        "org": "Point Broadband Fiber Holding, LLC",
-        "as": "AS19310 Point Broadband Fiber Holding, LLC",
-        "query": "173.225.205.227",
-        "response_time": 2.2851006984710693
+        "as": "AS59340 Help Line",
+        "query": "103.229.47.120",
+        "response_time": 1.1936736106872559
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -99,6 +82,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3360393047332764
+        "response_time": 2.324309825897217
     }
 }
