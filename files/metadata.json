@@ -1,20 +1,20 @@
 {
-    "socks4://170.78.211.161:1080": {
+    "socks4://190.220.1.173:35376": {
         "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.2658376693725586
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "C",
+        "regionName": "Buenos Aires F.D.",
+        "city": "Buenos Aires",
+        "zip": "1871",
+        "lat": -34.6142,
+        "lon": -58.3811,
+        "timezone": "America/Argentina/Buenos_Aires",
+        "isp": "Techtel LMDS Comunicaciones Interactivas S.A.",
+        "org": "RYO VALLE SRL",
+        "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
+        "query": "190.220.1.173",
+        "response_time": 1.8368606567382812
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5109138488769531
-    },
-    "socks4://172.233.14.116:1080": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 0.7268092632293701
+        "response_time": 2.551198720932007
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +48,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.056382417678833
+        "response_time": 3.03727650642395
+    },
+    "socks4://103.229.47.120:4153": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "E",
+        "regionName": "Rajshahi Division",
+        "city": "Mahastan",
+        "zip": "5810",
+        "lat": 24.9611,
+        "lon": 89.3428,
+        "timezone": "Asia/Dhaka",
+        "isp": "MSHELPLINE",
+        "org": "",
+        "as": "AS59340 Help Line",
+        "query": "103.229.47.120",
+        "response_time": 3.2500181198120117
     }
 }
