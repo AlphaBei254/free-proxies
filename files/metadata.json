@@ -1,20 +1,37 @@
 {
-    "socks4://181.28.137.18:5678": {
+    "socks4://103.76.190.37:31756": {
         "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "R",
-        "regionName": "Rio Negro",
-        "city": "General Roca",
-        "zip": "8332",
-        "lat": -39.0576,
-        "lon": -67.5301,
-        "timezone": "America/Argentina/Salta",
-        "isp": "Telecom Argentina S.A",
-        "org": "Fibertel",
-        "as": "AS7303 Telecom Argentina S.A.",
-        "query": "181.28.137.18",
-        "response_time": 1.9984397888183594
+        "country": "India",
+        "countryCode": "IN",
+        "region": "TN",
+        "regionName": "Tamil Nadu",
+        "city": "Vellore",
+        "zip": "632509",
+        "lat": 12.9202,
+        "lon": 79.1306,
+        "timezone": "Asia/Kolkata",
+        "isp": "Alacriy Net System Service Private Limited",
+        "org": "Alacriy Net System Service Private Limited",
+        "as": "AS135758 Alacriy Net System Service Private Limited",
+        "query": "103.76.190.37",
+        "response_time": 1.2087759971618652
+    },
+    "http://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.2648544311523438
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,6 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.075834035873413
+        "response_time": 2.445193290710449
     }
 }
