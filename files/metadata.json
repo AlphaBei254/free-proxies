@@ -1,21 +1,4 @@
 {
-    "http://62.33.53.248:3128": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "SA",
-        "regionName": "Sakha",
-        "city": "Yakutsk",
-        "zip": "677000",
-        "lat": 62.0313,
-        "lon": 129.7325,
-        "timezone": "Asia/Yakutsk",
-        "isp": "TRANS-TELECOM",
-        "org": "",
-        "as": "AS20485 Joint Stock Company TransTeleCom",
-        "query": "62.33.53.248",
-        "response_time": 1.690556526184082
-    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,23 +14,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5682332515716553
+        "response_time": 0.4140629768371582
     },
-    "socks4://195.74.72.111:5678": {
+    "http://45.140.143.77:18080": {
         "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "26",
-        "regionName": "Ivano-Frankivsk Oblast",
-        "city": "Ivano-Frankivsk",
-        "zip": "76000",
-        "lat": 48.9226,
-        "lon": 24.7111,
-        "timezone": "Europe/Kiev",
-        "isp": "Branch Enterprise \"Netgroup-Service\"",
-        "org": "Netgroup",
-        "as": "AS35004 Branch Enterprise \"Netgroup-Service\"",
-        "query": "195.74.72.111",
-        "response_time": 2.6490025520324707
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.2809760570526123
+    },
+    "socks5://103.158.253.162:8199": {
+        "status": "success",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JK",
+        "regionName": "Jakarta",
+        "city": "Jakarta",
+        "zip": "12980",
+        "lat": -6.2077,
+        "lon": 106.8354,
+        "timezone": "Asia/Jakarta",
+        "isp": "Rapid Network",
+        "org": "",
+        "as": "AS141137 PT Media Cepat Indonesia",
+        "query": "103.158.253.162",
+        "response_time": 3.293489694595337
     }
 }
