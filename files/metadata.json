@@ -1,4 +1,38 @@
 {
+    "socks4://192.158.15.201:50877": {
+        "status": "success",
+        "country": "Canada",
+        "countryCode": "CA",
+        "region": "ON",
+        "regionName": "Ontario",
+        "city": "Mississauga",
+        "zip": "L5S",
+        "lat": 43.6783,
+        "lon": -79.6771,
+        "timezone": "America/Toronto",
+        "isp": "Ontario Inc.",
+        "org": "UNIXCHOSTING.COM",
+        "as": "AS40028 1651884 Ontario Inc.",
+        "query": "192.158.15.201",
+        "response_time": 1.5072574615478516
+    },
+    "socks4://27.147.221.140:5678": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "K\u0101frul",
+        "zip": "1207",
+        "lat": 23.7882,
+        "lon": 90.3736,
+        "timezone": "Asia/Dhaka",
+        "isp": "Link3 Technologies Limited",
+        "org": "Retail Subscriber",
+        "as": "AS23688 Link3 Technologies Ltd.",
+        "query": "27.147.221.140",
+        "response_time": 2.1418395042419434
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5897581577301025
+        "response_time": 2.547260284423828
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,6 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.0683329105377197
+        "response_time": 3.0743799209594727
     }
 }
