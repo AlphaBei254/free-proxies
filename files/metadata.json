@@ -14,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4140629768371582
+        "response_time": 0.41239142417907715
+    },
+    "socks5://81.177.224.173:1337": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "STA",
+        "regionName": "Stavropol Kray",
+        "city": "Stavropol",
+        "zip": "355000",
+        "lat": 45.039,
+        "lon": 41.9632,
+        "timezone": "Europe/Moscow",
+        "isp": "OOO SET",
+        "org": "OOO Set network",
+        "as": "AS48176 OOO SET",
+        "query": "81.177.224.173",
+        "response_time": 0.982471227645874
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,23 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2809760570526123
-    },
-    "socks5://103.158.253.162:8199": {
-        "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta",
-        "zip": "12980",
-        "lat": -6.2077,
-        "lon": 106.8354,
-        "timezone": "Asia/Jakarta",
-        "isp": "Rapid Network",
-        "org": "",
-        "as": "AS141137 PT Media Cepat Indonesia",
-        "query": "103.158.253.162",
-        "response_time": 3.293489694595337
+        "response_time": 2.236668586730957
     }
 }
