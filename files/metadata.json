@@ -1,4 +1,21 @@
 {
+    "socks4://190.57.131.158:1080": {
+        "status": "success",
+        "country": "Ecuador",
+        "countryCode": "EC",
+        "region": "G",
+        "regionName": "Guayas",
+        "city": "Guayaquil",
+        "zip": "",
+        "lat": -2.2038,
+        "lon": -79.8819,
+        "timezone": "America/Guayaquil",
+        "isp": "Puntonet S.A.",
+        "org": "Puntonet S.A",
+        "as": "AS22724 PUNTONET S.A.",
+        "query": "190.57.131.158",
+        "response_time": 0.44400811195373535
+    },
     "socks4://172.233.14.116:1080": {
         "status": "success",
         "country": "Brazil",
@@ -14,7 +31,58 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.7862446308135986
+        "response_time": 0.9400849342346191
+    },
+    "socks5://103.158.253.162:8199": {
+        "status": "success",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JK",
+        "regionName": "Jakarta",
+        "city": "Jakarta",
+        "zip": "12980",
+        "lat": -6.2077,
+        "lon": 106.8354,
+        "timezone": "Asia/Jakarta",
+        "isp": "Rapid Network",
+        "org": "",
+        "as": "AS141137 PT Media Cepat Indonesia",
+        "query": "103.158.253.163",
+        "response_time": 1.2362980842590332
+    },
+    "socks4://91.147.235.99:4145": {
+        "status": "success",
+        "country": "Hungary",
+        "countryCode": "HU",
+        "region": "HB",
+        "regionName": "Hajd\u00fa-Bihar",
+        "city": "Debrecen",
+        "zip": "4031",
+        "lat": 47.5232,
+        "lon": 21.6334,
+        "timezone": "Europe/Budapest",
+        "isp": "Magyar Telekom plc.",
+        "org": "Portal LLC",
+        "as": "AS5483 Magyar Telekom Plc.",
+        "query": "91.147.235.65",
+        "response_time": 1.4934306144714355
+    },
+    "socks4://82.223.165.28:44432": {
+        "status": "success",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
+        "org": "",
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 2.2340176105499268
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +99,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.592275619506836
+        "response_time": 2.5493977069854736
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +116,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.0819664001464844
+        "response_time": 3.09952974319458
     }
 }
