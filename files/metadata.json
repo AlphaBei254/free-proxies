@@ -1,37 +1,54 @@
 {
-    "socks4://172.233.14.116:1080": {
+    "socks5://91.121.173.38:54233": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 0.6786651611328125
+        "country": "France",
+        "countryCode": "FR",
+        "region": "HDF",
+        "regionName": "Hauts-de-France",
+        "city": "Roubaix",
+        "zip": "59100",
+        "lat": 50.6918,
+        "lon": 3.2021,
+        "timezone": "Europe/Paris",
+        "isp": "OVH SAS",
+        "org": "OVH ISP",
+        "as": "AS16276 OVH SAS",
+        "query": "91.121.173.38",
+        "response_time": 0.83038330078125
     },
-    "socks4://109.160.97.49:4145": {
+    "socks4://103.96.106.230:1080": {
         "status": "success",
-        "country": "Bulgaria",
-        "countryCode": "BG",
-        "region": "22",
-        "regionName": "Sofia-Capital",
-        "city": "Sofia",
-        "zip": "1000",
-        "lat": 42.7124,
-        "lon": 23.3815,
-        "timezone": "Europe/Sofia",
-        "isp": "Kabelnet LTD",
-        "org": "Global Communication Net Plc",
-        "as": "AS205352 KABELNET LTD",
-        "query": "109.160.97.49",
-        "response_time": 0.710702657699585
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Dhaka",
+        "zip": "1209",
+        "lat": 23.7534,
+        "lon": 90.3722,
+        "timezone": "Asia/Dhaka",
+        "isp": "Xplore Cyber &",
+        "org": "",
+        "as": "AS134153 Xplore Net BD",
+        "query": "103.96.106.230",
+        "response_time": 1.0999400615692139
+    },
+    "socks4://103.83.252.61:1080": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "MP",
+        "regionName": "Madhya Pradesh",
+        "city": "Indore",
+        "zip": "452016",
+        "lat": 22.717,
+        "lon": 75.8337,
+        "timezone": "Asia/Kolkata",
+        "isp": "RB5",
+        "org": "",
+        "as": "AS59165 Auspice Infratel Pvt. Ltd.",
+        "query": "103.204.54.50",
+        "response_time": 1.3154911994934082
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.553615093231201
+        "response_time": 2.53190541267395
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +82,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.096611261367798
-    },
-    "socks5://163.172.128.222:16379": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "IL",
-        "regionName": "Illinois",
-        "city": "Chicago",
-        "zip": "60666",
-        "lat": 41.8781,
-        "lon": -87.6298,
-        "timezone": "America/Chicago",
-        "isp": "IONOS SE",
-        "org": "IONOS Inc",
-        "as": "AS8560 IONOS SE",
-        "query": "209.46.120.81",
-        "response_time": 6.392003297805786
+        "response_time": 3.089268445968628
     }
 }
