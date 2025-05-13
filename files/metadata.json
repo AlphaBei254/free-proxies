@@ -1,20 +1,20 @@
 {
-    "socks5://45.140.143.77:18080": {
+    "socks4://170.78.211.161:1080": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.6256937980651855
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.2487790584564209
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,6 +31,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.349571466445923
+        "response_time": 2.5378518104553223
+    },
+    "socks5://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 3.055445671081543
+    },
+    "socks4://51.158.65.148:16379": {
+        "status": "success",
+        "country": "Luxembourg",
+        "countryCode": "LU",
+        "region": "LU",
+        "regionName": "Luxembourg",
+        "city": "Luxembourg",
+        "zip": "L-1661",
+        "lat": 49.6113,
+        "lon": 6.1294,
+        "timezone": "Europe/Luxembourg",
+        "isp": "FranTech Solutions",
+        "org": "FranTech Solutions",
+        "as": "AS53667 FranTech Solutions",
+        "query": "107.189.13.254",
+        "response_time": 4.656050682067871
     }
 }
