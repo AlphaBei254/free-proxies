@@ -1,20 +1,20 @@
 {
-    "socks4://103.61.116.138:5678": {
+    "socks5://45.140.143.77:18080": {
         "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JB",
-        "regionName": "West Java",
-        "city": "Ciputat",
-        "zip": "",
-        "lat": -6.18701,
-        "lon": 106.759,
-        "timezone": "Asia/Jakarta",
-        "isp": "PT Media Televisi Indonesia",
-        "org": "",
-        "as": "AS45734 PT Media Televisi Indonesia",
-        "query": "103.61.116.138",
-        "response_time": 1.9447622299194336
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.3490126132965088
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,40 +31,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.383831024169922
-    },
-    "socks5://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 2.625469923019409
-    },
-    "socks4://202.131.246.250:5678": {
-        "status": "success",
-        "country": "Mongolia",
-        "countryCode": "MN",
-        "region": "1",
-        "regionName": "Ulaanbaatar",
-        "city": "Ulan Bator",
-        "zip": "",
-        "lat": 47.913,
-        "lon": 106.929,
-        "timezone": "Asia/Ulaanbaatar",
-        "isp": "Mobinet LLC",
-        "org": "MOBINET-LL",
-        "as": "AS9484 Mobinet LLC. AS Mobinet Internet Service Provider",
-        "query": "202.131.246.250",
-        "response_time": 3.19405198097229
+        "response_time": 2.2753429412841797
     }
 }
