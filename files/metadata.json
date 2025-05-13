@@ -1,54 +1,20 @@
 {
-    "socks4://170.78.211.161:1080": {
+    "socks4://181.28.137.18:5678": {
         "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.180",
-        "response_time": 0.23424267768859863
-    },
-    "socks4://201.148.125.126:4153": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "city": "Santa Helena de Goi\u00e1s",
-        "zip": "73930",
-        "lat": -17.8136,
-        "lon": -50.5969,
-        "timezone": "America/Sao_Paulo",
-        "isp": "America-NET Ltda.",
-        "org": "America-NET Ltda",
-        "as": "AS61844 America-NET Ltda.",
-        "query": "201.148.125.126",
-        "response_time": 0.7779972553253174
-    },
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 2.24994158744812
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "R",
+        "regionName": "Rio Negro",
+        "city": "General Roca",
+        "zip": "8332",
+        "lat": -39.0576,
+        "lon": -67.5301,
+        "timezone": "America/Argentina/Salta",
+        "isp": "Telecom Argentina S.A",
+        "org": "Fibertel",
+        "as": "AS7303 Telecom Argentina S.A.",
+        "query": "181.28.137.18",
+        "response_time": 1.9984397888183594
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +31,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.435743570327759
+        "response_time": 3.075834035873413
     }
 }
