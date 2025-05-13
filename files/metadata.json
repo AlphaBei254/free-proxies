@@ -1,20 +1,20 @@
 {
-    "socks5://45.140.143.77:18080": {
+    "socks4://64.124.191.98:32688": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.3490126132965088
+        "country": "United States",
+        "countryCode": "US",
+        "region": "PA",
+        "regionName": "Pennsylvania",
+        "city": "Conshohocken",
+        "zip": "19428",
+        "lat": 40.0864,
+        "lon": -75.2931,
+        "timezone": "America/New_York",
+        "isp": "Zayo Bandwidth",
+        "org": "Web Werks",
+        "as": "AS6461 Zayo Bandwidth",
+        "query": "64.124.191.98",
+        "response_time": 2.1245927810668945
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,6 +31,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2753429412841797
+        "response_time": 2.2834677696228027
+    },
+    "socks4://103.76.190.37:31756": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "TN",
+        "regionName": "Tamil Nadu",
+        "city": "Vellore",
+        "zip": "632509",
+        "lat": 12.9202,
+        "lon": 79.1306,
+        "timezone": "Asia/Kolkata",
+        "isp": "Alacriy Net System Service Private Limited",
+        "org": "Alacriy Net System Service Private Limited",
+        "as": "AS135758 Alacriy Net System Service Private Limited",
+        "query": "103.76.190.37",
+        "response_time": 2.3002498149871826
+    },
+    "socks5://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.445730686187744
     }
 }
