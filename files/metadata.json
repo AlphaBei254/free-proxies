@@ -1,4 +1,38 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.32482433319091797
+    },
+    "socks4://122.15.255.229:60606": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "WB",
+        "regionName": "West Bengal",
+        "city": "Kolkata",
+        "zip": "700095",
+        "lat": 22.5643,
+        "lon": 88.3693,
+        "timezone": "Asia/Kolkata",
+        "isp": "VODAFONE-STATIC",
+        "org": "",
+        "as": "AS55410 Vodafone Idea Ltd",
+        "query": "122.15.255.229",
+        "response_time": 0.9006733894348145
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,23 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2265875339508057
-    },
-    "socks5://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 2.517997980117798
+        "response_time": 2.3010542392730713
     }
 }
