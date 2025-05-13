@@ -1,21 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.2487790584564209
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5378518104553223
+        "response_time": 2.300835132598877
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +31,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.055445671081543
+        "response_time": 2.4729995727539062
     },
-    "socks4://51.158.65.148:16379": {
+    "socks4://37.52.50.28:5678": {
         "status": "success",
-        "country": "Luxembourg",
-        "countryCode": "LU",
-        "region": "LU",
-        "regionName": "Luxembourg",
-        "city": "Luxembourg",
-        "zip": "L-1661",
-        "lat": 49.6113,
-        "lon": 6.1294,
-        "timezone": "Europe/Luxembourg",
-        "isp": "FranTech Solutions",
-        "org": "FranTech Solutions",
-        "as": "AS53667 FranTech Solutions",
-        "query": "107.189.13.254",
-        "response_time": 4.656050682067871
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "30",
+        "regionName": "Kyiv City",
+        "city": "Kyiv",
+        "zip": "04128",
+        "lat": 50.458,
+        "lon": 30.5303,
+        "timezone": "Europe/Kyiv",
+        "isp": "UKRTELECOM",
+        "org": "JSC Ukrtelecom",
+        "as": "AS6849 JSC \"Ukrtelecom\"",
+        "query": "37.52.50.28",
+        "response_time": 2.615828275680542
+    },
+    "http://47.252.29.28:11222": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "KYA",
+        "regionName": "Krasnoyarsk Krai",
+        "city": "Krasnoyarsk",
+        "zip": "660000",
+        "lat": 56.0153,
+        "lon": 92.8932,
+        "timezone": "Asia/Krasnoyarsk",
+        "isp": "SIA \"Singularity Telecom\"",
+        "org": "Dom Tehniki Ltd",
+        "as": "AS209372 SIA \"Singularity Telecom\"",
+        "query": "46.3.0.45",
+        "response_time": 4.022729396820068
+    },
+    "socks4://212.47.248.107:16379": {
+        "status": "success",
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "30",
+        "regionName": "Kyiv City",
+        "city": "Kyiv",
+        "zip": "04116",
+        "lat": 50.458,
+        "lon": 30.5303,
+        "timezone": "Europe/Kyiv",
+        "isp": "Epinatura LLC",
+        "org": "",
+        "as": "AS207656 Epinatura LLC",
+        "query": "193.218.118.156",
+        "response_time": 4.128477334976196
     }
 }
