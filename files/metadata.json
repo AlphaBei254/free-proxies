@@ -1,4 +1,55 @@
 {
+    "socks4://64.124.191.98:32688": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "PA",
+        "regionName": "Pennsylvania",
+        "city": "Conshohocken",
+        "zip": "19428",
+        "lat": 40.0864,
+        "lon": -75.2931,
+        "timezone": "America/New_York",
+        "isp": "Zayo Bandwidth",
+        "org": "Web Werks",
+        "as": "AS6461 Zayo Bandwidth",
+        "query": "64.124.191.98",
+        "response_time": 0.048087358474731445
+    },
+    "socks4://175.203.138.160:5678": {
+        "status": "success",
+        "country": "South Korea",
+        "countryCode": "KR",
+        "region": "44",
+        "regionName": "Chungcheongnam-do",
+        "city": "Yesan",
+        "zip": "324",
+        "lat": 36.6781,
+        "lon": 126.6946,
+        "timezone": "Asia/Seoul",
+        "isp": "Korea Telecom",
+        "org": "Kornet",
+        "as": "AS4766 Korea Telecom",
+        "query": "175.203.138.160",
+        "response_time": 0.9571952819824219
+    },
+    "socks5://170.233.30.33:4153": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "Z",
+        "regionName": "Santa Cruz",
+        "city": "R\u00edo Gallegos",
+        "zip": "9400",
+        "lat": -51.6233,
+        "lon": -69.216,
+        "timezone": "America/Argentina/Rio_Gallegos",
+        "isp": "Sebastian Souto",
+        "org": "Sebastian Souto",
+        "as": "AS264738 Sebastian Souto (SSSERVICIOS)",
+        "query": "170.233.30.33",
+        "response_time": 1.1165814399719238
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,41 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5387938022613525
-    },
-    "http://8.219.97.248:80": {
-        "status": "success",
-        "country": "Singapore",
-        "countryCode": "SG",
-        "region": "03",
-        "regionName": "North West",
-        "city": "Singapore",
-        "zip": "858877",
-        "lat": 1.35208,
-        "lon": 103.82,
-        "timezone": "Asia/Singapore",
-        "isp": "Alibaba (US) Technology Co., Ltd.",
-        "org": "Alibaba.com Singapore E-Commerce Private Limited",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "8.219.64.236",
-        "response_time": 2.6178200244903564
-    },
-    "socks4://118.70.211.121:60606": {
-        "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "HN",
-        "regionName": "Hanoi",
-        "city": "Hanoi",
-        "zip": "100000",
-        "lat": 21.0184,
-        "lon": 105.8461,
-        "timezone": "Asia/Bangkok",
-        "isp": "FPT Telecom Company",
-        "org": "FPT-STATICIP",
-        "as": "AS18403 FPT Telecom Company",
-        "query": "118.70.212.110",
-        "response_time": 3.068341016769409
+        "response_time": 2.5564353466033936
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +82,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.091322898864746
+        "response_time": 3.0521397590637207
     }
 }
