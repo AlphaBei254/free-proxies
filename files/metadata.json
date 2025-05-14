@@ -1,20 +1,20 @@
 {
-    "socks5://45.140.143.77:18080": {
+    "socks4://201.148.125.126:4153": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.6003592014312744
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "city": "Santa Helena de Goi\u00e1s",
+        "zip": "73930",
+        "lat": -17.8136,
+        "lon": -50.5969,
+        "timezone": "America/Sao_Paulo",
+        "isp": "America-NET Ltda.",
+        "org": "America-NET Ltda",
+        "as": "AS61844 America-NET Ltda.",
+        "query": "201.148.125.126",
+        "response_time": 0.7120916843414307
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.6330959796905518
+        "response_time": 1.8509652614593506
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +48,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3637125492095947
+        "response_time": 2.2527122497558594
     },
-    "socks4://80.92.224.141:5678": {
+    "socks5://45.140.143.77:18080": {
         "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "30",
-        "regionName": "Kyiv City",
-        "city": "Kyiv",
-        "zip": "02063",
-        "lat": 50.458,
-        "lon": 30.5303,
-        "timezone": "Europe/Kyiv",
-        "isp": "WNET TELECOM USA Corp.",
-        "org": "LoadMe",
-        "as": "AS1820 WNET TELECOM USA Corp.",
-        "query": "80.92.224.141",
-        "response_time": 2.6748242378234863
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.427724599838257
     }
 }
