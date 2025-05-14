@@ -1,4 +1,21 @@
 {
+    "socks4://163.172.164.115:16379": {
+        "status": "success",
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BW",
+        "regionName": "Baden-Wurttemberg",
+        "city": "Wernau",
+        "zip": "73249",
+        "lat": 48.6954,
+        "lon": 9.41833,
+        "timezone": "Europe/Berlin",
+        "isp": "Smartnet Limited",
+        "org": "Alexander Fiedler",
+        "as": "AS203446 SMARTNET LIMITED",
+        "query": "93.90.74.28",
+        "response_time": 1.9034926891326904
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5301148891448975
+        "response_time": 2.55782151222229
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,6 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.10703444480896
+        "response_time": 3.0965869426727295
     }
 }
