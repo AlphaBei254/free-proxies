@@ -14,41 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 1.0174334049224854
-    },
-    "socks4://5.58.47.25:3629": {
-        "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "61",
-        "regionName": "Ternopil Oblast",
-        "city": "Ternopil",
-        "zip": "46001",
-        "lat": 49.5535,
-        "lon": 25.5947,
-        "timezone": "Europe/Kiev",
-        "isp": "Columbus",
-        "org": "Lanet Network Ltd",
-        "as": "AS16223 MAXNET TELECOM, LTD",
-        "query": "5.58.47.25",
-        "response_time": 1.464634895324707
-    },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.62",
-        "response_time": 2.256962537765503
+        "response_time": 0.40388965606689453
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +31,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.29831600189209
+        "response_time": 2.24545955657959
+    },
+    "socks4://109.166.210.170:5678": {
+        "status": "success",
+        "country": "Romania",
+        "countryCode": "RO",
+        "region": "CJ",
+        "regionName": "Cluj County",
+        "city": "Cluj-Napoca",
+        "zip": "400002",
+        "lat": 46.7656,
+        "lon": 23.5945,
+        "timezone": "Europe/Bucharest",
+        "isp": "Orange Romania Network",
+        "org": "Orange Romania S.A.",
+        "as": "AS8953 Orange Romania S.A.",
+        "query": "109.166.210.170",
+        "response_time": 2.7771453857421875
     }
 }
