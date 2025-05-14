@@ -1,4 +1,21 @@
 {
+    "socks5://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.4055769443511963
+    },
     "socks4://172.233.14.116:1080": {
         "status": "success",
         "country": "Brazil",
@@ -14,7 +31,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.2856459617614746
+        "response_time": 1.4853670597076416
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,40 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2911417484283447
-    },
-    "socks5://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 2.4218039512634277
-    },
-    "socks4://213.6.68.210:4145": {
-        "status": "success",
-        "country": "Palestine",
-        "countryCode": "PS",
-        "region": "NBS",
-        "regionName": "Nablus Governorate",
-        "city": "Nablus",
-        "zip": "",
-        "lat": 32.2207,
-        "lon": 35.2542,
-        "timezone": "Asia/Hebron",
-        "isp": "Palestine Telecommunications Company",
-        "org": "Palestine Telecommunications Company",
-        "as": "AS12975 Palestine Telecommunications Company (PALTEL)",
-        "query": "213.6.68.210",
-        "response_time": 2.6301567554473877
+        "response_time": 2.2864677906036377
     }
 }
