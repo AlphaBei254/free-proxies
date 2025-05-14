@@ -1,54 +1,20 @@
 {
-    "socks4://172.233.14.116:1080": {
+    "socks4://170.78.211.161:1080": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 1.918956995010376
-    },
-    "socks5://118.70.151.55:1080": {
-        "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "HN",
-        "regionName": "Hanoi",
-        "city": "Hanoi",
-        "zip": "100000",
-        "lat": 21.0184,
-        "lon": 105.8461,
-        "timezone": "Asia/Bangkok",
-        "isp": "FPT Telecom Company",
-        "org": "Vietnam Internet Network Information Center",
-        "as": "AS18403 FPT Telecom Company",
-        "query": "118.70.151.55",
-        "response_time": 2.296889543533325
-    },
-    "socks4://80.92.224.141:5678": {
-        "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "30",
-        "regionName": "Kyiv City",
-        "city": "Kyiv",
-        "zip": "02063",
-        "lat": 50.458,
-        "lon": 30.5303,
-        "timezone": "Europe/Kyiv",
-        "isp": "WNET TELECOM USA Corp.",
-        "org": "LoadMe",
-        "as": "AS1820 WNET TELECOM USA Corp.",
-        "query": "80.92.224.141",
-        "response_time": 2.4869582653045654
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.26258063316345215
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5903961658477783
+        "response_time": 2.5658724308013916
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +48,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.0243430137634277
+        "response_time": 3.006868600845337
+    },
+    "socks5://118.70.151.55:1080": {
+        "status": "success",
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "HN",
+        "regionName": "Hanoi",
+        "city": "Hanoi",
+        "zip": "100000",
+        "lat": 21.0184,
+        "lon": 105.8461,
+        "timezone": "Asia/Bangkok",
+        "isp": "FPT Telecom Company",
+        "org": "Vietnam Internet Network Information Center",
+        "as": "AS18403 FPT Telecom Company",
+        "query": "118.70.151.55",
+        "response_time": 3.2519190311431885
+    },
+    "socks4://51.158.70.246:16379": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "IL",
+        "regionName": "Illinois",
+        "city": "Chicago",
+        "zip": "60666",
+        "lat": 41.8781,
+        "lon": -87.6298,
+        "timezone": "America/Chicago",
+        "isp": "IONOS SE",
+        "org": "IONOS Inc",
+        "as": "AS8560 IONOS SE",
+        "query": "209.46.120.81",
+        "response_time": 3.626007318496704
     }
 }
