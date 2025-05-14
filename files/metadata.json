@@ -1,21 +1,4 @@
 {
-    "socks4://213.14.32.67:4153": {
-        "status": "success",
-        "country": "T\u00fcrkiye",
-        "countryCode": "TR",
-        "region": "34",
-        "regionName": "Istanbul",
-        "city": "Istanbul",
-        "zip": "34050",
-        "lat": 41.0642,
-        "lon": 28.923,
-        "timezone": "Europe/Istanbul",
-        "isp": "Superonline Iletisim Hizmetleri A.S.",
-        "org": "Hipernet Bilisim VE Telekomunikasyon Hizmetleri Sanayi VE Ticaret Limited",
-        "as": "AS34984 Superonline Iletisim Hizmetleri A.S.",
-        "query": "213.14.32.66",
-        "response_time": 0.7018349170684814
-    },
     "socks4://115.127.188.214:1080": {
         "status": "success",
         "country": "Bangladesh",
@@ -31,24 +14,41 @@
         "org": "BRACNet Limited",
         "as": "AS24342 BRACNet Limited",
         "query": "115.127.188.214",
-        "response_time": 2.4223439693450928
+        "response_time": 1.8425509929656982
     },
-    "socks5://202.40.186.66:9090": {
+    "http://45.140.143.77:18080": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1215",
-        "lat": 23.7655,
-        "lon": 90.3878,
-        "timezone": "Asia/Dhaka",
-        "isp": "Ranks ITT",
-        "org": "Ranks ITT Ltd.",
-        "as": "AS23991 Ranks ITT Ltd.",
-        "query": "202.40.186.66",
-        "response_time": 2.4631636142730713
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.3540098667144775
+    },
+    "socks4://37.52.50.28:5678": {
+        "status": "success",
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "30",
+        "regionName": "Kyiv City",
+        "city": "Kyiv",
+        "zip": "04128",
+        "lat": 50.458,
+        "lon": 30.5303,
+        "timezone": "Europe/Kyiv",
+        "isp": "UKRTELECOM",
+        "org": "JSC Ukrtelecom",
+        "as": "AS6849 JSC \"Ukrtelecom\"",
+        "query": "37.52.50.28",
+        "response_time": 2.7229433059692383
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.666505813598633
+        "response_time": 2.764213800430298
     }
 }
