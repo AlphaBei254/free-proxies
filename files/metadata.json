@@ -1,21 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.24505329132080078
-    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,24 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6012811660766602
+        "response_time": 0.5674488544464111
     },
-    "http://200.174.198.86:8888": {
+    "socks4://91.150.77.57:56921": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.69",
-        "response_time": 0.6296379566192627
+        "country": "Serbia",
+        "countryCode": "RS",
+        "region": "00",
+        "regionName": "Belgrade",
+        "city": "Belgrade",
+        "zip": "",
+        "lat": 44.8046,
+        "lon": 20.4637,
+        "timezone": "Europe/Belgrade",
+        "isp": "TELEKOM-SRBIJA",
+        "org": "",
+        "as": "AS8400 TELEKOM SRBIJA a.d.",
+        "query": "79.101.45.94",
+        "response_time": 0.7917847633361816
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +48,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3613333702087402
+        "response_time": 2.3706629276275635
     },
-    "socks4://172.233.14.116:1080": {
+    "socks5://185.35.130.16:61212": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 3.2940330505371094
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "IN",
+        "regionName": "Ingushetiya Republic",
+        "city": "Nazran",
+        "zip": "386000",
+        "lat": 43.2286,
+        "lon": 44.7819,
+        "timezone": "Europe/Moscow",
+        "isp": "Plazmatelekom LLC",
+        "org": "PLAZMA Static IPs",
+        "as": "AS62440 PLAZMATELEKOM LLC",
+        "query": "185.35.130.16",
+        "response_time": 3.262577772140503
     }
 }
