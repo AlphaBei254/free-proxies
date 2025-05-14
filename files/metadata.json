@@ -1,4 +1,21 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.23998618125915527
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5482993125915527
+        "response_time": 2.5669310092926025
+    },
+    "socks4://5.8.240.93:4153": {
+        "status": "success",
+        "country": "Iraq",
+        "countryCode": "IQ",
+        "region": "SU",
+        "regionName": "Sulaymaniyah",
+        "city": "Sulaymaniyah",
+        "zip": "",
+        "lat": 35.5641,
+        "lon": 45.4326,
+        "timezone": "Asia/Baghdad",
+        "isp": "FastLine Communication And Information Technology",
+        "org": "FastLine Communication And Information Technology Ltd",
+        "as": "AS3178 FastLine For Communication And Information Technology Ltd",
+        "query": "5.8.240.90",
+        "response_time": 2.647428512573242
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,6 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.0400149822235107
+        "response_time": 3.0139143466949463
+    },
+    "socks4://82.223.165.28:44432": {
+        "status": "success",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
+        "org": "",
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 3.1119940280914307
     }
 }
