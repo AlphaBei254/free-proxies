@@ -14,41 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3762037754058838
-    },
-    "http://45.225.207.169:999": {
-        "status": "success",
-        "country": "Chile",
-        "countryCode": "CL",
-        "region": "RM",
-        "regionName": "Santiago Metropolitan",
-        "city": "Santiago",
-        "zip": "34033",
-        "lat": -33.4521,
-        "lon": -70.6536,
-        "timezone": "America/Santiago",
-        "isp": "Grupo ZGH SPA",
-        "org": "Grupo ZGH SpA",
-        "as": "AS263702 GRUPO ZGH SPA",
-        "query": "38.7.195.58",
-        "response_time": 0.479809045791626
-    },
-    "socks4://200.29.109.112:14888": {
-        "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "VAC",
-        "regionName": "Valle del Cauca Department",
-        "city": "Santiago de Cali",
-        "zip": "760002",
-        "lat": 3.4385,
-        "lon": -76.523,
-        "timezone": "America/Bogota",
-        "isp": "Empresas Municipales De Cali E.i.c.e. E.S.P.",
-        "org": "EMCALI - RANGOS FIJOS PPPoE",
-        "as": "AS10299 EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.",
-        "query": "200.29.109.112",
-        "response_time": 0.4868457317352295
+        "response_time": 0.3945455551147461
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,41 +31,24 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.724268913269043
+        "response_time": 0.6703047752380371
     },
-    "socks4://116.118.98.10:5678": {
+    "socks4://118.70.211.121:60606": {
         "status": "success",
         "country": "Vietnam",
         "countryCode": "VN",
-        "region": "SG",
-        "regionName": "Ho Chi Minh",
-        "city": "Ho Chi Minh City",
-        "zip": "700000",
-        "lat": 10.822,
-        "lon": 106.6257,
-        "timezone": "Asia/Ho_Chi_Minh",
-        "isp": "SPT",
-        "org": "",
-        "as": "AS7602 Sai gon Postel Corporation",
-        "query": "116.118.98.10",
-        "response_time": 1.0362343788146973
-    },
-    "socks5://202.40.186.66:9090": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1215",
-        "lat": 23.7655,
-        "lon": 90.3878,
-        "timezone": "Asia/Dhaka",
-        "isp": "Ranks ITT",
-        "org": "Ranks ITT Ltd.",
-        "as": "AS23991 Ranks ITT Ltd.",
-        "query": "202.40.186.66",
-        "response_time": 1.4197845458984375
+        "region": "HN",
+        "regionName": "Hanoi",
+        "city": "Hanoi",
+        "zip": "100000",
+        "lat": 21.0184,
+        "lon": 105.8461,
+        "timezone": "Asia/Bangkok",
+        "isp": "FPT Telecom Company",
+        "org": "FPT-STATICIP",
+        "as": "AS18403 FPT Telecom Company",
+        "query": "118.70.212.110",
+        "response_time": 1.101114273071289
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -116,23 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.274259090423584
+        "response_time": 2.235119342803955
     },
-    "socks4://175.139.201.193:4153": {
+    "socks4://51.158.70.181:16379": {
         "status": "success",
-        "country": "Malaysia",
-        "countryCode": "MY",
-        "region": "14",
-        "regionName": "Kuala Lumpur",
-        "city": "Kuala Lumpur",
-        "zip": "57000",
-        "lat": 3.1013,
-        "lon": 101.6915,
-        "timezone": "Asia/Kuala_Lumpur",
-        "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-        "org": "Adsl Streamyx",
-        "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-        "query": "175.139.201.193",
-        "response_time": 2.3416593074798584
+        "country": "United States",
+        "countryCode": "US",
+        "region": "IL",
+        "regionName": "Illinois",
+        "city": "Chicago",
+        "zip": "60666",
+        "lat": 41.8781,
+        "lon": -87.6298,
+        "timezone": "America/Chicago",
+        "isp": "IONOS SE",
+        "org": "IONOS Inc",
+        "as": "AS8560 IONOS SE",
+        "query": "209.46.120.81",
+        "response_time": 4.611144304275513
     }
 }
