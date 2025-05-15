@@ -1,20 +1,20 @@
 {
-    "http://47.90.205.231:33333": {
+    "socks4://27.123.254.158:6969": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Richmond",
-        "zip": "23173",
-        "lat": 37.4316,
-        "lon": -78.6569,
-        "timezone": "America/New_York",
-        "isp": "Alibaba.com LLC",
-        "org": "ALICLOUD-US",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "47.90.205.231",
-        "response_time": 2.1680428981781006
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "H",
+        "regionName": "Mymensingh Division",
+        "city": "Purbadhala",
+        "zip": "",
+        "lat": 24.9408,
+        "lon": 90.6003,
+        "timezone": "Asia/Dhaka",
+        "isp": "Kazi Sazzad Hossain T/A Millennium Computers & Networking",
+        "org": "Millennium Computers & Networking",
+        "as": "AS134113 Kazi Sazzad Hossain T/A Millennium Computers & Networking",
+        "query": "27.123.254.158",
+        "response_time": 2.2385077476501465
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5151422023773193
+        "response_time": 2.5751986503601074
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.040254592895508
-    },
-    "socks5://161.49.176.173:1338": {
-        "status": "success",
-        "country": "Philippines",
-        "countryCode": "PH",
-        "region": "00",
-        "regionName": "Metro Manila",
-        "city": "Pasig",
-        "zip": "1600",
-        "lat": 14.5688,
-        "lon": 121.0827,
-        "timezone": "Asia/Manila",
-        "isp": "Converge ICT Solution Inc",
-        "org": "Converge ICT Solution Inc",
-        "as": "AS17639 Converge ICT Solutions Inc.",
-        "query": "161.49.176.173",
-        "response_time": 5.156180381774902
+        "response_time": 3.0221381187438965
     }
 }
