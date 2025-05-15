@@ -14,7 +14,7 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.2683145999908447
+        "response_time": 0.265592098236084
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5491628646850586
+        "response_time": 2.536062479019165
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.0106236934661865
+        "response_time": 3.0765368938446045
     }
 }
