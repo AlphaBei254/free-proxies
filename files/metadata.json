@@ -1,54 +1,20 @@
 {
-    "http://116.203.139.209:5678": {
+    "socks4://51.178.68.226:46753": {
         "status": "success",
-        "country": "Germany",
-        "countryCode": "DE",
-        "region": "BY",
-        "regionName": "Bavaria",
-        "city": "Nuremberg",
-        "zip": "90403",
-        "lat": 49.4527,
-        "lon": 11.0783,
-        "timezone": "Europe/Berlin",
-        "isp": "Hetzner Online GmbH",
-        "org": "Hetzner",
-        "as": "AS24940 Hetzner Online GmbH",
-        "query": "116.203.139.209",
-        "response_time": 0.36995768547058105
-    },
-    "socks4://27.147.221.140:5678": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "K\u0101frul",
-        "zip": "1207",
-        "lat": 23.7882,
-        "lon": 90.3736,
-        "timezone": "Asia/Dhaka",
-        "isp": "Link3 Technologies Limited",
-        "org": "Retail Subscriber",
-        "as": "AS23688 Link3 Technologies Ltd.",
-        "query": "27.147.221.140",
-        "response_time": 1.0065200328826904
-    },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.173",
-        "response_time": 1.0327956676483154
+        "country": "France",
+        "countryCode": "FR",
+        "region": "HDF",
+        "regionName": "Hauts-de-France",
+        "city": "Wattrelos",
+        "zip": "59150",
+        "lat": 50.7012,
+        "lon": 3.21501,
+        "timezone": "Europe/Paris",
+        "isp": "OVH SAS",
+        "org": "OVH",
+        "as": "AS16276 OVH SAS",
+        "query": "51.178.68.226",
+        "response_time": 0.5480358600616455
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,24 +31,41 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.08583402633667
+        "response_time": 0.8776817321777344
     },
-    "socks5://103.189.218.83:6969": {
+    "socks4://179.1.110.88:5678": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Tongi",
-        "zip": "1230",
-        "lat": 23.8915,
-        "lon": 90.4023,
-        "timezone": "Asia/Dhaka",
-        "isp": "Comfort Solutions",
-        "org": "Md. Ruhul Amin Sarker",
-        "as": "AS149868 Comfort Solutions",
-        "query": "103.189.218.83",
-        "response_time": 2.4949610233306885
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "RIS",
+        "regionName": "Risaralda Department",
+        "city": "Pereira",
+        "zip": "660001",
+        "lat": 4.8142,
+        "lon": -75.6946,
+        "timezone": "America/Bogota",
+        "isp": "Internexa S.a. E.S.P",
+        "org": "Royalnet Telecomunicaciones",
+        "as": "AS18678 INTERNEXA S.A. E.S.P",
+        "query": "179.1.209.73",
+        "response_time": 1.412402629852295
+    },
+    "socks5://46.10.229.243:7777": {
+        "status": "success",
+        "country": "Bulgaria",
+        "countryCode": "BG",
+        "region": "16",
+        "regionName": "Plovdiv",
+        "city": "Plovdiv",
+        "zip": "4000",
+        "lat": 42.1513,
+        "lon": 24.7518,
+        "timezone": "Europe/Sofia",
+        "isp": "Vivacom Bulgaria EAD",
+        "org": "Vivacom Bulgaria EAD",
+        "as": "AS8866 Vivacom Bulgaria EAD",
+        "query": "46.10.229.243",
+        "response_time": 2.061089277267456
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -99,7 +82,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5392544269561768
+        "response_time": 2.551649808883667
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -116,6 +99,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.0608184337615967
+        "response_time": 3.155587911605835
     }
 }
