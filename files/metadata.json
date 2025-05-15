@@ -1,20 +1,20 @@
 {
-    "socks4://103.166.39.17:3629": {
+    "socks4://170.78.211.161:1080": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1205",
-        "lat": 23.746,
-        "lon": 90.382,
-        "timezone": "Asia/Dhaka",
-        "isp": "Fast Network",
-        "org": "Md Mamun Ahmed Sujon",
-        "as": "AS142058 Fast Network",
-        "query": "103.166.39.217",
-        "response_time": 1.0815677642822266
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.4083268642425537
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5172760486602783
+        "response_time": 2.5524396896362305
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.101783275604248
+        "response_time": 3.061983346939087
     }
 }
