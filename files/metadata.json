@@ -1,21 +1,4 @@
 {
-    "socks4://45.65.65.18:4145": {
-        "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MC",
-        "regionName": "Murcia",
-        "city": "Archena",
-        "zip": "30600",
-        "lat": 38.1147,
-        "lon": -1.2944,
-        "timezone": "Europe/Madrid",
-        "isp": "Ditt Redmovil SL",
-        "org": "Number One in Fiber S.L",
-        "as": "AS209910 DITT REDMOVIL SL",
-        "query": "45.65.65.18",
-        "response_time": 2.4231343269348145
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5736136436462402
+        "response_time": 2.540928363800049
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +31,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.0578558444976807
+        "response_time": 3.000664234161377
     }
 }
