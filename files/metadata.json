@@ -1,20 +1,71 @@
 {
-    "socks4://202.69.38.42:5678": {
+    "socks4://170.78.211.161:1080": {
         "status": "success",
-        "country": "Pakistan",
-        "countryCode": "PK",
-        "region": "PB",
-        "regionName": "Punjab",
-        "city": "Lahore",
-        "zip": "54900",
-        "lat": 31.5924,
-        "lon": 74.3369,
-        "timezone": "Asia/Karachi",
-        "isp": "GERRYSNET",
-        "org": "Gerrys Information Technology (PVT) Ltd",
-        "as": "AS23750 GERRYS INFORMATION TECHNOLOGY PVT LTD.",
-        "query": "202.69.38.42",
-        "response_time": 1.100773572921753
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.2441267967224121
+    },
+    "http://65.108.159.129:8081": {
+        "status": "success",
+        "country": "Finland",
+        "countryCode": "FI",
+        "region": "18",
+        "regionName": "Uusimaa",
+        "city": "Helsinki",
+        "zip": "00201",
+        "lat": 60.1719,
+        "lon": 24.9347,
+        "timezone": "Europe/Helsinki",
+        "isp": "Hetzner Online GmbH",
+        "org": "Hetzner Online GmbH",
+        "as": "AS24940 Hetzner Online GmbH",
+        "query": "65.108.159.129",
+        "response_time": 0.37430572509765625
+    },
+    "socks4://51.178.68.226:46753": {
+        "status": "success",
+        "country": "France",
+        "countryCode": "FR",
+        "region": "HDF",
+        "regionName": "Hauts-de-France",
+        "city": "Wattrelos",
+        "zip": "59150",
+        "lat": 50.7012,
+        "lon": 3.21501,
+        "timezone": "Europe/Paris",
+        "isp": "OVH SAS",
+        "org": "OVH",
+        "as": "AS16276 OVH SAS",
+        "query": "51.178.68.226",
+        "response_time": 1.6020359992980957
+    },
+    "socks4://183.88.240.139:4153": {
+        "status": "success",
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "20",
+        "regionName": "Chon Buri",
+        "city": "Bang Lamung",
+        "zip": "20150",
+        "lat": 13.0508,
+        "lon": 100.9367,
+        "timezone": "Asia/Bangkok",
+        "isp": "Triple T Broadband Public Company Limited",
+        "org": "Triple T Broadband Public Company Limited",
+        "as": "AS45758 Triple T Broadband Public Company Limited",
+        "query": "223.206.63.129",
+        "response_time": 2.1410770416259766
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +82,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5702128410339355
-    },
-    "socks4://163.172.128.222:16379": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1012",
-        "lat": 52.3676,
-        "lon": 4.90414,
-        "timezone": "Europe/Amsterdam",
-        "isp": "Surf B.V.",
-        "org": "Nothing to hide",
-        "as": "AS1101 SURF B.V.",
-        "query": "192.42.116.212",
-        "response_time": 2.776400089263916
+        "response_time": 2.567991256713867
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +99,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 4.011062383651733
+        "response_time": 3.0534751415252686
     }
 }
