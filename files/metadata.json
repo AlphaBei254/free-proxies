@@ -1,21 +1,4 @@
 {
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 2.540928363800049
-    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,6 +14,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.000664234161377
+        "response_time": 2.989562511444092
+    },
+    "socks4://110.74.195.152:1080": {
+        "status": "success",
+        "country": "Cambodia",
+        "countryCode": "KH",
+        "region": "12",
+        "regionName": "Phnom Penh",
+        "city": "Phnom Penh",
+        "zip": "",
+        "lat": 11.5583,
+        "lon": 104.9121,
+        "timezone": "Asia/Phnom_Penh",
+        "isp": "EZECOM CO., LTD.",
+        "org": "EZECOM limited",
+        "as": "AS38901 EZECOM CO., LTD.",
+        "query": "110.74.195.152",
+        "response_time": 3.0734124183654785
+    },
+    "http://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 3.5751149654388428
     }
 }
