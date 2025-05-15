@@ -14,58 +14,7 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.2441267967224121
-    },
-    "http://65.108.159.129:8081": {
-        "status": "success",
-        "country": "Finland",
-        "countryCode": "FI",
-        "region": "18",
-        "regionName": "Uusimaa",
-        "city": "Helsinki",
-        "zip": "00201",
-        "lat": 60.1719,
-        "lon": 24.9347,
-        "timezone": "Europe/Helsinki",
-        "isp": "Hetzner Online GmbH",
-        "org": "Hetzner Online GmbH",
-        "as": "AS24940 Hetzner Online GmbH",
-        "query": "65.108.159.129",
-        "response_time": 0.37430572509765625
-    },
-    "socks4://51.178.68.226:46753": {
-        "status": "success",
-        "country": "France",
-        "countryCode": "FR",
-        "region": "HDF",
-        "regionName": "Hauts-de-France",
-        "city": "Wattrelos",
-        "zip": "59150",
-        "lat": 50.7012,
-        "lon": 3.21501,
-        "timezone": "Europe/Paris",
-        "isp": "OVH SAS",
-        "org": "OVH",
-        "as": "AS16276 OVH SAS",
-        "query": "51.178.68.226",
-        "response_time": 1.6020359992980957
-    },
-    "socks4://183.88.240.139:4153": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "20",
-        "regionName": "Chon Buri",
-        "city": "Bang Lamung",
-        "zip": "20150",
-        "lat": 13.0508,
-        "lon": 100.9367,
-        "timezone": "Asia/Bangkok",
-        "isp": "Triple T Broadband Public Company Limited",
-        "org": "Triple T Broadband Public Company Limited",
-        "as": "AS45758 Triple T Broadband Public Company Limited",
-        "query": "223.206.63.129",
-        "response_time": 2.1410770416259766
+        "response_time": 0.2422788143157959
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -82,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.567991256713867
+        "response_time": 0.4999411106109619
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -99,6 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.0534751415252686
+        "response_time": 2.2032642364501953
     }
 }
