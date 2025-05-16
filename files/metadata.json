@@ -1,4 +1,38 @@
 {
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.197",
+        "response_time": 0.7623233795166016
+    },
+    "socks4://90.182.147.170:4145": {
+        "status": "success",
+        "country": "Czechia",
+        "countryCode": "CZ",
+        "region": "10",
+        "regionName": "Prague",
+        "city": "Prague",
+        "zip": "170 00",
+        "lat": 50.1113,
+        "lon": 14.4063,
+        "timezone": "Europe/Prague",
+        "isp": "O2 Czech Republic",
+        "org": "CZ.CZNET",
+        "as": "AS5610 O2 Czech Republic, a.s.",
+        "query": "90.182.147.170",
+        "response_time": 1.762742042541504
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,24 +48,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.48945069313049316
+        "response_time": 2.531322717666626
     },
-    "socks4://201.148.125.126:4153": {
+    "socks4://181.13.142.45:5678": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "city": "Santa Helena de Goi\u00e1s",
-        "zip": "73930",
-        "lat": -17.8136,
-        "lon": -50.5969,
-        "timezone": "America/Sao_Paulo",
-        "isp": "America-NET Ltda.",
-        "org": "America-NET Ltda",
-        "as": "AS61844 America-NET Ltda.",
-        "query": "201.148.125.126",
-        "response_time": 0.7812130451202393
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "T",
+        "regionName": "Tucuman",
+        "city": "San Miguel de Tucum\u00e1n",
+        "zip": "4000",
+        "lat": -26.8249,
+        "lon": -65.2237,
+        "timezone": "America/Argentina/Tucuman",
+        "isp": "Telecom Argentina S.A.",
+        "org": "Frigorifico Industrial Del Norte SA",
+        "as": "AS7303 Telecom Argentina S.A.",
+        "query": "181.13.142.45",
+        "response_time": 2.9630565643310547
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +82,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.9702816009521484
-    },
-    "socks4://172.233.14.116:1080": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 2.9794065952301025
+        "response_time": 4.096874952316284
     }
 }
