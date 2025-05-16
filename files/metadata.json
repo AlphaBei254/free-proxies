@@ -1,4 +1,21 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.4671797752380371
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4810457229614258
-    },
-    "http://113.160.132.195:8080": {
-        "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "HN",
-        "regionName": "Hanoi",
-        "city": "Hanoi",
-        "zip": "100000",
-        "lat": 21.0184,
-        "lon": 105.8461,
-        "timezone": "Asia/Bangkok",
-        "isp": "VietNam Post and Telecom Corporation",
-        "org": "Vietnam Posts and Telecommunications Group",
-        "as": "AS45899 VNPT Corp",
-        "query": "113.160.132.195",
-        "response_time": 0.8364264965057373
+        "response_time": 0.48058605194091797
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,7 +48,24 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8838505744934082
+        "response_time": 0.823375940322876
+    },
+    "socks4://201.148.125.126:4153": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "city": "Santa Helena de Goi\u00e1s",
+        "zip": "73930",
+        "lat": -17.8136,
+        "lon": -50.5969,
+        "timezone": "America/Sao_Paulo",
+        "isp": "America-NET Ltda.",
+        "org": "America-NET Ltda",
+        "as": "AS61844 America-NET Ltda.",
+        "query": "201.148.125.126",
+        "response_time": 0.8951632976531982
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +82,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.9555509090423584
+        "response_time": 0.9602420330047607
+    },
+    "socks5://46.147.65.44:61986": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "TA",
+        "regionName": "Tatarstan Republic",
+        "city": "Naberezhnyye Chelny",
+        "zip": "423800",
+        "lat": 55.7582,
+        "lon": 52.4302,
+        "timezone": "Europe/Moscow",
+        "isp": "CJSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
+        "org": "JSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
+        "as": "AS42116 JSC \"ER-Telecom Holding\"",
+        "query": "46.147.65.44",
+        "response_time": 1.8433325290679932
+    },
+    "socks5://51.158.113.139:16379": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1012",
+        "lat": 52.3676,
+        "lon": 4.90414,
+        "timezone": "Europe/Amsterdam",
+        "isp": "Surf B.V.",
+        "org": "Nothing to hide",
+        "as": "AS1101 SURF B.V.",
+        "query": "192.42.116.215",
+        "response_time": 2.2497904300689697
+    },
+    "socks5://185.35.130.16:61212": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "IN",
+        "regionName": "Ingushetiya Republic",
+        "city": "Nazran",
+        "zip": "386000",
+        "lat": 43.2286,
+        "lon": 44.7819,
+        "timezone": "Europe/Moscow",
+        "isp": "Plazmatelekom LLC",
+        "org": "PLAZMA Static IPs",
+        "as": "AS62440 PLAZMATELEKOM LLC",
+        "query": "185.35.130.16",
+        "response_time": 3.1055822372436523
     }
 }
