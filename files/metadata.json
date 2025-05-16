@@ -1,55 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.21258854866027832
-    },
-    "socks4://45.65.65.18:4145": {
-        "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MC",
-        "regionName": "Murcia",
-        "city": "Archena",
-        "zip": "30600",
-        "lat": 38.1147,
-        "lon": -1.2944,
-        "timezone": "Europe/Madrid",
-        "isp": "Ditt Redmovil SL",
-        "org": "Number One in Fiber S.L",
-        "as": "AS209910 DITT REDMOVIL SL",
-        "query": "45.65.65.18",
-        "response_time": 0.42528247833251953
-    },
-    "socks4://97.105.12.186:4153": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "TX",
-        "regionName": "Texas",
-        "city": "Selma",
-        "zip": "78154",
-        "lat": 29.5857,
-        "lon": -98.3027,
-        "timezone": "America/Chicago",
-        "isp": "Spectrum",
-        "org": "Royal Express Inc",
-        "as": "AS11427 Charter Communications Inc",
-        "query": "97.105.12.186",
-        "response_time": 1.2292404174804688
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -65,7 +14,41 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5117151737213135
+        "response_time": 0.4940645694732666
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.8",
+        "response_time": 0.6239335536956787
+    },
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 0.7307424545288086
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.1622085571289062
+        "response_time": 0.972144365310669
     }
 }
