@@ -14,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4905540943145752
-    },
-    "socks4://172.233.14.116:1080": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 0.7584254741668701
+        "response_time": 0.49475622177124023
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,41 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.9468460083007812
+        "response_time": 0.9830002784729004
+    },
+    "socks4://47.176.213.210:39593": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "Santa Fe Springs",
+        "zip": "90670",
+        "lat": 33.9451,
+        "lon": -118.0817,
+        "timezone": "America/Los_Angeles",
+        "isp": "Frontier Communications of America, Inc.",
+        "org": "Frontier Communications Corporation",
+        "as": "AS5650 Frontier Communications of America, Inc.",
+        "query": "47.176.213.210",
+        "response_time": 1.2517387866973877
+    },
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 1.4978537559509277
     },
     "http://200.174.198.86:8888": {
         "status": "success",
@@ -64,41 +81,24 @@
         "isp": "Claro S.A",
         "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
         "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.72",
-        "response_time": 1.7987608909606934
+        "query": "200.174.198.23",
+        "response_time": 1.6093943119049072
     },
-    "socks5://163.172.132.115:16379": {
+    "socks5://8.218.39.40:10800": {
         "status": "success",
-        "country": "Germany",
-        "countryCode": "DE",
-        "region": "BB",
-        "regionName": "Brandenburg",
-        "city": "Brandenburg",
-        "zip": "14621",
-        "lat": 52.6171,
-        "lon": 13.1207,
-        "timezone": "Europe/Berlin",
-        "isp": "Stiftung Erneuerbare Freiheit",
-        "org": "ForPrivacyNET",
-        "as": "AS60729 Stiftung Erneuerbare Freiheit",
-        "query": "185.220.101.48",
-        "response_time": 1.901439905166626
-    },
-    "socks4://103.197.32.205:5678": {
-        "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "TN",
-        "regionName": "Tamil Nadu",
-        "city": "Perambalur",
-        "zip": "621212",
-        "lat": 11.2269,
-        "lon": 78.885,
-        "timezone": "Asia/Kolkata",
-        "isp": "ZERONE Networks pvt ltd",
-        "org": "ZERONE Networks pvt ltd",
-        "as": "AS134260 ZERONE Networks pvt ltd",
-        "query": "103.197.32.205",
-        "response_time": 3.2405147552490234
+        "country": "Hong Kong",
+        "countryCode": "HK",
+        "region": "",
+        "regionName": "Kowloon",
+        "city": "Hong Kong",
+        "zip": "999077",
+        "lat": 22.3193,
+        "lon": 114.169,
+        "timezone": "Asia/Hong_Kong",
+        "isp": "Alibaba (US) Technology Co., Ltd.",
+        "org": "Alibaba.com Singapore E-Commerce Private Limited",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "8.218.39.40",
+        "response_time": 2.0905563831329346
     }
 }
