@@ -14,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4923667907714844
+        "response_time": 0.4810457229614258
+    },
+    "http://113.160.132.195:8080": {
+        "status": "success",
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "HN",
+        "regionName": "Hanoi",
+        "city": "Hanoi",
+        "zip": "100000",
+        "lat": 21.0184,
+        "lon": 105.8461,
+        "timezone": "Asia/Bangkok",
+        "isp": "VietNam Post and Telecom Corporation",
+        "org": "Vietnam Posts and Telecommunications Group",
+        "as": "AS45899 VNPT Corp",
+        "query": "113.160.132.195",
+        "response_time": 0.8364264965057373
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,23 +48,23 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7488341331481934
+        "response_time": 0.8838505744934082
     },
-    "socks4://98.103.88.158:46104": {
+    "socks5://45.140.143.77:18080": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "OH",
-        "regionName": "Ohio",
-        "city": "Akron",
-        "zip": "44321",
-        "lat": 41.098,
-        "lon": -81.6422,
-        "timezone": "America/New_York",
-        "isp": "Spectrum",
-        "org": "Radisson Hotel Corporation",
-        "as": "AS10796 Charter Communications Inc",
-        "query": "98.103.88.158",
-        "response_time": 1.1532588005065918
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.9555509090423584
     }
 }
