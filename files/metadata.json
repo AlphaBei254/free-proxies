@@ -1,4 +1,21 @@
 {
+    "socks4://64.139.79.35:54321": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "AL",
+        "regionName": "Alabama",
+        "city": "Sheffield",
+        "zip": "35660",
+        "lat": 34.7651,
+        "lon": -87.6986,
+        "timezone": "America/Chicago",
+        "isp": "Comcast Cable Communications, LLC",
+        "org": "Comcast Business Communications, LLC",
+        "as": "AS7922 Comcast Cable Communications, LLC",
+        "query": "64.139.79.35",
+        "response_time": 0.11865830421447754
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4822428226470947
+        "response_time": 0.48775148391723633
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,7 +48,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.6927938461303711
+        "response_time": 0.7602634429931641
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,57 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.9524433612823486
+        "response_time": 0.9609196186065674
     },
-    "http://113.160.132.195:8080": {
+    "socks5://163.172.190.59:16379": {
         "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "HN",
-        "regionName": "Hanoi",
-        "city": "Hanoi",
-        "zip": "100000",
-        "lat": 21.0184,
-        "lon": 105.8461,
-        "timezone": "Asia/Bangkok",
-        "isp": "VietNam Post and Telecom Corporation",
-        "org": "Vietnam Posts and Telecommunications Group",
-        "as": "AS45899 VNPT Corp",
-        "query": "113.160.132.195",
-        "response_time": 0.98695969581604
-    },
-    "http://62.33.53.248:3128": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "SA",
-        "regionName": "Sakha",
-        "city": "Yakutsk",
-        "zip": "677000",
-        "lat": 62.0313,
-        "lon": 129.7325,
-        "timezone": "Asia/Yakutsk",
-        "isp": "TRANS-TELECOM",
-        "org": "",
-        "as": "AS20485 Joint Stock Company TransTeleCom",
-        "query": "62.33.53.248",
-        "response_time": 1.3462684154510498
-    },
-    "socks5://46.10.229.243:7777": {
-        "status": "success",
-        "country": "Bulgaria",
-        "countryCode": "BG",
-        "region": "16",
-        "regionName": "Plovdiv",
-        "city": "Plovdiv",
-        "zip": "4000",
-        "lat": 42.1513,
-        "lon": 24.7518,
-        "timezone": "Europe/Sofia",
-        "isp": "Vivacom Bulgaria EAD",
-        "org": "Vivacom Bulgaria EAD",
-        "as": "AS8866 Vivacom Bulgaria EAD",
-        "query": "46.10.229.243",
-        "response_time": 2.068753719329834
+        "country": "Antarctica",
+        "countryCode": "AQ",
+        "region": "",
+        "regionName": "",
+        "city": "Kunlun",
+        "zip": "",
+        "lat": -72.0114,
+        "lon": 2.535,
+        "timezone": "Antarctica/Vostok",
+        "isp": "QuxLabs AB",
+        "org": "R0CKET-CLOUD",
+        "as": "AS214503 QuxLabs AB",
+        "query": "45.84.107.172",
+        "response_time": 3.4809045791625977
     }
 }
