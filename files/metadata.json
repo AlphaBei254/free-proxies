@@ -14,7 +14,7 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.47272419929504395
+        "response_time": 0.3879847526550293
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4831421375274658
+        "response_time": 0.4930760860443115
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,7 +48,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8659260272979736
+        "response_time": 0.8642206192016602
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,40 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 1.0894732475280762
+        "response_time": 0.9652068614959717
     },
-    "socks4://27.123.254.158:6969": {
+    "socks4://38.51.233.146:60606": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "H",
-        "regionName": "Mymensingh Division",
-        "city": "Purbadhala",
-        "zip": "",
-        "lat": 24.9408,
-        "lon": 90.6003,
-        "timezone": "Asia/Dhaka",
-        "isp": "Kazi Sazzad Hossain T/A Millennium Computers & Networking",
-        "org": "Millennium Computers & Networking",
-        "as": "AS134113 Kazi Sazzad Hossain T/A Millennium Computers & Networking",
-        "query": "27.123.254.158",
-        "response_time": 1.2064061164855957
-    },
-    "socks4://103.229.47.120:4153": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "E",
-        "regionName": "Rajshahi Division",
-        "city": "Bogra",
-        "zip": "5800",
-        "lat": 24.806,
-        "lon": 89.3138,
-        "timezone": "Asia/Dhaka",
-        "isp": "MSHELPLINE",
-        "org": "",
-        "as": "AS59340 Help Line",
-        "query": "103.229.47.120",
-        "response_time": 2.2119433879852295
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "NAR",
+        "regionName": "Nari\u00f1o",
+        "city": "Pasto",
+        "zip": "520001",
+        "lat": 1.2146,
+        "lon": -77.2785,
+        "timezone": "America/Bogota",
+        "isp": "SP SISTEMAS PALACIOS LTDA",
+        "org": "SP SISTEMAS PALACIOS",
+        "as": "AS267708 SP SISTEMAS PALACIOS LTDA",
+        "query": "38.51.233.146",
+        "response_time": 2.899134635925293
     }
 }
