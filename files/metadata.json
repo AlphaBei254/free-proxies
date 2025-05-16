@@ -1,20 +1,20 @@
 {
-    "http://45.140.143.77:18080": {
+    "socks4://69.49.234.59:55804": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.5149297714233398
+        "country": "United States",
+        "countryCode": "US",
+        "region": "GA",
+        "regionName": "Georgia",
+        "city": "Atlanta",
+        "zip": "30302",
+        "lat": 33.7488,
+        "lon": -84.3877,
+        "timezone": "America/New_York",
+        "isp": "Network Solutions, LLC",
+        "org": "Newfold Digital, Inc.",
+        "as": "AS19871 Network Solutions, LLC",
+        "query": "69.49.234.59",
+        "response_time": 0.7487561702728271
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,7 +31,41 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.9385976791381836
+        "response_time": 0.7886829376220703
+    },
+    "socks5://69.49.234.59:55804": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "GA",
+        "regionName": "Georgia",
+        "city": "Atlanta",
+        "zip": "30302",
+        "lat": 33.7488,
+        "lon": -84.3877,
+        "timezone": "America/New_York",
+        "isp": "Network Solutions, LLC",
+        "org": "Newfold Digital, Inc.",
+        "as": "AS19871 Network Solutions, LLC",
+        "query": "69.49.234.59",
+        "response_time": 0.9317188262939453
+    },
+    "http://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.5611870288848877
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +82,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.021217107772827
+        "response_time": 2.9912078380584717
+    },
+    "socks4://51.158.125.47:16379": {
+        "status": "success",
+        "country": "France",
+        "countryCode": "FR",
+        "region": "IDF",
+        "regionName": "\u00cele-de-France",
+        "city": "Paris",
+        "zip": "75000",
+        "lat": 48.8575,
+        "lon": 2.35138,
+        "timezone": "Europe/Paris",
+        "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+        "org": "N9uf PRO",
+        "as": "AS15557 Societe Francaise Du Radiotelephone - SFR SA",
+        "query": "80.125.71.115",
+        "response_time": 3.347123622894287
     }
 }
