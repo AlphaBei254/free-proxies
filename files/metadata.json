@@ -1,21 +1,4 @@
 {
-    "http://65.108.203.37:28080": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "DC",
-        "regionName": "Washington, D.C.",
-        "city": "Washington",
-        "zip": "20146",
-        "lat": 38.9071,
-        "lon": -77.0368,
-        "timezone": "America/New_York",
-        "isp": "Opera Browser VPN",
-        "org": "Opera Software LLC",
-        "as": "AS205016 HERN Labs AB",
-        "query": "77.111.246.40",
-        "response_time": 0.37725305557250977
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,41 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4850339889526367
-    },
-    "socks4://162.19.107.54:52529": {
-        "status": "success",
-        "country": "France",
-        "countryCode": "FR",
-        "region": "HDF",
-        "regionName": "Hauts-de-France",
-        "city": "Wattrelos",
-        "zip": "59150",
-        "lat": 50.7012,
-        "lon": 3.21501,
-        "timezone": "Europe/Paris",
-        "isp": "OVH SAS",
-        "org": "OVH",
-        "as": "AS16276 OVH SAS",
-        "query": "162.19.107.54",
-        "response_time": 0.48499035835266113
-    },
-    "socks4://200.214.154.135:4145": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "DF",
-        "regionName": "Federal District",
-        "city": "Bras\u00edlia",
-        "zip": "70640",
-        "lat": -15.7783,
-        "lon": -47.9319,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A.",
-        "org": "Claro S.A",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.214.154.135",
-        "response_time": 0.6633632183074951
+        "response_time": 0.5038979053497314
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,7 +31,24 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7322146892547607
+        "response_time": 0.6593585014343262
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.32",
+        "response_time": 0.8267755508422852
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -99,23 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.9691481590270996
-    },
-    "socks4://103.96.106.230:1080": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1209",
-        "lat": 23.7534,
-        "lon": 90.3722,
-        "timezone": "Asia/Dhaka",
-        "isp": "Xplore Cyber &",
-        "org": "",
-        "as": "AS134153 Xplore Net BD",
-        "query": "103.96.106.230",
-        "response_time": 1.1300616264343262
+        "response_time": 0.9691970348358154
     }
 }
