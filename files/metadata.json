@@ -1,38 +1,4 @@
 {
-    "http://47.251.122.81:8888": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "CA",
-        "regionName": "California",
-        "city": "Minkler",
-        "zip": "",
-        "lat": 36.7783,
-        "lon": -119.418,
-        "timezone": "America/Los_Angeles",
-        "isp": "Alibaba Cloud LLC",
-        "org": "ALICLOUD-US",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "47.251.122.81",
-        "response_time": 0.056967973709106445
-    },
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.24572300910949707
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -48,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.49840259552001953
-    },
-    "http://65.108.203.37:28080": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "DC",
-        "regionName": "Washington, D.C.",
-        "city": "Washington",
-        "zip": "20146",
-        "lat": 38.9071,
-        "lon": -77.0368,
-        "timezone": "America/New_York",
-        "isp": "Opera Browser VPN",
-        "org": "Opera Software LLC",
-        "as": "AS205016 HERN Labs AB",
-        "query": "77.111.246.23",
-        "response_time": 0.5141804218292236
+        "response_time": 0.48449277877807617
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,24 +31,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.914832353591919
-    },
-    "socks4://109.166.210.170:5678": {
-        "status": "success",
-        "country": "Romania",
-        "countryCode": "RO",
-        "region": "CJ",
-        "regionName": "Cluj County",
-        "city": "Cluj-Napoca",
-        "zip": "400002",
-        "lat": 46.7656,
-        "lon": 23.5945,
-        "timezone": "Europe/Bucharest",
-        "isp": "Orange Romania Network",
-        "org": "Orange Romania S.A.",
-        "as": "AS8953 Orange Romania S.A.",
-        "query": "109.166.210.170",
-        "response_time": 0.9196548461914062
+        "response_time": 0.7225461006164551
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -116,9 +48,9 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.9689879417419434
+        "response_time": 0.9493448734283447
     },
-    "socks4://91.150.77.57:56921": {
+    "socks4://89.216.47.137:5678": {
         "status": "success",
         "country": "Serbia",
         "countryCode": "RS",
@@ -129,10 +61,61 @@
         "lat": 44.8046,
         "lon": 20.4637,
         "timezone": "Europe/Belgrade",
-        "isp": "TELEKOM-SRBIJA",
-        "org": "",
-        "as": "AS8400 TELEKOM SRBIJA a.d.",
-        "query": "79.101.45.94",
-        "response_time": 3.0506742000579834
+        "isp": "Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
+        "org": "SBB Zona Wifi",
+        "as": "AS31042 Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
+        "query": "82.117.212.234",
+        "response_time": 1.4993364810943604
+    },
+    "socks4://175.203.138.160:5678": {
+        "status": "success",
+        "country": "South Korea",
+        "countryCode": "KR",
+        "region": "44",
+        "regionName": "Chungcheongnam-do",
+        "city": "Yesan",
+        "zip": "324",
+        "lat": 36.6781,
+        "lon": 126.6946,
+        "timezone": "Asia/Seoul",
+        "isp": "Korea Telecom",
+        "org": "Kornet",
+        "as": "AS4766 Korea Telecom",
+        "query": "175.203.138.160",
+        "response_time": 1.9123344421386719
+    },
+    "socks5://213.250.198.146:7777": {
+        "status": "success",
+        "country": "Czechia",
+        "countryCode": "CZ",
+        "region": "53",
+        "regionName": "Pardubick\u00fd kraj",
+        "city": "Litomy\u0161l",
+        "zip": "570 01",
+        "lat": 49.854,
+        "lon": 16.2492,
+        "timezone": "Europe/Prague",
+        "isp": "O2 Czech Republic, a.s.",
+        "org": "Nordictelecomregional",
+        "as": "AS42908 O2 Czech Republic, a.s.",
+        "query": "213.250.198.146",
+        "response_time": 1.9453537464141846
+    },
+    "socks5://51.158.113.139:16379": {
+        "status": "success",
+        "country": "France",
+        "countryCode": "FR",
+        "region": "IDF",
+        "regionName": "\u00cele-de-France",
+        "city": "Paris",
+        "zip": "75000",
+        "lat": 48.8575,
+        "lon": 2.35138,
+        "timezone": "Europe/Paris",
+        "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+        "org": "N9uf PRO",
+        "as": "AS15557 Societe Francaise Du Radiotelephone - SFR SA",
+        "query": "80.125.71.115",
+        "response_time": 2.9105637073516846
     }
 }
