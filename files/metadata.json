@@ -1,4 +1,21 @@
 {
+    "socks4://185.130.219.12:4153": {
+        "status": "success",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "VC",
+        "regionName": "Valencia",
+        "city": "Javea",
+        "zip": "03730",
+        "lat": 38.7764,
+        "lon": -0.0075,
+        "timezone": "Europe/Madrid",
+        "isp": "customers4",
+        "org": "",
+        "as": "AS56697 SUIS BOGA TELECOM SL",
+        "query": "185.130.219.10",
+        "response_time": 0.40575098991394043
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4897799491882324
+        "response_time": 0.48984742164611816
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,7 +48,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.9935128688812256
+        "response_time": 0.730842113494873
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,40 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 1.04502272605896
+        "response_time": 0.9639513492584229
     },
-    "socks4://138.186.222.129:5678": {
+    "socks4://110.77.149.227:4153": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "city": "Patroc\u00ednio",
-        "zip": "38740",
-        "lat": -19.0131,
-        "lon": -47.0679,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Dione Balarim Prieto Tecnologia e Internet",
-        "org": "Dione Balarim Prieto Tecnologia e Internet",
-        "as": "AS263874 Dione Balarim Prieto Tecnologia e Internet",
-        "query": "138.186.222.129",
-        "response_time": 1.170992136001587
-    },
-    "socks4://45.6.101.97:4153": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "24000",
-        "lat": -22.9201,
-        "lon": -43.0811,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Golden Link",
-        "org": "Golden Link",
-        "as": "AS266181 GOLDEN LINK",
-        "query": "45.6.101.26",
-        "response_time": 2.7045865058898926
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "10",
+        "regionName": "Bangkok",
+        "city": "Bangkok",
+        "zip": "10500",
+        "lat": 13.7326,
+        "lon": 100.539,
+        "timezone": "Asia/Bangkok",
+        "isp": "CAT Telecom Public Company Limited",
+        "org": "CAT BB",
+        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
+        "query": "110.77.149.227",
+        "response_time": 2.090115785598755
     }
 }
