@@ -1,20 +1,20 @@
 {
-    "http://65.108.159.129:8081": {
+    "http://47.251.122.81:8888": {
         "status": "success",
-        "country": "Finland",
-        "countryCode": "FI",
-        "region": "18",
-        "regionName": "Uusimaa",
-        "city": "Helsinki",
-        "zip": "00201",
-        "lat": 60.1719,
-        "lon": 24.9347,
-        "timezone": "Europe/Helsinki",
-        "isp": "Hetzner Online GmbH",
-        "org": "Hetzner Online GmbH",
-        "as": "AS24940 Hetzner Online GmbH",
-        "query": "65.108.159.129",
-        "response_time": 0.29068446159362793
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "Minkler",
+        "zip": "",
+        "lat": 36.7783,
+        "lon": -119.418,
+        "timezone": "America/Los_Angeles",
+        "isp": "Alibaba Cloud LLC",
+        "org": "ALICLOUD-US",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "47.251.122.81",
+        "response_time": 0.056967973709106445
     },
     "socks4://170.78.211.161:1080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.30585169792175293
+        "response_time": 0.24572300910949707
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +48,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5060250759124756
+        "response_time": 0.49840259552001953
+    },
+    "http://65.108.203.37:28080": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "DC",
+        "regionName": "Washington, D.C.",
+        "city": "Washington",
+        "zip": "20146",
+        "lat": 38.9071,
+        "lon": -77.0368,
+        "timezone": "America/New_York",
+        "isp": "Opera Browser VPN",
+        "org": "Opera Software LLC",
+        "as": "AS205016 HERN Labs AB",
+        "query": "77.111.246.23",
+        "response_time": 0.5141804218292236
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,23 +82,57 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.6598820686340332
+        "response_time": 0.914832353591919
     },
-    "socks4://110.77.149.227:4153": {
+    "socks4://109.166.210.170:5678": {
         "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "10",
-        "regionName": "Bangkok",
-        "city": "Bangkok",
-        "zip": "10500",
-        "lat": 13.7326,
-        "lon": 100.539,
-        "timezone": "Asia/Bangkok",
-        "isp": "CAT Telecom Public Company Limited",
-        "org": "CAT BB",
-        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
-        "query": "110.77.149.227",
-        "response_time": 2.1812710762023926
+        "country": "Romania",
+        "countryCode": "RO",
+        "region": "CJ",
+        "regionName": "Cluj County",
+        "city": "Cluj-Napoca",
+        "zip": "400002",
+        "lat": 46.7656,
+        "lon": 23.5945,
+        "timezone": "Europe/Bucharest",
+        "isp": "Orange Romania Network",
+        "org": "Orange Romania S.A.",
+        "as": "AS8953 Orange Romania S.A.",
+        "query": "109.166.210.170",
+        "response_time": 0.9196548461914062
+    },
+    "socks5://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.9689879417419434
+    },
+    "socks4://91.150.77.57:56921": {
+        "status": "success",
+        "country": "Serbia",
+        "countryCode": "RS",
+        "region": "00",
+        "regionName": "Belgrade",
+        "city": "Belgrade",
+        "zip": "",
+        "lat": 44.8046,
+        "lon": 20.4637,
+        "timezone": "Europe/Belgrade",
+        "isp": "TELEKOM-SRBIJA",
+        "org": "",
+        "as": "AS8400 TELEKOM SRBIJA a.d.",
+        "query": "79.101.45.94",
+        "response_time": 3.0506742000579834
     }
 }
