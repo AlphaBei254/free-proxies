@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5038979053497314
+        "response_time": 0.4897799491882324
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,24 +31,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.6593585014343262
-    },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.32",
-        "response_time": 0.8267755508422852
+        "response_time": 0.9935128688812256
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +48,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.9691970348358154
+        "response_time": 1.04502272605896
+    },
+    "socks4://138.186.222.129:5678": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "city": "Patroc\u00ednio",
+        "zip": "38740",
+        "lat": -19.0131,
+        "lon": -47.0679,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Dione Balarim Prieto Tecnologia e Internet",
+        "org": "Dione Balarim Prieto Tecnologia e Internet",
+        "as": "AS263874 Dione Balarim Prieto Tecnologia e Internet",
+        "query": "138.186.222.129",
+        "response_time": 1.170992136001587
+    },
+    "socks4://45.6.101.97:4153": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "24000",
+        "lat": -22.9201,
+        "lon": -43.0811,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Golden Link",
+        "org": "Golden Link",
+        "as": "AS266181 GOLDEN LINK",
+        "query": "45.6.101.26",
+        "response_time": 2.7045865058898926
     }
 }
