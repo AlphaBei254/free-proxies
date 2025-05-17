@@ -1,4 +1,21 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.3240346908569336
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4917750358581543
-    },
-    "http://65.108.203.37:28080": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "DC",
-        "regionName": "Washington, D.C.",
-        "city": "Washington",
-        "zip": "20146",
-        "lat": 38.9071,
-        "lon": -77.0368,
-        "timezone": "America/New_York",
-        "isp": "Opera Browser VPN",
-        "org": "Opera Software LLC",
-        "as": "AS205016 HERN Labs AB",
-        "query": "77.111.246.22",
-        "response_time": 0.6872789859771729
+        "response_time": 0.493147611618042
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,7 +48,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.6880853176116943
+        "response_time": 0.8775019645690918
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,57 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.9639532566070557
+        "response_time": 0.9634897708892822
     },
-    "socks4://163.172.190.59:16379": {
+    "socks5://103.163.244.106:1080": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Ashburn",
-        "zip": "20147",
-        "lat": 39.018,
-        "lon": -77.539,
-        "timezone": "America/New_York",
-        "isp": "aurologic GmbH",
-        "org": "Aurologic",
-        "as": "AS30823 aurologic GmbH",
-        "query": "45.91.250.107",
-        "response_time": 2.3761885166168213
-    },
-    "socks4://200.29.109.112:14888": {
-        "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "VAC",
-        "regionName": "Valle del Cauca Department",
-        "city": "Santiago de Cali",
-        "zip": "760002",
-        "lat": 3.4385,
-        "lon": -76.523,
-        "timezone": "America/Bogota",
-        "isp": "Empresas Municipales De Cali E.i.c.e. E.S.P.",
-        "org": "EMCALI - RANGOS FIJOS PPPoE",
-        "as": "AS10299 EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.",
-        "query": "200.29.109.112",
-        "response_time": 2.5343706607818604
-    },
-    "socks5://163.172.190.59:16379": {
-        "status": "success",
-        "country": "France",
-        "countryCode": "FR",
-        "region": "IDF",
-        "regionName": "\u00cele-de-France",
-        "city": "Paris",
-        "zip": "75000",
-        "lat": 48.8575,
-        "lon": 2.35138,
-        "timezone": "Europe/Paris",
-        "isp": "Societe Francaise Du Radiotelephone - SFR SA",
-        "org": "N9uf PRO",
-        "as": "AS15557 Societe Francaise Du Radiotelephone - SFR SA",
-        "query": "80.125.71.115",
-        "response_time": 4.428700923919678
+        "country": "India",
+        "countryCode": "IN",
+        "region": "HR",
+        "regionName": "Haryana",
+        "city": "Panipat",
+        "zip": "132103",
+        "lat": 29.3885,
+        "lon": 76.9669,
+        "timezone": "Asia/Kolkata",
+        "isp": "Infolink System",
+        "org": "",
+        "as": "AS132746 Infolink System",
+        "query": "103.163.244.106",
+        "response_time": 3.807419538497925
     }
 }
