@@ -1,4 +1,55 @@
 {
+    "socks5://170.106.151.187:42576": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "WA",
+        "regionName": "Washington",
+        "city": "Bellevue",
+        "zip": "98015",
+        "lat": 47.6104,
+        "lon": -122.201,
+        "timezone": "America/Los_Angeles",
+        "isp": "AT&T Enterprises, LLC",
+        "org": "AT&T Enterprises, LLC",
+        "as": "AS7018 AT&T Enterprises, LLC",
+        "query": "166.198.252.119",
+        "response_time": 0.5750682353973389
+    },
+    "socks4://182.93.69.74:5678": {
+        "status": "success",
+        "country": "Nepal",
+        "countryCode": "NP",
+        "region": "P3",
+        "regionName": "Bagmati Province",
+        "city": "Kathmandu",
+        "zip": "",
+        "lat": 27.7108,
+        "lon": 85.3251,
+        "timezone": "Asia/Kathmandu",
+        "isp": "Subisu Cablenet",
+        "org": "",
+        "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
+        "query": "182.93.69.74",
+        "response_time": 1.2690041065216064
+    },
+    "socks4://200.29.109.112:14888": {
+        "status": "success",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "VAC",
+        "regionName": "Valle del Cauca Department",
+        "city": "Santiago de Cali",
+        "zip": "760002",
+        "lat": 3.4385,
+        "lon": -76.523,
+        "timezone": "America/Bogota",
+        "isp": "Empresas Municipales De Cali E.i.c.e. E.S.P.",
+        "org": "EMCALI - RANGOS FIJOS PPPoE",
+        "as": "AS10299 EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.",
+        "query": "200.29.109.112",
+        "response_time": 1.5608041286468506
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5288267135620117
+        "response_time": 2.563849925994873
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,6 +82,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.0236127376556396
+        "response_time": 2.9944980144500732
     }
 }
