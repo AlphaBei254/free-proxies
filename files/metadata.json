@@ -1,4 +1,38 @@
 {
+    "http://65.108.159.129:8081": {
+        "status": "success",
+        "country": "Finland",
+        "countryCode": "FI",
+        "region": "18",
+        "regionName": "Uusimaa",
+        "city": "Helsinki",
+        "zip": "00201",
+        "lat": 60.1719,
+        "lon": 24.9347,
+        "timezone": "Europe/Helsinki",
+        "isp": "Hetzner Online GmbH",
+        "org": "Hetzner Online GmbH",
+        "as": "AS24940 Hetzner Online GmbH",
+        "query": "65.108.159.129",
+        "response_time": 0.29068446159362793
+    },
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.30585169792175293
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.49138903617858887
+        "response_time": 0.5060250759124756
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,57 +65,23 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7356703281402588
+        "response_time": 0.6598820686340332
     },
-    "socks5://45.140.143.77:18080": {
+    "socks4://110.77.149.227:4153": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.967231273651123
-    },
-    "socks4://114.4.200.222:5678": {
-        "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta",
-        "zip": "12770",
-        "lat": -6.2401,
-        "lon": 106.8523,
-        "timezone": "Asia/Jakarta",
-        "isp": "PT. INDOSAT Tbk",
-        "org": "PT. INDOSAT Tbk",
-        "as": "AS4761 INDOSAT Internet Network Provider",
-        "query": "114.4.200.222",
-        "response_time": 0.9850687980651855
-    },
-    "socks4://195.175.22.194:5678": {
-        "status": "success",
-        "country": "T\u00fcrkiye",
-        "countryCode": "TR",
-        "region": "34",
-        "regionName": "Istanbul",
-        "city": "Istanbul",
-        "zip": "34096",
-        "lat": 41.0145,
-        "lon": 28.9533,
-        "timezone": "Europe/Istanbul",
-        "isp": "Turk Telekomunikasyon A.S",
-        "org": "TTnetTurkTelekom",
-        "as": "AS9121 Turk Telekomunikasyon Anonim Sirketi",
-        "query": "195.175.22.194",
-        "response_time": 1.5370886325836182
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "10",
+        "regionName": "Bangkok",
+        "city": "Bangkok",
+        "zip": "10500",
+        "lat": 13.7326,
+        "lon": 100.539,
+        "timezone": "Asia/Bangkok",
+        "isp": "CAT Telecom Public Company Limited",
+        "org": "CAT BB",
+        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
+        "query": "110.77.149.227",
+        "response_time": 2.1812710762023926
     }
 }
