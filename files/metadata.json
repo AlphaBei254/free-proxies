@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4955558776855469
+        "response_time": 0.488635778427124
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,23 +31,23 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7452847957611084
+        "response_time": 1.2305405139923096
     },
-    "socks4://119.60.38.86:10800": {
+    "http://62.33.53.248:3128": {
         "status": "success",
-        "country": "China",
-        "countryCode": "CN",
-        "region": "NX",
-        "regionName": "Ningxia",
-        "city": "Yinchuan",
-        "zip": "750000",
-        "lat": 38.4712,
-        "lon": 106.259,
-        "timezone": "Asia/Shanghai",
-        "isp": "Chinanet",
-        "org": "Chinanet NX",
-        "as": "AS4134 CHINANET-BACKBONE",
-        "query": "119.60.38.86",
-        "response_time": 2.683342933654785
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "SA",
+        "regionName": "Sakha",
+        "city": "Yakutsk",
+        "zip": "677000",
+        "lat": 62.0313,
+        "lon": 129.7325,
+        "timezone": "Asia/Yakutsk",
+        "isp": "TRANS-TELECOM",
+        "org": "",
+        "as": "AS20485 Joint Stock Company TransTeleCom",
+        "query": "62.33.53.248",
+        "response_time": 2.1743059158325195
     }
 }
