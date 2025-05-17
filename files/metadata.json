@@ -1,37 +1,37 @@
 {
-    "socks4://170.78.211.161:1080": {
+    "http://45.140.143.77:18080": {
         "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.179",
-        "response_time": 0.2400674819946289
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.4858853816986084
     },
-    "socks4://193.68.17.141:60606": {
+    "http://200.174.198.86:8888": {
         "status": "success",
-        "country": "Bulgaria",
-        "countryCode": "BG",
-        "region": "08",
-        "regionName": "Dobrich",
-        "city": "Dobrich",
-        "zip": "9300",
-        "lat": 43.5606,
-        "lon": 27.8299,
-        "timezone": "Europe/Sofia",
-        "isp": "Digital Systems",
-        "org": "Digital Systems Ltd",
-        "as": "AS3245 Digital Systems Ltd",
-        "query": "193.68.17.141",
-        "response_time": 0.534700870513916
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.190",
+        "response_time": 0.5186398029327393
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,24 +48,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7256526947021484
-    },
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 2.5283563137054443
+        "response_time": 0.8597195148468018
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.043732166290283
+        "response_time": 1.040503978729248
     }
 }
