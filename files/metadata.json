@@ -1,21 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.2566707134246826
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.484142541885376
+        "response_time": 0.47248125076293945
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,7 +31,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7430362701416016
+        "response_time": 0.7684624195098877
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,74 +48,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.9659669399261475
+        "response_time": 0.9639644622802734
     },
-    "socks4://82.223.165.28:44432": {
+    "socks4://200.214.154.135:4145": {
         "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 1.0580241680145264
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "DF",
+        "regionName": "Federal District",
+        "city": "Bras\u00edlia",
+        "zip": "70640",
+        "lat": -15.7783,
+        "lon": -47.9319,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A.",
+        "org": "Claro S.A",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.214.154.135",
+        "response_time": 1.6683330535888672
     },
-    "socks4://168.196.24.29:60606": {
+    "http://47.251.43.115:33333": {
         "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "R",
-        "regionName": "Rio Negro",
-        "city": "San Antonio Oeste",
-        "zip": "8520",
-        "lat": -40.7281,
-        "lon": -64.9252,
-        "timezone": "America/Argentina/Salta",
-        "isp": "ISP GROUP SRL",
-        "org": "ISP GROUP SRL",
-        "as": "AS264758 ISP GROUP SRL",
-        "query": "168.196.24.29",
-        "response_time": 1.8686044216156006
-    },
-    "socks4://41.216.232.213:4153": {
-        "status": "success",
-        "country": "Cameroon",
-        "countryCode": "CM",
-        "region": "CE",
-        "regionName": "Centre",
-        "city": "Yaound\u00e9",
-        "zip": "",
-        "lat": 3.86169,
-        "lon": 11.5202,
-        "timezone": "Africa/Douala",
-        "isp": "Gateway Cameroun",
-        "org": "",
-        "as": "AS37672 INQ DIGITAL CAMEROON SA",
-        "query": "217.14.84.154",
-        "response_time": 2.0352189540863037
-    },
-    "socks4://114.4.200.222:5678": {
-        "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta",
-        "zip": "12770",
-        "lat": -6.2401,
-        "lon": 106.8523,
-        "timezone": "Asia/Jakarta",
-        "isp": "PT. INDOSAT Tbk",
-        "org": "PT. INDOSAT Tbk",
-        "as": "AS4761 INDOSAT Internet Network Provider",
-        "query": "114.4.200.222",
-        "response_time": 3.0126049518585205
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "Santa Clara",
+        "zip": "95052",
+        "lat": 37.353,
+        "lon": -121.9544,
+        "timezone": "America/Los_Angeles",
+        "isp": "Alibaba Cloud LLC",
+        "org": "ALICLOUD-US",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "47.251.43.115",
+        "response_time": 1.7172706127166748
     }
 }
