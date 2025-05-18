@@ -1,20 +1,20 @@
 {
-    "http://200.174.198.86:8888": {
+    "http://65.108.159.129:8081": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.242",
-        "response_time": 1.6238253116607666
+        "country": "Finland",
+        "countryCode": "FI",
+        "region": "18",
+        "regionName": "Uusimaa",
+        "city": "Helsinki",
+        "zip": "00201",
+        "lat": 60.1719,
+        "lon": 24.9347,
+        "timezone": "Europe/Helsinki",
+        "isp": "Hetzner Online GmbH",
+        "org": "Hetzner Online GmbH",
+        "as": "AS24940 Hetzner Online GmbH",
+        "query": "65.108.159.129",
+        "response_time": 0.35141515731811523
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.528932809829712
+        "response_time": 0.49247217178344727
+    },
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 0.8102283477783203
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.0017459392547607
+        "response_time": 0.9550893306732178
+    },
+    "socks5://202.40.186.66:9090": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Dhaka",
+        "zip": "1215",
+        "lat": 23.7655,
+        "lon": 90.3878,
+        "timezone": "Asia/Dhaka",
+        "isp": "Ranks ITT",
+        "org": "Ranks ITT Ltd.",
+        "as": "AS23991 Ranks ITT Ltd.",
+        "query": "202.40.186.66",
+        "response_time": 1.5129833221435547
     }
 }
