@@ -1,55 +1,4 @@
 {
-    "socks4://82.223.165.28:44432": {
-        "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 0.32366204261779785
-    },
-    "socks5://118.70.151.55:1080": {
-        "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "HN",
-        "regionName": "Hanoi",
-        "city": "Hanoi",
-        "zip": "100000",
-        "lat": 21.0184,
-        "lon": 105.8461,
-        "timezone": "Asia/Bangkok",
-        "isp": "FPT Telecom Company",
-        "org": "Vietnam Internet Network Information Center",
-        "as": "AS18403 FPT Telecom Company",
-        "query": "118.70.151.55",
-        "response_time": 1.376513957977295
-    },
-    "socks4://119.60.38.86:10800": {
-        "status": "success",
-        "country": "China",
-        "countryCode": "CN",
-        "region": "NX",
-        "regionName": "Ningxia",
-        "city": "Yinchuan",
-        "zip": "750000",
-        "lat": 38.4712,
-        "lon": 106.259,
-        "timezone": "Asia/Shanghai",
-        "isp": "Chinanet",
-        "org": "Chinanet NX",
-        "as": "AS4134 CHINANET-BACKBONE",
-        "query": "119.60.38.86",
-        "response_time": 1.5944855213165283
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -65,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.6459176540374756
+        "response_time": 2.56520414352417
+    },
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 2.9586281776428223
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.074289321899414
+        "response_time": 3.01513671875
     }
 }
