@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.48304271697998047
+        "response_time": 0.4793131351470947
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,40 +31,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8377540111541748
+        "response_time": 0.9422018527984619
     },
-    "socks5://45.140.143.77:18080": {
+    "socks4://64.49.67.164:5678": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 1.128108024597168
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NY",
+        "regionName": "New York",
+        "city": "New York",
+        "zip": "10118",
+        "lat": 40.7126,
+        "lon": -74.0066,
+        "timezone": "America/New_York",
+        "isp": "WNET TELECOM USA Corp.",
+        "org": "Everest Broadband Networks",
+        "as": "AS1820 WNET TELECOM USA Corp.",
+        "query": "64.49.67.164",
+        "response_time": 2.165238380432129
     },
-    "socks4://202.69.38.42:5678": {
+    "socks4://109.166.210.170:5678": {
         "status": "success",
-        "country": "Pakistan",
-        "countryCode": "PK",
-        "region": "PB",
-        "regionName": "Punjab",
-        "city": "Lahore",
-        "zip": "54900",
-        "lat": 31.5924,
-        "lon": 74.3369,
-        "timezone": "Asia/Karachi",
-        "isp": "GERRYSNET",
-        "org": "Gerrys Information Technology (PVT) Ltd",
-        "as": "AS23750 GERRYS INFORMATION TECHNOLOGY PVT LTD.",
-        "query": "202.69.38.42",
-        "response_time": 2.1278605461120605
+        "country": "Romania",
+        "countryCode": "RO",
+        "region": "CJ",
+        "regionName": "Cluj County",
+        "city": "Cluj-Napoca",
+        "zip": "400002",
+        "lat": 46.7656,
+        "lon": 23.5945,
+        "timezone": "Europe/Bucharest",
+        "isp": "Orange Romania Network",
+        "org": "Orange Romania S.A.",
+        "as": "AS8953 Orange Romania S.A.",
+        "query": "109.166.210.170",
+        "response_time": 2.7260453701019287
     }
 }
