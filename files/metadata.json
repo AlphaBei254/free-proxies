@@ -1,20 +1,20 @@
 {
-    "socks4://170.78.211.161:1080": {
+    "http://45.140.143.77:18080": {
         "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.31868553161621094
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.48304271697998047
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,23 +31,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.9056031703948975
+        "response_time": 0.8377540111541748
     },
-    "socks4://180.180.124.248:49992": {
+    "socks5://45.140.143.77:18080": {
         "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "21",
-        "regionName": "Rayong",
-        "city": "Rayong",
-        "zip": "21180",
-        "lat": 12.8139,
-        "lon": 101.308,
-        "timezone": "Asia/Bangkok",
-        "isp": "TOT Public Company Limited",
-        "org": "TOT Public Company Limited",
-        "as": "AS23969 TOT Public Company Limited",
-        "query": "180.180.124.248",
-        "response_time": 0.9026129245758057
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 1.128108024597168
+    },
+    "socks4://202.69.38.42:5678": {
+        "status": "success",
+        "country": "Pakistan",
+        "countryCode": "PK",
+        "region": "PB",
+        "regionName": "Punjab",
+        "city": "Lahore",
+        "zip": "54900",
+        "lat": 31.5924,
+        "lon": 74.3369,
+        "timezone": "Asia/Karachi",
+        "isp": "GERRYSNET",
+        "org": "Gerrys Information Technology (PVT) Ltd",
+        "as": "AS23750 GERRYS INFORMATION TECHNOLOGY PVT LTD.",
+        "query": "202.69.38.42",
+        "response_time": 2.1278605461120605
     }
 }
