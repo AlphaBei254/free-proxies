@@ -1,20 +1,20 @@
 {
-    "socks4://190.211.161.212:32410": {
+    "http://45.140.143.77:18080": {
         "status": "success",
-        "country": "Chile",
-        "countryCode": "CL",
-        "region": "LI",
-        "regionName": "O'Higgins Region",
-        "city": "San Fernando",
-        "zip": "",
-        "lat": -34.5761,
-        "lon": -70.9848,
-        "timezone": "America/Santiago",
-        "isp": "INTERNEXA Chile S.A",
-        "org": "Tumundo Digital Telecomunicaciones SPA",
-        "as": "AS262589 SAMM TECNOLOGIA E TELECOMUNICACOES S.A",
-        "query": "190.211.161.211",
-        "response_time": 0.6735293865203857
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.4913949966430664
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.724921703338623
+        "response_time": 0.732621431350708
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.9530198574066162
-    },
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 2.5396904945373535
+        "response_time": 0.955070972442627
     }
 }
