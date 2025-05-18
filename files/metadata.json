@@ -1,21 +1,4 @@
 {
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.102",
-        "response_time": 0.519235372543335
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5236461162567139
+        "response_time": 0.48306703567504883
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.95",
+        "response_time": 0.5396726131439209
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,7 +48,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7310972213745117
+        "response_time": 0.6785151958465576
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,57 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.9600739479064941
+        "response_time": 0.9374058246612549
     },
-    "socks4://163.172.132.115:16379": {
+    "http://8.219.97.248:80": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "NY",
-        "regionName": "New York",
-        "city": "New York",
-        "zip": "10004",
-        "lat": 40.7038,
-        "lon": -74.0138,
-        "timezone": "America/New_York",
-        "isp": "FranTech Solutions",
-        "org": "FranTech Solutions",
-        "as": "AS53667 FranTech Solutions",
-        "query": "199.195.253.124",
-        "response_time": 1.8909635543823242
-    },
-    "socks5://103.158.253.162:8199": {
-        "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta",
-        "zip": "12980",
-        "lat": -6.2077,
-        "lon": 106.8354,
-        "timezone": "Asia/Jakarta",
-        "isp": "Rapid Network",
-        "org": "",
-        "as": "AS141137 PT Media Cepat Indonesia",
-        "query": "103.158.253.162",
-        "response_time": 2.25032377243042
-    },
-    "socks5://163.172.132.115:16379": {
-        "status": "success",
-        "country": "France",
-        "countryCode": "FR",
-        "region": "IDF",
-        "regionName": "\u00cele-de-France",
-        "city": "Paris",
-        "zip": "75000",
-        "lat": 48.8575,
-        "lon": 2.35138,
-        "timezone": "Europe/Paris",
-        "isp": "Societe Francaise Du Radiotelephone - SFR SA",
-        "org": "N9uf PRO",
-        "as": "AS15557 Societe Francaise Du Radiotelephone - SFR SA",
-        "query": "80.125.71.115",
-        "response_time": 2.865999221801758
+        "country": "Singapore",
+        "countryCode": "SG",
+        "region": "03",
+        "regionName": "North West",
+        "city": "Singapore",
+        "zip": "858877",
+        "lat": 1.35208,
+        "lon": 103.82,
+        "timezone": "Asia/Singapore",
+        "isp": "Alibaba (US) Technology Co., Ltd.",
+        "org": "Alibaba.com Singapore E-Commerce Private Limited",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "8.219.64.236",
+        "response_time": 1.715360403060913
     }
 }
