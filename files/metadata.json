@@ -1,20 +1,20 @@
 {
-    "http://65.108.203.37:28080": {
+    "socks4://190.144.224.182:44550": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
+        "country": "Colombia",
+        "countryCode": "CO",
         "region": "DC",
-        "regionName": "Washington, D.C.",
-        "city": "Washington",
-        "zip": "20146",
-        "lat": 38.9071,
-        "lon": -77.0368,
-        "timezone": "America/New_York",
-        "isp": "Opera Browser VPN",
-        "org": "Opera Software LLC",
-        "as": "AS205016 HERN Labs AB",
-        "query": "77.111.246.9",
-        "response_time": 0.41422367095947266
+        "regionName": "Bogota D.C.",
+        "city": "Bogot\u00e1",
+        "zip": "111411",
+        "lat": 4.6115,
+        "lon": -74.0833,
+        "timezone": "America/Bogota",
+        "isp": "Telmex Colombia S.A.",
+        "org": "Telmex Colombia S.A.",
+        "as": "AS14080 Telmex Colombia S.A.",
+        "query": "190.144.224.182",
+        "response_time": 0.4364356994628906
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.47992897033691406
+        "response_time": 0.4829413890838623
     },
-    "socks4://31.209.98.18:51688": {
+    "socks4://200.29.109.112:14888": {
         "status": "success",
-        "country": "T\u00fcrkiye",
-        "countryCode": "TR",
-        "region": "33",
-        "regionName": "Mersin",
-        "city": "Mersin",
-        "zip": "33940",
-        "lat": 36.812,
-        "lon": 34.6389,
-        "timezone": "Europe/Istanbul",
-        "isp": "Netonline Bilisim Sirketi LTD",
-        "org": "Multimax",
-        "as": "AS44558 Netonline Bilisim Sirketi LTD",
-        "query": "31.209.98.18",
-        "response_time": 0.6496326923370361
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "VAC",
+        "regionName": "Valle del Cauca Department",
+        "city": "Santiago de Cali",
+        "zip": "760002",
+        "lat": 3.4385,
+        "lon": -76.523,
+        "timezone": "America/Bogota",
+        "isp": "Empresas Municipales De Cali E.i.c.e. E.S.P.",
+        "org": "EMCALI - RANGOS FIJOS PPPoE",
+        "as": "AS10299 EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.",
+        "query": "200.29.109.112",
+        "response_time": 0.5346617698669434
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,7 +65,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8188843727111816
+        "response_time": 0.8215792179107666
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,40 +82,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.9636383056640625
-    },
-    "socks4://197.232.47.122:5678": {
-        "status": "success",
-        "country": "Kenya",
-        "countryCode": "KE",
-        "region": "30",
-        "regionName": "Nairobi County",
-        "city": "Nairobi",
-        "zip": "09831",
-        "lat": -1.2841,
-        "lon": 36.8155,
-        "timezone": "Africa/Nairobi",
-        "isp": "Jamii Telecommunications Limited",
-        "org": "FAIBA",
-        "as": "AS36866 Jamii Telecommunications Limited",
-        "query": "197.232.47.122",
-        "response_time": 1.0721032619476318
-    },
-    "socks4://120.50.13.41:40308": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1000",
-        "lat": 23.7278,
-        "lon": 90.4135,
-        "timezone": "Asia/Dhaka",
-        "isp": "Ranks ITT",
-        "org": "Ranks ITT Ltd",
-        "as": "AS23991 Ranks ITT Ltd.",
-        "query": "202.40.182.186",
-        "response_time": 2.1099138259887695
+        "response_time": 0.9651949405670166
     }
 }
