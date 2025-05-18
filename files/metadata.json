@@ -1,20 +1,20 @@
 {
-    "socks4://190.140.31.195:9900": {
+    "socks4://180.92.212.178:5678": {
         "status": "success",
-        "country": "Panama",
-        "countryCode": "PA",
-        "region": "8",
-        "regionName": "Provincia de Panam\u00e1",
-        "city": "Panama City",
-        "zip": "34002",
-        "lat": 8.9948,
-        "lon": -79.523,
-        "timezone": "America/Panama",
-        "isp": "Cable Onda",
-        "org": "PARSA, S.A",
-        "as": "AS18809 Cable Onda",
-        "query": "190.140.31.195",
-        "response_time": 1.5874669551849365
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JK",
+        "regionName": "Jakarta",
+        "city": "Jakarta",
+        "zip": "",
+        "lat": -6.22927,
+        "lon": 106.811,
+        "timezone": "Asia/Jakarta",
+        "isp": "Sudirman Central Business District",
+        "org": "",
+        "as": "AS23953 PT ARTHA TELEKOMINDO",
+        "query": "180.92.212.178",
+        "response_time": 0.8183934688568115
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5690577030181885
+        "response_time": 2.6220953464508057
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.029341220855713
+        "response_time": 3.0842151641845703
     }
 }
