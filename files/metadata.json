@@ -14,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4903523921966553
-    },
-    "http://8.219.97.248:80": {
-        "status": "success",
-        "country": "Singapore",
-        "countryCode": "SG",
-        "region": "03",
-        "regionName": "North West",
-        "city": "Singapore",
-        "zip": "858877",
-        "lat": 1.35208,
-        "lon": 103.82,
-        "timezone": "Asia/Singapore",
-        "isp": "Alibaba (US) Technology Co., Ltd.",
-        "org": "Alibaba.com Singapore E-Commerce Private Limited",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "8.219.64.236",
-        "response_time": 0.7347395420074463
+        "response_time": 0.5085604190826416
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,7 +31,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.75736403465271
+        "response_time": 0.7816298007965088
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +48,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.0105514526367188
+        "response_time": 0.9689671993255615
+    },
+    "socks4://36.64.62.111:5678": {
+        "status": "success",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JK",
+        "regionName": "Jakarta",
+        "city": "Jakarta",
+        "zip": "12850",
+        "lat": -6.2208,
+        "lon": 106.8403,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT. Telekomunikasi Indonesia",
+        "org": "",
+        "as": "AS7713 PT Telekomunikasi Indonesia",
+        "query": "36.64.62.111",
+        "response_time": 1.8855915069580078
+    },
+    "socks4://37.186.66.36:3629": {
+        "status": "success",
+        "country": "Armenia",
+        "countryCode": "AM",
+        "region": "ER",
+        "regionName": "Yerevan",
+        "city": "Yerevan",
+        "zip": "",
+        "lat": 40.1814,
+        "lon": 44.5102,
+        "timezone": "Asia/Yerevan",
+        "isp": "GNC-Alfa CJSC",
+        "org": "GNC",
+        "as": "AS49800 GNC-Alfa CJSC",
+        "query": "37.186.66.36",
+        "response_time": 3.0032312870025635
+    },
+    "socks4://118.174.14.65:44336": {
+        "status": "success",
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "32",
+        "regionName": "Surin",
+        "city": "Tha Tum",
+        "zip": "",
+        "lat": 15.3195,
+        "lon": 103.675,
+        "timezone": "Asia/Bangkok",
+        "isp": "TOT Public Company Limited",
+        "org": "TOT Public Company Limited",
+        "as": "AS23969 TOT Public Company Limited",
+        "query": "118.174.219.120",
+        "response_time": 3.033393144607544
     }
 }
