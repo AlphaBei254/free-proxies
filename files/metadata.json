@@ -1,20 +1,20 @@
 {
-    "http://200.174.198.86:8888": {
+    "socks5://45.140.143.77:18080": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.19",
-        "response_time": 0.678678035736084
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.5635018348693848
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,24 +31,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7508199214935303
-    },
-    "socks5://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 1.9691038131713867
+        "response_time": 1.297104835510254
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +48,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.566359758377075
+        "response_time": 1.3622410297393799
+    },
+    "socks4://175.203.138.160:5678": {
+        "status": "success",
+        "country": "South Korea",
+        "countryCode": "KR",
+        "region": "44",
+        "regionName": "Chungcheongnam-do",
+        "city": "Yesan",
+        "zip": "324",
+        "lat": 36.6781,
+        "lon": 126.6946,
+        "timezone": "Asia/Seoul",
+        "isp": "Korea Telecom",
+        "org": "Kornet",
+        "as": "AS4766 Korea Telecom",
+        "query": "175.203.138.160",
+        "response_time": 1.884711742401123
     }
 }
