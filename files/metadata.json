@@ -1,4 +1,38 @@
 {
+    "http://116.203.139.209:5678": {
+        "status": "success",
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BY",
+        "regionName": "Bavaria",
+        "city": "Nuremberg",
+        "zip": "90403",
+        "lat": 49.4527,
+        "lon": 11.0783,
+        "timezone": "Europe/Berlin",
+        "isp": "Hetzner Online GmbH",
+        "org": "Hetzner",
+        "as": "AS24940 Hetzner Online GmbH",
+        "query": "116.203.139.209",
+        "response_time": 0.230116605758667
+    },
+    "http://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.4803736209869385
+    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,6 +48,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.9506556987762451
+        "response_time": 0.9561495780944824
+    },
+    "socks4://82.223.165.28:44432": {
+        "status": "success",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
+        "org": "",
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 4.248714923858643
     }
 }
