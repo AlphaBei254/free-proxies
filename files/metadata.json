@@ -1,21 +1,4 @@
 {
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.4952514171600342
-    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,40 +14,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 1.1219172477722168
-    },
-    "socks4://38.51.233.146:60606": {
-        "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "NAR",
-        "regionName": "Nari\u00f1o",
-        "city": "Pasto",
-        "zip": "520001",
-        "lat": 1.2146,
-        "lon": -77.2785,
-        "timezone": "America/Bogota",
-        "isp": "SP SISTEMAS PALACIOS LTDA",
-        "org": "SP SISTEMAS PALACIOS",
-        "as": "AS267708 SP SISTEMAS PALACIOS LTDA",
-        "query": "38.51.233.146",
-        "response_time": 2.529271364212036
-    },
-    "socks4://91.147.235.99:4145": {
-        "status": "success",
-        "country": "Hungary",
-        "countryCode": "HU",
-        "region": "HB",
-        "regionName": "Hajd\u00fa-Bihar",
-        "city": "Debrecen",
-        "zip": "4031",
-        "lat": 47.5232,
-        "lon": 21.6334,
-        "timezone": "Europe/Budapest",
-        "isp": "Magyar Telekom plc.",
-        "org": "Portal LLC",
-        "as": "AS5483 Magyar Telekom Plc.",
-        "query": "91.147.235.65",
-        "response_time": 2.7191901206970215
+        "response_time": 0.9701223373413086
     }
 }
