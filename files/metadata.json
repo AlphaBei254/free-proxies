@@ -1,21 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.35251712799072266
-    },
     "socks4://172.233.14.116:1080": {
         "status": "success",
         "country": "Brazil",
@@ -31,41 +14,58 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8002257347106934
+        "response_time": 0.7931571006774902
     },
-    "socks4://200.122.92.211:5678": {
+    "socks4://202.84.76.190:5678": {
         "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "X",
-        "regionName": "Cordoba",
-        "city": "Bell Ville",
-        "zip": "2550",
-        "lat": -32.6203,
-        "lon": -62.702,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Telecom Argentina S.A.",
-        "org": "Telecom Argentina S.A",
-        "as": "AS7303 Telecom Argentina S.A.",
-        "query": "200.122.92.211",
-        "response_time": 0.984581708908081
+        "country": "Cambodia",
+        "countryCode": "KH",
+        "region": "12",
+        "regionName": "Phnom Penh",
+        "city": "Phnom Penh",
+        "zip": "",
+        "lat": 11.5583,
+        "lon": 104.9121,
+        "timezone": "Asia/Phnom_Penh",
+        "isp": "CityLink Corporation, LTD",
+        "org": "CityLink Corporation, LTD",
+        "as": "AS24441 CityLink Corporation, LTD",
+        "query": "202.84.76.190",
+        "response_time": 1.9864134788513184
     },
-    "socks4://103.229.47.120:4153": {
+    "http://47.90.205.231:33333": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "E",
-        "regionName": "Rajshahi Division",
-        "city": "Bogra",
-        "zip": "5800",
-        "lat": 24.806,
-        "lon": 89.3138,
-        "timezone": "Asia/Dhaka",
-        "isp": "MSHELPLINE",
-        "org": "",
-        "as": "AS59340 Help Line",
-        "query": "103.229.47.120",
-        "response_time": 1.0679903030395508
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Richmond",
+        "zip": "23173",
+        "lat": 37.4316,
+        "lon": -78.6569,
+        "timezone": "America/New_York",
+        "isp": "Alibaba.com LLC",
+        "org": "ALICLOUD-US",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "47.90.205.231",
+        "response_time": 2.2053070068359375
+    },
+    "socks4://163.172.134.29:16379": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NJ",
+        "regionName": "New Jersey",
+        "city": "Secaucus",
+        "zip": "07094",
+        "lat": 40.7876,
+        "lon": -74.06,
+        "timezone": "America/New_York",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.139.50.202",
+        "response_time": 2.276818037033081
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -82,7 +82,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5397391319274902
+        "response_time": 2.549631118774414
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -99,40 +99,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.031355142593384
-    },
-    "socks4://91.185.236.24:4145": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "SA",
-        "regionName": "Sakha",
-        "city": "Yakutsk",
-        "zip": "677000",
-        "lat": 61.995,
-        "lon": 129.773,
-        "timezone": "Asia/Yakutsk",
-        "isp": "Sakhatelecom",
-        "org": "",
-        "as": "AS21487 PJSC Rostelecom",
-        "query": "91.185.236.24",
-        "response_time": 3.0559840202331543
-    },
-    "socks5://138.68.21.132:45793": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "CA",
-        "regionName": "California",
-        "city": "Santa Clara",
-        "zip": "95051",
-        "lat": 37.3486,
-        "lon": -121.9732,
-        "timezone": "America/Los_Angeles",
-        "isp": "DigitalOcean, LLC",
-        "org": "DigitalOcean, LLC",
-        "as": "AS14061 DigitalOcean, LLC",
-        "query": "138.68.21.132",
-        "response_time": 4.186270236968994
+        "response_time": 3.138166666030884
     }
 }
