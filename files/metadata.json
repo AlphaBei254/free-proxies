@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.48293423652648926
+        "response_time": 0.4854273796081543
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,57 +31,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.9542560577392578
+        "response_time": 0.964663028717041
     },
-    "socks4://51.158.70.246:16379": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "NY",
-        "regionName": "New York",
-        "city": "New York",
-        "zip": "10123",
-        "lat": 40.7465,
-        "lon": -74.0014,
-        "timezone": "America/New_York",
-        "isp": "The Calyx Institute",
-        "org": "The Calyx Institute",
-        "as": "AS4224 The Calyx Institute",
-        "query": "162.247.72.192",
-        "response_time": 1.931757926940918
-    },
-    "socks5://202.40.186.66:9090": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1215",
-        "lat": 23.7655,
-        "lon": 90.3878,
-        "timezone": "Asia/Dhaka",
-        "isp": "Ranks ITT",
-        "org": "Ranks ITT Ltd.",
-        "as": "AS23991 Ranks ITT Ltd.",
-        "query": "202.40.186.66",
-        "response_time": 2.4609124660491943
-    },
-    "socks4://62.201.212.198:4673": {
+    "socks4://109.224.22.35:51372": {
         "status": "success",
         "country": "Iraq",
         "countryCode": "IQ",
-        "region": "SU",
-        "regionName": "Sulaymaniyah",
-        "city": "Sulaymaniyah",
+        "region": "BG",
+        "regionName": "Baghdad",
+        "city": "Baghdad",
         "zip": "",
-        "lat": 35.565,
-        "lon": 45.4329,
+        "lat": 33.3364,
+        "lon": 44.4004,
         "timezone": "Asia/Baghdad",
-        "isp": "NETWORKS-SULY1",
-        "org": "",
-        "as": "AS44217 IQ Networks for Data and Internet Services Ltd",
-        "query": "62.201.212.198",
-        "response_time": 2.7186062335968018
+        "isp": "Hulum",
+        "org": "EarthLink Ltd. Communications&",
+        "as": "AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd",
+        "query": "109.224.22.34",
+        "response_time": 2.9084432125091553
+    },
+    "socks4://163.172.134.29:16379": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NJ",
+        "regionName": "New Jersey",
+        "city": "Secaucus",
+        "zip": "07094",
+        "lat": 40.7876,
+        "lon": -74.06,
+        "timezone": "America/New_York",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.139.50.202",
+        "response_time": 3.02225399017334
     }
 }
