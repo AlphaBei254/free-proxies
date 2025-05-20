@@ -1,37 +1,54 @@
 {
-    "socks5://45.140.143.77:18080": {
+    "socks4://82.223.165.28:44432": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
+        "org": "",
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 0.6545314788818359
+    },
+    "socks4://98.103.88.158:46104": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "OH",
+        "regionName": "Ohio",
+        "city": "Akron",
+        "zip": "44321",
+        "lat": 41.098,
+        "lon": -81.6422,
+        "timezone": "America/New_York",
+        "isp": "Spectrum",
+        "org": "Radisson Hotel Corporation",
+        "as": "AS10796 Charter Communications Inc",
+        "query": "98.103.88.158",
+        "response_time": 1.1372861862182617
+    },
+    "socks4://51.158.70.181:16379": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NJ",
+        "regionName": "New Jersey",
+        "city": "Secaucus",
+        "zip": "07094",
+        "lat": 40.7876,
+        "lon": -74.06,
+        "timezone": "America/New_York",
         "isp": "RoyaleHosting BV",
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.45478177070617676
-    },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.214",
-        "response_time": 0.6970295906066895
+        "query": "45.139.50.202",
+        "response_time": 2.0597426891326904
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,7 +65,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7612404823303223
+        "response_time": 2.4435696601867676
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +82,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2872793674468994
+        "response_time": 2.5591952800750732
     },
-    "socks5://103.189.218.83:6969": {
+    "socks5://45.140.143.77:18080": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Tongi",
-        "zip": "1230",
-        "lat": 23.8915,
-        "lon": 90.4023,
-        "timezone": "Asia/Dhaka",
-        "isp": "Comfort Solutions",
-        "org": "Md. Ruhul Amin Sarker",
-        "as": "AS149868 Comfort Solutions",
-        "query": "103.189.218.83",
-        "response_time": 3.5829524993896484
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 3.0081353187561035
     }
 }
