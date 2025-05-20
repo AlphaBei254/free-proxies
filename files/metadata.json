@@ -1,4 +1,21 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.2191317081451416
+    },
     "socks4://82.223.165.28:44432": {
         "status": "success",
         "country": "Spain",
@@ -14,58 +31,7 @@
         "org": "",
         "as": "AS8560 IONOS SE",
         "query": "82.223.165.28",
-        "response_time": 0.6545314788818359
-    },
-    "socks4://98.103.88.158:46104": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "OH",
-        "regionName": "Ohio",
-        "city": "Akron",
-        "zip": "44321",
-        "lat": 41.098,
-        "lon": -81.6422,
-        "timezone": "America/New_York",
-        "isp": "Spectrum",
-        "org": "Radisson Hotel Corporation",
-        "as": "AS10796 Charter Communications Inc",
-        "query": "98.103.88.158",
-        "response_time": 1.1372861862182617
-    },
-    "socks4://51.158.70.181:16379": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "NJ",
-        "regionName": "New Jersey",
-        "city": "Secaucus",
-        "zip": "07094",
-        "lat": 40.7876,
-        "lon": -74.06,
-        "timezone": "America/New_York",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.139.50.202",
-        "response_time": 2.0597426891326904
-    },
-    "socks4://172.233.14.116:1080": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 2.4435696601867676
+        "response_time": 1.563356876373291
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -82,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5591952800750732
+        "response_time": 2.5669713020324707
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -99,6 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.0081353187561035
+        "response_time": 3.006462335586548
+    },
+    "socks4://103.167.156.102:1080": {
+        "status": "success",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JT",
+        "regionName": "Central Java",
+        "city": "Pemalang",
+        "zip": "52318",
+        "lat": -6.9477,
+        "lon": 109.3707,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT Jaringan Tiang Indonesia Group",
+        "org": "PT Jaringan Tiang Indonesia Group",
+        "as": "AS150554 PT Jaringan Tiang Indonesia Group",
+        "query": "103.167.156.102",
+        "response_time": 3.046542167663574
     }
 }
