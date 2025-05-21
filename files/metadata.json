@@ -14,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.25403761863708496
-    },
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.3060793876647949
+        "response_time": 0.25829625129699707
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,58 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5800371170043945
+        "response_time": 0.5126388072967529
     },
-    "http://188.166.197.129:3128": {
-        "status": "success",
-        "country": "Singapore",
-        "countryCode": "SG",
-        "region": "05",
-        "regionName": "South West",
-        "city": "Singapore",
-        "zip": "627753",
-        "lat": 1.32123,
-        "lon": 103.695,
-        "timezone": "Asia/Singapore",
-        "isp": "DigitalOcean, LLC",
-        "org": "DigitalOcean, LLC",
-        "as": "AS14061 DigitalOcean, LLC",
-        "query": "174.138.18.105",
-        "response_time": 0.6279046535491943
-    },
-    "socks4://64.139.79.35:54321": {
+    "http://65.108.203.37:28080": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
-        "region": "AL",
-        "regionName": "Alabama",
-        "city": "Sheffield",
-        "zip": "35660",
-        "lat": 34.7651,
-        "lon": -87.6986,
-        "timezone": "America/Chicago",
-        "isp": "Comcast Cable Communications, LLC",
-        "org": "Comcast Business Communications, LLC",
-        "as": "AS7922 Comcast Cable Communications, LLC",
-        "query": "64.139.79.35",
-        "response_time": 1.228919267654419
-    },
-    "socks4://82.223.165.28:44432": {
-        "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 2.837557077407837
+        "region": "DC",
+        "regionName": "Washington, D.C.",
+        "city": "Washington",
+        "zip": "20146",
+        "lat": 38.9071,
+        "lon": -77.0368,
+        "timezone": "America/New_York",
+        "isp": "Opera Browser VPN",
+        "org": "Opera Software LLC",
+        "as": "AS205016 HERN Labs AB",
+        "query": "77.111.246.24",
+        "response_time": 0.717592716217041
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -116,23 +65,23 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 3.2988851070404053
+        "response_time": 1.6547460556030273
     },
-    "socks4://138.68.21.132:45793": {
+    "socks5://202.40.186.66:9090": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "CA",
-        "regionName": "California",
-        "city": "Santa Clara",
-        "zip": "95051",
-        "lat": 37.3486,
-        "lon": -121.9732,
-        "timezone": "America/Los_Angeles",
-        "isp": "DigitalOcean, LLC",
-        "org": "DigitalOcean, LLC",
-        "as": "AS14061 DigitalOcean, LLC",
-        "query": "138.68.21.132",
-        "response_time": 4.450272798538208
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Dhaka",
+        "zip": "1215",
+        "lat": 23.7655,
+        "lon": 90.3878,
+        "timezone": "Asia/Dhaka",
+        "isp": "Ranks ITT",
+        "org": "Ranks ITT Ltd.",
+        "as": "AS23991 Ranks ITT Ltd.",
+        "query": "202.40.186.66",
+        "response_time": 2.6019043922424316
     }
 }
