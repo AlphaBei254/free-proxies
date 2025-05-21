@@ -1,21 +1,4 @@
 {
-    "socks5://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.5625746250152588
-    },
     "socks4://172.233.14.116:1080": {
         "status": "success",
         "country": "Brazil",
@@ -31,24 +14,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.9770040512084961
-    },
-    "socks4://82.223.165.28:44432": {
-        "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 1.9990105628967285
+        "response_time": 0.665874719619751
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +31,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.340555429458618
+        "response_time": 2.2732229232788086
     },
-    "socks4://109.166.210.170:5678": {
+    "socks5://45.140.143.77:18080": {
         "status": "success",
-        "country": "Romania",
-        "countryCode": "RO",
-        "region": "CJ",
-        "regionName": "Cluj County",
-        "city": "Cluj-Napoca",
-        "zip": "400002",
-        "lat": 46.7656,
-        "lon": 23.5945,
-        "timezone": "Europe/Bucharest",
-        "isp": "Orange Romania Network",
-        "org": "Orange Romania S.A.",
-        "as": "AS8953 Orange Romania S.A.",
-        "query": "109.166.210.170",
-        "response_time": 2.7844817638397217
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.4304890632629395
     }
 }
