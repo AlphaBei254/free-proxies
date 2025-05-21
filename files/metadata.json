@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3001575469970703
+        "response_time": 0.2174539566040039
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5561234951019287
+        "response_time": 0.47391414642333984
+    },
+    "socks4://27.116.53.13:5678": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "GJ",
+        "regionName": "Gujarat",
+        "city": "Anand",
+        "zip": "388121",
+        "lat": 22.5504,
+        "lon": 72.9515,
+        "timezone": "Asia/Kolkata",
+        "isp": "Gujarat Telelik Pvt Ltd",
+        "org": "Gujarat Telelink Pvt Ltd.",
+        "as": "AS45916 Gujarat Telelink Pvt Ltd",
+        "query": "27.116.53.70",
+        "response_time": 1.2208755016326904
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,57 +65,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.0216166973114014
+        "response_time": 1.4479942321777344
     },
-    "http://47.238.149.53:8888": {
+    "socks4://202.51.124.166:1080": {
         "status": "success",
-        "country": "Hong Kong",
-        "countryCode": "HK",
-        "region": "",
-        "regionName": "Kowloon",
-        "city": "Hong Kong",
-        "zip": "999077",
-        "lat": 22.3193,
-        "lon": 114.169,
-        "timezone": "Asia/Hong_Kong",
-        "isp": "Alibaba (US) Technology Co., Ltd.",
-        "org": "Alibaba.com LLC",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "47.238.149.53",
-        "response_time": 1.6482641696929932
-    },
-    "socks4://118.70.211.121:60606": {
-        "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "HN",
-        "regionName": "Hanoi",
-        "city": "Hanoi",
-        "zip": "100000",
-        "lat": 21.0184,
-        "lon": 105.8461,
-        "timezone": "Asia/Bangkok",
-        "isp": "FPT Telecom Company",
-        "org": "FPT-STATICIP",
-        "as": "AS18403 FPT Telecom Company",
-        "query": "118.70.212.110",
-        "response_time": 3.085310935974121
-    },
-    "socks5://51.158.113.139:16379": {
-        "status": "success",
-        "country": "Antarctica",
-        "countryCode": "AQ",
-        "region": "",
-        "regionName": "",
-        "city": "Kunlun",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JK",
+        "regionName": "Jakarta",
+        "city": "Jakarta",
         "zip": "",
-        "lat": -72.0114,
-        "lon": 2.535,
-        "timezone": "Antarctica/Vostok",
-        "isp": "QuxLabs AB",
-        "org": "R0CKET-CLOUD",
-        "as": "AS214503 QuxLabs AB",
-        "query": "45.84.107.172",
-        "response_time": 5.619848251342773
+        "lat": -6.1967,
+        "lon": 106.822,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT iForte Global Internet",
+        "org": "",
+        "as": "AS17995 PT iForte Global Internet",
+        "query": "202.51.124.166",
+        "response_time": 1.9327940940856934
+    },
+    "socks4://82.223.165.28:44432": {
+        "status": "success",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
+        "org": "",
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 2.897672653198242
     }
 }
