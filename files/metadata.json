@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2812368869781494
+        "response_time": 0.21559405326843262
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5105602741241455
-    },
-    "socks4://114.4.200.222:5678": {
-        "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta",
-        "zip": "12770",
-        "lat": -6.2401,
-        "lon": 106.8523,
-        "timezone": "Asia/Jakarta",
-        "isp": "PT. INDOSAT Tbk",
-        "org": "PT. INDOSAT Tbk",
-        "as": "AS4761 INDOSAT Internet Network Provider",
-        "query": "114.4.200.222",
-        "response_time": 1.8621115684509277
+        "response_time": 0.4085679054260254
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,40 +48,57 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.878413438796997
+        "response_time": 0.8159277439117432
     },
-    "http://200.174.198.86:8888": {
+    "http://47.238.149.53:8888": {
+        "status": "success",
+        "country": "Hong Kong",
+        "countryCode": "HK",
+        "region": "",
+        "regionName": "Kowloon",
+        "city": "Hong Kong",
+        "zip": "999077",
+        "lat": 22.3193,
+        "lon": 114.169,
+        "timezone": "Asia/Hong_Kong",
+        "isp": "Alibaba (US) Technology Co., Ltd.",
+        "org": "Alibaba.com LLC",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "47.238.149.53",
+        "response_time": 1.345597505569458
+    },
+    "socks4://195.175.22.194:5678": {
+        "status": "success",
+        "country": "T\u00fcrkiye",
+        "countryCode": "TR",
+        "region": "34",
+        "regionName": "Istanbul",
+        "city": "Istanbul",
+        "zip": "34096",
+        "lat": 41.0145,
+        "lon": 28.9533,
+        "timezone": "Europe/Istanbul",
+        "isp": "Turk Telekomunikasyon A.S",
+        "org": "TTnetTurkTelekom",
+        "as": "AS9121 Turk Telekomunikasyon Anonim Sirketi",
+        "query": "195.175.22.194",
+        "response_time": 1.6122655868530273
+    },
+    "socks5://187.63.9.62:63253": {
         "status": "success",
         "country": "Brazil",
         "countryCode": "BR",
         "region": "RJ",
         "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
+        "city": "Arraial do Cabo",
+        "zip": "28930",
+        "lat": -22.9526,
+        "lon": -42.0583,
         "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.242",
-        "response_time": 3.138490676879883
-    },
-    "socks4://82.223.165.28:44432": {
-        "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 3.2992873191833496
+        "isp": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
+        "org": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multi",
+        "as": "AS28658 Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
+        "query": "187.63.9.62",
+        "response_time": 2.8477847576141357
     }
 }
