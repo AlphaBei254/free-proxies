@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.25829625129699707
+        "response_time": 0.191084623336792
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5126388072967529
+        "response_time": 0.39569640159606934
     },
-    "http://65.108.203.37:28080": {
+    "socks4://179.27.86.36:4153": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "DC",
-        "regionName": "Washington, D.C.",
-        "city": "Washington",
-        "zip": "20146",
-        "lat": 38.9071,
-        "lon": -77.0368,
-        "timezone": "America/New_York",
-        "isp": "Opera Browser VPN",
-        "org": "Opera Software LLC",
-        "as": "AS205016 HERN Labs AB",
-        "query": "77.111.246.24",
-        "response_time": 0.717592716217041
+        "country": "Uruguay",
+        "countryCode": "UY",
+        "region": "MA",
+        "regionName": "Maldonado",
+        "city": "Punta del Este",
+        "zip": "20000",
+        "lat": -34.9485,
+        "lon": -54.9341,
+        "timezone": "America/Montevideo",
+        "isp": "Administracion Nacional de Telecomunicaciones",
+        "org": "Cliente Antel Uruguay",
+        "as": "AS6057 Administracion Nacional de Telecomunicaciones",
+        "query": "179.27.86.36",
+        "response_time": 0.7279634475708008
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,23 +65,23 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.6547460556030273
+        "response_time": 0.8008923530578613
     },
-    "socks5://202.40.186.66:9090": {
+    "socks4://64.49.67.164:5678": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1215",
-        "lat": 23.7655,
-        "lon": 90.3878,
-        "timezone": "Asia/Dhaka",
-        "isp": "Ranks ITT",
-        "org": "Ranks ITT Ltd.",
-        "as": "AS23991 Ranks ITT Ltd.",
-        "query": "202.40.186.66",
-        "response_time": 2.6019043922424316
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NY",
+        "regionName": "New York",
+        "city": "New York",
+        "zip": "10118",
+        "lat": 40.7126,
+        "lon": -74.0066,
+        "timezone": "America/New_York",
+        "isp": "WNET TELECOM USA Corp.",
+        "org": "Everest Broadband Networks",
+        "as": "AS1820 WNET TELECOM USA Corp.",
+        "query": "64.49.67.164",
+        "response_time": 1.1169865131378174
     }
 }
