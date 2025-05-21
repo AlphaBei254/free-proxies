@@ -14,24 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2982211112976074
+        "response_time": 0.3010087013244629
     },
-    "socks4://200.29.109.112:14888": {
+    "socks4://170.78.211.161:1080": {
         "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "VAC",
-        "regionName": "Valle del Cauca Department",
-        "city": "Santiago de Cali",
-        "zip": "760002",
-        "lat": 3.4385,
-        "lon": -76.523,
-        "timezone": "America/Bogota",
-        "isp": "Empresas Municipales De Cali E.i.c.e. E.S.P.",
-        "org": "EMCALI - RANGOS FIJOS PPPoE",
-        "as": "AS10299 EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.",
-        "query": "200.29.109.112",
-        "response_time": 0.5872023105621338
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.3484644889831543
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5898952484130859
-    },
-    "socks4://138.68.21.132:45793": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "CA",
-        "regionName": "California",
-        "city": "Santa Clara",
-        "zip": "95051",
-        "lat": 37.3486,
-        "lon": -121.9732,
-        "timezone": "America/Los_Angeles",
-        "isp": "DigitalOcean, LLC",
-        "org": "DigitalOcean, LLC",
-        "as": "AS14061 DigitalOcean, LLC",
-        "query": "138.68.21.132",
-        "response_time": 0.83756422996521
+        "response_time": 0.751638650894165
     }
 }
