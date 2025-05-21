@@ -14,24 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2925283908843994
+        "response_time": 0.21455717086791992
     },
-    "socks5://170.106.151.187:42576": {
+    "socks4://170.78.211.161:1080": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "WA",
-        "regionName": "Washington",
-        "city": "Bellevue",
-        "zip": "98015",
-        "lat": 47.6104,
-        "lon": -122.201,
-        "timezone": "America/Los_Angeles",
-        "isp": "AT&T Enterprises, LLC",
-        "org": "AT&T Enterprises, LLC",
-        "as": "AS7018 AT&T Enterprises, LLC",
-        "query": "107.122.81.139",
-        "response_time": 0.2642977237701416
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.21221160888671875
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +48,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6997330188751221
+        "response_time": 0.40491604804992676
+    },
+    "socks4://213.14.32.67:4153": {
+        "status": "success",
+        "country": "T\u00fcrkiye",
+        "countryCode": "TR",
+        "region": "34",
+        "regionName": "Istanbul",
+        "city": "Istanbul",
+        "zip": "34050",
+        "lat": 41.0642,
+        "lon": 28.923,
+        "timezone": "Europe/Istanbul",
+        "isp": "Superonline Iletisim Hizmetleri A.S.",
+        "org": "Hipernet Bilisim VE Telekomunikasyon Hizmetleri Sanayi VE Ticaret Limited",
+        "as": "AS34984 Superonline Iletisim Hizmetleri A.S.",
+        "query": "213.14.32.66",
+        "response_time": 0.5694088935852051
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,23 +82,6 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8108394145965576
-    },
-    "socks4://198.0.198.132:54321": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "CA",
-        "regionName": "California",
-        "city": "Berkeley",
-        "zip": "94703",
-        "lat": 37.8637,
-        "lon": -122.276,
-        "timezone": "America/Los_Angeles",
-        "isp": "Comcast Cable Communications",
-        "org": "SMX SM PUBLIC ARPRT DIST",
-        "as": "AS7922 Comcast Cable Communications, LLC",
-        "query": "198.0.198.132",
-        "response_time": 2.2258706092834473
+        "response_time": 0.7249083518981934
     }
 }
