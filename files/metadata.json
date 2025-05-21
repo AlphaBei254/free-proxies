@@ -14,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.191084623336792
+        "response_time": 0.21810507774353027
+    },
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.2113497257232666
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +48,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.39569640159606934
+        "response_time": 0.4094538688659668
     },
-    "socks4://179.27.86.36:4153": {
+    "socks4://175.144.198.226:31694": {
         "status": "success",
-        "country": "Uruguay",
-        "countryCode": "UY",
-        "region": "MA",
-        "regionName": "Maldonado",
-        "city": "Punta del Este",
-        "zip": "20000",
-        "lat": -34.9485,
-        "lon": -54.9341,
-        "timezone": "America/Montevideo",
-        "isp": "Administracion Nacional de Telecomunicaciones",
-        "org": "Cliente Antel Uruguay",
-        "as": "AS6057 Administracion Nacional de Telecomunicaciones",
-        "query": "179.27.86.36",
-        "response_time": 0.7279634475708008
+        "country": "Malaysia",
+        "countryCode": "MY",
+        "region": "14",
+        "regionName": "Kuala Lumpur",
+        "city": "Kuala Lumpur",
+        "zip": "50490",
+        "lat": 3.1418,
+        "lon": 101.6727,
+        "timezone": "Asia/Kuala_Lumpur",
+        "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+        "org": "Adsl Streamyx",
+        "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+        "query": "175.144.198.13",
+        "response_time": 1.0688061714172363
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,23 +82,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8008923530578613
+        "response_time": 1.126065731048584
     },
-    "socks4://64.49.67.164:5678": {
+    "socks4://181.204.4.74:5678": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "NY",
-        "regionName": "New York",
-        "city": "New York",
-        "zip": "10118",
-        "lat": 40.7126,
-        "lon": -74.0066,
-        "timezone": "America/New_York",
-        "isp": "WNET TELECOM USA Corp.",
-        "org": "Everest Broadband Networks",
-        "as": "AS1820 WNET TELECOM USA Corp.",
-        "query": "64.49.67.164",
-        "response_time": 1.1169865131378174
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "BOL",
+        "regionName": "Departamento de Bol\u00edvar",
+        "city": "Cartagena",
+        "zip": "130001",
+        "lat": 10.3956,
+        "lon": -75.5117,
+        "timezone": "America/Bogota",
+        "isp": "Colombia M\u00f3vil",
+        "org": "Colombia M\u00f3vil",
+        "as": "AS27831 Colombia M\u00f3vil",
+        "query": "181.204.4.74",
+        "response_time": 1.4900949001312256
+    },
+    "socks4://46.214.153.223:5678": {
+        "status": "success",
+        "country": "Romania",
+        "countryCode": "RO",
+        "region": "SV",
+        "regionName": "Suceava",
+        "city": "Radauti",
+        "zip": "725400",
+        "lat": 47.8462,
+        "lon": 25.9154,
+        "timezone": "Europe/Bucharest",
+        "isp": "SC NextGen Communications SRL",
+        "org": "SC NextGen Communications SRL",
+        "as": "AS48161 NEXTGEN COMMUNICATIONS SRL",
+        "query": "46.214.153.223",
+        "response_time": 2.618446111679077
     }
 }
