@@ -14,24 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.21810507774353027
+        "response_time": 0.1862354278564453
     },
-    "socks4://170.78.211.161:1080": {
+    "socks4://141.105.107.152:5678": {
         "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.2113497257232666
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "IB",
+        "regionName": "Balearic Islands",
+        "city": "Llub\u00ed",
+        "zip": "07430",
+        "lat": 39.6961,
+        "lon": 3.0026,
+        "timezone": "Europe/Madrid",
+        "isp": "Red digital de telecomunicaciones de las Islas Baleares S.L",
+        "org": "Ibred",
+        "as": "AS200064 Red digital de telecomunicaciones de las Islas Baleares S.L",
+        "query": "141.105.107.152",
+        "response_time": 0.36834096908569336
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4094538688659668
-    },
-    "socks4://175.144.198.226:31694": {
-        "status": "success",
-        "country": "Malaysia",
-        "countryCode": "MY",
-        "region": "14",
-        "regionName": "Kuala Lumpur",
-        "city": "Kuala Lumpur",
-        "zip": "50490",
-        "lat": 3.1418,
-        "lon": 101.6727,
-        "timezone": "Asia/Kuala_Lumpur",
-        "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-        "org": "Adsl Streamyx",
-        "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-        "query": "175.144.198.13",
-        "response_time": 1.0688061714172363
+        "response_time": 0.42952489852905273
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,40 +65,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.126065731048584
+        "response_time": 0.67295241355896
     },
-    "socks4://181.204.4.74:5678": {
+    "socks4://64.124.191.98:32688": {
         "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "BOL",
-        "regionName": "Departamento de Bol\u00edvar",
-        "city": "Cartagena",
-        "zip": "130001",
-        "lat": 10.3956,
-        "lon": -75.5117,
-        "timezone": "America/Bogota",
-        "isp": "Colombia M\u00f3vil",
-        "org": "Colombia M\u00f3vil",
-        "as": "AS27831 Colombia M\u00f3vil",
-        "query": "181.204.4.74",
-        "response_time": 1.4900949001312256
+        "country": "United States",
+        "countryCode": "US",
+        "region": "PA",
+        "regionName": "Pennsylvania",
+        "city": "Conshohocken",
+        "zip": "19428",
+        "lat": 40.0864,
+        "lon": -75.2931,
+        "timezone": "America/New_York",
+        "isp": "Zayo Bandwidth",
+        "org": "Web Werks",
+        "as": "AS6461 Zayo Bandwidth",
+        "query": "64.124.191.98",
+        "response_time": 2.074084997177124
     },
-    "socks4://46.214.153.223:5678": {
+    "socks4://163.172.134.29:16379": {
         "status": "success",
-        "country": "Romania",
-        "countryCode": "RO",
-        "region": "SV",
-        "regionName": "Suceava",
-        "city": "Radauti",
-        "zip": "725400",
-        "lat": 47.8462,
-        "lon": 25.9154,
-        "timezone": "Europe/Bucharest",
-        "isp": "SC NextGen Communications SRL",
-        "org": "SC NextGen Communications SRL",
-        "as": "AS48161 NEXTGEN COMMUNICATIONS SRL",
-        "query": "46.214.153.223",
-        "response_time": 2.618446111679077
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BB",
+        "regionName": "Brandenburg",
+        "city": "Brandenburg",
+        "zip": "14621",
+        "lat": 52.6171,
+        "lon": 13.1207,
+        "timezone": "Europe/Berlin",
+        "isp": "Stiftung Erneuerbare Freiheit",
+        "org": "ForPrivacyNET",
+        "as": "AS60729 Stiftung Erneuerbare Freiheit",
+        "query": "185.220.101.37",
+        "response_time": 3.4959003925323486
     }
 }
