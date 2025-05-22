@@ -1,21 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.2571291923522949
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3146183490753174
+        "response_time": 0.20342612266540527
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6104416847229004
-    },
-    "socks4://185.132.1.221:4145": {
-        "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "51",
-        "regionName": "Odessa",
-        "city": "Odesa",
-        "zip": "65000",
-        "lat": 46.4752,
-        "lon": 30.7338,
-        "timezone": "Europe/Kyiv",
-        "isp": "Miratel Ltd",
-        "org": "Miratel Ltd",
-        "as": "AS203447 Miratel Ltd",
-        "query": "185.132.1.221",
-        "response_time": 0.66375732421875
+        "response_time": 0.38265061378479004
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,23 +48,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8839919567108154
+        "response_time": 0.7415215969085693
     },
-    "socks4://27.147.221.140:5678": {
+    "socks4://82.223.165.28:44432": {
+        "status": "success",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
+        "org": "",
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 2.580547332763672
+    },
+    "socks5://103.189.218.83:6969": {
         "status": "success",
         "country": "Bangladesh",
         "countryCode": "BD",
         "region": "C",
         "regionName": "Dhaka Division",
-        "city": "K\u0101frul",
-        "zip": "1207",
-        "lat": 23.7882,
-        "lon": 90.3736,
+        "city": "Tongi",
+        "zip": "1230",
+        "lat": 23.8915,
+        "lon": 90.4023,
         "timezone": "Asia/Dhaka",
-        "isp": "Link3 Technologies Limited",
-        "org": "Retail Subscriber",
-        "as": "AS23688 Link3 Technologies Ltd.",
-        "query": "27.147.221.140",
-        "response_time": 0.9903647899627686
+        "isp": "Comfort Solutions",
+        "org": "Md. Ruhul Amin Sarker",
+        "as": "AS149868 Comfort Solutions",
+        "query": "103.189.218.83",
+        "response_time": 3.6278905868530273
     }
 }
