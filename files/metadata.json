@@ -14,24 +14,7 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.27747535705566406
-    },
-    "socks4://172.233.14.116:1080": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 1.9822609424591064
+        "response_time": 0.2403554916381836
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2301058769226074
+        "response_time": 0.49583005905151367
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +48,74 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.418020009994507
+        "response_time": 1.039309024810791
+    },
+    "http://83.217.23.34:8090": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "",
+        "lat": 55.8236,
+        "lon": 37.6034,
+        "timezone": "Europe/Moscow",
+        "isp": "PJSC Rostelecom",
+        "org": "PJSC Rostelecom",
+        "as": "AS12389 PJSC Rostelecom",
+        "query": "83.217.23.35",
+        "response_time": 1.245100498199463
+    },
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 1.2834718227386475
+    },
+    "socks4://58.65.167.165:4145": {
+        "status": "success",
+        "country": "Pakistan",
+        "countryCode": "PK",
+        "region": "IS",
+        "regionName": "Islamabad",
+        "city": "Islamabad",
+        "zip": "44100",
+        "lat": 33.7233,
+        "lon": 73.0435,
+        "timezone": "Asia/Karachi",
+        "isp": "Nayatel (Pvt) Ltd",
+        "org": "Nayatel",
+        "as": "AS23674 Nayatel (Pvt) Ltd",
+        "query": "124.109.44.126",
+        "response_time": 2.18703031539917
+    },
+    "socks4://163.172.164.115:16379": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NJ",
+        "regionName": "New Jersey",
+        "city": "Secaucus",
+        "zip": "07094",
+        "lat": 40.7876,
+        "lon": -74.06,
+        "timezone": "America/New_York",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.139.50.202",
+        "response_time": 3.211972713470459
     }
 }
