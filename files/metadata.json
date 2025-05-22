@@ -14,7 +14,7 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.24281001091003418
+        "response_time": 0.2344658374786377
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.31383538246154785
+        "response_time": 0.2576889991760254
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,41 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6018192768096924
-    },
-    "socks4://89.216.47.137:5678": {
-        "status": "success",
-        "country": "Serbia",
-        "countryCode": "RS",
-        "region": "00",
-        "regionName": "Belgrade",
-        "city": "Belgrade",
-        "zip": "",
-        "lat": 44.8046,
-        "lon": 20.4637,
-        "timezone": "Europe/Belgrade",
-        "isp": "Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
-        "org": "SBB Zona Wifi",
-        "as": "AS31042 Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
-        "query": "82.117.212.234",
-        "response_time": 0.657006025314331
-    },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.198",
-        "response_time": 0.7024292945861816
+        "response_time": 0.6400647163391113
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -99,40 +65,57 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8197770118713379
+        "response_time": 0.7652361392974854
     },
-    "socks4://181.28.137.18:5678": {
+    "socks4://27.116.53.13:5678": {
         "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "R",
-        "regionName": "Rio Negro",
-        "city": "General Roca",
-        "zip": "8332",
-        "lat": -39.0576,
-        "lon": -67.5301,
-        "timezone": "America/Argentina/Salta",
-        "isp": "Telecom Argentina S.A",
-        "org": "Fibertel",
-        "as": "AS7303 Telecom Argentina S.A.",
-        "query": "181.28.137.18",
-        "response_time": 1.0479919910430908
+        "country": "India",
+        "countryCode": "IN",
+        "region": "GJ",
+        "regionName": "Gujarat",
+        "city": "Anand",
+        "zip": "388121",
+        "lat": 22.5504,
+        "lon": 72.9515,
+        "timezone": "Asia/Kolkata",
+        "isp": "Gujarat Telelik Pvt Ltd",
+        "org": "Gujarat Telelink Pvt Ltd.",
+        "as": "AS45916 Gujarat Telelink Pvt Ltd",
+        "query": "27.116.53.70",
+        "response_time": 2.2584848403930664
     },
-    "http://47.90.205.231:33333": {
+    "http://200.174.198.86:8888": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Richmond",
-        "zip": "23173",
-        "lat": 37.4316,
-        "lon": -78.6569,
-        "timezone": "America/New_York",
-        "isp": "Alibaba.com LLC",
-        "org": "ALICLOUD-US",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "47.90.205.231",
-        "response_time": 1.154097080230713
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.43",
+        "response_time": 2.6089038848876953
+    },
+    "socks4://62.201.212.198:4673": {
+        "status": "success",
+        "country": "Iraq",
+        "countryCode": "IQ",
+        "region": "SU",
+        "regionName": "Sulaymaniyah",
+        "city": "Sulaymaniyah",
+        "zip": "",
+        "lat": 35.565,
+        "lon": 45.4329,
+        "timezone": "Asia/Baghdad",
+        "isp": "NETWORKS-SULY1",
+        "org": "",
+        "as": "AS44217 IQ Networks for Data and Internet Services Ltd",
+        "query": "62.201.212.198",
+        "response_time": 2.755695343017578
     }
 }
