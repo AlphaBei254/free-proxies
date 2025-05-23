@@ -1,21 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.2344658374786377
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2576889991760254
+        "response_time": 0.20798683166503906
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6400647163391113
+        "response_time": 0.4077911376953125
+    },
+    "socks4://181.129.74.58:30431": {
+        "status": "success",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "ANT",
+        "regionName": "Antioquia",
+        "city": "Medell\u00edn",
+        "zip": "050023",
+        "lat": 6.2529,
+        "lon": -75.5646,
+        "timezone": "America/Bogota",
+        "isp": "EPM Telecomunicaciones S.A. E.S.P.",
+        "org": "EPM Telecomunicaciones S.A. E.S.P",
+        "as": "AS13489 UNE EPM TELECOMUNICACIONES S.A.",
+        "query": "181.129.74.58",
+        "response_time": 0.5084609985351562
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,24 +65,24 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7652361392974854
+        "response_time": 0.7804365158081055
     },
-    "socks4://27.116.53.13:5678": {
+    "socks4://103.115.255.225:36331": {
         "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "GJ",
-        "regionName": "Gujarat",
-        "city": "Anand",
-        "zip": "388121",
-        "lat": 22.5504,
-        "lon": 72.9515,
-        "timezone": "Asia/Kolkata",
-        "isp": "Gujarat Telelik Pvt Ltd",
-        "org": "Gujarat Telelink Pvt Ltd.",
-        "as": "AS45916 Gujarat Telelink Pvt Ltd",
-        "query": "27.116.53.70",
-        "response_time": 2.2584848403930664
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Savar Upazila",
+        "zip": "1340",
+        "lat": 23.8468,
+        "lon": 90.2417,
+        "timezone": "Asia/Dhaka",
+        "isp": "Star Internet Service",
+        "org": "Md. Murad Hossain Ripon",
+        "as": "AS137868 Star Internet Service",
+        "query": "103.115.255.246",
+        "response_time": 1.0868258476257324
     },
     "http://200.174.198.86:8888": {
         "status": "success",
@@ -98,24 +98,24 @@
         "isp": "Claro S.A",
         "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
         "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.43",
-        "response_time": 2.6089038848876953
+        "query": "200.174.198.8",
+        "response_time": 1.2251949310302734
     },
-    "socks4://62.201.212.198:4673": {
+    "socks5://212.47.235.205:16379": {
         "status": "success",
-        "country": "Iraq",
-        "countryCode": "IQ",
-        "region": "SU",
-        "regionName": "Sulaymaniyah",
-        "city": "Sulaymaniyah",
-        "zip": "",
-        "lat": 35.565,
-        "lon": 45.4329,
-        "timezone": "Asia/Baghdad",
-        "isp": "NETWORKS-SULY1",
-        "org": "",
-        "as": "AS44217 IQ Networks for Data and Internet Services Ltd",
-        "query": "62.201.212.198",
-        "response_time": 2.755695343017578
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NJ",
+        "regionName": "New Jersey",
+        "city": "Secaucus",
+        "zip": "07094",
+        "lat": 40.7876,
+        "lon": -74.06,
+        "timezone": "America/New_York",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.139.50.202",
+        "response_time": 3.6015305519104004
     }
 }
