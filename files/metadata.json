@@ -14,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.20687031745910645
-    },
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.2405836582183838
+        "response_time": 0.20511364936828613
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.34680604934692383
+        "response_time": 0.40270423889160156
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,23 +48,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.731956958770752
+        "response_time": 0.673999547958374
     },
-    "socks5://187.63.9.62:63253": {
+    "http://62.33.53.248:3128": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "SA",
+        "regionName": "Sakha",
+        "city": "Yakutsk",
+        "zip": "677000",
+        "lat": 62.0313,
+        "lon": 129.7325,
+        "timezone": "Asia/Yakutsk",
+        "isp": "TRANS-TELECOM",
+        "org": "",
+        "as": "AS20485 Joint Stock Company TransTeleCom",
+        "query": "62.33.53.248",
+        "response_time": 2.4053573608398438
+    },
+    "http://200.174.198.86:8888": {
         "status": "success",
         "country": "Brazil",
         "countryCode": "BR",
         "region": "RJ",
         "regionName": "Rio de Janeiro",
-        "city": "Arraial do Cabo",
-        "zip": "28930",
-        "lat": -22.9526,
-        "lon": -42.0583,
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
         "timezone": "America/Sao_Paulo",
-        "isp": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
-        "org": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multi",
-        "as": "AS28658 Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
-        "query": "187.63.9.62",
-        "response_time": 2.803701877593994
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.153",
+        "response_time": 2.56376314163208
     }
 }
