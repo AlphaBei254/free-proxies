@@ -14,24 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.17842698097229004
+        "response_time": 0.20466279983520508
     },
-    "http://65.108.203.37:28080": {
+    "socks4://170.78.211.161:1080": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "DC",
-        "regionName": "Washington, D.C.",
-        "city": "Washington",
-        "zip": "20146",
-        "lat": 38.9071,
-        "lon": -77.0368,
-        "timezone": "America/New_York",
-        "isp": "Opera Browser VPN",
-        "org": "Opera Software LLC",
-        "as": "AS205016 HERN Labs AB",
-        "query": "77.111.246.55",
-        "response_time": 0.3387720584869385
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.22884631156921387
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4031684398651123
+        "response_time": 0.3725104331970215
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,24 +65,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.720081090927124
-    },
-    "socks4://168.196.24.29:60606": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "R",
-        "regionName": "Rio Negro",
-        "city": "San Antonio Oeste",
-        "zip": "8520",
-        "lat": -40.7281,
-        "lon": -64.9252,
-        "timezone": "America/Argentina/Salta",
-        "isp": "ISP GROUP SRL",
-        "org": "ISP GROUP SRL",
-        "as": "AS264758 ISP GROUP SRL",
-        "query": "168.196.24.29",
-        "response_time": 0.8563199043273926
+        "response_time": 0.7352433204650879
     },
     "http://200.174.198.86:8888": {
         "status": "success",
@@ -98,24 +81,41 @@
         "isp": "Claro S.A",
         "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
         "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.44",
-        "response_time": 1.6136915683746338
+        "query": "200.174.198.18",
+        "response_time": 1.2608296871185303
     },
-    "socks4://120.50.1.126:1088": {
+    "socks4://103.61.116.138:5678": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1212",
-        "lat": 23.7891,
-        "lon": 90.4126,
-        "timezone": "Asia/Dhaka",
-        "isp": "Dhakacom Limited",
-        "org": "AmberIT Limited -CTG",
-        "as": "AS23956 AmberIT Limited",
-        "query": "118.179.198.226",
-        "response_time": 3.0045080184936523
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JB",
+        "regionName": "West Java",
+        "city": "Ciputat",
+        "zip": "15411",
+        "lat": -6.18701,
+        "lon": 106.759,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT Media Televisi Indonesia",
+        "org": "",
+        "as": "AS45734 PT Media Televisi Indonesia",
+        "query": "103.61.116.138",
+        "response_time": 3.036403179168701
+    },
+    "socks5://163.172.132.115:16379": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NJ",
+        "regionName": "New Jersey",
+        "city": "Secaucus",
+        "zip": "07094",
+        "lat": 40.7876,
+        "lon": -74.06,
+        "timezone": "America/New_York",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.139.50.202",
+        "response_time": 5.552547216415405
     }
 }
