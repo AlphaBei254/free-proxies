@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.20843744277954102
+        "response_time": 0.20687031745910645
     },
     "socks4://170.78.211.161:1080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.2270357608795166
+        "response_time": 0.2405836582183838
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.35981059074401855
+        "response_time": 0.34680604934692383
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,74 +65,23 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7283124923706055
+        "response_time": 0.731956958770752
     },
-    "socks4://183.88.240.139:4153": {
+    "socks5://187.63.9.62:63253": {
         "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "20",
-        "regionName": "Chon Buri",
-        "city": "Bang Lamung",
-        "zip": "20150",
-        "lat": 13.0508,
-        "lon": 100.9367,
-        "timezone": "Asia/Bangkok",
-        "isp": "Triple T Broadband Public Company Limited",
-        "org": "Triple T Broadband Public Company Limited",
-        "as": "AS45758 Triple T Broadband Public Company Limited",
-        "query": "223.205.73.150",
-        "response_time": 1.2376210689544678
-    },
-    "socks4://51.178.68.226:46753": {
-        "status": "success",
-        "country": "France",
-        "countryCode": "FR",
-        "region": "HDF",
-        "regionName": "Hauts-de-France",
-        "city": "Wattrelos",
-        "zip": "59150",
-        "lat": 50.7012,
-        "lon": 3.21501,
-        "timezone": "Europe/Paris",
-        "isp": "OVH SAS",
-        "org": "OVH",
-        "as": "AS16276 OVH SAS",
-        "query": "51.178.68.226",
-        "response_time": 1.7173397541046143
-    },
-    "socks4://190.246.55.235:5678": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "X",
-        "regionName": "Cordoba",
-        "city": "C\u00f3rdoba",
-        "zip": "5000",
-        "lat": -31.4057,
-        "lon": -64.1849,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Telecom Argentina S.A",
-        "org": "Fibertel",
-        "as": "AS7303 Telecom Argentina S.A.",
-        "query": "190.246.55.235",
-        "response_time": 2.9135873317718506
-    },
-    "socks4://120.50.13.41:40308": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1000",
-        "lat": 23.7278,
-        "lon": 90.4135,
-        "timezone": "Asia/Dhaka",
-        "isp": "Ranks ITT",
-        "org": "Ranks ITT Ltd",
-        "as": "AS23991 Ranks ITT Ltd.",
-        "query": "202.40.182.186",
-        "response_time": 3.171095848083496
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Arraial do Cabo",
+        "zip": "28930",
+        "lat": -22.9526,
+        "lon": -42.0583,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
+        "org": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multi",
+        "as": "AS28658 Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
+        "query": "187.63.9.62",
+        "response_time": 2.803701877593994
     }
 }
