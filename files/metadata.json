@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.20798683166503906
+        "response_time": 0.2567300796508789
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4077911376953125
-    },
-    "socks4://181.129.74.58:30431": {
-        "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "ANT",
-        "regionName": "Antioquia",
-        "city": "Medell\u00edn",
-        "zip": "050023",
-        "lat": 6.2529,
-        "lon": -75.5646,
-        "timezone": "America/Bogota",
-        "isp": "EPM Telecomunicaciones S.A. E.S.P.",
-        "org": "EPM Telecomunicaciones S.A. E.S.P",
-        "as": "AS13489 UNE EPM TELECOMUNICACIONES S.A.",
-        "query": "181.129.74.58",
-        "response_time": 0.5084609985351562
+        "response_time": 0.5124630928039551
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,24 +48,75 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7804365158081055
+        "response_time": 0.7775707244873047
     },
-    "socks4://103.115.255.225:36331": {
+    "socks4://112.78.39.90:4153": {
+        "status": "success",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JT",
+        "regionName": "Central Java",
+        "city": "Semarang",
+        "zip": "50232",
+        "lat": -7.2722,
+        "lon": 110.4753,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT Media Sarana Data",
+        "org": "Gmedia ID Semarang",
+        "as": "AS55666 PT Media Sarana Data",
+        "query": "112.78.39.91",
+        "response_time": 0.8854043483734131
+    },
+    "socks4://182.53.216.73:4145": {
+        "status": "success",
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "51",
+        "regionName": "Lamphun",
+        "city": "Lamphun",
+        "zip": "51000",
+        "lat": 18.5779,
+        "lon": 99.0097,
+        "timezone": "Asia/Bangkok",
+        "isp": "TOT Public Company Limited",
+        "org": "TOT Public Company Limited",
+        "as": "AS23969 TOT Public Company Limited",
+        "query": "182.53.216.73",
+        "response_time": 1.0444748401641846
+    },
+    "socks5://202.40.186.66:9090": {
         "status": "success",
         "country": "Bangladesh",
         "countryCode": "BD",
         "region": "C",
         "regionName": "Dhaka Division",
-        "city": "Savar Upazila",
-        "zip": "1340",
-        "lat": 23.8468,
-        "lon": 90.2417,
+        "city": "Dhaka",
+        "zip": "1215",
+        "lat": 23.7655,
+        "lon": 90.3878,
         "timezone": "Asia/Dhaka",
-        "isp": "Star Internet Service",
-        "org": "Md. Murad Hossain Ripon",
-        "as": "AS137868 Star Internet Service",
-        "query": "103.115.255.246",
-        "response_time": 1.0868258476257324
+        "isp": "Ranks ITT",
+        "org": "Ranks ITT Ltd.",
+        "as": "AS23991 Ranks ITT Ltd.",
+        "query": "202.40.186.66",
+        "response_time": 1.4599025249481201
+    },
+    "socks5://8.218.39.40:10800": {
+        "status": "success",
+        "country": "Hong Kong",
+        "countryCode": "HK",
+        "region": "",
+        "regionName": "Kowloon",
+        "city": "Hong Kong",
+        "zip": "999077",
+        "lat": 22.3193,
+        "lon": 114.169,
+        "timezone": "Asia/Hong_Kong",
+        "isp": "Alibaba (US) Technology Co., Ltd.",
+        "org": "Alibaba.com Singapore E-Commerce Private Limited",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "8.218.39.40",
+        "response_time": 2.1392266750335693
     },
     "http://200.174.198.86:8888": {
         "status": "success",
@@ -98,24 +132,7 @@
         "isp": "Claro S.A",
         "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
         "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.8",
-        "response_time": 1.2251949310302734
-    },
-    "socks5://212.47.235.205:16379": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "NJ",
-        "regionName": "New Jersey",
-        "city": "Secaucus",
-        "zip": "07094",
-        "lat": 40.7876,
-        "lon": -74.06,
-        "timezone": "America/New_York",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.139.50.202",
-        "response_time": 3.6015305519104004
+        "query": "200.174.198.25",
+        "response_time": 2.2599430084228516
     }
 }
