@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5007483959197998
+        "response_time": 0.22429299354553223
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 1.003587245941162
+        "response_time": 0.5064358711242676
     },
-    "http://200.174.198.86:8888": {
+    "socks4://77.104.75.97:5678": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.15",
-        "response_time": 1.5500624179840088
+        "country": "Iran",
+        "countryCode": "IR",
+        "region": "23",
+        "regionName": "Tehran",
+        "city": "Tehran",
+        "zip": "",
+        "lat": 35.7471,
+        "lon": 51.4115,
+        "timezone": "Asia/Tehran",
+        "isp": "Respina Networks & Beyond PJSC",
+        "org": "Respina",
+        "as": "AS42337 Respina Networks & Beyond PJSC",
+        "query": "77.104.75.97",
+        "response_time": 0.7820472717285156
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,23 +65,6 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.8004748821258545
-    },
-    "socks4://202.79.47.194:1080": {
-        "status": "success",
-        "country": "Nepal",
-        "countryCode": "NP",
-        "region": "P3",
-        "regionName": "Bagmati Province",
-        "city": "Kathmandu",
-        "zip": "",
-        "lat": 27.7017,
-        "lon": 85.3206,
-        "timezone": "Asia/Kathmandu",
-        "isp": "WorldLink Communications",
-        "org": "",
-        "as": "AS17501 WorldLink Communications Pvt Ltd",
-        "query": "202.79.47.194",
-        "response_time": 2.181657314300537
+        "response_time": 2.1711173057556152
     }
 }
