@@ -14,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.20148634910583496
-    },
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.4300403594970703
+        "response_time": 0.2190840244293213
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,40 +31,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.42394542694091797
+        "response_time": 0.4804561138153076
     },
-    "socks4://198.0.198.132:54321": {
+    "socks4://82.223.165.28:44432": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "CA",
-        "regionName": "California",
-        "city": "Berkeley",
-        "zip": "94703",
-        "lat": 37.8637,
-        "lon": -122.276,
-        "timezone": "America/Los_Angeles",
-        "isp": "Comcast Cable Communications",
-        "org": "SMX SM PUBLIC ARPRT DIST",
-        "as": "AS7922 Comcast Cable Communications, LLC",
-        "query": "198.0.198.132",
-        "response_time": 0.472853422164917
-    },
-    "socks4://91.92.80.199:4145": {
-        "status": "success",
-        "country": "Bulgaria",
-        "countryCode": "BG",
-        "region": "16",
-        "regionName": "Plovdiv",
-        "city": "Plovdiv",
-        "zip": "4000",
-        "lat": 42.1513,
-        "lon": 24.7518,
-        "timezone": "Europe/Sofia",
-        "isp": "Netguard LLC",
-        "org": "Flashnet",
-        "as": "AS39251 NETGUARD LLC",
-        "query": "91.92.80.199",
-        "response_time": 0.7864155769348145
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
+        "org": "",
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 4.385319471359253
     }
 }
