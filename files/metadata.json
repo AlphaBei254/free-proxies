@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2688295841217041
+        "response_time": 0.29306888580322266
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6193749904632568
+        "response_time": 0.682600736618042
     },
-    "socks4://90.182.147.170:4145": {
+    "socks4://36.37.244.41:5678": {
         "status": "success",
-        "country": "Czechia",
-        "countryCode": "CZ",
-        "region": "10",
-        "regionName": "Prague",
-        "city": "Prague",
-        "zip": "170 00",
-        "lat": 50.1113,
-        "lon": 14.4063,
-        "timezone": "Europe/Prague",
-        "isp": "O2 Czech Republic",
-        "org": "CZ.CZNET",
-        "as": "AS5610 O2 Czech Republic, a.s.",
-        "query": "90.182.147.170",
-        "response_time": 0.7063798904418945
+        "country": "Cambodia",
+        "countryCode": "KH",
+        "region": "1",
+        "regionName": "Banteay Meanchey",
+        "city": "Sisophon",
+        "zip": "",
+        "lat": 13.5859,
+        "lon": 102.974,
+        "timezone": "Asia/Phnom_Penh",
+        "isp": "VIETTEL (CAMBODIA) PTE., LTD",
+        "org": "Viettel (cambodia) Pte., Ltd.",
+        "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
+        "query": "36.37.244.41",
+        "response_time": 0.9063677787780762
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,40 +65,57 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8364946842193604
+        "response_time": 1.9709389209747314
     },
-    "socks5://170.233.30.33:4153": {
+    "http://200.174.198.86:8888": {
         "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "Z",
-        "regionName": "Santa Cruz",
-        "city": "R\u00edo Gallegos",
-        "zip": "9400",
-        "lat": -51.6233,
-        "lon": -69.216,
-        "timezone": "America/Argentina/Rio_Gallegos",
-        "isp": "Sebastian Souto",
-        "org": "Sebastian Souto",
-        "as": "AS264738 Sebastian Souto (SSSERVICIOS)",
-        "query": "170.233.30.33",
-        "response_time": 1.2564544677734375
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.219",
+        "response_time": 3.0703964233398438
     },
-    "socks4://109.160.97.49:4145": {
+    "socks4://45.249.79.105:3629": {
         "status": "success",
-        "country": "Bulgaria",
-        "countryCode": "BG",
-        "region": "22",
-        "regionName": "Sofia-Capital",
-        "city": "Sofia",
-        "zip": "1000",
-        "lat": 42.7124,
-        "lon": 23.3815,
-        "timezone": "Europe/Sofia",
-        "isp": "Kabelnet LTD",
-        "org": "Global Communication Net Plc",
-        "as": "AS205352 KABELNET LTD",
-        "query": "109.160.97.49",
-        "response_time": 2.8736093044281006
+        "country": "India",
+        "countryCode": "IN",
+        "region": "AP",
+        "regionName": "Andhra Pradesh",
+        "city": "Vijayawada",
+        "zip": "520007",
+        "lat": 16.5033,
+        "lon": 80.6465,
+        "timezone": "Asia/Kolkata",
+        "isp": "Tejasri Communications",
+        "org": "",
+        "as": "AS18229 CtrlS",
+        "query": "45.249.79.190",
+        "response_time": 3.1578681468963623
+    },
+    "socks4://41.70.106.1:5678": {
+        "status": "success",
+        "country": "Malawi",
+        "countryCode": "MW",
+        "region": "S",
+        "regionName": "Southern Region",
+        "city": "Zomba",
+        "zip": "",
+        "lat": -15.3733,
+        "lon": 35.3145,
+        "timezone": "Africa/Blantyre",
+        "isp": "Malawi Research and Education Network - MAREN",
+        "org": "Malawi Research and Education Network - MAREN",
+        "as": "AS37215 Malawi Research and Education Network - MAREN",
+        "query": "41.70.9.10",
+        "response_time": 3.5400474071502686
     }
 }
