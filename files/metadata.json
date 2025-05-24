@@ -1,4 +1,21 @@
 {
+    "socks4://97.105.12.186:4153": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Selma",
+        "zip": "78154",
+        "lat": 29.5857,
+        "lon": -98.3027,
+        "timezone": "America/Chicago",
+        "isp": "Spectrum",
+        "org": "Royal Express Inc",
+        "as": "AS11427 Charter Communications Inc",
+        "query": "97.105.12.186",
+        "response_time": 0.17907261848449707
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3092079162597656
+        "response_time": 0.21670222282409668
+    },
+    "http://65.108.203.37:28080": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "DC",
+        "regionName": "Washington, D.C.",
+        "city": "Washington",
+        "zip": "20146",
+        "lat": 38.9071,
+        "lon": -77.0368,
+        "timezone": "America/New_York",
+        "isp": "Opera Browser VPN",
+        "org": "Opera Software LLC",
+        "as": "AS205016 HERN Labs AB",
+        "query": "77.111.246.30",
+        "response_time": 0.3764340877532959
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5987520217895508
+        "response_time": 0.4644334316253662
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,40 +82,23 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8898966312408447
+        "response_time": 0.746657133102417
     },
-    "http://200.174.198.86:8888": {
+    "socks4://202.131.159.60:5678": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.241",
-        "response_time": 1.499617576599121
-    },
-    "socks4://94.181.33.149:40840": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "CHE",
-        "regionName": "Chelyabinsk Oblast",
-        "city": "Chelyabinsk",
-        "zip": "454082",
-        "lat": 55.1644,
-        "lon": 61.4368,
-        "timezone": "Asia/Yekaterinburg",
-        "isp": "CJSC \"ER-Telecom Holding\" Chelyabinsk branch",
-        "org": "JSC \"ER-Telecom Holding\" Chelyabinsk Branch",
-        "as": "AS41661 JSC \"ER-Telecom Holding\"",
-        "query": "94.181.33.149",
-        "response_time": 2.7061657905578613
+        "country": "India",
+        "countryCode": "IN",
+        "region": "MH",
+        "regionName": "Maharashtra",
+        "city": "Mumbai",
+        "zip": "400017",
+        "lat": 19.0748,
+        "lon": 72.8856,
+        "timezone": "Asia/Kolkata",
+        "isp": "Karuturi Telecom Pvt Ltd",
+        "org": "Ibus Virtual Network Services Private Limited",
+        "as": "AS17443 Karuturi Telecom Pvt Ltd",
+        "query": "202.131.159.60",
+        "response_time": 1.2918932437896729
     }
 }
