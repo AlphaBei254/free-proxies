@@ -14,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5714852809906006
+        "response_time": 0.5184054374694824
+    },
+    "http://113.160.132.195:8080": {
+        "status": "success",
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "HN",
+        "regionName": "Hanoi",
+        "city": "Hanoi",
+        "zip": "100000",
+        "lat": 21.0184,
+        "lon": 105.8461,
+        "timezone": "Asia/Bangkok",
+        "isp": "VietNam Post and Telecom Corporation",
+        "org": "Vietnam Posts and Telecommunications Group",
+        "as": "AS45899 VNPT Corp",
+        "query": "113.160.132.195",
+        "response_time": 0.8067843914031982
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,24 +48,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.9096236228942871
-    },
-    "socks4://180.180.124.248:49992": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "21",
-        "regionName": "Rayong",
-        "city": "Rayong",
-        "zip": "21180",
-        "lat": 12.8139,
-        "lon": 101.308,
-        "timezone": "Asia/Bangkok",
-        "isp": "TOT Public Company Limited",
-        "org": "TOT Public Company Limited",
-        "as": "AS23969 TOT Public Company Limited",
-        "query": "180.180.124.248",
-        "response_time": 1.031240701675415
+        "response_time": 0.8619277477264404
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +65,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 1.050696849822998
+        "response_time": 1.0112237930297852
     },
-    "socks4://181.204.4.74:5678": {
+    "socks4://31.209.98.18:51688": {
         "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "BOL",
-        "regionName": "Departamento de Bol\u00edvar",
-        "city": "Cartagena",
-        "zip": "130001",
-        "lat": 10.3956,
-        "lon": -75.5117,
-        "timezone": "America/Bogota",
-        "isp": "Colombia M\u00f3vil",
-        "org": "Colombia M\u00f3vil",
-        "as": "AS27831 Colombia M\u00f3vil",
-        "query": "181.204.4.74",
-        "response_time": 1.560248851776123
+        "country": "T\u00fcrkiye",
+        "countryCode": "TR",
+        "region": "33",
+        "regionName": "Mersin",
+        "city": "Mersin",
+        "zip": "33940",
+        "lat": 36.812,
+        "lon": 34.6389,
+        "timezone": "Europe/Istanbul",
+        "isp": "Netonline Bilisim Sirketi LTD",
+        "org": "Multimax",
+        "as": "AS44558 Netonline Bilisim Sirketi LTD",
+        "query": "31.209.98.18",
+        "response_time": 1.7273199558258057
+    },
+    "socks4://51.15.232.175:16379": {
+        "status": "success",
+        "country": "Luxembourg",
+        "countryCode": "LU",
+        "region": "LU",
+        "regionName": "Luxembourg",
+        "city": "Luxembourg",
+        "zip": "L-1661",
+        "lat": 49.6113,
+        "lon": 6.1294,
+        "timezone": "Europe/Luxembourg",
+        "isp": "FranTech Solutions",
+        "org": "FranTech Solutions",
+        "as": "AS53667 FranTech Solutions",
+        "query": "107.189.13.254",
+        "response_time": 3.4252374172210693
     }
 }
