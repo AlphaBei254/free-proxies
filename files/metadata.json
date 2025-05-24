@@ -1,21 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.2712414264678955
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5022640228271484
-    },
-    "socks4://51.178.68.226:46753": {
-        "status": "success",
-        "country": "France",
-        "countryCode": "FR",
-        "region": "HDF",
-        "regionName": "Hauts-de-France",
-        "city": "Wattrelos",
-        "zip": "59150",
-        "lat": 50.7012,
-        "lon": 3.21501,
-        "timezone": "Europe/Paris",
-        "isp": "OVH SAS",
-        "org": "OVH",
-        "as": "AS16276 OVH SAS",
-        "query": "51.178.68.226",
-        "response_time": 0.7784883975982666
+        "response_time": 0.5007483959197998
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,7 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.9708189964294434
+        "response_time": 1.003587245941162
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.15",
+        "response_time": 1.5500624179840088
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,6 +65,23 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 3.2195961475372314
+        "response_time": 1.8004748821258545
+    },
+    "socks4://202.79.47.194:1080": {
+        "status": "success",
+        "country": "Nepal",
+        "countryCode": "NP",
+        "region": "P3",
+        "regionName": "Bagmati Province",
+        "city": "Kathmandu",
+        "zip": "",
+        "lat": 27.7017,
+        "lon": 85.3206,
+        "timezone": "Asia/Kathmandu",
+        "isp": "WorldLink Communications",
+        "org": "",
+        "as": "AS17501 WorldLink Communications Pvt Ltd",
+        "query": "202.79.47.194",
+        "response_time": 2.181657314300537
     }
 }
