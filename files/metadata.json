@@ -14,7 +14,41 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.9719786643981934
+        "response_time": 0.9318921566009521
+    },
+    "http://113.160.132.195:8080": {
+        "status": "success",
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "HN",
+        "regionName": "Hanoi",
+        "city": "Hanoi",
+        "zip": "100000",
+        "lat": 21.0184,
+        "lon": 105.8461,
+        "timezone": "Asia/Bangkok",
+        "isp": "VietNam Post and Telecom Corporation",
+        "org": "Vietnam Posts and Telecommunications Group",
+        "as": "AS45899 VNPT Corp",
+        "query": "113.160.132.195",
+        "response_time": 0.9507060050964355
+    },
+    "socks4://36.37.244.41:5678": {
+        "status": "success",
+        "country": "Cambodia",
+        "countryCode": "KH",
+        "region": "1",
+        "regionName": "Banteay Meanchey",
+        "city": "Sisophon",
+        "zip": "",
+        "lat": 13.5859,
+        "lon": 102.974,
+        "timezone": "Asia/Phnom_Penh",
+        "isp": "VIETTEL (CAMBODIA) PTE., LTD",
+        "org": "Viettel (cambodia) Pte., Ltd.",
+        "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
+        "query": "36.37.244.41",
+        "response_time": 2.0529136657714844
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5463602542877197
+        "response_time": 2.5633206367492676
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +82,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.1224043369293213
+        "response_time": 3.1945950984954834
     }
 }
