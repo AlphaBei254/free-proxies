@@ -1,21 +1,4 @@
 {
-    "socks4://97.105.12.186:4153": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "TX",
-        "regionName": "Texas",
-        "city": "Selma",
-        "zip": "78154",
-        "lat": 29.5857,
-        "lon": -98.3027,
-        "timezone": "America/Chicago",
-        "isp": "Spectrum",
-        "org": "Royal Express Inc",
-        "as": "AS11427 Charter Communications Inc",
-        "query": "97.105.12.186",
-        "response_time": 0.17907261848449707
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.21670222282409668
-    },
-    "http://65.108.203.37:28080": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "DC",
-        "regionName": "Washington, D.C.",
-        "city": "Washington",
-        "zip": "20146",
-        "lat": 38.9071,
-        "lon": -77.0368,
-        "timezone": "America/New_York",
-        "isp": "Opera Browser VPN",
-        "org": "Opera Software LLC",
-        "as": "AS205016 HERN Labs AB",
-        "query": "77.111.246.30",
-        "response_time": 0.3764340877532959
+        "response_time": 0.19937372207641602
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,7 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4644334316253662
+        "response_time": 0.38866162300109863
+    },
+    "socks5://46.147.65.44:61986": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "TA",
+        "regionName": "Tatarstan Republic",
+        "city": "Naberezhnyye Chelny",
+        "zip": "423800",
+        "lat": 55.7582,
+        "lon": 52.4302,
+        "timezone": "Europe/Moscow",
+        "isp": "CJSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
+        "org": "JSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
+        "as": "AS42116 JSC \"ER-Telecom Holding\"",
+        "query": "46.147.65.44",
+        "response_time": 0.8977236747741699
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,7 +65,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.746657133102417
+        "response_time": 1.102752923965454
     },
     "socks4://202.131.159.60:5678": {
         "status": "success",
@@ -99,6 +82,6 @@
         "org": "Ibus Virtual Network Services Private Limited",
         "as": "AS17443 Karuturi Telecom Pvt Ltd",
         "query": "202.131.159.60",
-        "response_time": 1.2918932437896729
+        "response_time": 1.202660083770752
     }
 }
