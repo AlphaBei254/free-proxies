@@ -1,21 +1,4 @@
 {
-    "socks4://69.36.63.128:1080": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "MI",
-        "regionName": "Michigan",
-        "city": "Greenville",
-        "zip": "48838",
-        "lat": 43.1772,
-        "lon": -85.2473,
-        "timezone": "America/Detroit",
-        "isp": "Point Broadband Fiber Holding, LLC",
-        "org": "Point Broadband Fiber Holding, LLC",
-        "as": "AS19310 Point Broadband Fiber Holding, LLC",
-        "query": "173.225.205.227",
-        "response_time": 0.17082571983337402
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,24 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.20444631576538086
+        "response_time": 0.2904384136199951
     },
-    "socks4://170.78.211.161:1080": {
+    "http://31.40.248.2:8080": {
         "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.3523068428039551
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "144700",
+        "lat": 55.7558,
+        "lon": 37.6173,
+        "timezone": "Europe/Moscow",
+        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
+        "org": "Cloud.ru",
+        "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
+        "query": "31.40.248.2",
+        "response_time": 0.5853395462036133
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,7 +48,41 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.35129523277282715
+        "response_time": 0.6132364273071289
+    },
+    "socks4://37.186.66.36:3629": {
+        "status": "success",
+        "country": "Armenia",
+        "countryCode": "AM",
+        "region": "ER",
+        "regionName": "Yerevan",
+        "city": "Yerevan",
+        "zip": "",
+        "lat": 40.1814,
+        "lon": 44.5102,
+        "timezone": "Asia/Yerevan",
+        "isp": "GNC-Alfa CJSC",
+        "org": "GNC",
+        "as": "AS49800 GNC-Alfa CJSC",
+        "query": "37.186.66.36",
+        "response_time": 0.8447799682617188
+    },
+    "socks4://198.0.198.132:54321": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "Berkeley",
+        "zip": "94703",
+        "lat": 37.8637,
+        "lon": -122.276,
+        "timezone": "America/Los_Angeles",
+        "isp": "Comcast Cable Communications",
+        "org": "SMX SM PUBLIC ARPRT DIST",
+        "as": "AS7922 Comcast Cable Communications, LLC",
+        "query": "198.0.198.132",
+        "response_time": 2.2511701583862305
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,40 +99,6 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.6735134124755859
-    },
-    "socks5://81.177.224.173:1337": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "STA",
-        "regionName": "Stavropol Kray",
-        "city": "Stavropol",
-        "zip": "355000",
-        "lat": 45.039,
-        "lon": 41.9632,
-        "timezone": "Europe/Moscow",
-        "isp": "OOO SET",
-        "org": "OOO Set network",
-        "as": "AS48176 OOO SET",
-        "query": "81.177.224.173",
-        "response_time": 2.081371784210205
-    },
-    "socks4://82.223.165.28:44432": {
-        "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 3.131319522857666
+        "response_time": 2.8137221336364746
     }
 }
