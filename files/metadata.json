@@ -14,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.26430249214172363
-    },
-    "http://116.203.139.209:5678": {
-        "status": "success",
-        "country": "Germany",
-        "countryCode": "DE",
-        "region": "BY",
-        "regionName": "Bavaria",
-        "city": "Nuremberg",
-        "zip": "90403",
-        "lat": 49.4527,
-        "lon": 11.0783,
-        "timezone": "Europe/Berlin",
-        "isp": "Hetzner Online GmbH",
-        "org": "Hetzner",
-        "as": "AS24940 Hetzner Online GmbH",
-        "query": "116.203.139.209",
-        "response_time": 0.28734898567199707
+        "response_time": 0.30852293968200684
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5130186080932617
-    },
-    "socks4://213.14.32.66:4153": {
-        "status": "success",
-        "country": "T\u00fcrkiye",
-        "countryCode": "TR",
-        "region": "34",
-        "regionName": "Istanbul",
-        "city": "Istanbul",
-        "zip": "34050",
-        "lat": 41.0642,
-        "lon": 28.923,
-        "timezone": "Europe/Istanbul",
-        "isp": "Superonline Iletisim Hizmetleri A.S.",
-        "org": "Hipernet Bilisim VE Telekomunikasyon Hizmetleri Sanayi VE Ticaret Limited",
-        "as": "AS34984 Superonline Iletisim Hizmetleri A.S.",
-        "query": "213.14.32.66",
-        "response_time": 0.5790700912475586
+        "response_time": 0.6441459655761719
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,23 +48,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8129310607910156
+        "response_time": 0.8715379238128662
     },
-    "socks4://200.214.154.135:4145": {
+    "socks4://195.175.22.194:5678": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "BA",
-        "regionName": "Bahia",
-        "city": "Salvador",
-        "zip": "40000",
-        "lat": -12.8665,
-        "lon": -38.4858,
-        "timezone": "America/Bahia",
-        "isp": "TELEF\u00d4NICA BRASIL S.A",
-        "org": "Global Village Telecom",
-        "as": "AS18881 TELEF\u00d4NICA BRASIL S.A",
-        "query": "177.99.160.98",
-        "response_time": 1.8371174335479736
+        "country": "T\u00fcrkiye",
+        "countryCode": "TR",
+        "region": "34",
+        "regionName": "Istanbul",
+        "city": "Istanbul",
+        "zip": "34096",
+        "lat": 41.0145,
+        "lon": 28.9533,
+        "timezone": "Europe/Istanbul",
+        "isp": "Turk Telekomunikasyon A.S",
+        "org": "TTnetTurkTelekom",
+        "as": "AS9121 Turk Telekomunikasyon Anonim Sirketi",
+        "query": "195.175.22.194",
+        "response_time": 1.7181403636932373
+    },
+    "socks4://1.4.195.114:4145": {
+        "status": "success",
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "10",
+        "regionName": "Bangkok",
+        "city": "Bangkok",
+        "zip": "10250",
+        "lat": 13.859,
+        "lon": 100.4772,
+        "timezone": "Asia/Bangkok",
+        "isp": "TOT Public Company Limited",
+        "org": "TOT Public Company Limited",
+        "as": "AS23969 TOT Public Company Limited",
+        "query": "1.4.195.114",
+        "response_time": 2.0069141387939453
     }
 }
