@@ -14,7 +14,7 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.2307126522064209
+        "response_time": 0.2697756290435791
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.49555420875549316
+        "response_time": 0.4881129264831543
+    },
+    "http://31.40.248.2:8080": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "144700",
+        "lat": 55.7558,
+        "lon": 37.6173,
+        "timezone": "Europe/Moscow",
+        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
+        "org": "Cloud.ru",
+        "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
+        "query": "31.40.248.2",
+        "response_time": 0.7175729274749756
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,7 +65,24 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.6648092269897461
+        "response_time": 0.7605347633361816
+    },
+    "http://65.108.203.37:28080": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "DC",
+        "regionName": "Washington, D.C.",
+        "city": "Washington",
+        "zip": "20146",
+        "lat": 38.9071,
+        "lon": -77.0368,
+        "timezone": "America/New_York",
+        "isp": "Opera Browser VPN",
+        "org": "Opera Software LLC",
+        "as": "AS205016 HERN Labs AB",
+        "query": "77.111.246.30",
+        "response_time": 0.7666783332824707
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,57 +99,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 1.0028507709503174
+        "response_time": 1.1382980346679688
     },
-    "socks4://103.197.32.205:5678": {
+    "socks4://202.131.246.250:5678": {
         "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "TN",
-        "regionName": "Tamil Nadu",
-        "city": "Perambalur",
-        "zip": "621212",
-        "lat": 11.2269,
-        "lon": 78.885,
-        "timezone": "Asia/Kolkata",
-        "isp": "ZERONE Networks pvt ltd",
-        "org": "ZERONE Networks pvt ltd",
-        "as": "AS134260 ZERONE Networks pvt ltd",
-        "query": "103.197.32.205",
-        "response_time": 1.1419060230255127
+        "country": "Mongolia",
+        "countryCode": "MN",
+        "region": "1",
+        "regionName": "Ulaanbaatar",
+        "city": "Ulan Bator",
+        "zip": "",
+        "lat": 47.9094,
+        "lon": 106.8819,
+        "timezone": "Asia/Ulaanbaatar",
+        "isp": "Mobinet LLC",
+        "org": "MOBINET-LL",
+        "as": "AS9484 Mobinet LLC. AS Mobinet Internet Service Provider",
+        "query": "202.131.246.250",
+        "response_time": 2.1726531982421875
     },
-    "socks4://195.175.22.194:5678": {
+    "socks4://103.229.83.106:6789": {
         "status": "success",
-        "country": "T\u00fcrkiye",
-        "countryCode": "TR",
-        "region": "34",
-        "regionName": "Istanbul",
-        "city": "Istanbul",
-        "zip": "34096",
-        "lat": 41.0145,
-        "lon": 28.9533,
-        "timezone": "Europe/Istanbul",
-        "isp": "Turk Telekomunikasyon A.S",
-        "org": "TTnetTurkTelekom",
-        "as": "AS9121 Turk Telekomunikasyon Anonim Sirketi",
-        "query": "195.175.22.194",
-        "response_time": 1.5552973747253418
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Dhaka",
+        "zip": "1208",
+        "lat": 23.7643,
+        "lon": 90.4155,
+        "timezone": "Asia/Dhaka",
+        "isp": "Fiber@Home Global Limited",
+        "org": "Bismillah Telecom",
+        "as": "AS10075 Fiber@Home Global Limited",
+        "query": "103.131.156.90",
+        "response_time": 3.120112657546997
     },
-    "http://47.252.29.28:11222": {
+    "socks4://82.223.165.28:44432": {
         "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "30",
-        "regionName": "Kyiv City",
-        "city": "Kyiv",
-        "zip": "01010",
-        "lat": 50.4443,
-        "lon": 30.5108,
-        "timezone": "Europe/Kiev",
-        "isp": "Cogent Communications",
-        "org": "JSC \"Ukrtelecom\"",
-        "as": "AS174 Cogent Communications",
-        "query": "91.124.100.116",
-        "response_time": 1.969240665435791
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
+        "org": "",
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 5.117652893066406
     }
 }
