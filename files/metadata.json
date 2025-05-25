@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.20264053344726562
+        "response_time": 0.2028360366821289
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3388357162475586
-    },
-    "socks4://213.6.68.210:4145": {
-        "status": "success",
-        "country": "Palestine",
-        "countryCode": "PS",
-        "region": "NBS",
-        "regionName": "Nablus Governorate",
-        "city": "Nablus",
-        "zip": "",
-        "lat": 32.2207,
-        "lon": 35.2542,
-        "timezone": "Asia/Hebron",
-        "isp": "Palestine Telecommunications Company",
-        "org": "Palestine Telecommunications Company",
-        "as": "AS12975 Palestine Telecommunications Company (PALTEL)",
-        "query": "213.6.68.210",
-        "response_time": 0.5483391284942627
+        "response_time": 0.3658573627471924
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,91 +48,6 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.735468864440918
-    },
-    "socks4://118.174.14.65:44336": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "32",
-        "regionName": "Surin",
-        "city": "Tha Tum",
-        "zip": "",
-        "lat": 15.3195,
-        "lon": 103.675,
-        "timezone": "Asia/Bangkok",
-        "isp": "TOT Public Company Limited",
-        "org": "TOT Public Company Limited",
-        "as": "AS23969 TOT Public Company Limited",
-        "query": "118.174.219.120",
-        "response_time": 1.080791711807251
-    },
-    "socks4://51.158.70.181:16379": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "IL",
-        "regionName": "Illinois",
-        "city": "Chicago",
-        "zip": "60666",
-        "lat": 41.8781,
-        "lon": -87.6298,
-        "timezone": "America/Chicago",
-        "isp": "IONOS SE",
-        "org": "IONOS Inc",
-        "as": "AS8560 IONOS SE",
-        "query": "209.46.120.81",
-        "response_time": 1.6872611045837402
-    },
-    "socks4://91.147.235.99:4145": {
-        "status": "success",
-        "country": "Hungary",
-        "countryCode": "HU",
-        "region": "HB",
-        "regionName": "Hajd\u00fa-Bihar",
-        "city": "Debrecen",
-        "zip": "4031",
-        "lat": 47.5232,
-        "lon": 21.6334,
-        "timezone": "Europe/Budapest",
-        "isp": "Magyar Telekom plc.",
-        "org": "Portal LLC",
-        "as": "AS5483 Magyar Telekom Plc.",
-        "query": "91.147.235.65",
-        "response_time": 2.4816668033599854
-    },
-    "socks4://62.201.212.198:4673": {
-        "status": "success",
-        "country": "Iraq",
-        "countryCode": "IQ",
-        "region": "SU",
-        "regionName": "Sulaymaniyah",
-        "city": "Sulaymaniyah",
-        "zip": "",
-        "lat": 35.565,
-        "lon": 45.4329,
-        "timezone": "Asia/Baghdad",
-        "isp": "NETWORKS-SULY1",
-        "org": "",
-        "as": "AS44217 IQ Networks for Data and Internet Services Ltd",
-        "query": "62.201.212.198",
-        "response_time": 2.6902518272399902
-    },
-    "socks4://212.47.248.107:16379": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "NJ",
-        "regionName": "New Jersey",
-        "city": "Secaucus",
-        "zip": "07094",
-        "lat": 40.7876,
-        "lon": -74.06,
-        "timezone": "America/New_York",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.139.50.202",
-        "response_time": 4.50398325920105
+        "response_time": 0.6617779731750488
     }
 }
