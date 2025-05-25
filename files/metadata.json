@@ -1,21 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.24179482460021973
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.265655517578125
+        "response_time": 0.2878444194793701
+    },
+    "socks4://69.36.63.128:1080": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "MI",
+        "regionName": "Michigan",
+        "city": "Greenville",
+        "zip": "48838",
+        "lat": 43.1772,
+        "lon": -85.2473,
+        "timezone": "America/Detroit",
+        "isp": "Point Broadband Fiber Holding, LLC",
+        "org": "Point Broadband Fiber Holding, LLC",
+        "as": "AS19310 Point Broadband Fiber Holding, LLC",
+        "query": "173.225.205.227",
+        "response_time": 0.29090404510498047
     },
     "http://31.40.248.2:8080": {
         "status": "success",
@@ -48,7 +48,7 @@
         "org": "Cloud.ru",
         "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.40562939643859863
+        "response_time": 0.4701707363128662
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,7 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5024588108062744
+        "response_time": 0.6519320011138916
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,40 +82,57 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7611117362976074
+        "response_time": 0.8615903854370117
     },
-    "socks4://61.7.147.227:4145": {
+    "socks4://36.37.244.41:5678": {
         "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "10",
-        "regionName": "Bangkok",
-        "city": "Bangkok",
-        "zip": "10120",
-        "lat": 13.7101,
-        "lon": 100.4543,
-        "timezone": "Asia/Bangkok",
-        "isp": "CAT Telecom Public Company Limited",
-        "org": "National Telecom Public Company Limited",
-        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
-        "query": "61.7.147.227",
-        "response_time": 0.984900712966919
+        "country": "Cambodia",
+        "countryCode": "KH",
+        "region": "1",
+        "regionName": "Banteay Meanchey",
+        "city": "Sisophon",
+        "zip": "",
+        "lat": 13.5859,
+        "lon": 102.974,
+        "timezone": "Asia/Phnom_Penh",
+        "isp": "VIETTEL (CAMBODIA) PTE., LTD",
+        "org": "Viettel (cambodia) Pte., Ltd.",
+        "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
+        "query": "36.37.244.41",
+        "response_time": 0.8949580192565918
     },
-    "socks4://163.172.176.95:16379": {
+    "socks4://27.115.33.94:4153": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "IL",
-        "regionName": "Illinois",
-        "city": "Chicago",
-        "zip": "60666",
-        "lat": 41.8781,
-        "lon": -87.6298,
-        "timezone": "America/Chicago",
-        "isp": "IONOS SE",
-        "org": "IONOS Inc",
-        "as": "AS8560 IONOS SE",
-        "query": "209.46.120.81",
-        "response_time": 5.309214115142822
+        "country": "China",
+        "countryCode": "CN",
+        "region": "SH",
+        "regionName": "Shanghai",
+        "city": "Shanghai",
+        "zip": "",
+        "lat": 31.2222,
+        "lon": 121.4581,
+        "timezone": "Asia/Shanghai",
+        "isp": "China Unicom Shanghai Province Network",
+        "org": "",
+        "as": "AS17621 China Unicom Shanghai network",
+        "query": "27.115.33.94",
+        "response_time": 1.189544677734375
+    },
+    "socks4://31.209.98.18:51688": {
+        "status": "success",
+        "country": "T\u00fcrkiye",
+        "countryCode": "TR",
+        "region": "33",
+        "regionName": "Mersin",
+        "city": "Mersin",
+        "zip": "33940",
+        "lat": 36.812,
+        "lon": 34.6389,
+        "timezone": "Europe/Istanbul",
+        "isp": "Netonline Bilisim Sirketi LTD",
+        "org": "Multimax",
+        "as": "AS44558 Netonline Bilisim Sirketi LTD",
+        "query": "31.209.98.18",
+        "response_time": 2.7440130710601807
     }
 }
