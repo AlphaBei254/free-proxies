@@ -14,24 +14,24 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8693935871124268
+        "response_time": 0.8220164775848389
     },
-    "socks4://103.197.32.205:5678": {
+    "socks4://61.7.147.227:4145": {
         "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "TN",
-        "regionName": "Tamil Nadu",
-        "city": "Perambalur",
-        "zip": "621212",
-        "lat": 11.2269,
-        "lon": 78.885,
-        "timezone": "Asia/Kolkata",
-        "isp": "ZERONE Networks pvt ltd",
-        "org": "ZERONE Networks pvt ltd",
-        "as": "AS134260 ZERONE Networks pvt ltd",
-        "query": "103.197.32.205",
-        "response_time": 1.2436017990112305
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "10",
+        "regionName": "Bangkok",
+        "city": "Bangkok",
+        "zip": "10120",
+        "lat": 13.7101,
+        "lon": 100.4543,
+        "timezone": "Asia/Bangkok",
+        "isp": "CAT Telecom Public Company Limited",
+        "org": "National Telecom Public Company Limited",
+        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
+        "query": "61.7.147.227",
+        "response_time": 0.8991107940673828
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.3438761234283447
-    },
-    "socks4://202.79.47.194:1080": {
-        "status": "success",
-        "country": "Nepal",
-        "countryCode": "NP",
-        "region": "P3",
-        "regionName": "Bagmati Province",
-        "city": "Kathmandu",
-        "zip": "",
-        "lat": 27.7017,
-        "lon": 85.3206,
-        "timezone": "Asia/Kathmandu",
-        "isp": "WorldLink Communications",
-        "org": "",
-        "as": "AS17501 WorldLink Communications Pvt Ltd",
-        "query": "202.79.47.194",
-        "response_time": 2.3675718307495117
+        "response_time": 1.3305168151855469
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +65,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.6452338695526123
+        "response_time": 1.6339550018310547
+    },
+    "socks4://37.186.66.36:3629": {
+        "status": "success",
+        "country": "Armenia",
+        "countryCode": "AM",
+        "region": "ER",
+        "regionName": "Yerevan",
+        "city": "Yerevan",
+        "zip": "",
+        "lat": 40.1814,
+        "lon": 44.5102,
+        "timezone": "Asia/Yerevan",
+        "isp": "GNC-Alfa CJSC",
+        "org": "GNC",
+        "as": "AS49800 GNC-Alfa CJSC",
+        "query": "37.186.66.36",
+        "response_time": 2.8979990482330322
+    },
+    "socks4://51.158.125.47:16379": {
+        "status": "success",
+        "country": "Antarctica",
+        "countryCode": "AQ",
+        "region": "",
+        "regionName": "",
+        "city": "Kunlun",
+        "zip": "",
+        "lat": -72.0114,
+        "lon": 2.535,
+        "timezone": "Antarctica/Vostok",
+        "isp": "QuxLabs AB",
+        "org": "R0CKET-CLOUD",
+        "as": "AS214503 QuxLabs AB",
+        "query": "45.84.107.17",
+        "response_time": 2.940657615661621
     }
 }
