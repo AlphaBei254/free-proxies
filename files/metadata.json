@@ -14,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5115454196929932
-    },
-    "http://62.33.53.248:3128": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "SA",
-        "regionName": "Sakha",
-        "city": "Yakutsk",
-        "zip": "677000",
-        "lat": 62.0313,
-        "lon": 129.7325,
-        "timezone": "Asia/Yakutsk",
-        "isp": "TRANS-TELECOM",
-        "org": "",
-        "as": "AS20485 Joint Stock Company TransTeleCom",
-        "query": "62.33.53.248",
-        "response_time": 0.6604349613189697
+        "response_time": 0.5048308372497559
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,7 +31,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8322134017944336
+        "response_time": 0.9200942516326904
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,57 +48,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 1.1228888034820557
+        "response_time": 1.0545520782470703
     },
-    "socks4://61.7.147.227:4145": {
+    "socks4://163.172.176.95:16379": {
         "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "10",
-        "regionName": "Bangkok",
-        "city": "Bangkok",
-        "zip": "10120",
-        "lat": 13.7101,
-        "lon": 100.4543,
-        "timezone": "Asia/Bangkok",
-        "isp": "CAT Telecom Public Company Limited",
-        "org": "National Telecom Public Company Limited",
-        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
-        "query": "61.7.147.227",
-        "response_time": 2.0072407722473145
-    },
-    "socks4://197.232.47.122:5678": {
-        "status": "success",
-        "country": "Kenya",
-        "countryCode": "KE",
+        "country": "Ukraine",
+        "countryCode": "UA",
         "region": "30",
-        "regionName": "Nairobi County",
-        "city": "Nairobi",
-        "zip": "09831",
-        "lat": -1.2841,
-        "lon": 36.8155,
-        "timezone": "Africa/Nairobi",
-        "isp": "Jamii Telecommunications Limited",
-        "org": "FAIBA",
-        "as": "AS36866 Jamii Telecommunications Limited",
-        "query": "197.232.47.122",
-        "response_time": 2.0564310550689697
+        "regionName": "Kyiv City",
+        "city": "Kyiv",
+        "zip": "04116",
+        "lat": 50.458,
+        "lon": 30.5303,
+        "timezone": "Europe/Kyiv",
+        "isp": "Epinatura LLC",
+        "org": "",
+        "as": "AS207656 Epinatura LLC",
+        "query": "193.218.118.156",
+        "response_time": 2.3878347873687744
     },
-    "socks5://51.158.113.139:16379": {
+    "http://200.174.198.86:8888": {
         "status": "success",
-        "country": "Germany",
-        "countryCode": "DE",
-        "region": "BY",
-        "regionName": "Bavaria",
-        "city": "Ha\u00dffurt",
-        "zip": "97437",
-        "lat": 50.0263,
-        "lon": 10.5157,
-        "timezone": "Europe/Berlin",
-        "isp": "F3 Netze e.V.",
-        "org": "F3 Netze e.V",
-        "as": "AS205100 F3 Netze e.V.",
-        "query": "185.220.100.254",
-        "response_time": 2.6917898654937744
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.205",
+        "response_time": 2.4542601108551025
     }
 }
