@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.25992751121520996
+        "response_time": 0.20925092697143555
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5671782493591309
+        "response_time": 0.4029099941253662
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,40 +48,23 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7770297527313232
+        "response_time": 0.7865490913391113
     },
-    "socks4://5.58.47.25:3629": {
+    "socks4://116.118.98.10:5678": {
         "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "61",
-        "regionName": "Ternopil Oblast",
-        "city": "Ternopil",
-        "zip": "46001",
-        "lat": 49.5535,
-        "lon": 25.5947,
-        "timezone": "Europe/Kiev",
-        "isp": "Columbus",
-        "org": "Lanet Network Ltd",
-        "as": "AS16223 MAXNET TELECOM, LTD",
-        "query": "5.58.47.25",
-        "response_time": 1.5666368007659912
-    },
-    "socks4://109.248.236.150:60606": {
-        "status": "success",
-        "country": "Kazakhstan",
-        "countryCode": "KZ",
-        "region": "39",
-        "regionName": "Qostanay Oblysy",
-        "city": "Kostanay",
-        "zip": "",
-        "lat": 53.2123,
-        "lon": 63.6281,
-        "timezone": "Asia/Qostanay",
-        "isp": "Uplink LLC",
-        "org": "Uplink LLC",
-        "as": "AS8200 Uplink LLC",
-        "query": "109.248.236.150",
-        "response_time": 2.3027074337005615
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "SG",
+        "regionName": "Ho Chi Minh",
+        "city": "Ho Chi Minh City",
+        "zip": "700000",
+        "lat": 10.822,
+        "lon": 106.6257,
+        "timezone": "Asia/Ho_Chi_Minh",
+        "isp": "SPT",
+        "org": "",
+        "as": "AS7602 Sai gon Postel Corporation",
+        "query": "116.118.98.10",
+        "response_time": 1.0929765701293945
     }
 }
