@@ -1,4 +1,21 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.24179482460021973
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.21551227569580078
+        "response_time": 0.265655517578125
     },
     "http://31.40.248.2:8080": {
         "status": "success",
@@ -31,24 +48,7 @@
         "org": "Cloud.ru",
         "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.3648219108581543
-    },
-    "socks4://190.144.224.182:44550": {
-        "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "DC",
-        "regionName": "Bogota D.C.",
-        "city": "Bogot\u00e1",
-        "zip": "111411",
-        "lat": 4.6115,
-        "lon": -74.0833,
-        "timezone": "America/Bogota",
-        "isp": "Telmex Colombia S.A.",
-        "org": "Telmex Colombia S.A.",
-        "as": "AS14080 Telmex Colombia S.A.",
-        "query": "190.144.224.182",
-        "response_time": 0.3828866481781006
+        "response_time": 0.40562939643859863
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,24 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4091193675994873
-    },
-    "socks5://91.121.173.38:54233": {
-        "status": "success",
-        "country": "France",
-        "countryCode": "FR",
-        "region": "HDF",
-        "regionName": "Hauts-de-France",
-        "city": "Roubaix",
-        "zip": "59100",
-        "lat": 50.6918,
-        "lon": 3.2021,
-        "timezone": "Europe/Paris",
-        "isp": "OVH SAS",
-        "org": "OVH ISP",
-        "as": "AS16276 OVH SAS",
-        "query": "91.121.173.38",
-        "response_time": 0.5504722595214844
+        "response_time": 0.5024588108062744
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -99,74 +82,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.926846981048584
+        "response_time": 0.7611117362976074
     },
-    "http://113.160.132.195:8080": {
+    "socks4://61.7.147.227:4145": {
         "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "HN",
-        "regionName": "Hanoi",
-        "city": "Hanoi",
-        "zip": "100000",
-        "lat": 21.0184,
-        "lon": 105.8461,
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "10",
+        "regionName": "Bangkok",
+        "city": "Bangkok",
+        "zip": "10120",
+        "lat": 13.7101,
+        "lon": 100.4543,
         "timezone": "Asia/Bangkok",
-        "isp": "VietNam Post and Telecom Corporation",
-        "org": "Vietnam Posts and Telecommunications Group",
-        "as": "AS45899 VNPT Corp",
-        "query": "113.160.132.195",
-        "response_time": 0.9637057781219482
+        "isp": "CAT Telecom Public Company Limited",
+        "org": "National Telecom Public Company Limited",
+        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
+        "query": "61.7.147.227",
+        "response_time": 0.984900712966919
     },
-    "socks4://64.124.191.98:32688": {
+    "socks4://163.172.176.95:16379": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
-        "region": "PA",
-        "regionName": "Pennsylvania",
-        "city": "Conshohocken",
-        "zip": "19428",
-        "lat": 40.0864,
-        "lon": -75.2931,
-        "timezone": "America/New_York",
-        "isp": "Zayo Bandwidth",
-        "org": "Web Werks",
-        "as": "AS6461 Zayo Bandwidth",
-        "query": "64.124.191.98",
-        "response_time": 1.159205675125122
-    },
-    "socks4://91.121.173.38:54233": {
-        "status": "success",
-        "country": "France",
-        "countryCode": "FR",
-        "region": "HDF",
-        "regionName": "Hauts-de-France",
-        "city": "Roubaix",
-        "zip": "59100",
-        "lat": 50.6918,
-        "lon": 3.2021,
-        "timezone": "Europe/Paris",
-        "isp": "OVH SAS",
-        "org": "OVH ISP",
-        "as": "AS16276 OVH SAS",
-        "query": "91.121.173.38",
-        "response_time": 1.6475343704223633
-    },
-    "socks4://170.245.248.45:60606": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "city": "Goi\u00e2nia",
-        "zip": "74000",
-        "lat": -16.6802,
-        "lon": -49.2564,
-        "timezone": "America/Sao_Paulo",
-        "isp": "T.A.LUIZ ELETRONICO LTDA - ME",
-        "org": "T.A.LUIZ ELETRONICO LTDA - ME",
-        "as": "AS266032 T.A.LUIZ ELETRONICO LTDA - ME",
-        "query": "170.245.250.186",
-        "response_time": 1.7852003574371338
+        "region": "IL",
+        "regionName": "Illinois",
+        "city": "Chicago",
+        "zip": "60666",
+        "lat": 41.8781,
+        "lon": -87.6298,
+        "timezone": "America/Chicago",
+        "isp": "IONOS SE",
+        "org": "IONOS Inc",
+        "as": "AS8560 IONOS SE",
+        "query": "209.46.120.81",
+        "response_time": 5.309214115142822
     }
 }
