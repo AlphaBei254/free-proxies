@@ -14,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.18578815460205078
+        "response_time": 0.2064037322998047
+    },
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.21299409866333008
     },
     "http://31.40.248.2:8080": {
         "status": "success",
@@ -31,7 +48,7 @@
         "org": "Cloud.ru",
         "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.3251228332519531
+        "response_time": 0.3906056880950928
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.40553808212280273
+        "response_time": 0.40872836112976074
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,40 +82,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7425286769866943
+        "response_time": 0.8357477188110352
     },
-    "socks4://93.117.72.27:55770": {
+    "socks4://45.126.169.233:4145": {
         "status": "success",
-        "country": "Moldova",
-        "countryCode": "MD",
-        "region": "CU",
-        "regionName": "Chi\u0219in\u0103u Municipality",
-        "city": "Ciorescu",
-        "zip": "MD-2089",
-        "lat": 47.1349,
-        "lon": 28.8816,
-        "timezone": "Europe/Chisinau",
-        "isp": "Moldtelecom SA",
-        "org": "JSC Moldtelecom S.A.",
-        "as": "AS8926 Moldtelecom SA",
-        "query": "93.117.72.27",
-        "response_time": 1.4827795028686523
+        "country": "India",
+        "countryCode": "IN",
+        "region": "MH",
+        "regionName": "Maharashtra",
+        "city": "Mumbai",
+        "zip": "400104",
+        "lat": 19.0748,
+        "lon": 72.8856,
+        "timezone": "Asia/Kolkata",
+        "isp": "NET 4 U SERVICES PVT LTD",
+        "org": "NET 4 U Services PVT LTD",
+        "as": "AS134014 NET 4 U SERVICES PVT LTD",
+        "query": "103.59.200.26",
+        "response_time": 1.1783080101013184
     },
-    "socks4://125.87.80.85:2324": {
+    "socks4://118.174.14.65:44336": {
         "status": "success",
-        "country": "China",
-        "countryCode": "CN",
-        "region": "CQ",
-        "regionName": "Chongqing",
-        "city": "Chongqing",
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "32",
+        "regionName": "Surin",
+        "city": "Tha Tum",
         "zip": "",
-        "lat": 29.5657,
-        "lon": 106.551,
-        "timezone": "Asia/Shanghai",
-        "isp": "China Telecom",
-        "org": "",
-        "as": "AS4134 CHINANET-BACKBONE",
-        "query": "125.87.80.85",
-        "response_time": 3.1502368450164795
+        "lat": 15.3195,
+        "lon": 103.675,
+        "timezone": "Asia/Bangkok",
+        "isp": "TOT Public Company Limited",
+        "org": "TOT Public Company Limited",
+        "as": "AS23969 TOT Public Company Limited",
+        "query": "118.174.219.120",
+        "response_time": 2.1201670169830322
     }
 }
