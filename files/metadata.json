@@ -1,4 +1,38 @@
 {
+    "socks5://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.4535238742828369
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.173",
+        "response_time": 0.5859723091125488
+    },
     "socks4://172.233.14.116:1080": {
         "status": "success",
         "country": "Brazil",
@@ -14,7 +48,24 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.6856446266174316
+        "response_time": 2.052401542663574
+    },
+    "socks5://8.218.39.40:10800": {
+        "status": "success",
+        "country": "Hong Kong",
+        "countryCode": "HK",
+        "region": "",
+        "regionName": "Kowloon",
+        "city": "Hong Kong",
+        "zip": "999077",
+        "lat": 22.3193,
+        "lon": 114.169,
+        "timezone": "Asia/Hong_Kong",
+        "isp": "Alibaba (US) Technology Co., Ltd.",
+        "org": "Alibaba.com Singapore E-Commerce Private Limited",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "8.218.39.40",
+        "response_time": 2.153411865234375
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,40 +82,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2748830318450928
-    },
-    "socks5://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 2.402737617492676
-    },
-    "socks4://82.223.165.28:44432": {
-        "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 4.2670979499816895
+        "response_time": 2.2432966232299805
     }
 }
