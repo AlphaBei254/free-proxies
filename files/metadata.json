@@ -1,4 +1,21 @@
 {
+    "http://31.40.248.2:8080": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "144700",
+        "lat": 55.7558,
+        "lon": 37.6173,
+        "timezone": "Europe/Moscow",
+        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
+        "org": "Cloud.ru",
+        "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
+        "query": "31.40.248.2",
+        "response_time": 0.5342674255371094
+    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,24 +31,41 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5875058174133301
+        "response_time": 0.6013503074645996
     },
-    "socks4://180.180.124.248:49992": {
+    "http://200.174.198.86:8888": {
         "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "21",
-        "regionName": "Rayong",
-        "city": "Rayong",
-        "zip": "21180",
-        "lat": 12.8139,
-        "lon": 101.308,
-        "timezone": "Asia/Bangkok",
-        "isp": "TOT Public Company Limited",
-        "org": "TOT Public Company Limited",
-        "as": "AS23969 TOT Public Company Limited",
-        "query": "180.180.124.248",
-        "response_time": 2.001145839691162
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.96",
+        "response_time": 0.6549746990203857
+    },
+    "socks4://90.182.147.170:4145": {
+        "status": "success",
+        "country": "Czechia",
+        "countryCode": "CZ",
+        "region": "10",
+        "regionName": "Prague",
+        "city": "Prague",
+        "zip": "170 00",
+        "lat": 50.1113,
+        "lon": 14.4063,
+        "timezone": "Europe/Prague",
+        "isp": "O2 Czech Republic",
+        "org": "CZ.CZNET",
+        "as": "AS5610 O2 Czech Republic, a.s.",
+        "query": "90.182.147.170",
+        "response_time": 1.8024754524230957
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +82,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.398052453994751
+        "response_time": 2.3888797760009766
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,23 +99,6 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 2.4065632820129395
-    },
-    "http://47.252.29.28:11222": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "NY",
-        "regionName": "New York",
-        "city": "New York",
-        "zip": "10123",
-        "lat": 40.7128,
-        "lon": -74.006,
-        "timezone": "America/New_York",
-        "isp": "Datacamp Limited",
-        "org": "Internet Utilities Europe and Asia Limited",
-        "as": "AS212238 Datacamp Limited",
-        "query": "178.253.13.57",
-        "response_time": 2.5162858963012695
+        "response_time": 2.9338417053222656
     }
 }
