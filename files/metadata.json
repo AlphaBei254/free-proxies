@@ -1,21 +1,4 @@
 {
-    "http://31.40.248.2:8080": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.6095266342163086
-    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6027443408966064
+        "response_time": 0.3543546199798584
+    },
+    "http://62.33.53.248:3128": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "SA",
+        "regionName": "Sakha",
+        "city": "Yakutsk",
+        "zip": "677000",
+        "lat": 62.0313,
+        "lon": 129.7325,
+        "timezone": "Asia/Yakutsk",
+        "isp": "TRANS-TELECOM",
+        "org": "",
+        "as": "AS20485 Joint Stock Company TransTeleCom",
+        "query": "62.33.53.248",
+        "response_time": 1.0099568367004395
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +48,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.361252546310425
-    },
-    "socks4://27.123.254.158:6969": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "H",
-        "regionName": "Mymensingh Division",
-        "city": "Purbadhala",
-        "zip": "",
-        "lat": 24.9408,
-        "lon": 90.6003,
-        "timezone": "Asia/Dhaka",
-        "isp": "Kazi Sazzad Hossain T/A Millennium Computers & Networking",
-        "org": "Millennium Computers & Networking",
-        "as": "AS134113 Kazi Sazzad Hossain T/A Millennium Computers & Networking",
-        "query": "27.123.254.158",
-        "response_time": 3.1502487659454346
+        "response_time": 1.2242388725280762
     }
 }
