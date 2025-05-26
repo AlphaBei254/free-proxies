@@ -1,21 +1,4 @@
 {
-    "socks4://200.29.109.112:14888": {
-        "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "VAC",
-        "regionName": "Valle del Cauca Department",
-        "city": "Santiago de Cali",
-        "zip": "760002",
-        "lat": 3.4385,
-        "lon": -76.523,
-        "timezone": "America/Bogota",
-        "isp": "Empresas Municipales De Cali E.i.c.e. E.S.P.",
-        "org": "EMCALI - RANGOS FIJOS PPPoE",
-        "as": "AS10299 EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.",
-        "query": "200.29.109.112",
-        "response_time": 0.6037790775299072
-    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,41 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6045477390289307
+        "response_time": 0.5875058174133301
     },
-    "socks4://213.14.32.66:4153": {
+    "socks4://180.180.124.248:49992": {
         "status": "success",
-        "country": "T\u00fcrkiye",
-        "countryCode": "TR",
-        "region": "34",
-        "regionName": "Istanbul",
-        "city": "Istanbul",
-        "zip": "34050",
-        "lat": 41.0642,
-        "lon": 28.923,
-        "timezone": "Europe/Istanbul",
-        "isp": "Superonline Iletisim Hizmetleri A.S.",
-        "org": "Hipernet Bilisim VE Telekomunikasyon Hizmetleri Sanayi VE Ticaret Limited",
-        "as": "AS34984 Superonline Iletisim Hizmetleri A.S.",
-        "query": "213.14.32.66",
-        "response_time": 0.6966648101806641
-    },
-    "socks5://8.218.39.40:10800": {
-        "status": "success",
-        "country": "Hong Kong",
-        "countryCode": "HK",
-        "region": "",
-        "regionName": "Kowloon",
-        "city": "Hong Kong",
-        "zip": "999077",
-        "lat": 22.3193,
-        "lon": 114.169,
-        "timezone": "Asia/Hong_Kong",
-        "isp": "Alibaba (US) Technology Co., Ltd.",
-        "org": "Alibaba.com Singapore E-Commerce Private Limited",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "8.218.39.40",
-        "response_time": 0.9254376888275146
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "21",
+        "regionName": "Rayong",
+        "city": "Rayong",
+        "zip": "21180",
+        "lat": 12.8139,
+        "lon": 101.308,
+        "timezone": "Asia/Bangkok",
+        "isp": "TOT Public Company Limited",
+        "org": "TOT Public Company Limited",
+        "as": "AS23969 TOT Public Company Limited",
+        "query": "180.180.124.248",
+        "response_time": 2.001145839691162
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +48,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4085793495178223
+        "response_time": 2.398052453994751
+    },
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 2.4065632820129395
+    },
+    "http://47.252.29.28:11222": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NY",
+        "regionName": "New York",
+        "city": "New York",
+        "zip": "10123",
+        "lat": 40.7128,
+        "lon": -74.006,
+        "timezone": "America/New_York",
+        "isp": "Datacamp Limited",
+        "org": "Internet Utilities Europe and Asia Limited",
+        "as": "AS212238 Datacamp Limited",
+        "query": "178.253.13.57",
+        "response_time": 2.5162858963012695
     }
 }
