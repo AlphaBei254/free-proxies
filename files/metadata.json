@@ -1,4 +1,21 @@
 {
+    "http://31.40.248.2:8080": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "144700",
+        "lat": 55.7558,
+        "lon": 37.6173,
+        "timezone": "Europe/Moscow",
+        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
+        "org": "Cloud.ru",
+        "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
+        "query": "31.40.248.2",
+        "response_time": 0.5363421440124512
+    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,58 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.35040783882141113
-    },
-    "socks4://80.92.224.141:5678": {
-        "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "30",
-        "regionName": "Kyiv City",
-        "city": "Kyiv",
-        "zip": "02063",
-        "lat": 50.458,
-        "lon": 30.5303,
-        "timezone": "Europe/Kyiv",
-        "isp": "WNET TELECOM USA Corp.",
-        "org": "LoadMe",
-        "as": "AS1820 WNET TELECOM USA Corp.",
-        "query": "80.92.224.141",
-        "response_time": 0.4313206672668457
-    },
-    "socks4://82.223.165.28:44432": {
-        "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 0.9059443473815918
-    },
-    "socks4://116.118.98.10:5678": {
-        "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "SG",
-        "regionName": "Ho Chi Minh",
-        "city": "Ho Chi Minh City",
-        "zip": "700000",
-        "lat": 10.822,
-        "lon": 106.6257,
-        "timezone": "Asia/Ho_Chi_Minh",
-        "isp": "SPT",
-        "org": "",
-        "as": "AS7602 Sai gon Postel Corporation",
-        "query": "116.118.98.10",
-        "response_time": 1.1601166725158691
+        "response_time": 1.4675862789154053
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,24 +48,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.4032247066497803
-    },
-    "socks4://27.147.221.140:5678": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "K\u0101frul",
-        "zip": "1207",
-        "lat": 23.7882,
-        "lon": 90.3736,
-        "timezone": "Asia/Dhaka",
-        "isp": "Link3 Technologies Limited",
-        "org": "Retail Subscriber",
-        "as": "AS23688 Link3 Technologies Ltd.",
-        "query": "27.147.221.140",
-        "response_time": 2.19577956199646
+        "response_time": 2.141547441482544
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -116,24 +65,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.244354248046875
-    },
-    "socks4://103.83.36.1:5678": {
-        "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "MH",
-        "regionName": "Maharashtra",
-        "city": "Mumbai",
-        "zip": "400001",
-        "lat": 19.1189,
-        "lon": 72.9119,
-        "timezone": "Asia/Kolkata",
-        "isp": "Yotta Network Services Private Limited",
-        "org": "Yotta Network Services Private Limited",
-        "as": "AS140641 YOTTA NETWORK SERVICES PRIVATE LIMITED",
-        "query": "203.112.134.74",
-        "response_time": 2.22237229347229
+        "response_time": 2.2709972858428955
     },
     "http://200.174.198.86:8888": {
         "status": "success",
@@ -149,7 +81,41 @@
         "isp": "Claro S.A",
         "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
         "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.219",
-        "response_time": 2.3072011470794678
+        "query": "200.174.198.134",
+        "response_time": 2.3352861404418945
+    },
+    "socks4://185.132.1.221:4145": {
+        "status": "success",
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "51",
+        "regionName": "Odessa",
+        "city": "Odesa",
+        "zip": "65000",
+        "lat": 46.4752,
+        "lon": 30.7338,
+        "timezone": "Europe/Kyiv",
+        "isp": "Miratel Ltd",
+        "org": "Miratel Ltd",
+        "as": "AS203447 Miratel Ltd",
+        "query": "185.132.1.221",
+        "response_time": 2.544588327407837
+    },
+    "socks4://82.223.165.28:44432": {
+        "status": "success",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
+        "org": "",
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 4.3608410358428955
     }
 }
