@@ -1,38 +1,4 @@
 {
-    "http://31.40.248.2:8080": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.42755675315856934
-    },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.242",
-        "response_time": 1.5676796436309814
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -48,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2998709678649902
+        "response_time": 0.19399714469909668
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +31,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.465047597885132
+        "response_time": 0.4054856300354004
     },
-    "socks4://212.47.248.107:16379": {
+    "socks4://172.233.14.116:1080": {
         "status": "success",
-        "country": "Antarctica",
-        "countryCode": "AQ",
-        "region": "",
-        "regionName": "",
-        "city": "Kunlun",
-        "zip": "",
-        "lat": -72.0114,
-        "lon": 2.535,
-        "timezone": "Antarctica/Vostok",
-        "isp": "QuxLabs AB",
-        "org": "R0CKET-CLOUD",
-        "as": "AS214503 QuxLabs AB",
-        "query": "45.84.107.76",
-        "response_time": 4.435266971588135
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 0.7789185047149658
+    },
+    "socks5://81.177.224.173:1337": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "STA",
+        "regionName": "Stavropol Kray",
+        "city": "Stavropol",
+        "zip": "355000",
+        "lat": 45.039,
+        "lon": 41.9632,
+        "timezone": "Europe/Moscow",
+        "isp": "OOO SET",
+        "org": "OOO Set network",
+        "as": "AS48176 OOO SET",
+        "query": "81.177.224.173",
+        "response_time": 1.0063962936401367
+    },
+    "socks5://46.10.229.243:7777": {
+        "status": "success",
+        "country": "Bulgaria",
+        "countryCode": "BG",
+        "region": "16",
+        "regionName": "Plovdiv",
+        "city": "Plovdiv",
+        "zip": "4000",
+        "lat": 42.1513,
+        "lon": 24.7518,
+        "timezone": "Europe/Sofia",
+        "isp": "Vivacom Bulgaria EAD",
+        "org": "Vivacom Bulgaria EAD",
+        "as": "AS8866 Vivacom Bulgaria EAD",
+        "query": "46.10.229.243",
+        "response_time": 1.5872929096221924
     }
 }
