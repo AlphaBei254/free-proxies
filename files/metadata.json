@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3265218734741211
+        "response_time": 0.20456385612487793
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6504323482513428
+        "response_time": 0.36565327644348145
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,91 +48,6 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8900306224822998
-    },
-    "socks4://118.174.14.65:44336": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "32",
-        "regionName": "Surin",
-        "city": "Tha Tum",
-        "zip": "",
-        "lat": 15.3195,
-        "lon": 103.675,
-        "timezone": "Asia/Bangkok",
-        "isp": "TOT Public Company Limited",
-        "org": "TOT Public Company Limited",
-        "as": "AS23969 TOT Public Company Limited",
-        "query": "118.174.219.28",
-        "response_time": 1.988403081893921
-    },
-    "socks4://138.68.21.132:45793": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "CA",
-        "regionName": "California",
-        "city": "Santa Clara",
-        "zip": "95051",
-        "lat": 37.3486,
-        "lon": -121.9732,
-        "timezone": "America/Los_Angeles",
-        "isp": "DigitalOcean, LLC",
-        "org": "DigitalOcean, LLC",
-        "as": "AS14061 DigitalOcean, LLC",
-        "query": "138.68.21.132",
-        "response_time": 2.2477962970733643
-    },
-    "socks4://82.223.165.28:44432": {
-        "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 2.504683256149292
-    },
-    "socks4://103.115.255.225:36331": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Savar Upazila",
-        "zip": "1340",
-        "lat": 23.8468,
-        "lon": 90.2417,
-        "timezone": "Asia/Dhaka",
-        "isp": "Star Internet Service",
-        "org": "Md. Murad Hossain Ripon",
-        "as": "AS137868 Star Internet Service",
-        "query": "103.115.255.246",
-        "response_time": 3.071079730987549
-    },
-    "socks4://45.116.230.79:4673": {
-        "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "KL",
-        "regionName": "Kerala",
-        "city": "Kochi",
-        "zip": "682017",
-        "lat": 9.9406,
-        "lon": 76.2653,
-        "timezone": "Asia/Kolkata",
-        "isp": "Dwan Supports P LTD",
-        "org": "Dwan Supports P LTD",
-        "as": "AS133301 DWAN SUPPORTS P LTD",
-        "query": "45.116.230.79",
-        "response_time": 3.379422903060913
+        "response_time": 0.6703426837921143
     }
 }
