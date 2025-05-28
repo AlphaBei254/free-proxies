@@ -1,4 +1,21 @@
 {
+    "http://65.108.203.37:28080": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "DC",
+        "regionName": "Washington, D.C.",
+        "city": "Washington",
+        "zip": "20146",
+        "lat": 38.9071,
+        "lon": -77.0368,
+        "timezone": "America/New_York",
+        "isp": "Opera Browser VPN",
+        "org": "Opera Software LLC",
+        "as": "AS205016 HERN Labs AB",
+        "query": "77.111.246.8",
+        "response_time": 0.3430957794189453
+    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.44307565689086914
+        "response_time": 0.4631049633026123
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,75 +48,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7599408626556396
-    },
-    "socks4://112.78.39.90:4153": {
-        "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JT",
-        "regionName": "Central Java",
-        "city": "Semarang",
-        "zip": "50232",
-        "lat": -7.2722,
-        "lon": 110.4753,
-        "timezone": "Asia/Jakarta",
-        "isp": "PT Media Sarana Data",
-        "org": "Gmedia ID Semarang",
-        "as": "AS55666 PT Media Sarana Data",
-        "query": "112.78.39.91",
-        "response_time": 2.008344888687134
-    },
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 2.2824127674102783
-    },
-    "socks4://103.120.202.53:5678": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Paltan",
-        "zip": "1000",
-        "lat": 23.7362,
-        "lon": 90.4143,
-        "timezone": "Asia/Dhaka",
-        "isp": "Carnival Internet",
-        "org": "",
-        "as": "AS63526 Systems Solutions & development Technologies Limited",
-        "query": "103.120.202.53",
-        "response_time": 2.31246018409729
-    },
-    "socks4://85.89.184.87:5678": {
-        "status": "success",
-        "country": "Poland",
-        "countryCode": "PL",
-        "region": "10",
-        "regionName": "\u0141\u00f3d\u017a Voivodeship",
-        "city": "Lodz",
-        "zip": "90-743",
-        "lat": 51.7697,
-        "lon": 19.446,
-        "timezone": "Europe/Warsaw",
-        "isp": "TOYA Sp. z o.o.",
-        "org": "Toya:net",
-        "as": "AS16342 Toya sp.z.o.o",
-        "query": "85.89.184.87",
-        "response_time": 2.5137267112731934
+        "response_time": 0.7351393699645996
     },
     "socks4://82.223.165.28:44432": {
         "status": "success",
@@ -116,6 +65,40 @@
         "org": "",
         "as": "AS8560 IONOS SE",
         "query": "82.223.165.28",
-        "response_time": 3.767298460006714
+        "response_time": 1.9026384353637695
+    },
+    "socks4://163.172.176.95:16379": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1012",
+        "lat": 52.3676,
+        "lon": 4.90414,
+        "timezone": "Europe/Amsterdam",
+        "isp": "Surf B.V.",
+        "org": "Nothing to hide",
+        "as": "AS1101 SURF B.V.",
+        "query": "192.42.116.173",
+        "response_time": 2.0214591026306152
+    },
+    "http://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.2532877922058105
     }
 }
