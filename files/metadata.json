@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3354041576385498
+        "response_time": 0.2012476921081543
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,58 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6442112922668457
+        "response_time": 0.42187929153442383
+    },
+    "socks4://91.121.173.38:54233": {
+        "status": "success",
+        "country": "France",
+        "countryCode": "FR",
+        "region": "HDF",
+        "regionName": "Hauts-de-France",
+        "city": "Roubaix",
+        "zip": "59100",
+        "lat": 50.6918,
+        "lon": 3.2021,
+        "timezone": "Europe/Paris",
+        "isp": "OVH SAS",
+        "org": "OVH ISP",
+        "as": "AS16276 OVH SAS",
+        "query": "91.121.173.38",
+        "response_time": 0.4398319721221924
+    },
+    "socks4://213.6.68.210:4145": {
+        "status": "success",
+        "country": "Palestine",
+        "countryCode": "PS",
+        "region": "NBS",
+        "regionName": "Nablus Governorate",
+        "city": "Nablus",
+        "zip": "",
+        "lat": 32.2207,
+        "lon": 35.2542,
+        "timezone": "Asia/Hebron",
+        "isp": "Palestine Telecommunications Company",
+        "org": "Palestine Telecommunications Company",
+        "as": "AS12975 Palestine Telecommunications Company (PALTEL)",
+        "query": "213.6.68.210",
+        "response_time": 0.5686542987823486
+    },
+    "socks5://91.121.173.38:54233": {
+        "status": "success",
+        "country": "France",
+        "countryCode": "FR",
+        "region": "HDF",
+        "regionName": "Hauts-de-France",
+        "city": "Roubaix",
+        "zip": "59100",
+        "lat": 50.6918,
+        "lon": 3.2021,
+        "timezone": "Europe/Paris",
+        "isp": "OVH SAS",
+        "org": "OVH ISP",
+        "as": "AS16276 OVH SAS",
+        "query": "91.121.173.38",
+        "response_time": 0.6314961910247803
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,40 +99,23 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.9073154926300049
+        "response_time": 0.7246637344360352
     },
-    "socks4://182.93.69.74:5678": {
+    "socks4://163.172.128.222:16379": {
         "status": "success",
-        "country": "Nepal",
-        "countryCode": "NP",
-        "region": "P3",
-        "regionName": "Bagmati Province",
-        "city": "Kathmandu",
-        "zip": "",
-        "lat": 27.7108,
-        "lon": 85.3251,
-        "timezone": "Asia/Kathmandu",
-        "isp": "Subisu Cablenet",
-        "org": "",
-        "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
-        "query": "182.93.69.74",
-        "response_time": 2.3025403022766113
-    },
-    "socks5://103.163.244.106:1080": {
-        "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "HR",
-        "regionName": "Haryana",
-        "city": "Panipat",
-        "zip": "132103",
-        "lat": 29.3885,
-        "lon": 76.9669,
-        "timezone": "Asia/Kolkata",
-        "isp": "Infolink System",
-        "org": "",
-        "as": "AS132746 Infolink System",
-        "query": "103.163.244.106",
-        "response_time": 2.6148369312286377
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1012",
+        "lat": 52.3676,
+        "lon": 4.90414,
+        "timezone": "Europe/Amsterdam",
+        "isp": "Surf B.V.",
+        "org": "Nothing to hide",
+        "as": "AS1101 SURF B.V.",
+        "query": "192.42.116.209",
+        "response_time": 1.6001067161560059
     }
 }
