@@ -14,24 +14,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7320120334625244
-    },
-    "socks4://183.88.240.139:4153": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "20",
-        "regionName": "Chon Buri",
-        "city": "Bang Lamung",
-        "zip": "20150",
-        "lat": 13.0508,
-        "lon": 100.9367,
-        "timezone": "Asia/Bangkok",
-        "isp": "Triple T Broadband Public Company Limited",
-        "org": "Triple T Broadband Public Company Limited",
-        "as": "AS45758 Triple T Broadband Public Company Limited",
-        "query": "223.205.30.123",
-        "response_time": 2.2227659225463867
+        "response_time": 0.8261761665344238
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2806692123413086
+        "response_time": 2.553001880645752
+    },
+    "socks4://38.51.233.146:60606": {
+        "status": "success",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "NAR",
+        "regionName": "Nari\u00f1o",
+        "city": "Pasto",
+        "zip": "520001",
+        "lat": 1.2146,
+        "lon": -77.2785,
+        "timezone": "America/Bogota",
+        "isp": "SP SISTEMAS PALACIOS LTDA",
+        "org": "SP SISTEMAS PALACIOS",
+        "as": "AS267708 SP SISTEMAS PALACIOS LTDA",
+        "query": "38.51.233.146",
+        "response_time": 2.663144826889038
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4579036235809326
+        "response_time": 3.0329573154449463
     },
-    "socks4://82.223.165.28:44432": {
+    "socks4://163.172.176.95:16379": {
         "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 3.0779590606689453
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "NW",
+        "regionName": "North Rhine-Westphalia",
+        "city": "D\u00fcsseldorf",
+        "zip": "40599",
+        "lat": 51.1864,
+        "lon": 6.8624,
+        "timezone": "Europe/Berlin",
+        "isp": "Contabo GmbH",
+        "org": "Contabo GmbH",
+        "as": "AS51167 Contabo GmbH",
+        "query": "161.97.156.152",
+        "response_time": 4.569157600402832
     }
 }
