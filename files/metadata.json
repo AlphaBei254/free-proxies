@@ -14,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.33078503608703613
-    },
-    "http://31.40.248.2:8080": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.6145632266998291
+        "response_time": 0.1766510009765625
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.644162654876709
+        "response_time": 0.4443058967590332
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,23 +48,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8238818645477295
+        "response_time": 0.8367276191711426
     },
-    "socks4://163.172.128.222:16379": {
+    "socks4://195.74.72.111:5678": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "TX",
-        "regionName": "Texas",
-        "city": "Dallas",
-        "zip": "75235",
-        "lat": 32.8098,
-        "lon": -96.8496,
-        "timezone": "America/Chicago",
-        "isp": "Servers.com, Inc.",
-        "org": "Servers.com, Inc.",
-        "as": "AS7979 Servers.com, Inc.",
-        "query": "209.205.125.250",
-        "response_time": 3.301701545715332
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "26",
+        "regionName": "Ivano-Frankivsk Oblast",
+        "city": "Ivano-Frankivsk",
+        "zip": "76000",
+        "lat": 48.9226,
+        "lon": 24.7111,
+        "timezone": "Europe/Kiev",
+        "isp": "Branch Enterprise \"Netgroup-Service\"",
+        "org": "Netgroup",
+        "as": "AS35004 Branch Enterprise \"Netgroup-Service\"",
+        "query": "195.74.72.111",
+        "response_time": 1.5265493392944336
+    },
+    "socks5://161.49.176.173:1338": {
+        "status": "success",
+        "country": "Philippines",
+        "countryCode": "PH",
+        "region": "00",
+        "regionName": "Metro Manila",
+        "city": "Pasig",
+        "zip": "1600",
+        "lat": 14.5688,
+        "lon": 121.0827,
+        "timezone": "Asia/Manila",
+        "isp": "Converge ICT Solution Inc",
+        "org": "Converge ICT Solution Inc",
+        "as": "AS17639 Converge ICT Solutions Inc.",
+        "query": "161.49.176.173",
+        "response_time": 3.0622622966766357
     }
 }
