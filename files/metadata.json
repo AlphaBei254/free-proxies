@@ -1,4 +1,21 @@
 {
+    "http://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.3145139217376709
+    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3687598705291748
+        "response_time": 0.5990269184112549
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,40 +48,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7350478172302246
+        "response_time": 0.8230245113372803
     },
-    "http://45.140.143.77:18080": {
+    "socks4://138.68.21.132:45793": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 2.3075027465820312
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "Santa Clara",
+        "zip": "95051",
+        "lat": 37.3486,
+        "lon": -121.9732,
+        "timezone": "America/Los_Angeles",
+        "isp": "DigitalOcean, LLC",
+        "org": "DigitalOcean, LLC",
+        "as": "AS14061 DigitalOcean, LLC",
+        "query": "138.68.21.132",
+        "response_time": 1.3989267349243164
     },
-    "socks4://91.150.77.58:56921": {
+    "socks4://27.115.33.94:4153": {
         "status": "success",
-        "country": "Serbia",
-        "countryCode": "RS",
-        "region": "00",
-        "regionName": "Belgrade",
-        "city": "Belgrade",
+        "country": "China",
+        "countryCode": "CN",
+        "region": "SH",
+        "regionName": "Shanghai",
+        "city": "Shanghai",
         "zip": "",
-        "lat": 44.8046,
-        "lon": 20.4637,
-        "timezone": "Europe/Belgrade",
-        "isp": "TELEKOM-SRBIJA",
+        "lat": 31.2222,
+        "lon": 121.4581,
+        "timezone": "Asia/Shanghai",
+        "isp": "China Unicom Shanghai Province Network",
         "org": "",
-        "as": "AS8400 TELEKOM SRBIJA a.d.",
-        "query": "79.101.45.94",
-        "response_time": 2.6484262943267822
+        "as": "AS17621 China Unicom Shanghai network",
+        "query": "27.115.33.94",
+        "response_time": 2.1451196670532227
     }
 }
