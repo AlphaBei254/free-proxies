@@ -1,37 +1,37 @@
 {
-    "socks5://45.140.143.77:18080": {
+    "socks4://91.121.173.38:54233": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.9884552955627441
+        "country": "France",
+        "countryCode": "FR",
+        "region": "HDF",
+        "regionName": "Hauts-de-France",
+        "city": "Roubaix",
+        "zip": "59100",
+        "lat": 50.6918,
+        "lon": 3.2021,
+        "timezone": "Europe/Paris",
+        "isp": "OVH SAS",
+        "org": "OVH ISP",
+        "as": "AS16276 OVH SAS",
+        "query": "91.121.173.38",
+        "response_time": 0.6849632263183594
     },
-    "socks4://172.233.14.116:1080": {
+    "socks5://91.121.173.38:54233": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 1.3546812534332275
+        "country": "France",
+        "countryCode": "FR",
+        "region": "HDF",
+        "regionName": "Hauts-de-France",
+        "city": "Roubaix",
+        "zip": "59100",
+        "lat": 50.6918,
+        "lon": 3.2021,
+        "timezone": "Europe/Paris",
+        "isp": "OVH SAS",
+        "org": "OVH ISP",
+        "as": "AS16276 OVH SAS",
+        "query": "91.121.173.38",
+        "response_time": 0.9744119644165039
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +48,41 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5118649005889893
+        "response_time": 2.262763261795044
+    },
+    "socks4://27.123.254.158:6969": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "H",
+        "regionName": "Mymensingh Division",
+        "city": "Purbadhala",
+        "zip": "",
+        "lat": 24.9408,
+        "lon": 90.6003,
+        "timezone": "Asia/Dhaka",
+        "isp": "Kazi Sazzad Hossain T/A Millennium Computers & Networking",
+        "org": "Millennium Computers & Networking",
+        "as": "AS134113 Kazi Sazzad Hossain T/A Millennium Computers & Networking",
+        "query": "27.123.254.158",
+        "response_time": 2.2747642993927
+    },
+    "socks5://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.4583451747894287
     },
     "socks4://82.223.165.28:44432": {
         "status": "success",
@@ -65,6 +99,6 @@
         "org": "",
         "as": "AS8560 IONOS SE",
         "query": "82.223.165.28",
-        "response_time": 3.441629409790039
+        "response_time": 3.909541368484497
     }
 }
