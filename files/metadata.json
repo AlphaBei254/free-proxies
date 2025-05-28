@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2589998245239258
+        "response_time": 0.2625598907470703
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5181319713592529
-    },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.126",
-        "response_time": 0.7685949802398682
+        "response_time": 0.5112402439117432
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,57 +48,23 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7668666839599609
+        "response_time": 0.8263719081878662
     },
-    "socks4://69.36.63.128:1080": {
+    "socks4://114.4.200.222:5678": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "MI",
-        "regionName": "Michigan",
-        "city": "Greenville",
-        "zip": "48838",
-        "lat": 43.1772,
-        "lon": -85.2473,
-        "timezone": "America/Detroit",
-        "isp": "Point Broadband Fiber Holding, LLC",
-        "org": "Point Broadband Fiber Holding, LLC",
-        "as": "AS19310 Point Broadband Fiber Holding, LLC",
-        "query": "173.225.205.227",
-        "response_time": 1.223416805267334
-    },
-    "http://47.252.29.28:11222": {
-        "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "30",
-        "regionName": "Kyiv City",
-        "city": "Kyiv",
-        "zip": "01011",
-        "lat": 50.4504,
-        "lon": 30.5245,
-        "timezone": "Europe/Kiev",
-        "isp": "User Association of Ukrainian Research and Academic Network URAN",
-        "org": "Agora",
-        "as": "AS3319 User Association of Ukrainian Research and Academic Network URAN",
-        "query": "195.178.133.202",
-        "response_time": 2.1970479488372803
-    },
-    "socks5://81.177.224.173:1337": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "STA",
-        "regionName": "Stavropol Kray",
-        "city": "Stavropol",
-        "zip": "355000",
-        "lat": 45.039,
-        "lon": 41.9632,
-        "timezone": "Europe/Moscow",
-        "isp": "OOO SET",
-        "org": "OOO Set network",
-        "as": "AS48176 OOO SET",
-        "query": "81.177.224.173",
-        "response_time": 3.2452619075775146
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JK",
+        "regionName": "Jakarta",
+        "city": "Jakarta",
+        "zip": "12770",
+        "lat": -6.2401,
+        "lon": 106.8523,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT. INDOSAT Tbk",
+        "org": "PT. INDOSAT Tbk",
+        "as": "AS4761 INDOSAT Internet Network Provider",
+        "query": "114.4.200.222",
+        "response_time": 1.9268286228179932
     }
 }
