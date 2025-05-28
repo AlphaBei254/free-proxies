@@ -14,24 +14,24 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.867985725402832
+        "response_time": 0.7320120334625244
     },
-    "socks4://27.147.221.140:5678": {
+    "socks4://183.88.240.139:4153": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "K\u0101frul",
-        "zip": "1207",
-        "lat": 23.7882,
-        "lon": 90.3736,
-        "timezone": "Asia/Dhaka",
-        "isp": "Link3 Technologies Limited",
-        "org": "Retail Subscriber",
-        "as": "AS23688 Link3 Technologies Ltd.",
-        "query": "27.147.221.140",
-        "response_time": 1.043647289276123
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "20",
+        "regionName": "Chon Buri",
+        "city": "Bang Lamung",
+        "zip": "20150",
+        "lat": 13.0508,
+        "lon": 100.9367,
+        "timezone": "Asia/Bangkok",
+        "isp": "Triple T Broadband Public Company Limited",
+        "org": "Triple T Broadband Public Company Limited",
+        "as": "AS45758 Triple T Broadband Public Company Limited",
+        "query": "223.205.30.123",
+        "response_time": 2.2227659225463867
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2741432189941406
+        "response_time": 2.2806692123413086
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,6 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4920451641082764
+        "response_time": 2.4579036235809326
+    },
+    "socks4://82.223.165.28:44432": {
+        "status": "success",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
+        "org": "",
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 3.0779590606689453
     }
 }
