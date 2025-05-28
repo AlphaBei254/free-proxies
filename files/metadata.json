@@ -1,21 +1,4 @@
 {
-    "socks4://172.233.14.116:1080": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 0.8261761665344238
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.553001880645752
-    },
-    "socks4://38.51.233.146:60606": {
-        "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "NAR",
-        "regionName": "Nari\u00f1o",
-        "city": "Pasto",
-        "zip": "520001",
-        "lat": 1.2146,
-        "lon": -77.2785,
-        "timezone": "America/Bogota",
-        "isp": "SP SISTEMAS PALACIOS LTDA",
-        "org": "SP SISTEMAS PALACIOS",
-        "as": "AS267708 SP SISTEMAS PALACIOS LTDA",
-        "query": "38.51.233.146",
-        "response_time": 2.663144826889038
+        "response_time": 0.20972704887390137
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +31,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 3.0329573154449463
+        "response_time": 0.4430232048034668
     },
-    "socks4://163.172.176.95:16379": {
+    "socks4://172.233.14.116:1080": {
         "status": "success",
-        "country": "Germany",
-        "countryCode": "DE",
-        "region": "NW",
-        "regionName": "North Rhine-Westphalia",
-        "city": "D\u00fcsseldorf",
-        "zip": "40599",
-        "lat": 51.1864,
-        "lon": 6.8624,
-        "timezone": "Europe/Berlin",
-        "isp": "Contabo GmbH",
-        "org": "Contabo GmbH",
-        "as": "AS51167 Contabo GmbH",
-        "query": "161.97.156.152",
-        "response_time": 4.569157600402832
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 0.7574870586395264
+    },
+    "socks4://94.181.33.149:40840": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "CHE",
+        "regionName": "Chelyabinsk Oblast",
+        "city": "Chelyabinsk",
+        "zip": "454082",
+        "lat": 55.1644,
+        "lon": 61.4368,
+        "timezone": "Asia/Yekaterinburg",
+        "isp": "CJSC \"ER-Telecom Holding\" Chelyabinsk branch",
+        "org": "JSC \"ER-Telecom Holding\" Chelyabinsk Branch",
+        "as": "AS41661 JSC \"ER-Telecom Holding\"",
+        "query": "94.181.33.149",
+        "response_time": 1.785248041152954
+    },
+    "socks4://212.47.248.107:16379": {
+        "status": "success",
+        "country": "Antarctica",
+        "countryCode": "AQ",
+        "region": "",
+        "regionName": "",
+        "city": "Kunlun",
+        "zip": "",
+        "lat": -72.0114,
+        "lon": 2.535,
+        "timezone": "Antarctica/Vostok",
+        "isp": "QuxLabs AB",
+        "org": "R0CKET-CLOUD",
+        "as": "AS214503 QuxLabs AB",
+        "query": "45.84.107.174",
+        "response_time": 2.082509994506836
     }
 }
