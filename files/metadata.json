@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2858297824859619
+        "response_time": 0.3354041576385498
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6296749114990234
+        "response_time": 0.6442112922668457
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,74 +48,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.880861759185791
+        "response_time": 0.9073154926300049
     },
-    "socks4://183.80.130.10:4145": {
+    "socks4://182.93.69.74:5678": {
         "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "SG",
-        "regionName": "Ho Chi Minh",
-        "city": "Ho Chi Minh City",
+        "country": "Nepal",
+        "countryCode": "NP",
+        "region": "P3",
+        "regionName": "Bagmati Province",
+        "city": "Kathmandu",
         "zip": "",
-        "lat": 10.8231,
-        "lon": 106.63,
-        "timezone": "Asia/Ho_Chi_Minh",
-        "isp": "Vietnam Internet Network Information Center",
+        "lat": 27.7108,
+        "lon": 85.3251,
+        "timezone": "Asia/Kathmandu",
+        "isp": "Subisu Cablenet",
         "org": "",
-        "as": "AS18403 FPT Telecom Company",
-        "query": "183.80.130.10",
-        "response_time": 0.9953546524047852
+        "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
+        "query": "182.93.69.74",
+        "response_time": 2.3025403022766113
     },
-    "socks4://182.53.216.73:4145": {
+    "socks5://103.163.244.106:1080": {
         "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "51",
-        "regionName": "Lamphun",
-        "city": "Lamphun",
-        "zip": "51000",
-        "lat": 18.5779,
-        "lon": 99.0097,
-        "timezone": "Asia/Bangkok",
-        "isp": "TOT Public Company Limited",
-        "org": "TOT Public Company Limited",
-        "as": "AS23969 TOT Public Company Limited",
-        "query": "182.53.216.73",
-        "response_time": 1.9997174739837646
-    },
-    "socks4://85.89.184.87:5678": {
-        "status": "success",
-        "country": "Poland",
-        "countryCode": "PL",
-        "region": "10",
-        "regionName": "\u0141\u00f3d\u017a Voivodeship",
-        "city": "Lodz",
-        "zip": "90-743",
-        "lat": 51.7697,
-        "lon": 19.446,
-        "timezone": "Europe/Warsaw",
-        "isp": "TOYA Sp. z o.o.",
-        "org": "Toya:net",
-        "as": "AS16342 Toya sp.z.o.o",
-        "query": "85.89.184.87",
-        "response_time": 2.6869542598724365
-    },
-    "socks4://190.220.1.173:35376": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "C",
-        "regionName": "Buenos Aires F.D.",
-        "city": "Buenos Aires",
-        "zip": "1871",
-        "lat": -34.6142,
-        "lon": -58.3811,
-        "timezone": "America/Argentina/Buenos_Aires",
-        "isp": "Techtel LMDS Comunicaciones Interactivas S.A.",
-        "org": "RYO VALLE SRL",
-        "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
-        "query": "190.220.1.173",
-        "response_time": 2.9149699211120605
+        "country": "India",
+        "countryCode": "IN",
+        "region": "HR",
+        "regionName": "Haryana",
+        "city": "Panipat",
+        "zip": "132103",
+        "lat": 29.3885,
+        "lon": 76.9669,
+        "timezone": "Asia/Kolkata",
+        "isp": "Infolink System",
+        "org": "",
+        "as": "AS132746 Infolink System",
+        "query": "103.163.244.106",
+        "response_time": 2.6148369312286377
     }
 }
