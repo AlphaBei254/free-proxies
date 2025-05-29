@@ -14,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.18506884574890137
-    },
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.26151180267333984
+        "response_time": 0.2590458393096924
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3876333236694336
-    },
-    "socks4://82.223.165.28:44432": {
-        "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 0.5799217224121094
+        "response_time": 0.4971754550933838
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,6 +48,23 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7340388298034668
+        "response_time": 0.773998498916626
+    },
+    "socks4://202.84.76.190:5678": {
+        "status": "success",
+        "country": "Cambodia",
+        "countryCode": "KH",
+        "region": "12",
+        "regionName": "Phnom Penh",
+        "city": "Phnom Penh",
+        "zip": "",
+        "lat": 11.5583,
+        "lon": 104.9121,
+        "timezone": "Asia/Phnom_Penh",
+        "isp": "CityLink Corporation, LTD",
+        "org": "CityLink Corporation, LTD",
+        "as": "AS24441 CityLink Corporation, LTD",
+        "query": "202.84.76.190",
+        "response_time": 0.9958045482635498
     }
 }
