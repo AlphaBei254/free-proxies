@@ -1,55 +1,4 @@
 {
-    "http://31.40.248.2:8080": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.4772825241088867
-    },
-    "socks4://172.233.14.116:1080": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 0.8304517269134521
-    },
-    "socks4://190.246.55.235:5678": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "X",
-        "regionName": "Cordoba",
-        "city": "C\u00f3rdoba",
-        "zip": "5000",
-        "lat": -31.4057,
-        "lon": -64.1849,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Telecom Argentina S.A",
-        "org": "Fibertel",
-        "as": "AS7303 Telecom Argentina S.A.",
-        "query": "190.246.55.235",
-        "response_time": 0.935016393661499
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -65,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.242586135864258
+        "response_time": 0.19045066833496094
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +31,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.4321229457855225
+        "response_time": 0.35276174545288086
+    },
+    "socks4://212.50.19.150:4153": {
+        "status": "success",
+        "country": "Bulgaria",
+        "countryCode": "BG",
+        "region": "22",
+        "regionName": "Sofia-Capital",
+        "city": "Sofia",
+        "zip": "1000",
+        "lat": 42.6826,
+        "lon": 23.3223,
+        "timezone": "Europe/Sofia",
+        "isp": "Spectrum NET",
+        "org": "",
+        "as": "AS8717 A1 Bulgaria EAD",
+        "query": "212.50.19.150",
+        "response_time": 0.42214345932006836
+    },
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 0.6690578460693359
+    },
+    "socks4://85.89.184.87:5678": {
+        "status": "success",
+        "country": "Poland",
+        "countryCode": "PL",
+        "region": "10",
+        "regionName": "\u0141\u00f3d\u017a Voivodeship",
+        "city": "Lodz",
+        "zip": "90-743",
+        "lat": 51.7697,
+        "lon": 19.446,
+        "timezone": "Europe/Warsaw",
+        "isp": "TOYA Sp. z o.o.",
+        "org": "Toya:net",
+        "as": "AS16342 Toya sp.z.o.o",
+        "query": "85.89.184.87",
+        "response_time": 2.492741584777832
     }
 }
