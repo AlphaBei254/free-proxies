@@ -1,4 +1,21 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.182",
+        "response_time": 0.2196948528289795
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2021498680114746
-    },
-    "socks5://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.3507983684539795
+        "response_time": 0.2876923084259033
     },
     "http://31.40.248.2:8080": {
         "status": "success",
@@ -48,7 +48,24 @@
         "org": "Cloud.ru",
         "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.5498318672180176
+        "response_time": 0.4960949420928955
+    },
+    "socks5://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.5570156574249268
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,40 +82,23 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.6708230972290039
+        "response_time": 0.7984757423400879
     },
-    "http://188.166.197.129:3128": {
+    "socks4://181.129.62.2:47377": {
         "status": "success",
-        "country": "Singapore",
-        "countryCode": "SG",
-        "region": "05",
-        "regionName": "South West",
-        "city": "Singapore",
-        "zip": "627753",
-        "lat": 1.32123,
-        "lon": 103.695,
-        "timezone": "Asia/Singapore",
-        "isp": "DigitalOcean, LLC",
-        "org": "DigitalOcean, LLC",
-        "as": "AS14061 DigitalOcean, LLC",
-        "query": "174.138.18.105",
-        "response_time": 1.519670009613037
-    },
-    "socks4://82.223.165.28:44432": {
-        "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 1.5547840595245361
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "ANT",
+        "regionName": "Antioquia",
+        "city": "Medell\u00edn",
+        "zip": "050001",
+        "lat": 6.2529,
+        "lon": -75.5646,
+        "timezone": "America/Bogota",
+        "isp": "EPM Telecomunicaciones S.A. E.S.P.",
+        "org": "EPM Telecomunicaciones S.A. E.S.P",
+        "as": "AS13489 UNE EPM TELECOMUNICACIONES S.A.",
+        "query": "181.129.62.2",
+        "response_time": 2.607992649078369
     }
 }
