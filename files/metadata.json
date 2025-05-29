@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3361542224884033
+        "response_time": 0.20847678184509277
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6416704654693604
+        "response_time": 0.43332552909851074
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,41 +48,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8337814807891846
-    },
-    "socks4://1.4.195.114:4145": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "10",
-        "regionName": "Bangkok",
-        "city": "Bangkok",
-        "zip": "10250",
-        "lat": 13.859,
-        "lon": 100.4772,
-        "timezone": "Asia/Bangkok",
-        "isp": "TOT Public Company Limited",
-        "org": "TOT Public Company Limited",
-        "as": "AS23969 TOT Public Company Limited",
-        "query": "1.4.195.114",
-        "response_time": 1.9305298328399658
-    },
-    "socks4://119.93.122.233:4145": {
-        "status": "success",
-        "country": "Philippines",
-        "countryCode": "PH",
-        "region": "03",
-        "regionName": "Central Luzon",
-        "city": "San Fernando City",
-        "zip": "2000",
-        "lat": 15.0381,
-        "lon": 120.6836,
-        "timezone": "Asia/Manila",
-        "isp": "Philippine Long Distance Telephone Co.",
-        "org": "Philippine Long Distance Telephone Company",
-        "as": "AS9299 Philippine Long Distance Telephone Company",
-        "query": "119.93.123.229",
-        "response_time": 2.9723949432373047
+        "response_time": 0.6726388931274414
     },
     "socks4://82.223.165.28:44432": {
         "status": "success",
@@ -99,6 +65,23 @@
         "org": "",
         "as": "AS8560 IONOS SE",
         "query": "82.223.165.28",
-        "response_time": 3.2873475551605225
+        "response_time": 1.840667963027954
+    },
+    "socks4://195.175.22.194:5678": {
+        "status": "success",
+        "country": "T\u00fcrkiye",
+        "countryCode": "TR",
+        "region": "34",
+        "regionName": "Istanbul",
+        "city": "Istanbul",
+        "zip": "34096",
+        "lat": 41.0145,
+        "lon": 28.9533,
+        "timezone": "Europe/Istanbul",
+        "isp": "Turk Telekomunikasyon A.S",
+        "org": "TTnetTurkTelekom",
+        "as": "AS9121 Turk Telekomunikasyon Anonim Sirketi",
+        "query": "195.175.22.194",
+        "response_time": 2.5388855934143066
     }
 }
