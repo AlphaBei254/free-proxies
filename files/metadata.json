@@ -14,41 +14,7 @@
         "org": "Cloud.ru",
         "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.35379481315612793
-    },
-    "socks5://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.3682670593261719
-    },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.125",
-        "response_time": 0.5928599834442139
+        "response_time": 0.4772825241088867
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,24 +31,24 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7609293460845947
+        "response_time": 0.8304517269134521
     },
-    "socks4://80.92.224.141:5678": {
+    "socks4://190.246.55.235:5678": {
         "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "30",
-        "regionName": "Kyiv City",
-        "city": "Kyiv",
-        "zip": "02063",
-        "lat": 50.458,
-        "lon": 30.5303,
-        "timezone": "Europe/Kyiv",
-        "isp": "WNET TELECOM USA Corp.",
-        "org": "LoadMe",
-        "as": "AS1820 WNET TELECOM USA Corp.",
-        "query": "80.92.224.141",
-        "response_time": 1.4637105464935303
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "X",
+        "regionName": "Cordoba",
+        "city": "C\u00f3rdoba",
+        "zip": "5000",
+        "lat": -31.4057,
+        "lon": -64.1849,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Telecom Argentina S.A",
+        "org": "Fibertel",
+        "as": "AS7303 Telecom Argentina S.A.",
+        "query": "190.246.55.235",
+        "response_time": 0.935016393661499
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -99,23 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2852914333343506
+        "response_time": 2.242586135864258
     },
-    "socks4://82.223.165.28:44432": {
+    "socks5://45.140.143.77:18080": {
         "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 3.4048023223876953
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.4321229457855225
     }
 }
