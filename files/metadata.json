@@ -1,21 +1,4 @@
 {
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.19429516792297363
-    },
     "http://31.40.248.2:8080": {
         "status": "success",
         "country": "Russia",
@@ -31,7 +14,7 @@
         "org": "Cloud.ru",
         "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.3535785675048828
+        "response_time": 0.35379481315612793
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.40941381454467773
+        "response_time": 0.3682670593261719
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.125",
+        "response_time": 0.5928599834442139
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,40 +65,57 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7396421432495117
+        "response_time": 0.7609293460845947
     },
-    "socks4://182.53.216.73:4145": {
+    "socks4://80.92.224.141:5678": {
         "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "51",
-        "regionName": "Lamphun",
-        "city": "Lamphun",
-        "zip": "51000",
-        "lat": 18.5779,
-        "lon": 99.0097,
-        "timezone": "Asia/Bangkok",
-        "isp": "TOT Public Company Limited",
-        "org": "TOT Public Company Limited",
-        "as": "AS23969 TOT Public Company Limited",
-        "query": "182.53.216.73",
-        "response_time": 3.0906362533569336
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "30",
+        "regionName": "Kyiv City",
+        "city": "Kyiv",
+        "zip": "02063",
+        "lat": 50.458,
+        "lon": 30.5303,
+        "timezone": "Europe/Kyiv",
+        "isp": "WNET TELECOM USA Corp.",
+        "org": "LoadMe",
+        "as": "AS1820 WNET TELECOM USA Corp.",
+        "query": "80.92.224.141",
+        "response_time": 1.4637105464935303
     },
-    "socks4://122.15.255.229:60606": {
+    "http://45.140.143.77:18080": {
         "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "WB",
-        "regionName": "West Bengal",
-        "city": "Kolkata",
-        "zip": "700095",
-        "lat": 22.5643,
-        "lon": 88.3693,
-        "timezone": "Asia/Kolkata",
-        "isp": "VODAFONE-STATIC",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.2852914333343506
+    },
+    "socks4://82.223.165.28:44432": {
+        "status": "success",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
         "org": "",
-        "as": "AS55410 Vodafone Idea Ltd",
-        "query": "122.15.255.229",
-        "response_time": 3.769435167312622
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 3.4048023223876953
     }
 }
