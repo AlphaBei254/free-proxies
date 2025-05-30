@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2034165859222412
+        "response_time": 0.22348856925964355
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.38776445388793945
+        "response_time": 0.4062497615814209
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,40 +48,74 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7194106578826904
+        "response_time": 0.7186975479125977
     },
-    "socks4://103.96.106.230:1080": {
+    "socks4://82.223.165.28:44432": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1209",
-        "lat": 23.7534,
-        "lon": 90.3722,
-        "timezone": "Asia/Dhaka",
-        "isp": "Xplore Cyber &",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
         "org": "",
-        "as": "AS134153 Xplore Net BD",
-        "query": "103.96.106.230",
-        "response_time": 1.1658151149749756
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 0.8485126495361328
     },
-    "socks4://91.185.236.24:4145": {
+    "socks4://190.246.55.235:5678": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "X",
+        "regionName": "Cordoba",
+        "city": "C\u00f3rdoba",
+        "zip": "5000",
+        "lat": -31.4057,
+        "lon": -64.1849,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Telecom Argentina S.A",
+        "org": "Fibertel",
+        "as": "AS7303 Telecom Argentina S.A.",
+        "query": "190.246.55.235",
+        "response_time": 0.896470308303833
+    },
+    "http://31.40.248.2:8080": {
         "status": "success",
         "country": "Russia",
         "countryCode": "RU",
-        "region": "SA",
-        "regionName": "Sakha",
-        "city": "Yakutsk",
-        "zip": "677000",
-        "lat": 61.995,
-        "lon": 129.773,
-        "timezone": "Asia/Yakutsk",
-        "isp": "Sakhatelecom",
-        "org": "",
-        "as": "AS21487 PJSC Rostelecom",
-        "query": "91.185.236.24",
-        "response_time": 3.260326623916626
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "144700",
+        "lat": 55.7558,
+        "lon": 37.6173,
+        "timezone": "Europe/Moscow",
+        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
+        "org": "Cloud.ru",
+        "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
+        "query": "31.40.248.2",
+        "response_time": 1.3871715068817139
+    },
+    "socks4://141.105.107.152:5678": {
+        "status": "success",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "IB",
+        "regionName": "Balearic Islands",
+        "city": "Llub\u00ed",
+        "zip": "07430",
+        "lat": 39.6961,
+        "lon": 3.0026,
+        "timezone": "Europe/Madrid",
+        "isp": "Red digital de telecomunicaciones de las Islas Baleares S.L",
+        "org": "Ibred",
+        "as": "AS200064 Red digital de telecomunicaciones de las Islas Baleares S.L",
+        "query": "141.105.107.152",
+        "response_time": 1.4762327671051025
     }
 }
