@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.19499731063842773
+        "response_time": 0.27457499504089355
     },
     "http://31.40.248.2:8080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "Cloud.ru",
         "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.3469393253326416
+        "response_time": 0.36579418182373047
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +48,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4246406555175781
+        "response_time": 0.3905017375946045
     },
-    "socks4://61.7.147.227:4145": {
+    "http://65.108.203.37:28080": {
         "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "10",
-        "regionName": "Bangkok",
-        "city": "Bangkok",
-        "zip": "10120",
-        "lat": 13.7101,
-        "lon": 100.4543,
-        "timezone": "Asia/Bangkok",
-        "isp": "CAT Telecom Public Company Limited",
-        "org": "National Telecom Public Company Limited",
-        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
-        "query": "61.7.147.227",
-        "response_time": 1.0566990375518799
+        "country": "United States",
+        "countryCode": "US",
+        "region": "DC",
+        "regionName": "Washington, D.C.",
+        "city": "Washington",
+        "zip": "20146",
+        "lat": 38.9071,
+        "lon": -77.0368,
+        "timezone": "America/New_York",
+        "isp": "Opera Browser VPN",
+        "org": "Opera Software LLC",
+        "as": "AS205016 HERN Labs AB",
+        "query": "77.111.246.55",
+        "response_time": 0.6672191619873047
+    },
+    "socks5://103.158.253.162:8199": {
+        "status": "success",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JK",
+        "regionName": "Jakarta",
+        "city": "Jakarta",
+        "zip": "12980",
+        "lat": -6.2077,
+        "lon": 106.8354,
+        "timezone": "Asia/Jakarta",
+        "isp": "Rapid Network",
+        "org": "",
+        "as": "AS141137 PT Media Cepat Indonesia",
+        "query": "103.158.253.162",
+        "response_time": 3.350848913192749
     }
 }
