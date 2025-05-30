@@ -14,7 +14,41 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.21272683143615723
+        "response_time": 0.19087505340576172
+    },
+    "socks4://166.62.121.102:45886": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "AZ",
+        "regionName": "Arizona",
+        "city": "Tempe",
+        "zip": "85284",
+        "lat": 33.3359,
+        "lon": -111.894,
+        "timezone": "America/Phoenix",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "166.62.121.102",
+        "response_time": 0.20730376243591309
+    },
+    "http://31.40.248.2:8080": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "144700",
+        "lat": 55.7558,
+        "lon": 37.6173,
+        "timezone": "Europe/Moscow",
+        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
+        "org": "Cloud.ru",
+        "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
+        "query": "31.40.248.2",
+        "response_time": 0.33045005798339844
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,40 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5404510498046875
+        "response_time": 0.3920426368713379
     },
-    "http://188.166.197.129:3128": {
-        "status": "success",
-        "country": "Singapore",
-        "countryCode": "SG",
-        "region": "05",
-        "regionName": "South West",
-        "city": "Singapore",
-        "zip": "627753",
-        "lat": 1.32123,
-        "lon": 103.695,
-        "timezone": "Asia/Singapore",
-        "isp": "DigitalOcean, LLC",
-        "org": "DigitalOcean, LLC",
-        "as": "AS14061 DigitalOcean, LLC",
-        "query": "174.138.18.105",
-        "response_time": 0.9740488529205322
-    },
-    "socks4://201.148.125.126:4153": {
+    "socks4://172.233.14.116:1080": {
         "status": "success",
         "country": "Brazil",
         "countryCode": "BR",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "city": "Santa Helena de Goi\u00e1s",
-        "zip": "73930",
-        "lat": -17.8136,
-        "lon": -50.5969,
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
         "timezone": "America/Sao_Paulo",
-        "isp": "America-NET Ltda.",
-        "org": "America-NET Ltda",
-        "as": "AS61844 America-NET Ltda.",
-        "query": "201.148.125.126",
-        "response_time": 2.8552751541137695
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 0.7190303802490234
     }
 }
