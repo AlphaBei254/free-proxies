@@ -1,21 +1,4 @@
 {
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.21680307388305664
-    },
     "socks4://170.78.211.161:1080": {
         "status": "success",
         "country": "Mexico",
@@ -31,24 +14,7 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.21997499465942383
-    },
-    "http://31.40.248.2:8080": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.4033322334289551
+        "response_time": 0.24356842041015625
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,40 +31,57 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.42574095726013184
+        "response_time": 0.36907029151916504
     },
-    "socks4://172.233.14.116:1080": {
+    "socks4://170.245.248.45:60606": {
         "status": "success",
         "country": "Brazil",
         "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "city": "Goi\u00e2nia",
+        "zip": "74000",
+        "lat": -16.6802,
+        "lon": -49.2564,
         "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 1.938058853149414
+        "isp": "T.A.LUIZ ELETRONICO LTDA - ME",
+        "org": "T.A.LUIZ ELETRONICO LTDA - ME",
+        "as": "AS266032 T.A.LUIZ ELETRONICO LTDA - ME",
+        "query": "170.245.250.186",
+        "response_time": 0.6854603290557861
     },
-    "socks5://46.147.65.44:61986": {
+    "socks4://51.178.68.226:46753": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "TA",
-        "regionName": "Tatarstan Republic",
-        "city": "Naberezhnyye Chelny",
-        "zip": "423800",
-        "lat": 55.7582,
-        "lon": 52.4302,
-        "timezone": "Europe/Moscow",
-        "isp": "CJSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
-        "org": "JSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
-        "as": "AS42116 JSC \"ER-Telecom Holding\"",
-        "query": "46.147.65.44",
-        "response_time": 3.104463815689087
+        "country": "France",
+        "countryCode": "FR",
+        "region": "HDF",
+        "regionName": "Hauts-de-France",
+        "city": "Wattrelos",
+        "zip": "59150",
+        "lat": 50.7012,
+        "lon": 3.21501,
+        "timezone": "Europe/Paris",
+        "isp": "OVH SAS",
+        "org": "OVH",
+        "as": "AS16276 OVH SAS",
+        "query": "51.178.68.226",
+        "response_time": 1.7419202327728271
+    },
+    "http://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.253971576690674
     }
 }
