@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.22012662887573242
+        "response_time": 0.20498991012573242
     },
     "socks4://170.78.211.161:1080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.2817368507385254
+        "response_time": 0.2554900646209717
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.43066978454589844
+        "response_time": 0.3691537380218506
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,40 +65,57 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7191853523254395
+        "response_time": 0.7224361896514893
     },
-    "socks4://47.176.213.210:39593": {
+    "http://200.174.198.86:8888": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "CA",
-        "regionName": "California",
-        "city": "Santa Fe Springs",
-        "zip": "90670",
-        "lat": 33.9451,
-        "lon": -118.0817,
-        "timezone": "America/Los_Angeles",
-        "isp": "Frontier Communications of America, Inc.",
-        "org": "Frontier Communications Corporation",
-        "as": "AS5650 Frontier Communications of America, Inc.",
-        "query": "47.176.213.210",
-        "response_time": 1.2320771217346191
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.84",
+        "response_time": 1.5954346656799316
     },
-    "socks4://103.167.156.102:1080": {
+    "socks4://82.223.165.28:44432": {
         "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JT",
-        "regionName": "Central Java",
-        "city": "Pemalang",
-        "zip": "52318",
-        "lat": -6.9477,
-        "lon": 109.3707,
-        "timezone": "Asia/Jakarta",
-        "isp": "PT Jaringan Tiang Indonesia Group",
-        "org": "PT Jaringan Tiang Indonesia Group",
-        "as": "AS150554 PT Jaringan Tiang Indonesia Group",
-        "query": "103.167.156.102",
-        "response_time": 3.063145875930786
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
+        "org": "",
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 2.9709908962249756
+    },
+    "http://8.219.97.248:80": {
+        "status": "success",
+        "country": "Singapore",
+        "countryCode": "SG",
+        "region": "03",
+        "regionName": "North West",
+        "city": "Singapore",
+        "zip": "858877",
+        "lat": 1.35208,
+        "lon": 103.82,
+        "timezone": "Asia/Singapore",
+        "isp": "Alibaba (US) Technology Co., Ltd.",
+        "org": "Alibaba.com Singapore E-Commerce Private Limited",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "8.219.64.236",
+        "response_time": 3.1463232040405273
     }
 }
