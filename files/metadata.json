@@ -1,21 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.2347733974456787
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,24 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.26361703872680664
+        "response_time": 0.2113807201385498
     },
-    "http://31.40.248.2:8080": {
+    "socks4://170.78.211.161:1080": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.43755602836608887
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.2035539150238037
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5122480392456055
+        "response_time": 0.4081919193267822
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,40 +65,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7473621368408203
+        "response_time": 0.7257051467895508
     },
-    "http://47.245.117.43:80": {
+    "socks4://81.12.169.254:4153": {
         "status": "success",
-        "country": "Singapore",
-        "countryCode": "SG",
-        "region": "03",
-        "regionName": "North West",
-        "city": "Singapore",
-        "zip": "858877",
-        "lat": 1.35208,
-        "lon": 103.82,
-        "timezone": "Asia/Singapore",
-        "isp": "Alibaba (US) Technology Co., Ltd.",
-        "org": "Alibaba.com LLC",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "47.245.117.43",
-        "response_time": 1.7748773097991943
+        "country": "Romania",
+        "countryCode": "RO",
+        "region": "IF",
+        "regionName": "Ilfov",
+        "city": "Otopeni",
+        "zip": "075100",
+        "lat": 44.55,
+        "lon": 26.0724,
+        "timezone": "Europe/Bucharest",
+        "isp": "Vodafone RO",
+        "org": "Vodafone Romania S.A.",
+        "as": "AS12302 Vodafone Romania S.A.",
+        "query": "81.12.169.254",
+        "response_time": 1.552844524383545
     },
-    "socks4://51.158.113.139:16379": {
+    "socks4://82.223.165.28:44432": {
         "status": "success",
-        "country": "Germany",
-        "countryCode": "DE",
-        "region": "BB",
-        "regionName": "Brandenburg",
-        "city": "Brandenburg",
-        "zip": "14621",
-        "lat": 52.6171,
-        "lon": 13.1207,
-        "timezone": "Europe/Berlin",
-        "isp": "Stiftung Erneuerbare Freiheit",
-        "org": "Artikel10 e.V",
-        "as": "AS60729 Stiftung Erneuerbare Freiheit",
-        "query": "185.220.101.20",
-        "response_time": 4.443767786026001
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
+        "org": "",
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 2.110055923461914
     }
 }
