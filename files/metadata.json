@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2113807201385498
+        "response_time": 0.22012662887573242
     },
     "socks4://170.78.211.161:1080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.2035539150238037
+        "response_time": 0.2817368507385254
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4081919193267822
+        "response_time": 0.43066978454589844
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,40 +65,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7257051467895508
+        "response_time": 0.7191853523254395
     },
-    "socks4://81.12.169.254:4153": {
+    "socks4://47.176.213.210:39593": {
         "status": "success",
-        "country": "Romania",
-        "countryCode": "RO",
-        "region": "IF",
-        "regionName": "Ilfov",
-        "city": "Otopeni",
-        "zip": "075100",
-        "lat": 44.55,
-        "lon": 26.0724,
-        "timezone": "Europe/Bucharest",
-        "isp": "Vodafone RO",
-        "org": "Vodafone Romania S.A.",
-        "as": "AS12302 Vodafone Romania S.A.",
-        "query": "81.12.169.254",
-        "response_time": 1.552844524383545
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "Santa Fe Springs",
+        "zip": "90670",
+        "lat": 33.9451,
+        "lon": -118.0817,
+        "timezone": "America/Los_Angeles",
+        "isp": "Frontier Communications of America, Inc.",
+        "org": "Frontier Communications Corporation",
+        "as": "AS5650 Frontier Communications of America, Inc.",
+        "query": "47.176.213.210",
+        "response_time": 1.2320771217346191
     },
-    "socks4://82.223.165.28:44432": {
+    "socks4://103.167.156.102:1080": {
         "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 2.110055923461914
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JT",
+        "regionName": "Central Java",
+        "city": "Pemalang",
+        "zip": "52318",
+        "lat": -6.9477,
+        "lon": 109.3707,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT Jaringan Tiang Indonesia Group",
+        "org": "PT Jaringan Tiang Indonesia Group",
+        "as": "AS150554 PT Jaringan Tiang Indonesia Group",
+        "query": "103.167.156.102",
+        "response_time": 3.063145875930786
     }
 }
