@@ -1,4 +1,21 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.24793553352355957
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.27214765548706055
+        "response_time": 0.5127973556518555
+    },
+    "socks4://114.4.200.222:5678": {
+        "status": "success",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JK",
+        "regionName": "Jakarta",
+        "city": "Jakarta",
+        "zip": "12770",
+        "lat": -6.2401,
+        "lon": 106.8523,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT. INDOSAT Tbk",
+        "org": "PT. INDOSAT Tbk",
+        "as": "AS4761 INDOSAT Internet Network Provider",
+        "query": "114.4.200.222",
+        "response_time": 0.8243210315704346
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,40 +65,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5274503231048584
+        "response_time": 0.967440128326416
     },
-    "socks5://36.92.111.49:52471": {
-        "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta",
-        "zip": "",
-        "lat": -6.18104,
-        "lon": 106.826,
-        "timezone": "Asia/Jakarta",
-        "isp": "Telekomunikasi Indonesia",
-        "org": "Temporary",
-        "as": "AS7713 PT Telekomunikasi Indonesia",
-        "query": "36.92.111.49",
-        "response_time": 1.1364517211914062
-    },
-    "socks4://98.103.88.158:46104": {
+    "socks4://198.0.198.132:54321": {
         "status": "success",
         "country": "United States",
         "countryCode": "US",
-        "region": "OH",
-        "regionName": "Ohio",
-        "city": "Akron",
-        "zip": "44321",
-        "lat": 41.098,
-        "lon": -81.6422,
-        "timezone": "America/New_York",
-        "isp": "Spectrum",
-        "org": "Radisson Hotel Corporation",
-        "as": "AS10796 Charter Communications Inc",
-        "query": "98.103.88.158",
-        "response_time": 2.16668438911438
+        "region": "CA",
+        "regionName": "California",
+        "city": "Berkeley",
+        "zip": "94703",
+        "lat": 37.8637,
+        "lon": -122.276,
+        "timezone": "America/Los_Angeles",
+        "isp": "Comcast Cable Communications",
+        "org": "SMX SM PUBLIC ARPRT DIST",
+        "as": "AS7922 Comcast Cable Communications, LLC",
+        "query": "198.0.198.132",
+        "response_time": 1.196192741394043
+    },
+    "socks4://103.76.190.37:31756": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "TN",
+        "regionName": "Tamil Nadu",
+        "city": "Vellore",
+        "zip": "632509",
+        "lat": 12.9202,
+        "lon": 79.1306,
+        "timezone": "Asia/Kolkata",
+        "isp": "Alacriy Net System Service Private Limited",
+        "org": "Alacriy Net System Service Private Limited",
+        "as": "AS135758 Alacriy Net System Service Private Limited",
+        "query": "103.76.190.37",
+        "response_time": 1.3143291473388672
     }
 }
