@@ -1,38 +1,4 @@
 {
-    "socks5://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.3788459300994873
-    },
-    "socks4://213.14.32.66:4153": {
-        "status": "success",
-        "country": "T\u00fcrkiye",
-        "countryCode": "TR",
-        "region": "34",
-        "regionName": "Istanbul",
-        "city": "Istanbul",
-        "zip": "34050",
-        "lat": 41.0642,
-        "lon": 28.923,
-        "timezone": "Europe/Istanbul",
-        "isp": "Superonline Iletisim Hizmetleri A.S.",
-        "org": "Hipernet Bilisim VE Telekomunikasyon Hizmetleri Sanayi VE Ticaret Limited",
-        "as": "AS34984 Superonline Iletisim Hizmetleri A.S.",
-        "query": "213.14.32.66",
-        "response_time": 0.4826655387878418
-    },
     "socks4://172.233.14.116:1080": {
         "status": "success",
         "country": "Brazil",
@@ -48,24 +14,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.752249002456665
-    },
-    "socks4://103.197.32.205:5678": {
-        "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "TN",
-        "regionName": "Tamil Nadu",
-        "city": "Perambalur",
-        "zip": "621212",
-        "lat": 11.2269,
-        "lon": 78.885,
-        "timezone": "Asia/Kolkata",
-        "isp": "ZERONE Networks pvt ltd",
-        "org": "ZERONE Networks pvt ltd",
-        "as": "AS134260 ZERONE Networks pvt ltd",
-        "query": "103.197.32.205",
-        "response_time": 1.1166901588439941
+        "response_time": 0.7288765907287598
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +31,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.235527276992798
+        "response_time": 2.2491140365600586
+    },
+    "socks5://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.491675615310669
+    },
+    "socks5://103.158.253.162:8199": {
+        "status": "success",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JK",
+        "regionName": "Jakarta",
+        "city": "Jakarta",
+        "zip": "12980",
+        "lat": -6.2077,
+        "lon": 106.8354,
+        "timezone": "Asia/Jakarta",
+        "isp": "Rapid Network",
+        "org": "",
+        "as": "AS141137 PT Media Cepat Indonesia",
+        "query": "103.158.253.162",
+        "response_time": 3.1960220336914062
     }
 }
