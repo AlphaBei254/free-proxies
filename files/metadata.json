@@ -1,21 +1,4 @@
 {
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.26224350929260254
-    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5991613864898682
+        "response_time": 0.5700583457946777
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,57 +31,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.750159502029419
+        "response_time": 0.8353509902954102
     },
-    "socks4://185.14.149.33:4145": {
+    "http://45.140.143.77:18080": {
         "status": "success",
-        "country": "Poland",
-        "countryCode": "PL",
-        "region": "08",
-        "regionName": "Lubusz",
-        "city": "Zielona G\u00f3ra",
-        "zip": "65-536",
-        "lat": 51.9352,
-        "lon": 15.483,
-        "timezone": "Europe/Warsaw",
-        "isp": "TERRA",
-        "org": "",
-        "as": "AS61233 Enformatel Sp. z o.o.",
-        "query": "185.14.148.66",
-        "response_time": 1.630110502243042
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.3230559825897217
     },
-    "socks4://114.4.200.222:5678": {
+    "socks4://202.84.76.190:5678": {
         "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta",
-        "zip": "12770",
-        "lat": -6.2401,
-        "lon": 106.8523,
-        "timezone": "Asia/Jakarta",
-        "isp": "PT. INDOSAT Tbk",
-        "org": "PT. INDOSAT Tbk",
-        "as": "AS4761 INDOSAT Internet Network Provider",
-        "query": "114.4.200.222",
-        "response_time": 1.8979175090789795
-    },
-    "socks4://61.7.147.227:4145": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "10",
-        "regionName": "Bangkok",
-        "city": "Bangkok",
-        "zip": "10120",
-        "lat": 13.7101,
-        "lon": 100.4543,
-        "timezone": "Asia/Bangkok",
-        "isp": "CAT Telecom Public Company Limited",
-        "org": "National Telecom Public Company Limited",
-        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
-        "query": "61.7.147.227",
-        "response_time": 3.0435640811920166
+        "country": "Cambodia",
+        "countryCode": "KH",
+        "region": "12",
+        "regionName": "Phnom Penh",
+        "city": "Phnom Penh",
+        "zip": "",
+        "lat": 11.5583,
+        "lon": 104.9121,
+        "timezone": "Asia/Phnom_Penh",
+        "isp": "CityLink Corporation, LTD",
+        "org": "CityLink Corporation, LTD",
+        "as": "AS24441 CityLink Corporation, LTD",
+        "query": "202.84.76.190",
+        "response_time": 3.086228370666504
     }
 }
