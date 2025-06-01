@@ -1,21 +1,4 @@
 {
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.2616298198699951
-    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.658491849899292
+        "response_time": 0.6270523071289062
+    },
+    "socks4://183.88.247.52:4153": {
+        "status": "success",
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "10",
+        "regionName": "Bangkok",
+        "city": "Bangkok",
+        "zip": "10310",
+        "lat": 13.7749,
+        "lon": 100.5197,
+        "timezone": "Asia/Bangkok",
+        "isp": "Triple T Broadband Public Company Limited",
+        "org": "Triple T Broadband Public Company Limited",
+        "as": "AS45758 Triple T Broadband Public Company Limited",
+        "query": "183.88.247.52",
+        "response_time": 1.0856428146362305
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,23 +48,57 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8413362503051758
+        "response_time": 1.5949358940124512
     },
-    "socks5://202.40.186.66:9090": {
+    "socks4://114.4.200.222:5678": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1215",
-        "lat": 23.7655,
-        "lon": 90.3878,
-        "timezone": "Asia/Dhaka",
-        "isp": "Ranks ITT",
-        "org": "Ranks ITT Ltd.",
-        "as": "AS23991 Ranks ITT Ltd.",
-        "query": "202.40.186.66",
-        "response_time": 2.4911160469055176
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JK",
+        "regionName": "Jakarta",
+        "city": "Jakarta",
+        "zip": "12770",
+        "lat": -6.2401,
+        "lon": 106.8523,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT. INDOSAT Tbk",
+        "org": "PT. INDOSAT Tbk",
+        "as": "AS4761 INDOSAT Internet Network Provider",
+        "query": "114.4.200.222",
+        "response_time": 1.844212532043457
+    },
+    "socks5://81.177.224.173:1337": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "STA",
+        "regionName": "Stavropol Kray",
+        "city": "Stavropol",
+        "zip": "355000",
+        "lat": 45.039,
+        "lon": 41.9632,
+        "timezone": "Europe/Moscow",
+        "isp": "OOO SET",
+        "org": "OOO Set network",
+        "as": "AS48176 OOO SET",
+        "query": "81.177.224.173",
+        "response_time": 3.4571592807769775
+    },
+    "socks4://82.223.165.28:44432": {
+        "status": "success",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
+        "org": "",
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 4.1161816120147705
     }
 }
