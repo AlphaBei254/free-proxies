@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.1837770938873291
+        "response_time": 0.22458577156066895
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3777143955230713
+        "response_time": 0.3859720230102539
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,74 +48,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.6911489963531494
+        "response_time": 0.6840641498565674
     },
-    "socks4://82.223.165.28:44432": {
+    "socks4://212.47.235.205:16379": {
         "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 1.512869119644165
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BB",
+        "regionName": "Brandenburg",
+        "city": "Brandenburg",
+        "zip": "14621",
+        "lat": 52.6171,
+        "lon": 13.1207,
+        "timezone": "Europe/Berlin",
+        "isp": "Stiftung Erneuerbare Freiheit",
+        "org": "Digitalcourage e.V",
+        "as": "AS60729 Stiftung Erneuerbare Freiheit",
+        "query": "185.220.101.100",
+        "response_time": 1.858351469039917
     },
-    "socks4://85.237.51.73:4145": {
+    "http://47.251.43.115:33333": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "PNZ",
-        "regionName": "Penza Oblast",
-        "city": "Penza",
-        "zip": "440000",
-        "lat": 53.1963,
-        "lon": 45.0217,
-        "timezone": "Europe/Moscow",
-        "isp": "PJSC Rostelecom",
-        "org": "PJSC Rostelecom",
-        "as": "AS12389 PJSC Rostelecom",
-        "query": "85.237.51.73",
-        "response_time": 1.8522043228149414
-    },
-    "socks4://175.203.138.160:5678": {
-        "status": "success",
-        "country": "South Korea",
-        "countryCode": "KR",
-        "region": "44",
-        "regionName": "Chungcheongnam-do",
-        "city": "Yesan",
-        "zip": "324",
-        "lat": 36.6781,
-        "lon": 126.6946,
-        "timezone": "Asia/Seoul",
-        "isp": "Korea Telecom",
-        "org": "Kornet",
-        "as": "AS4766 Korea Telecom",
-        "query": "175.203.138.160",
-        "response_time": 2.0048882961273193
-    },
-    "socks4://103.197.32.205:5678": {
-        "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "TN",
-        "regionName": "Tamil Nadu",
-        "city": "Perambalur",
-        "zip": "621212",
-        "lat": 11.2269,
-        "lon": 78.885,
-        "timezone": "Asia/Kolkata",
-        "isp": "ZERONE Networks pvt ltd",
-        "org": "ZERONE Networks pvt ltd",
-        "as": "AS134260 ZERONE Networks pvt ltd",
-        "query": "103.197.32.205",
-        "response_time": 2.2513513565063477
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "Santa Clara",
+        "zip": "95052",
+        "lat": 37.353,
+        "lon": -121.9544,
+        "timezone": "America/Los_Angeles",
+        "isp": "Alibaba Cloud LLC",
+        "org": "ALICLOUD-US",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "47.251.43.115",
+        "response_time": 2.4940903186798096
     }
 }
