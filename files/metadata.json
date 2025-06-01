@@ -14,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.212235689163208
+        "response_time": 0.3105435371398926
+    },
+    "http://31.40.248.2:8080": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "144700",
+        "lat": 55.7558,
+        "lon": 37.6173,
+        "timezone": "Europe/Moscow",
+        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
+        "org": "Cloud.ru",
+        "as": "AS208677 Cloud Technologies LLC trading as Cloud.ru",
+        "query": "31.40.248.2",
+        "response_time": 0.43883204460144043
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.36634302139282227
+        "response_time": 0.6797306537628174
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,23 +65,6 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7074151039123535
-    },
-    "socks4://77.104.75.97:5678": {
-        "status": "success",
-        "country": "Iran",
-        "countryCode": "IR",
-        "region": "23",
-        "regionName": "Tehran",
-        "city": "Tehran",
-        "zip": "",
-        "lat": 35.7471,
-        "lon": 51.4115,
-        "timezone": "Asia/Tehran",
-        "isp": "Respina Networks & Beyond PJSC",
-        "org": "Respina",
-        "as": "AS42337 Respina Networks & Beyond PJSC",
-        "query": "77.104.75.97",
-        "response_time": 0.7621481418609619
+        "response_time": 0.8716895580291748
     }
 }
