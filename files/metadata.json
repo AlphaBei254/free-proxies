@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.20313143730163574
+        "response_time": 0.29425787925720215
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3515639305114746
-    },
-    "socks5://46.147.65.44:61986": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "TA",
-        "regionName": "Tatarstan Republic",
-        "city": "Naberezhnyye Chelny",
-        "zip": "423800",
-        "lat": 55.7582,
-        "lon": 52.4302,
-        "timezone": "Europe/Moscow",
-        "isp": "CJSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
-        "org": "JSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
-        "as": "AS42116 JSC \"ER-Telecom Holding\"",
-        "query": "46.147.65.44",
-        "response_time": 0.8304352760314941
+        "response_time": 0.5637462139129639
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,23 +48,6 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.9281051158905029
-    },
-    "socks4://175.144.198.226:31694": {
-        "status": "success",
-        "country": "Malaysia",
-        "countryCode": "MY",
-        "region": "14",
-        "regionName": "Kuala Lumpur",
-        "city": "Kuala Lumpur",
-        "zip": "50490",
-        "lat": 3.1418,
-        "lon": 101.6727,
-        "timezone": "Asia/Kuala_Lumpur",
-        "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-        "org": "Adsl Streamyx",
-        "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-        "query": "175.144.198.13",
-        "response_time": 3.1387016773223877
+        "response_time": 0.8001635074615479
     }
 }
