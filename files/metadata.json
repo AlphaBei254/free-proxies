@@ -1,21 +1,4 @@
 {
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.30332016944885254
-    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5761470794677734
+        "response_time": 0.38891172409057617
     },
     "http://200.174.198.86:8888": {
         "status": "success",
@@ -47,25 +30,8 @@
         "isp": "Claro S.A",
         "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
         "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.122",
-        "response_time": 0.6394455432891846
-    },
-    "socks4://201.148.125.126:4153": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "city": "Santa Helena de Goi\u00e1s",
-        "zip": "73930",
-        "lat": -17.8136,
-        "lon": -50.5969,
-        "timezone": "America/Sao_Paulo",
-        "isp": "America-NET Ltda.",
-        "org": "America-NET Ltda",
-        "as": "AS61844 America-NET Ltda.",
-        "query": "201.148.125.126",
-        "response_time": 0.8281571865081787
+        "query": "200.174.198.41",
+        "response_time": 0.6351602077484131
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,24 +48,41 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8813900947570801
+        "response_time": 0.6623868942260742
     },
-    "socks4://58.65.167.165:4145": {
+    "socks4://175.139.201.193:4153": {
         "status": "success",
-        "country": "Pakistan",
-        "countryCode": "PK",
-        "region": "IS",
-        "regionName": "Islamabad",
-        "city": "Islamabad",
-        "zip": "44100",
-        "lat": 33.7233,
-        "lon": 73.0435,
-        "timezone": "Asia/Karachi",
-        "isp": "Nayatel (Pvt) Ltd",
-        "org": "Nayatel",
-        "as": "AS23674 Nayatel (Pvt) Ltd",
-        "query": "124.109.44.126",
-        "response_time": 2.196017265319824
+        "country": "Malaysia",
+        "countryCode": "MY",
+        "region": "14",
+        "regionName": "Kuala Lumpur",
+        "city": "Kuala Lumpur",
+        "zip": "57000",
+        "lat": 3.1013,
+        "lon": 101.6915,
+        "timezone": "Asia/Kuala_Lumpur",
+        "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+        "org": "Adsl Streamyx",
+        "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+        "query": "175.139.200.17",
+        "response_time": 1.248100996017456
+    },
+    "http://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.2468836307525635
     },
     "socks4://212.50.19.150:4153": {
         "status": "success",
@@ -116,6 +99,57 @@
         "org": "",
         "as": "AS8717 A1 Bulgaria EAD",
         "query": "212.50.19.150",
-        "response_time": 2.617492914199829
+        "response_time": 2.4561619758605957
+    },
+    "socks4://46.36.65.117:1080": {
+        "status": "success",
+        "country": "Lithuania",
+        "countryCode": "LT",
+        "region": "TE",
+        "regionName": "Telsiai",
+        "city": "Ma\u017eeikiai",
+        "zip": "89021",
+        "lat": 56.3176,
+        "lon": 22.3463,
+        "timezone": "Europe/Vilnius",
+        "isp": "KLI",
+        "org": "",
+        "as": "AS43627 UAB \"Besmegeniai\"",
+        "query": "46.36.65.117",
+        "response_time": 2.6603424549102783
+    },
+    "socks4://175.203.138.160:5678": {
+        "status": "success",
+        "country": "South Korea",
+        "countryCode": "KR",
+        "region": "44",
+        "regionName": "Chungcheongnam-do",
+        "city": "Yesan",
+        "zip": "324",
+        "lat": 36.6781,
+        "lon": 126.6946,
+        "timezone": "Asia/Seoul",
+        "isp": "Korea Telecom",
+        "org": "Kornet",
+        "as": "AS4766 Korea Telecom",
+        "query": "175.203.138.160",
+        "response_time": 3.0078136920928955
+    },
+    "socks4://82.223.165.28:44432": {
+        "status": "success",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
+        "org": "",
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 4.14677357673645
     }
 }
