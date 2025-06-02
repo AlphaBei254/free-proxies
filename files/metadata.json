@@ -14,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2112116813659668
+        "response_time": 0.37683677673339844
+    },
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.5500988960266113
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,75 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.40146970748901367
-    },
-    "socks5://103.189.218.83:6969": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Tongi",
-        "zip": "1230",
-        "lat": 23.8915,
-        "lon": 90.4023,
-        "timezone": "Asia/Dhaka",
-        "isp": "Comfort Solutions",
-        "org": "Md. Ruhul Amin Sarker",
-        "as": "AS149868 Comfort Solutions",
-        "query": "103.189.218.83",
-        "response_time": 1.5365126132965088
-    },
-    "socks4://90.182.147.170:4145": {
-        "status": "success",
-        "country": "Czechia",
-        "countryCode": "CZ",
-        "region": "10",
-        "regionName": "Prague",
-        "city": "Prague",
-        "zip": "170 00",
-        "lat": 50.1113,
-        "lon": 14.4063,
-        "timezone": "Europe/Prague",
-        "isp": "O2 Czech Republic",
-        "org": "CZ.CZNET",
-        "as": "AS5610 O2 Czech Republic, a.s.",
-        "query": "90.182.147.170",
-        "response_time": 1.6851434707641602
-    },
-    "socks5://46.147.65.44:61986": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "TA",
-        "regionName": "Tatarstan Republic",
-        "city": "Naberezhnyye Chelny",
-        "zip": "423800",
-        "lat": 55.7582,
-        "lon": 52.4302,
-        "timezone": "Europe/Moscow",
-        "isp": "CJSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
-        "org": "JSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
-        "as": "AS42116 JSC \"ER-Telecom Holding\"",
-        "query": "46.147.65.44",
-        "response_time": 1.9475212097167969
-    },
-    "socks4://110.74.195.152:1080": {
-        "status": "success",
-        "country": "Cambodia",
-        "countryCode": "KH",
-        "region": "12",
-        "regionName": "Phnom Penh",
-        "city": "Phnom Penh",
-        "zip": "",
-        "lat": 11.5583,
-        "lon": 104.9121,
-        "timezone": "Asia/Phnom_Penh",
-        "isp": "EZECOM CO., LTD.",
-        "org": "EZECOM limited",
-        "as": "AS38901 EZECOM CO., LTD.",
-        "query": "110.74.195.152",
-        "response_time": 2.047271728515625
+        "response_time": 0.5872259140014648
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -116,23 +65,6 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 2.472796678543091
-    },
-    "socks4://93.117.72.27:55770": {
-        "status": "success",
-        "country": "Moldova",
-        "countryCode": "MD",
-        "region": "CU",
-        "regionName": "Chi\u0219in\u0103u Municipality",
-        "city": "Ciorescu",
-        "zip": "MD-2089",
-        "lat": 47.1349,
-        "lon": 28.8816,
-        "timezone": "Europe/Chisinau",
-        "isp": "Moldtelecom SA",
-        "org": "JSC Moldtelecom S.A.",
-        "as": "AS8926 Moldtelecom SA",
-        "query": "93.117.72.27",
-        "response_time": 2.724874258041382
+        "response_time": 0.8222057819366455
     }
 }
