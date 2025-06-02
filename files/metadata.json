@@ -1,20 +1,20 @@
 {
-    "http://45.140.143.77:18080": {
+    "socks4://170.78.211.161:1080": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.2005770206451416
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.2509779930114746
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3452882766723633
+        "response_time": 0.6080024242401123
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,24 +48,75 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.690314531326294
+        "response_time": 0.8256802558898926
     },
-    "socks4://114.4.200.222:5678": {
+    "socks4://103.229.47.120:4153": {
         "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta",
-        "zip": "12770",
-        "lat": -6.2401,
-        "lon": 106.8523,
-        "timezone": "Asia/Jakarta",
-        "isp": "PT. INDOSAT Tbk",
-        "org": "PT. INDOSAT Tbk",
-        "as": "AS4761 INDOSAT Internet Network Provider",
-        "query": "114.4.200.222",
-        "response_time": 2.1103603839874268
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "E",
+        "regionName": "Rajshahi Division",
+        "city": "Bogra",
+        "zip": "5800",
+        "lat": 24.806,
+        "lon": 89.3138,
+        "timezone": "Asia/Dhaka",
+        "isp": "MSHELPLINE",
+        "org": "",
+        "as": "AS59340 Help Line",
+        "query": "103.229.47.120",
+        "response_time": 1.0784199237823486
+    },
+    "socks5://103.189.218.83:6969": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Tongi",
+        "zip": "1230",
+        "lat": 23.8915,
+        "lon": 90.4023,
+        "timezone": "Asia/Dhaka",
+        "isp": "Comfort Solutions",
+        "org": "Md. Ruhul Amin Sarker",
+        "as": "AS149868 Comfort Solutions",
+        "query": "103.189.218.83",
+        "response_time": 1.366013526916504
+    },
+    "socks4://45.6.101.97:4153": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "24000",
+        "lat": -22.9201,
+        "lon": -43.0811,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Golden Link",
+        "org": "Golden Link",
+        "as": "AS266181 GOLDEN LINK",
+        "query": "45.6.101.26",
+        "response_time": 1.8510701656341553
+    },
+    "http://45.140.143.77:18080": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.3416717052459717
     },
     "socks4://82.223.165.28:44432": {
         "status": "success",
@@ -82,6 +133,6 @@
         "org": "",
         "as": "AS8560 IONOS SE",
         "query": "82.223.165.28",
-        "response_time": 5.046942710876465
+        "response_time": 2.941293716430664
     }
 }
