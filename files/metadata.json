@@ -14,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.21823787689208984
+        "response_time": 0.20306706428527832
+    },
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.228776216506958
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.44408535957336426
-    },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.57",
-        "response_time": 0.5599589347839355
+        "response_time": 0.35625505447387695
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,23 +65,6 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7287464141845703
-    },
-    "socks4://180.180.124.248:49992": {
-        "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "21",
-        "regionName": "Rayong",
-        "city": "Rayong",
-        "zip": "21180",
-        "lat": 12.8139,
-        "lon": 101.308,
-        "timezone": "Asia/Bangkok",
-        "isp": "TOT Public Company Limited",
-        "org": "TOT Public Company Limited",
-        "as": "AS23969 TOT Public Company Limited",
-        "query": "180.180.124.248",
-        "response_time": 1.082312822341919
+        "response_time": 0.7568602561950684
     }
 }
