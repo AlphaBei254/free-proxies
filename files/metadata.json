@@ -1,21 +1,4 @@
 {
-    "http://31.40.248.2:8080": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.4641287326812744
-    },
     "http://164.163.42.46:10000": {
         "status": "success",
         "country": "Argentina",
@@ -31,7 +14,7 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 0.7128145694732666
+        "response_time": 0.48154592514038086
     },
     "http://164.163.40.16:10000": {
         "status": "success",
@@ -48,24 +31,7 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 0.862417459487915
-    },
-    "http://164.163.42.36:10000": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "H",
-        "regionName": "Chaco",
-        "city": "Villa \u00c1ngela",
-        "zip": "3540",
-        "lat": -27.5866,
-        "lon": -60.72,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Interret Villa Angela SRL",
-        "org": "Interret Villa Angela SRL",
-        "as": "AS265763 Interret Villa Angela SRL",
-        "query": "164.163.43.102",
-        "response_time": 1.5471088886260986
+        "response_time": 0.6482007503509521
     },
     "http://164.163.40.90:10000": {
         "status": "success",
@@ -82,7 +48,41 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 1.6704518795013428
+        "response_time": 0.7098941802978516
+    },
+    "http://164.163.42.36:10000": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 0.8120372295379639
+    },
+    "socks5://46.147.65.44:61986": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "TA",
+        "regionName": "Tatarstan Republic",
+        "city": "Naberezhnyye Chelny",
+        "zip": "423800",
+        "lat": 55.7582,
+        "lon": 52.4302,
+        "timezone": "Europe/Moscow",
+        "isp": "CJSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
+        "org": "JSC \"ER-Telecom Holding\" Naberezhnye Chelny branch",
+        "as": "AS42116 JSC \"ER-Telecom Holding\"",
+        "query": "46.147.65.44",
+        "response_time": 0.8042635917663574
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -99,7 +99,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.333010196685791
+        "response_time": 2.2468416690826416
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -116,7 +116,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.6486339569091797
+        "response_time": 2.451608180999756
     },
     "http://164.163.42.19:10000": {
         "status": "success",
@@ -133,6 +133,23 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 2.7063307762145996
+        "response_time": 2.5948708057403564
+    },
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 3.176644802093506
     }
 }
