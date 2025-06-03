@@ -1,21 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.22747421264648438
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,24 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3215353488922119
+        "response_time": 0.3564455509185791
     },
-    "http://65.108.203.37:28080": {
+    "http://164.163.42.46:10000": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "DC",
-        "regionName": "Washington, D.C.",
-        "city": "Washington",
-        "zip": "20146",
-        "lat": 38.9071,
-        "lon": -77.0368,
-        "timezone": "America/New_York",
-        "isp": "Opera Browser VPN",
-        "org": "Opera Software LLC",
-        "as": "AS205016 HERN Labs AB",
-        "query": "77.111.246.22",
-        "response_time": 0.44741272926330566
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 0.6084587574005127
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,24 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6290431022644043
-    },
-    "http://164.163.42.19:10000": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "H",
-        "regionName": "Chaco",
-        "city": "Villa \u00c1ngela",
-        "zip": "3540",
-        "lat": -27.5866,
-        "lon": -60.72,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Interret Villa Angela SRL",
-        "org": "Interret Villa Angela SRL",
-        "as": "AS265763 Interret Villa Angela SRL",
-        "query": "164.163.43.102",
-        "response_time": 0.6895849704742432
+        "response_time": 0.5745282173156738
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -99,40 +65,6 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7824442386627197
-    },
-    "http://164.163.40.90:10000": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "H",
-        "regionName": "Chaco",
-        "city": "Villa \u00c1ngela",
-        "zip": "3540",
-        "lat": -27.5866,
-        "lon": -60.72,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Interret Villa Angela SRL",
-        "org": "Interret Villa Angela SRL",
-        "as": "AS265763 Interret Villa Angela SRL",
-        "query": "164.163.43.102",
-        "response_time": 1.5931127071380615
-    },
-    "socks4://114.4.200.222:5678": {
-        "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta",
-        "zip": "12770",
-        "lat": -6.2401,
-        "lon": 106.8523,
-        "timezone": "Asia/Jakarta",
-        "isp": "PT. INDOSAT Tbk",
-        "org": "PT. INDOSAT Tbk",
-        "as": "AS4761 INDOSAT Internet Network Provider",
-        "query": "114.4.200.222",
-        "response_time": 1.9697020053863525
+        "response_time": 0.8632354736328125
     }
 }
