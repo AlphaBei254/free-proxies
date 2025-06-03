@@ -1,4 +1,21 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.22747421264648438
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,24 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.19716382026672363
+        "response_time": 0.3215353488922119
     },
-    "socks4://51.178.68.226:46753": {
+    "http://65.108.203.37:28080": {
         "status": "success",
-        "country": "France",
-        "countryCode": "FR",
-        "region": "HDF",
-        "regionName": "Hauts-de-France",
-        "city": "Wattrelos",
-        "zip": "59150",
-        "lat": 50.7012,
-        "lon": 3.21501,
-        "timezone": "Europe/Paris",
-        "isp": "OVH SAS",
-        "org": "OVH",
-        "as": "AS16276 OVH SAS",
-        "query": "51.178.68.226",
-        "response_time": 0.3831193447113037
+        "country": "United States",
+        "countryCode": "US",
+        "region": "DC",
+        "regionName": "Washington, D.C.",
+        "city": "Washington",
+        "zip": "20146",
+        "lat": 38.9071,
+        "lon": -77.0368,
+        "timezone": "America/New_York",
+        "isp": "Opera Browser VPN",
+        "org": "Opera Software LLC",
+        "as": "AS205016 HERN Labs AB",
+        "query": "77.111.246.22",
+        "response_time": 0.44741272926330566
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +65,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3569834232330322
+        "response_time": 0.6290431022644043
+    },
+    "http://164.163.42.19:10000": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 0.6895849704742432
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,40 +99,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.6615133285522461
+        "response_time": 0.7824442386627197
     },
-    "socks5://187.63.9.62:63253": {
+    "http://164.163.40.90:10000": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Arraial do Cabo",
-        "zip": "28930",
-        "lat": -22.9526,
-        "lon": -42.0583,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
-        "org": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multi",
-        "as": "AS28658 Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
-        "query": "187.63.9.62",
-        "response_time": 0.7913708686828613
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 1.5931127071380615
     },
-    "socks5://91.121.173.38:54233": {
+    "socks4://114.4.200.222:5678": {
         "status": "success",
-        "country": "France",
-        "countryCode": "FR",
-        "region": "HDF",
-        "regionName": "Hauts-de-France",
-        "city": "Roubaix",
-        "zip": "59100",
-        "lat": 50.6918,
-        "lon": 3.2021,
-        "timezone": "Europe/Paris",
-        "isp": "OVH SAS",
-        "org": "OVH ISP",
-        "as": "AS16276 OVH SAS",
-        "query": "91.121.173.38",
-        "response_time": 3.346052408218384
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JK",
+        "regionName": "Jakarta",
+        "city": "Jakarta",
+        "zip": "12770",
+        "lat": -6.2401,
+        "lon": 106.8523,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT. INDOSAT Tbk",
+        "org": "PT. INDOSAT Tbk",
+        "as": "AS4761 INDOSAT Internet Network Provider",
+        "query": "114.4.200.222",
+        "response_time": 1.9697020053863525
     }
 }
