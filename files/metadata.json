@@ -14,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.19496726989746094
+        "response_time": 0.2155611515045166
+    },
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.26288533210754395
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4047105312347412
-    },
-    "socks4://179.1.110.88:5678": {
-        "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "NSA",
-        "regionName": "Norte de Santander Department",
-        "city": "C\u00facuta",
-        "zip": "540001",
-        "lat": 7.8948,
-        "lon": -72.5021,
-        "timezone": "America/Bogota",
-        "isp": "Internexa S.a. E.S.P",
-        "org": "Internexa S.a. E.S.P",
-        "as": "AS18678 INTERNEXA S.A. E.S.P",
-        "query": "179.1.110.87",
-        "response_time": 0.4609360694885254
+        "response_time": 0.37375640869140625
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,41 +65,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7541279792785645
-    },
-    "socks5://161.49.176.173:1338": {
-        "status": "success",
-        "country": "Philippines",
-        "countryCode": "PH",
-        "region": "00",
-        "regionName": "Metro Manila",
-        "city": "Pasig",
-        "zip": "1600",
-        "lat": 14.5688,
-        "lon": 121.0827,
-        "timezone": "Asia/Manila",
-        "isp": "Converge ICT Solution Inc",
-        "org": "Converge ICT Solution Inc",
-        "as": "AS17639 Converge ICT Solutions Inc.",
-        "query": "161.49.176.173",
-        "response_time": 1.3903138637542725
-    },
-    "http://164.163.42.46:10000": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "H",
-        "regionName": "Chaco",
-        "city": "Villa \u00c1ngela",
-        "zip": "3540",
-        "lat": -27.5866,
-        "lon": -60.72,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Interret Villa Angela SRL",
-        "org": "Interret Villa Angela SRL",
-        "as": "AS265763 Interret Villa Angela SRL",
-        "query": "164.163.43.102",
-        "response_time": 1.6602113246917725
+        "response_time": 0.725332498550415
     },
     "http://200.174.198.86:8888": {
         "status": "success",
@@ -115,8 +81,42 @@
         "isp": "Claro S.A",
         "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
         "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.236",
-        "response_time": 1.675666332244873
+        "query": "200.174.198.124",
+        "response_time": 1.6843781471252441
+    },
+    "http://164.163.42.19:10000": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 2.6000819206237793
+    },
+    "socks4://90.182.147.170:4145": {
+        "status": "success",
+        "country": "Czechia",
+        "countryCode": "CZ",
+        "region": "10",
+        "regionName": "Prague",
+        "city": "Prague",
+        "zip": "170 00",
+        "lat": 50.1113,
+        "lon": 14.4063,
+        "timezone": "Europe/Prague",
+        "isp": "O2 Czech Republic",
+        "org": "CZ.CZNET",
+        "as": "AS5610 O2 Czech Republic, a.s.",
+        "query": "90.182.147.170",
+        "response_time": 2.6275863647460938
     },
     "socks4://82.223.165.28:44432": {
         "status": "success",
@@ -133,6 +133,6 @@
         "org": "",
         "as": "AS8560 IONOS SE",
         "query": "82.223.165.28",
-        "response_time": 1.8570411205291748
+        "response_time": 3.1913492679595947
     }
 }
