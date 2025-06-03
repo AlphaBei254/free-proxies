@@ -1,4 +1,21 @@
 {
+    "http://65.108.203.37:28080": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "DC",
+        "regionName": "Washington, D.C.",
+        "city": "Washington",
+        "zip": "20146",
+        "lat": 38.9071,
+        "lon": -77.0368,
+        "timezone": "America/New_York",
+        "isp": "Opera Browser VPN",
+        "org": "Opera Software LLC",
+        "as": "AS205016 HERN Labs AB",
+        "query": "77.111.246.54",
+        "response_time": 0.35043811798095703
+    },
     "socks4://172.233.14.116:1080": {
         "status": "success",
         "country": "Brazil",
@@ -14,7 +31,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.9649722576141357
+        "response_time": 1.60976243019104
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.247093439102173
+        "response_time": 2.286526679992676
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,23 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.453700304031372
+        "response_time": 2.450485944747925
     },
-    "socks5://163.172.128.222:16379": {
+    "socks4://82.223.165.28:44432": {
         "status": "success",
-        "country": "Poland",
-        "countryCode": "PL",
-        "region": "14",
-        "regionName": "Mazovia",
-        "city": "Warsaw",
-        "zip": "00-039",
-        "lat": 52.2363,
-        "lon": 21.0131,
-        "timezone": "Europe/Warsaw",
-        "isp": "1337 Services GmbH",
-        "org": "1337 Services GmbH",
-        "as": "AS210558 1337 Services GmbH",
-        "query": "45.80.158.69",
-        "response_time": 8.94730019569397
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
+        "org": "",
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 3.6143558025360107
     }
 }
