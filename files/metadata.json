@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.21185517311096191
+        "response_time": 0.19496726989746094
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +31,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4093961715698242
+        "response_time": 0.4047105312347412
+    },
+    "socks4://179.1.110.88:5678": {
+        "status": "success",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "NSA",
+        "regionName": "Norte de Santander Department",
+        "city": "C\u00facuta",
+        "zip": "540001",
+        "lat": 7.8948,
+        "lon": -72.5021,
+        "timezone": "America/Bogota",
+        "isp": "Internexa S.a. E.S.P",
+        "org": "Internexa S.a. E.S.P",
+        "as": "AS18678 INTERNEXA S.A. E.S.P",
+        "query": "179.1.110.87",
+        "response_time": 0.4609360694885254
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,41 +65,24 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7923026084899902
+        "response_time": 0.7541279792785645
     },
-    "socks4://103.229.47.120:4153": {
+    "socks5://161.49.176.173:1338": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "E",
-        "regionName": "Rajshahi Division",
-        "city": "Bogra",
-        "zip": "5800",
-        "lat": 24.806,
-        "lon": 89.3138,
-        "timezone": "Asia/Dhaka",
-        "isp": "MSHELPLINE",
-        "org": "",
-        "as": "AS59340 Help Line",
-        "query": "103.229.47.120",
-        "response_time": 1.1679232120513916
-    },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.25",
-        "response_time": 1.6885855197906494
+        "country": "Philippines",
+        "countryCode": "PH",
+        "region": "00",
+        "regionName": "Metro Manila",
+        "city": "Pasig",
+        "zip": "1600",
+        "lat": 14.5688,
+        "lon": 121.0827,
+        "timezone": "Asia/Manila",
+        "isp": "Converge ICT Solution Inc",
+        "org": "Converge ICT Solution Inc",
+        "as": "AS17639 Converge ICT Solutions Inc.",
+        "query": "161.49.176.173",
+        "response_time": 1.3903138637542725
     },
     "http://164.163.42.46:10000": {
         "status": "success",
@@ -99,6 +99,40 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 2.6455070972442627
+        "response_time": 1.6602113246917725
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.236",
+        "response_time": 1.675666332244873
+    },
+    "socks4://82.223.165.28:44432": {
+        "status": "success",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
+        "org": "",
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 1.8570411205291748
     }
 }
