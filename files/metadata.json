@@ -14,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.30780625343322754
-    },
-    "http://47.245.117.43:80": {
-        "status": "success",
-        "country": "Singapore",
-        "countryCode": "SG",
-        "region": "03",
-        "regionName": "North West",
-        "city": "Singapore",
-        "zip": "858877",
-        "lat": 1.35208,
-        "lon": 103.82,
-        "timezone": "Asia/Singapore",
-        "isp": "Alibaba (US) Technology Co., Ltd.",
-        "org": "Alibaba.com LLC",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "47.245.117.43",
-        "response_time": 0.5501675605773926
+        "response_time": 0.19460368156433105
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6089739799499512
+        "response_time": 0.42595362663269043
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,23 +48,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8349125385284424
+        "response_time": 0.6580841541290283
     },
-    "http://164.163.40.90:10000": {
+    "http://47.90.205.231:33333": {
         "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "H",
-        "regionName": "Chaco",
-        "city": "Villa \u00c1ngela",
-        "zip": "3540",
-        "lat": -27.5866,
-        "lon": -60.72,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Interret Villa Angela SRL",
-        "org": "Interret Villa Angela SRL",
-        "as": "AS265763 Interret Villa Angela SRL",
-        "query": "164.163.43.102",
-        "response_time": 1.618088960647583
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Richmond",
+        "zip": "23173",
+        "lat": 37.4316,
+        "lon": -78.6569,
+        "timezone": "America/New_York",
+        "isp": "Alibaba.com LLC",
+        "org": "ALICLOUD-US",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "47.90.205.231",
+        "response_time": 1.0324807167053223
+    },
+    "socks4://51.15.232.175:16379": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NB",
+        "regionName": "North Brabant",
+        "city": "Roosendaal",
+        "zip": "4701",
+        "lat": 51.5359,
+        "lon": 4.46532,
+        "timezone": "Europe/Amsterdam",
+        "isp": "NFOrce Entertainment BV",
+        "org": "NForce Entertainment B.V",
+        "as": "AS43350 NForce Entertainment B.V.",
+        "query": "185.107.57.64",
+        "response_time": 3.4040775299072266
     }
 }
