@@ -14,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.22685551643371582
+        "response_time": 0.21185517311096191
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.39890575408935547
-    },
-    "http://164.163.40.16:10000": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "H",
-        "regionName": "Chaco",
-        "city": "Villa \u00c1ngela",
-        "zip": "3540",
-        "lat": -27.5866,
-        "lon": -60.72,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Interret Villa Angela SRL",
-        "org": "Interret Villa Angela SRL",
-        "as": "AS265763 Interret Villa Angela SRL",
-        "query": "164.163.43.102",
-        "response_time": 0.5681328773498535
+        "response_time": 0.4093961715698242
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,9 +48,43 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7299158573150635
+        "response_time": 0.7923026084899902
     },
-    "http://164.163.42.19:10000": {
+    "socks4://103.229.47.120:4153": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "E",
+        "regionName": "Rajshahi Division",
+        "city": "Bogra",
+        "zip": "5800",
+        "lat": 24.806,
+        "lon": 89.3138,
+        "timezone": "Asia/Dhaka",
+        "isp": "MSHELPLINE",
+        "org": "",
+        "as": "AS59340 Help Line",
+        "query": "103.229.47.120",
+        "response_time": 1.1679232120513916
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.25",
+        "response_time": 1.6885855197906494
+    },
+    "http://164.163.42.46:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -82,6 +99,6 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 1.5490117073059082
+        "response_time": 2.6455070972442627
     }
 }
