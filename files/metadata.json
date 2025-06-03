@@ -14,7 +14,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.19460368156433105
+        "response_time": 0.19716382026672363
+    },
+    "socks4://51.178.68.226:46753": {
+        "status": "success",
+        "country": "France",
+        "countryCode": "FR",
+        "region": "HDF",
+        "regionName": "Hauts-de-France",
+        "city": "Wattrelos",
+        "zip": "59150",
+        "lat": 50.7012,
+        "lon": 3.21501,
+        "timezone": "Europe/Paris",
+        "isp": "OVH SAS",
+        "org": "OVH",
+        "as": "AS16276 OVH SAS",
+        "query": "51.178.68.226",
+        "response_time": 0.3831193447113037
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,7 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.42595362663269043
+        "response_time": 0.3569834232330322
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,40 +65,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.6580841541290283
+        "response_time": 0.6615133285522461
     },
-    "http://47.90.205.231:33333": {
+    "socks5://187.63.9.62:63253": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Richmond",
-        "zip": "23173",
-        "lat": 37.4316,
-        "lon": -78.6569,
-        "timezone": "America/New_York",
-        "isp": "Alibaba.com LLC",
-        "org": "ALICLOUD-US",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "47.90.205.231",
-        "response_time": 1.0324807167053223
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Arraial do Cabo",
+        "zip": "28930",
+        "lat": -22.9526,
+        "lon": -42.0583,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
+        "org": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multi",
+        "as": "AS28658 Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
+        "query": "187.63.9.62",
+        "response_time": 0.7913708686828613
     },
-    "socks4://51.15.232.175:16379": {
+    "socks5://91.121.173.38:54233": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NB",
-        "regionName": "North Brabant",
-        "city": "Roosendaal",
-        "zip": "4701",
-        "lat": 51.5359,
-        "lon": 4.46532,
-        "timezone": "Europe/Amsterdam",
-        "isp": "NFOrce Entertainment BV",
-        "org": "NForce Entertainment B.V",
-        "as": "AS43350 NForce Entertainment B.V.",
-        "query": "185.107.57.64",
-        "response_time": 3.4040775299072266
+        "country": "France",
+        "countryCode": "FR",
+        "region": "HDF",
+        "regionName": "Hauts-de-France",
+        "city": "Roubaix",
+        "zip": "59100",
+        "lat": 50.6918,
+        "lon": 3.2021,
+        "timezone": "Europe/Paris",
+        "isp": "OVH SAS",
+        "org": "OVH ISP",
+        "as": "AS16276 OVH SAS",
+        "query": "91.121.173.38",
+        "response_time": 3.346052408218384
     }
 }
