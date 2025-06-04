@@ -14,7 +14,7 @@
         "org": "Cloud.ru",
         "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.3323841094970703
+        "response_time": 0.4872612953186035
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4158632755279541
-    },
-    "http://47.90.205.231:33333": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Richmond",
-        "zip": "23173",
-        "lat": 37.4316,
-        "lon": -78.6569,
-        "timezone": "America/New_York",
-        "isp": "Alibaba.com LLC",
-        "org": "ALICLOUD-US",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "47.90.205.231",
-        "response_time": 1.0330820083618164
+        "response_time": 0.7020881175994873
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,7 +48,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 2.056877613067627
+        "response_time": 1.5205867290496826
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -82,23 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.246518850326538
-    },
-    "socks4://82.223.165.28:44432": {
-        "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 2.8117260932922363
+        "response_time": 2.3781991004943848
     }
 }
