@@ -14,41 +14,24 @@
         "org": "Cloud.ru",
         "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 1.4505996704101562
+        "response_time": 0.651921272277832
     },
-    "socks5://103.189.218.83:6969": {
+    "socks4://175.139.201.193:4153": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Tongi",
-        "zip": "1230",
-        "lat": 23.8915,
-        "lon": 90.4023,
-        "timezone": "Asia/Dhaka",
-        "isp": "Comfort Solutions",
-        "org": "Md. Ruhul Amin Sarker",
-        "as": "AS149868 Comfort Solutions",
-        "query": "103.189.218.83",
-        "response_time": 1.491663932800293
-    },
-    "http://45.140.143.77:18080": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 2.3293046951293945
+        "country": "Malaysia",
+        "countryCode": "MY",
+        "region": "14",
+        "regionName": "Kuala Lumpur",
+        "city": "Kuala Lumpur",
+        "zip": "50200",
+        "lat": 3.1399,
+        "lon": 101.7009,
+        "timezone": "Asia/Kuala_Lumpur",
+        "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+        "org": "Adsl Streamyx",
+        "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+        "query": "175.139.200.17",
+        "response_time": 1.1095435619354248
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,7 +48,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 2.3876585960388184
+        "response_time": 2.1188411712646484
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +65,40 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.5419797897338867
+        "response_time": 2.6915409564971924
+    },
+    "socks4://175.144.198.226:31694": {
+        "status": "success",
+        "country": "Malaysia",
+        "countryCode": "MY",
+        "region": "01",
+        "regionName": "Johor",
+        "city": "Johor Bahru",
+        "zip": "80100",
+        "lat": 1.5061,
+        "lon": 103.706,
+        "timezone": "Asia/Kuala_Lumpur",
+        "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+        "org": "Adsl Streamyx",
+        "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+        "query": "175.144.198.225",
+        "response_time": 2.950772523880005
+    },
+    "socks4://138.68.21.132:45793": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "Santa Clara",
+        "zip": "95051",
+        "lat": 37.3486,
+        "lon": -121.9732,
+        "timezone": "America/Los_Angeles",
+        "isp": "DigitalOcean, LLC",
+        "org": "DigitalOcean, LLC",
+        "as": "AS14061 DigitalOcean, LLC",
+        "query": "138.68.21.132",
+        "response_time": 3.545382499694824
     }
 }
