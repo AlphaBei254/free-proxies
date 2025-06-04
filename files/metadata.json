@@ -1,37 +1,37 @@
 {
-    "socks5://45.140.143.77:18080": {
+    "socks4://179.1.110.88:5678": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 0.4190092086791992
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "NSA",
+        "regionName": "Norte de Santander Department",
+        "city": "C\u00facuta",
+        "zip": "540001",
+        "lat": 7.8948,
+        "lon": -72.5021,
+        "timezone": "America/Bogota",
+        "isp": "Internexa S.a. E.S.P",
+        "org": "Internexa S.a. E.S.P",
+        "as": "AS18678 INTERNEXA S.A. E.S.P",
+        "query": "179.1.110.87",
+        "response_time": 0.46035146713256836
     },
-    "socks4://201.148.125.126:4153": {
+    "http://31.40.248.2:8080": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "city": "Santa Helena de Goi\u00e1s",
-        "zip": "73930",
-        "lat": -17.8136,
-        "lon": -50.5969,
-        "timezone": "America/Sao_Paulo",
-        "isp": "America-NET Ltda.",
-        "org": "America-NET Ltda",
-        "as": "AS61844 America-NET Ltda.",
-        "query": "201.148.125.126",
-        "response_time": 0.8712036609649658
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "144700",
+        "lat": 55.7558,
+        "lon": 37.6173,
+        "timezone": "Europe/Moscow",
+        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
+        "org": "Cloud.ru",
+        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
+        "query": "31.40.248.2",
+        "response_time": 0.48065757751464844
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,7 +48,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.9351387023925781
+        "response_time": 0.7525601387023926
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 1.251598596572876
+        "response_time": 2.2452175617218018
     },
-    "socks5://103.189.218.83:6969": {
+    "socks5://45.140.143.77:18080": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Tongi",
-        "zip": "1230",
-        "lat": 23.8915,
-        "lon": 90.4023,
-        "timezone": "Asia/Dhaka",
-        "isp": "Comfort Solutions",
-        "org": "Md. Ruhul Amin Sarker",
-        "as": "AS149868 Comfort Solutions",
-        "query": "103.189.218.83",
-        "response_time": 1.4694249629974365
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 2.4611868858337402
     }
 }
