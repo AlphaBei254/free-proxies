@@ -1,4 +1,21 @@
 {
+    "http://31.40.248.2:8080": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "144700",
+        "lat": 55.7558,
+        "lon": 37.6173,
+        "timezone": "Europe/Moscow",
+        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
+        "org": "Cloud.ru",
+        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
+        "query": "31.40.248.2",
+        "response_time": 0.40059542655944824
+    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,9 +31,9 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4265553951263428
+        "response_time": 0.5140082836151123
     },
-    "http://164.163.42.36:10000": {
+    "http://164.163.42.46:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -31,24 +48,7 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 0.4868340492248535
-    },
-    "http://188.166.197.129:3128": {
-        "status": "success",
-        "country": "Singapore",
-        "countryCode": "SG",
-        "region": "05",
-        "regionName": "South West",
-        "city": "Singapore",
-        "zip": "627753",
-        "lat": 1.32123,
-        "lon": 103.695,
-        "timezone": "Asia/Singapore",
-        "isp": "DigitalOcean, LLC",
-        "org": "DigitalOcean, LLC",
-        "as": "AS14061 DigitalOcean, LLC",
-        "query": "174.138.18.105",
-        "response_time": 0.6513476371765137
+        "response_time": 0.8641386032104492
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,7 +65,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7659039497375488
+        "response_time": 0.9742410182952881
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -82,23 +82,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2550747394561768
-    },
-    "socks4://58.65.167.165:4145": {
-        "status": "success",
-        "country": "Pakistan",
-        "countryCode": "PK",
-        "region": "IS",
-        "regionName": "Islamabad",
-        "city": "Islamabad",
-        "zip": "44100",
-        "lat": 33.7233,
-        "lon": 73.0435,
-        "timezone": "Asia/Karachi",
-        "isp": "Nayatel (Pvt) Ltd",
-        "org": "Nayatel",
-        "as": "AS23674 Nayatel (Pvt) Ltd",
-        "query": "124.109.44.126",
-        "response_time": 3.1695191860198975
+        "response_time": 2.330986738204956
     }
 }
