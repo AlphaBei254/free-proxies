@@ -14,7 +14,7 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.25603628158569336
+        "response_time": 0.30243730545043945
     },
     "http://31.40.248.2:8080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "Cloud.ru",
         "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.4525313377380371
+        "response_time": 0.368152379989624
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +48,92 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5901918411254883
+        "response_time": 0.3958139419555664
+    },
+    "socks4://141.105.107.152:5678": {
+        "status": "success",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "IB",
+        "regionName": "Balearic Islands",
+        "city": "Pollen\u00e7a",
+        "zip": "07460",
+        "lat": 39.8775,
+        "lon": 3.0114,
+        "timezone": "Europe/Madrid",
+        "isp": "Red digital de telecomunicaciones de las Islas Baleares S.L",
+        "org": "Ibred",
+        "as": "AS200064 Red digital de telecomunicaciones de las Islas Baleares S.L",
+        "query": "141.105.107.152",
+        "response_time": 0.4267120361328125
+    },
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 0.8473248481750488
+    },
+    "socks4://181.129.62.2:47377": {
+        "status": "success",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "ANT",
+        "regionName": "Antioquia",
+        "city": "Medell\u00edn",
+        "zip": "050001",
+        "lat": 6.2529,
+        "lon": -75.5646,
+        "timezone": "America/Bogota",
+        "isp": "EPM Telecomunicaciones S.A. E.S.P.",
+        "org": "EPM Telecomunicaciones S.A. E.S.P",
+        "as": "AS13489 UNE EPM TELECOMUNICACIONES S.A.",
+        "query": "181.129.62.2",
+        "response_time": 1.4483401775360107
+    },
+    "socks4://200.29.109.112:14888": {
+        "status": "success",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "VAC",
+        "regionName": "Valle del Cauca Department",
+        "city": "Santiago de Cali",
+        "zip": "760002",
+        "lat": 3.4385,
+        "lon": -76.523,
+        "timezone": "America/Bogota",
+        "isp": "Empresas Municipales De Cali E.i.c.e. E.S.P.",
+        "org": "EMCALI - RANGOS FIJOS PPPoE",
+        "as": "AS10299 EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.",
+        "query": "200.29.109.112",
+        "response_time": 2.46341609954834
+    },
+    "socks4://103.83.36.1:5678": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "MH",
+        "regionName": "Maharashtra",
+        "city": "Mumbai",
+        "zip": "400017",
+        "lat": 19.0748,
+        "lon": 72.8856,
+        "timezone": "Asia/Kolkata",
+        "isp": "Yotta Network Services Private Limited",
+        "org": "Yotta Network Services Private Limited",
+        "as": "AS140641 YOTTA NETWORK SERVICES PRIVATE LIMITED",
+        "query": "203.112.134.74",
+        "response_time": 2.4880292415618896
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +150,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.411938428878784
+        "response_time": 3.2979352474212646
     },
-    "socks4://212.47.248.107:16379": {
+    "socks5://51.158.70.246:16379": {
         "status": "success",
-        "country": "Switzerland",
-        "countryCode": "CH",
-        "region": "ZH",
-        "regionName": "Zurich",
-        "city": "Zurich",
-        "zip": "8005",
-        "lat": 47.3878,
-        "lon": 8.52029,
-        "timezone": "Europe/Zurich",
-        "isp": "Datashield",
-        "org": "Datashield, Inc.",
-        "as": "AS211720 Datashield, Inc.",
-        "query": "185.56.83.83",
-        "response_time": 4.966382265090942
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "30",
+        "regionName": "Kyiv City",
+        "city": "Kyiv",
+        "zip": "04116",
+        "lat": 50.458,
+        "lon": 30.5303,
+        "timezone": "Europe/Kyiv",
+        "isp": "Epinatura LLC",
+        "org": "",
+        "as": "AS207656 Epinatura LLC",
+        "query": "193.218.118.156",
+        "response_time": 7.048520565032959
     }
 }
