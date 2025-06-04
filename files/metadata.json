@@ -1,4 +1,21 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.25603628158569336
+    },
     "http://31.40.248.2:8080": {
         "status": "success",
         "country": "Russia",
@@ -14,7 +31,7 @@
         "org": "Cloud.ru",
         "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.35242271423339844
+        "response_time": 0.4525313377380371
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,41 +48,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.405407190322876
-    },
-    "http://164.163.40.16:10000": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "H",
-        "regionName": "Chaco",
-        "city": "Villa \u00c1ngela",
-        "zip": "3540",
-        "lat": -27.5866,
-        "lon": -60.72,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Interret Villa Angela SRL",
-        "org": "Interret Villa Angela SRL",
-        "as": "AS265763 Interret Villa Angela SRL",
-        "query": "164.163.43.102",
-        "response_time": 0.7991979122161865
-    },
-    "http://164.163.42.36:10000": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "H",
-        "regionName": "Chaco",
-        "city": "Villa \u00c1ngela",
-        "zip": "3540",
-        "lat": -27.5866,
-        "lon": -60.72,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Interret Villa Angela SRL",
-        "org": "Interret Villa Angela SRL",
-        "as": "AS265763 Interret Villa Angela SRL",
-        "query": "164.163.43.102",
-        "response_time": 1.5225603580474854
+        "response_time": 0.5901918411254883
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +65,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.289577007293701
+        "response_time": 2.411938428878784
+    },
+    "socks4://212.47.248.107:16379": {
+        "status": "success",
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "region": "ZH",
+        "regionName": "Zurich",
+        "city": "Zurich",
+        "zip": "8005",
+        "lat": 47.3878,
+        "lon": 8.52029,
+        "timezone": "Europe/Zurich",
+        "isp": "Datashield",
+        "org": "Datashield, Inc.",
+        "as": "AS211720 Datashield, Inc.",
+        "query": "185.56.83.83",
+        "response_time": 4.966382265090942
     }
 }
