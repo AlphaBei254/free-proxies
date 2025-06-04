@@ -1,20 +1,37 @@
 {
-    "http://31.40.248.2:8080": {
+    "http://164.163.40.16:10000": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.46062469482421875
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 0.5439908504486084
+    },
+    "http://164.163.42.19:10000": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 0.7024531364440918
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -31,7 +48,24 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 1.880988597869873
+        "response_time": 0.8291623592376709
+    },
+    "socks4://202.131.246.250:5678": {
+        "status": "success",
+        "country": "Mongolia",
+        "countryCode": "MN",
+        "region": "1",
+        "regionName": "Ulaanbaatar",
+        "city": "Ulan Bator",
+        "zip": "",
+        "lat": 47.9094,
+        "lon": 106.8819,
+        "timezone": "Asia/Ulaanbaatar",
+        "isp": "Mobinet LLC",
+        "org": "MOBINET-LL",
+        "as": "AS9484 Mobinet LLC. AS Mobinet Internet Service Provider",
+        "query": "202.131.246.250",
+        "response_time": 2.1362128257751465
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -48,24 +82,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.334005117416382
-    },
-    "http://164.163.40.16:10000": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "H",
-        "regionName": "Chaco",
-        "city": "Villa \u00c1ngela",
-        "zip": "3540",
-        "lat": -27.5866,
-        "lon": -60.72,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Interret Villa Angela SRL",
-        "org": "Interret Villa Angela SRL",
-        "as": "AS265763 Interret Villa Angela SRL",
-        "query": "164.163.43.102",
-        "response_time": 2.632997512817383
+        "response_time": 2.2794744968414307
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,23 +99,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.630711793899536
-    },
-    "socks4://138.68.21.132:45793": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "CA",
-        "regionName": "California",
-        "city": "Santa Clara",
-        "zip": "95051",
-        "lat": 37.3486,
-        "lon": -121.9732,
-        "timezone": "America/Los_Angeles",
-        "isp": "DigitalOcean, LLC",
-        "org": "DigitalOcean, LLC",
-        "as": "AS14061 DigitalOcean, LLC",
-        "query": "138.68.21.132",
-        "response_time": 3.8202083110809326
+        "response_time": 2.438793897628784
     }
 }
