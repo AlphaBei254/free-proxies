@@ -1,21 +1,4 @@
 {
-    "http://31.40.248.2:8080": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.40059542655944824
-    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,9 +14,9 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.5140082836151123
+        "response_time": 0.5548593997955322
     },
-    "http://164.163.42.46:10000": {
+    "http://164.163.42.36:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -48,7 +31,24 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 0.8641386032104492
+        "response_time": 0.689669132232666
+    },
+    "http://164.163.42.19:10000": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 0.6884679794311523
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -65,7 +65,24 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.9742410182952881
+        "response_time": 1.0785479545593262
+    },
+    "socks4://36.37.244.41:5678": {
+        "status": "success",
+        "country": "Cambodia",
+        "countryCode": "KH",
+        "region": "12",
+        "regionName": "Phnom Penh",
+        "city": "Phnom Penh",
+        "zip": "",
+        "lat": 11.5583,
+        "lon": 104.9121,
+        "timezone": "Asia/Phnom_Penh",
+        "isp": "VIETTEL (CAMBODIA) PTE., LTD",
+        "org": "Viettel (cambodia) Pte., Ltd.",
+        "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
+        "query": "36.37.244.41",
+        "response_time": 2.0944855213165283
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +99,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.330986738204956
+        "response_time": 2.2388594150543213
     }
 }
