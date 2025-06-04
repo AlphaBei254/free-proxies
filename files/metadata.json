@@ -1,37 +1,54 @@
 {
-    "socks4://179.1.110.88:5678": {
+    "socks5://45.140.143.77:18080": {
         "status": "success",
-        "country": "Colombia",
-        "countryCode": "CO",
-        "region": "NSA",
-        "regionName": "Norte de Santander Department",
-        "city": "C\u00facuta",
-        "zip": "540001",
-        "lat": 7.8948,
-        "lon": -72.5021,
-        "timezone": "America/Bogota",
-        "isp": "Internexa S.a. E.S.P",
-        "org": "Internexa S.a. E.S.P",
-        "as": "AS18678 INTERNEXA S.A. E.S.P",
-        "query": "179.1.110.87",
-        "response_time": 0.46035146713256836
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.4265553951263428
     },
-    "http://31.40.248.2:8080": {
+    "http://164.163.42.36:10000": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.48065757751464844
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 0.4868340492248535
+    },
+    "http://188.166.197.129:3128": {
+        "status": "success",
+        "country": "Singapore",
+        "countryCode": "SG",
+        "region": "05",
+        "regionName": "South West",
+        "city": "Singapore",
+        "zip": "627753",
+        "lat": 1.32123,
+        "lon": 103.695,
+        "timezone": "Asia/Singapore",
+        "isp": "DigitalOcean, LLC",
+        "org": "DigitalOcean, LLC",
+        "as": "AS14061 DigitalOcean, LLC",
+        "query": "174.138.18.105",
+        "response_time": 0.6513476371765137
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,7 +65,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7525601387023926
+        "response_time": 0.7659039497375488
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,23 +82,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.2452175617218018
+        "response_time": 2.2550747394561768
     },
-    "socks5://45.140.143.77:18080": {
+    "socks4://58.65.167.165:4145": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 2.4611868858337402
+        "country": "Pakistan",
+        "countryCode": "PK",
+        "region": "IS",
+        "regionName": "Islamabad",
+        "city": "Islamabad",
+        "zip": "44100",
+        "lat": 33.7233,
+        "lon": 73.0435,
+        "timezone": "Asia/Karachi",
+        "isp": "Nayatel (Pvt) Ltd",
+        "org": "Nayatel",
+        "as": "AS23674 Nayatel (Pvt) Ltd",
+        "query": "124.109.44.126",
+        "response_time": 3.1695191860198975
     }
 }
