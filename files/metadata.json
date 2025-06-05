@@ -1,4 +1,21 @@
 {
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 0.9335057735443115
+    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +31,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.2123568058013916
+        "response_time": 2.232623338699341
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -31,40 +48,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.43746113777160645
+        "response_time": 2.5667240619659424
     },
-    "socks4://172.233.14.116:1080": {
+    "socks5://212.47.235.205:16379": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "SP",
-        "regionName": "S\u00e3o Paulo",
-        "city": "S\u00e3o Paulo",
-        "zip": "01323",
-        "lat": -23.5475,
-        "lon": -46.6361,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Akamai Technologies, Inc.",
-        "org": "Akamai Technologies, Inc.",
-        "as": "AS63949 Akamai Connected Cloud",
-        "query": "172.233.14.116",
-        "response_time": 0.8965842723846436
-    },
-    "socks4://64.124.191.98:32688": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "PA",
-        "regionName": "Pennsylvania",
-        "city": "Conshohocken",
-        "zip": "19428",
-        "lat": 40.0864,
-        "lon": -75.2931,
-        "timezone": "America/New_York",
-        "isp": "Zayo Bandwidth",
-        "org": "Web Werks",
-        "as": "AS6461 Zayo Bandwidth",
-        "query": "64.124.191.98",
-        "response_time": 2.1258678436279297
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BB",
+        "regionName": "Brandenburg",
+        "city": "Brandenburg",
+        "zip": "14621",
+        "lat": 52.6171,
+        "lon": 13.1207,
+        "timezone": "Europe/Berlin",
+        "isp": "Stiftung Erneuerbare Freiheit",
+        "org": "CIA TRIAD SECURITY LLC",
+        "as": "AS60729 Stiftung Erneuerbare Freiheit",
+        "query": "185.220.101.181",
+        "response_time": 2.7850091457366943
     }
 }
