@@ -1,22 +1,5 @@
 {
-    "socks4://166.62.121.102:45886": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "AZ",
-        "regionName": "Arizona",
-        "city": "Tempe",
-        "zip": "85284",
-        "lat": 33.3359,
-        "lon": -111.894,
-        "timezone": "America/Phoenix",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "166.62.121.102",
-        "response_time": 0.17270493507385254
-    },
-    "socks5://45.140.143.77:18080": {
+    "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
         "countryCode": "NL",
@@ -31,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.40476512908935547
+        "response_time": 0.29000186920166016
     },
     "http://31.40.248.2:8080": {
         "status": "success",
@@ -48,24 +31,41 @@
         "org": "Cloud.ru",
         "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.568899393081665
+        "response_time": 0.4388258457183838
     },
-    "http://200.174.198.86:8888": {
+    "socks5://45.140.143.77:18080": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.173",
-        "response_time": 0.5871338844299316
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.6264007091522217
+    },
+    "http://8.219.97.248:80": {
+        "status": "success",
+        "country": "Singapore",
+        "countryCode": "SG",
+        "region": "03",
+        "regionName": "North West",
+        "city": "Singapore",
+        "zip": "858877",
+        "lat": 1.35208,
+        "lon": 103.82,
+        "timezone": "Asia/Singapore",
+        "isp": "Alibaba (US) Technology Co., Ltd.",
+        "org": "Alibaba.com Singapore E-Commerce Private Limited",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "8.219.64.236",
+        "response_time": 0.7897424697875977
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -82,40 +82,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8610782623291016
+        "response_time": 0.8455424308776855
     },
-    "http://45.140.143.77:18080": {
+    "socks4://64.139.79.35:54321": {
         "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1098",
-        "lat": 52.352,
-        "lon": 4.9392,
-        "timezone": "Europe/Amsterdam",
-        "isp": "RoyaleHosting BV",
-        "org": "RoyaleHosting BV",
-        "as": "AS212477 RoyaleHosting BV",
-        "query": "45.140.143.77",
-        "response_time": 2.277266025543213
+        "country": "United States",
+        "countryCode": "US",
+        "region": "AL",
+        "regionName": "Alabama",
+        "city": "Muscle Shoals",
+        "zip": "35661",
+        "lat": 34.7561,
+        "lon": -87.6304,
+        "timezone": "America/Chicago",
+        "isp": "Comcast Cable Communications, LLC",
+        "org": "Comcast Business Communications, LLC",
+        "as": "AS7922 Comcast Cable Communications, LLC",
+        "query": "64.139.79.35",
+        "response_time": 1.3043723106384277
     },
-    "socks5://103.189.218.83:6969": {
+    "socks4://41.70.106.1:5678": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Tongi",
-        "zip": "1230",
-        "lat": 23.8915,
-        "lon": 90.4023,
-        "timezone": "Asia/Dhaka",
-        "isp": "Comfort Solutions",
-        "org": "Md. Ruhul Amin Sarker",
-        "as": "AS149868 Comfort Solutions",
-        "query": "103.189.218.83",
-        "response_time": 3.5707826614379883
+        "country": "Malawi",
+        "countryCode": "MW",
+        "region": "S",
+        "regionName": "Southern Region",
+        "city": "Zomba",
+        "zip": "",
+        "lat": -15.3733,
+        "lon": 35.3145,
+        "timezone": "Africa/Blantyre",
+        "isp": "Malawi Research and Education Network - MAREN",
+        "org": "Malawi Research and Education Network - MAREN",
+        "as": "AS37215 Malawi Research and Education Network - MAREN",
+        "query": "41.70.9.10",
+        "response_time": 3.5631229877471924
     }
 }
