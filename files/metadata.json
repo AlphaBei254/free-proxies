@@ -1,21 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.2424938678741455
-    },
     "http://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -31,7 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.3048396110534668
+        "response_time": 0.2747941017150879
     },
     "http://31.40.248.2:8080": {
         "status": "success",
@@ -48,7 +31,24 @@
         "org": "Cloud.ru",
         "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.46506309509277344
+        "response_time": 0.39426636695861816
+    },
+    "socks4://195.175.22.194:5678": {
+        "status": "success",
+        "country": "T\u00fcrkiye",
+        "countryCode": "TR",
+        "region": "34",
+        "regionName": "Istanbul",
+        "city": "Istanbul",
+        "zip": "34045",
+        "lat": 41.0551,
+        "lon": 28.9347,
+        "timezone": "Europe/Istanbul",
+        "isp": "Turk Telekomunikasyon A.S",
+        "org": "TTnetTurkTelekom",
+        "as": "AS9121 Turk Telekomunikasyon Anonim Sirketi",
+        "query": "195.175.22.194",
+        "response_time": 0.534311056137085
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -65,74 +65,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.6007800102233887
-    },
-    "socks4://82.223.165.28:44432": {
-        "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 1.2922723293304443
-    },
-    "socks4://131.161.68.38:35944": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "23045",
-        "lat": -22.9072,
-        "lon": -43.1883,
-        "timezone": "America/Sao_Paulo",
-        "isp": "MS NUNES INFORMA\u00d4\u00d4O TECNOLOGICA LTDA",
-        "org": "MS NUNES INFORMA\u00c7\u00c3O TECNOLOGICA LTDA",
-        "as": "AS264402 MS NUNES INFORMA\u00c7\u00c3O TECNOLOGICA LTDA",
-        "query": "131.161.68.38",
-        "response_time": 1.7689480781555176
-    },
-    "socks4://88.213.214.254:4145": {
-        "status": "success",
-        "country": "Bulgaria",
-        "countryCode": "BG",
-        "region": "27",
-        "regionName": "Shumen",
-        "city": "Izgrev",
-        "zip": "9754",
-        "lat": 43.5755,
-        "lon": 27.0036,
-        "timezone": "Europe/Sofia",
-        "isp": "Netbox LTD",
-        "org": "NETBOX Mododex",
-        "as": "AS61071 NETBOX LTD",
-        "query": "88.213.215.28",
-        "response_time": 2.9194769859313965
-    },
-    "socks4://200.70.34.22:4153": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "C",
-        "regionName": "Buenos Aires F.D.",
-        "city": "Buenos Aires",
-        "zip": "1871",
-        "lat": -34.6142,
-        "lon": -58.3811,
-        "timezone": "America/Argentina/Buenos_Aires",
-        "isp": "Telefonica de Argentina",
-        "org": "Telefonica de Argentina",
-        "as": "AS10834 Telefonica de Argentina",
-        "query": "200.70.34.22",
-        "response_time": 2.9262983798980713
+        "response_time": 0.9175460338592529
     }
 }
