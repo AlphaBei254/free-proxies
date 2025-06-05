@@ -1,37 +1,20 @@
 {
-    "http://31.40.248.2:8080": {
+    "http://45.140.143.77:18080": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.4497337341308594
-    },
-    "http://72.240.9.63:80": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "OH",
-        "regionName": "Ohio",
-        "city": "Toledo",
-        "zip": "43615",
-        "lat": 41.6432,
-        "lon": -83.6753,
-        "timezone": "America/New_York",
-        "isp": "Buckeye Cablevision, Inc.",
-        "org": "Buckeye Cablevision, Inc.",
-        "as": "AS13490 Buckeye Cablevision, Inc.",
-        "query": "72.240.9.63",
-        "response_time": 2.486302137374878
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1098",
+        "lat": 52.352,
+        "lon": 4.9392,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RoyaleHosting BV",
+        "org": "RoyaleHosting BV",
+        "as": "AS212477 RoyaleHosting BV",
+        "query": "45.140.143.77",
+        "response_time": 0.2093968391418457
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,6 +31,23 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.666482925415039
+        "response_time": 0.3690989017486572
+    },
+    "socks4://185.14.149.33:4145": {
+        "status": "success",
+        "country": "Poland",
+        "countryCode": "PL",
+        "region": "08",
+        "regionName": "Lubusz",
+        "city": "Zielona G\u00f3ra",
+        "zip": "66-004",
+        "lat": 51.8974,
+        "lon": 15.5777,
+        "timezone": "Europe/Warsaw",
+        "isp": "TERRA",
+        "org": "",
+        "as": "AS61233 Enformatel Sp. z o.o.",
+        "query": "185.14.148.66",
+        "response_time": 1.073014497756958
     }
 }
