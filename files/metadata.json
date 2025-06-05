@@ -1,54 +1,71 @@
 {
-    "http://31.40.248.2:8080": {
+    "socks4://109.248.236.150:60606": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.35320544242858887
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "region": "39",
+        "regionName": "Qostanay Oblysy",
+        "city": "Kostanay",
+        "zip": "",
+        "lat": 53.2123,
+        "lon": 63.6281,
+        "timezone": "Asia/Qostanay",
+        "isp": "Uplink LLC",
+        "org": "Uplink LLC",
+        "as": "AS8200 Uplink LLC",
+        "query": "109.248.236.150",
+        "response_time": 0.5940201282501221
     },
-    "socks4://185.14.149.33:4145": {
+    "socks4://82.223.165.28:44432": {
         "status": "success",
-        "country": "Poland",
-        "countryCode": "PL",
-        "region": "08",
-        "regionName": "Lubusz",
-        "city": "Zielona G\u00f3ra",
-        "zip": "66-004",
-        "lat": 51.8974,
-        "lon": 15.5777,
-        "timezone": "Europe/Warsaw",
-        "isp": "TERRA",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
         "org": "",
-        "as": "AS61233 Enformatel Sp. z o.o.",
-        "query": "185.14.148.66",
-        "response_time": 0.4498908519744873
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 0.6997630596160889
     },
-    "http://47.252.29.28:11222": {
+    "socks4://103.115.255.225:36331": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "NY",
-        "regionName": "New York",
-        "city": "New York",
-        "zip": "10123",
-        "lat": 40.7128,
-        "lon": -74.006,
-        "timezone": "America/New_York",
-        "isp": "Datacamp Limited",
-        "org": "Internet Utilities Europe and Asia Limited",
-        "as": "AS212238 Datacamp Limited",
-        "query": "178.253.12.167",
-        "response_time": 1.273789405822754
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Savar Upazila",
+        "zip": "1340",
+        "lat": 23.8486,
+        "lon": 90.25,
+        "timezone": "Asia/Dhaka",
+        "isp": "Star Internet Service",
+        "org": "Md. Murad Hossain Ripon",
+        "as": "AS137868 Star Internet Service",
+        "query": "103.115.255.246",
+        "response_time": 1.0751709938049316
+    },
+    "socks4://103.229.47.120:4153": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "E",
+        "regionName": "Rajshahi Division",
+        "city": "Mahastan",
+        "zip": "5810",
+        "lat": 24.9611,
+        "lon": 89.3428,
+        "timezone": "Asia/Dhaka",
+        "isp": "MSHELPLINE",
+        "org": "",
+        "as": "AS59340 Help Line",
+        "query": "103.229.47.120",
+        "response_time": 1.1973776817321777
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -65,7 +82,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.22914981842041
+        "response_time": 2.2817203998565674
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -82,6 +99,6 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.39395809173584
+        "response_time": 2.452044725418091
     }
 }
