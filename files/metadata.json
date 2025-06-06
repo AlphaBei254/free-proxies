@@ -1,20 +1,20 @@
 {
-    "socks4://185.14.149.33:4145": {
+    "http://31.40.248.2:8080": {
         "status": "success",
-        "country": "Poland",
-        "countryCode": "PL",
-        "region": "08",
-        "regionName": "Lubusz",
-        "city": "Zielona G\u00f3ra",
-        "zip": "66-004",
-        "lat": 51.8974,
-        "lon": 15.5777,
-        "timezone": "Europe/Warsaw",
-        "isp": "TERRA",
-        "org": "",
-        "as": "AS61233 Enformatel Sp. z o.o.",
-        "query": "185.14.148.66",
-        "response_time": 0.6269457340240479
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "144700",
+        "lat": 55.7558,
+        "lon": 37.6173,
+        "timezone": "Europe/Moscow",
+        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
+        "org": "Cloud.ru",
+        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
+        "query": "31.40.248.2",
+        "response_time": 0.41316747665405273
     },
     "http://65.108.203.37:28080": {
         "status": "success",
@@ -30,24 +30,24 @@
         "isp": "Opera Browser VPN",
         "org": "Opera Software LLC",
         "as": "AS205016 HERN Labs AB",
-        "query": "77.111.246.53",
-        "response_time": 0.7861273288726807
+        "query": "77.111.246.30",
+        "response_time": 0.6836986541748047
     },
-    "http://164.163.42.46:10000": {
+    "socks4://103.229.83.106:6789": {
         "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "H",
-        "regionName": "Chaco",
-        "city": "Villa \u00c1ngela",
-        "zip": "3540",
-        "lat": -27.5866,
-        "lon": -60.72,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Interret Villa Angela SRL",
-        "org": "Interret Villa Angela SRL",
-        "as": "AS265763 Interret Villa Angela SRL",
-        "query": "164.163.43.102",
-        "response_time": 2.695305109024048
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Dhaka",
+        "zip": "1208",
+        "lat": 23.7643,
+        "lon": 90.4155,
+        "timezone": "Asia/Dhaka",
+        "isp": "Fiber@Home Global Limited",
+        "org": "Bismillah Telecom",
+        "as": "AS10075 Fiber@Home Global Limited",
+        "query": "103.131.156.90",
+        "response_time": 2.1479415893554688
     }
 }
