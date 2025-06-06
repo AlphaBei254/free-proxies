@@ -14,24 +14,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.1875927448272705
-    },
-    "http://31.40.248.2:8080": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.3500492572784424
+        "response_time": 0.1999645233154297
     },
     "socks5://45.140.143.77:18080": {
         "status": "success",
@@ -48,7 +31,58 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.4661097526550293
+        "response_time": 0.35353875160217285
+    },
+    "socks4://141.105.107.152:5678": {
+        "status": "success",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "IB",
+        "regionName": "Balearic Islands",
+        "city": "Pollen\u00e7a",
+        "zip": "07460",
+        "lat": 39.8775,
+        "lon": 3.0114,
+        "timezone": "Europe/Madrid",
+        "isp": "Red digital de telecomunicaciones de las Islas Baleares S.L",
+        "org": "Ibred",
+        "as": "AS200064 Red digital de telecomunicaciones de las Islas Baleares S.L",
+        "query": "141.105.107.152",
+        "response_time": 0.3856518268585205
+    },
+    "socks4://195.175.22.194:5678": {
+        "status": "success",
+        "country": "T\u00fcrkiye",
+        "countryCode": "TR",
+        "region": "34",
+        "regionName": "Istanbul",
+        "city": "Istanbul",
+        "zip": "34045",
+        "lat": 41.0551,
+        "lon": 28.9347,
+        "timezone": "Europe/Istanbul",
+        "isp": "Turk Telekomunikasyon A.S",
+        "org": "TTnetTurkTelekom",
+        "as": "AS9121 Turk Telekomunikasyon Anonim Sirketi",
+        "query": "195.175.22.194",
+        "response_time": 1.5561981201171875
+    },
+    "socks4://172.233.14.116:1080": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "city": "S\u00e3o Paulo",
+        "zip": "01323",
+        "lat": -23.5475,
+        "lon": -46.6361,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS63949 Akamai Connected Cloud",
+        "query": "172.233.14.116",
+        "response_time": 1.9081108570098877
     },
     "socks4://91.121.173.38:54233": {
         "status": "success",
@@ -65,6 +99,40 @@
         "org": "OVH ISP",
         "as": "AS16276 OVH SAS",
         "query": "91.121.173.38",
-        "response_time": 2.519305944442749
+        "response_time": 2.4261038303375244
+    },
+    "socks4://170.245.248.45:60606": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "city": "Goi\u00e2nia",
+        "zip": "74000",
+        "lat": -16.6802,
+        "lon": -49.2564,
+        "timezone": "America/Sao_Paulo",
+        "isp": "T.A.LUIZ ELETRONICO LTDA - ME",
+        "org": "T.A.LUIZ ELETRONICO LTDA - ME",
+        "as": "AS266032 T.A.LUIZ ELETRONICO LTDA - ME",
+        "query": "170.245.250.186",
+        "response_time": 2.84891414642334
+    },
+    "socks5://91.121.173.38:54233": {
+        "status": "success",
+        "country": "France",
+        "countryCode": "FR",
+        "region": "HDF",
+        "regionName": "Hauts-de-France",
+        "city": "Roubaix",
+        "zip": "59100",
+        "lat": 50.6918,
+        "lon": 3.2021,
+        "timezone": "Europe/Paris",
+        "isp": "OVH SAS",
+        "org": "OVH ISP",
+        "as": "AS16276 OVH SAS",
+        "query": "91.121.173.38",
+        "response_time": 3.0768918991088867
     }
 }
