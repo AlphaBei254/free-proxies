@@ -1,4 +1,38 @@
 {
+    "socks4://64.49.67.164:5678": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NY",
+        "regionName": "New York",
+        "city": "New York",
+        "zip": "10118",
+        "lat": 40.7126,
+        "lon": -74.0066,
+        "timezone": "America/New_York",
+        "isp": "WNET TELECOM USA Corp.",
+        "org": "Everest Broadband Networks",
+        "as": "AS1820 WNET TELECOM USA Corp.",
+        "query": "64.49.67.164",
+        "response_time": 0.12486577033996582
+    },
+    "http://31.40.248.2:8080": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "144700",
+        "lat": 55.7558,
+        "lon": 37.6173,
+        "timezone": "Europe/Moscow",
+        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
+        "org": "Cloud.ru",
+        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
+        "query": "31.40.248.2",
+        "response_time": 0.39042234420776367
+    },
     "socks5://45.140.143.77:18080": {
         "status": "success",
         "country": "The Netherlands",
@@ -14,7 +48,24 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 0.45593690872192383
+        "response_time": 0.4085702896118164
+    },
+    "socks4://103.195.140.177:4153": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "B",
+        "regionName": "Chittagong",
+        "city": "Chittagong",
+        "zip": "4000",
+        "lat": 22.3468,
+        "lon": 91.83,
+        "timezone": "Asia/Dhaka",
+        "isp": "Razib Shahriar Rubence",
+        "org": "3 Net Technology",
+        "as": "AS64037 First n Fast IT Ltd",
+        "query": "103.177.168.14",
+        "response_time": 2.0735630989074707
     },
     "http://45.140.143.77:18080": {
         "status": "success",
@@ -31,24 +82,7 @@
         "org": "RoyaleHosting BV",
         "as": "AS212477 RoyaleHosting BV",
         "query": "45.140.143.77",
-        "response_time": 2.278075695037842
-    },
-    "socks4://51.178.68.226:46753": {
-        "status": "success",
-        "country": "France",
-        "countryCode": "FR",
-        "region": "HDF",
-        "regionName": "Hauts-de-France",
-        "city": "Wattrelos",
-        "zip": "59150",
-        "lat": 50.7012,
-        "lon": 3.21501,
-        "timezone": "Europe/Paris",
-        "isp": "OVH SAS",
-        "org": "OVH",
-        "as": "AS16276 OVH SAS",
-        "query": "51.178.68.226",
-        "response_time": 2.844954013824463
+        "response_time": 2.2491955757141113
     },
     "http://164.163.42.19:10000": {
         "status": "success",
@@ -65,6 +99,23 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 2.8755571842193604
+        "response_time": 2.6411893367767334
+    },
+    "socks4://115.127.188.214:1080": {
+        "status": "success",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "region": "C",
+        "regionName": "Dhaka Division",
+        "city": "Dhaka",
+        "zip": "1208",
+        "lat": 23.7811,
+        "lon": 90.4022,
+        "timezone": "Asia/Dhaka",
+        "isp": "BRACNet Limited",
+        "org": "BRACNet Limited",
+        "as": "AS24342 BRACNet Limited",
+        "query": "115.127.188.214",
+        "response_time": 4.392610788345337
     }
 }
