@@ -14,7 +14,7 @@
         "org": "Cloud.ru",
         "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.4411289691925049
+        "response_time": 0.39281296730041504
     },
     "http://65.108.203.37:28080": {
         "status": "success",
@@ -30,8 +30,8 @@
         "isp": "Opera Browser VPN",
         "org": "Opera Software LLC",
         "as": "AS205016 HERN Labs AB",
-        "query": "77.111.246.33",
-        "response_time": 0.7006869316101074
+        "query": "77.111.246.44",
+        "response_time": 0.730675458908081
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,74 +48,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.7901852130889893
+        "response_time": 0.7707760334014893
     },
-    "socks5://69.49.234.59:55804": {
+    "http://200.174.198.86:8888": {
         "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "GA",
-        "regionName": "Georgia",
-        "city": "Atlanta",
-        "zip": "30302",
-        "lat": 33.7488,
-        "lon": -84.3877,
-        "timezone": "America/New_York",
-        "isp": "Network Solutions, LLC",
-        "org": "Newfold Digital, Inc.",
-        "as": "AS19871 Network Solutions, LLC",
-        "query": "69.49.234.59",
-        "response_time": 1.302947998046875
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.69",
+        "response_time": 2.8457837104797363
     },
-    "socks4://82.223.165.28:44432": {
+    "socks4://202.148.22.106:5678": {
         "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 1.5791921615600586
-    },
-    "socks5://213.250.198.146:7777": {
-        "status": "success",
-        "country": "Czechia",
-        "countryCode": "CZ",
-        "region": "53",
-        "regionName": "Pardubick\u00fd kraj",
-        "city": "Litomy\u0161l",
-        "zip": "570 01",
-        "lat": 49.864,
-        "lon": 16.2324,
-        "timezone": "Europe/Prague",
-        "isp": "O2 Czech Republic, a.s.",
-        "org": "Nordictelecomregional",
-        "as": "AS42908 O2 Czech Republic, a.s.",
-        "query": "213.250.198.146",
-        "response_time": 1.7474031448364258
-    },
-    "socks4://88.213.214.254:4145": {
-        "status": "success",
-        "country": "Bulgaria",
-        "countryCode": "BG",
-        "region": "27",
-        "regionName": "Shumen",
-        "city": "Izgrev",
-        "zip": "9754",
-        "lat": 43.5755,
-        "lon": 27.0036,
-        "timezone": "Europe/Sofia",
-        "isp": "Netbox LTD",
-        "org": "NETBOX Mododex",
-        "as": "AS61071 NETBOX LTD",
-        "query": "88.213.215.28",
-        "response_time": 2.9861855506896973
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JB",
+        "regionName": "West Java",
+        "city": "Cirebon",
+        "zip": "45171",
+        "lat": -6.73202,
+        "lon": 108.552,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT. Core Mediatech",
+        "org": "Dnet",
+        "as": "AS9794 PT. Core Mediatech (D-NET)",
+        "query": "202.148.22.106",
+        "response_time": 2.949143886566162
     }
 }
