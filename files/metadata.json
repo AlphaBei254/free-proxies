@@ -1,20 +1,20 @@
 {
-    "http://200.174.198.86:8888": {
+    "socks4://75.81.166.118:39593": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.160",
-        "response_time": 0.6171069145202637
+        "country": "United States",
+        "countryCode": "US",
+        "region": "KS",
+        "regionName": "Kansas",
+        "city": "Lenexa",
+        "zip": "66215",
+        "lat": 38.9524,
+        "lon": -94.7395,
+        "timezone": "America/Chicago",
+        "isp": "Spectrum",
+        "org": "RRWE",
+        "as": "AS11427 Charter Communications Inc",
+        "query": "75.81.166.118",
+        "response_time": 0.42454004287719727
     },
     "http://31.40.248.2:8080": {
         "status": "success",
@@ -31,7 +31,7 @@
         "org": "Cloud.ru",
         "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.630944013595581
+        "response_time": 0.6140837669372559
     },
     "socks4://172.233.14.116:1080": {
         "status": "success",
@@ -48,7 +48,7 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.8954968452453613
+        "response_time": 0.8827130794525146
     },
     "socks4://200.29.109.112:14888": {
         "status": "success",
@@ -65,23 +65,40 @@
         "org": "EMCALI - RANGOS FIJOS PPPoE",
         "as": "AS10299 EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.",
         "query": "200.29.109.112",
-        "response_time": 2.5590169429779053
+        "response_time": 1.5968680381774902
     },
-    "socks4://118.174.14.65:44336": {
+    "http://47.90.205.231:33333": {
         "status": "success",
-        "country": "Thailand",
-        "countryCode": "TH",
-        "region": "83",
-        "regionName": "Phuket",
-        "city": "Phuket",
-        "zip": "83110",
-        "lat": 7.9833,
-        "lon": 98.3662,
-        "timezone": "Asia/Bangkok",
-        "isp": "TOT Public Company Limited",
-        "org": "TOT Public Company Limited",
-        "as": "AS23969 TOT Public Company Limited",
-        "query": "118.172.143.156",
-        "response_time": 2.9512271881103516
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Richmond",
+        "zip": "23173",
+        "lat": 37.4316,
+        "lon": -78.6569,
+        "timezone": "America/New_York",
+        "isp": "Alibaba.com LLC",
+        "org": "ALICLOUD-US",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "47.90.205.231",
+        "response_time": 2.583845376968384
+    },
+    "socks4://202.148.22.106:5678": {
+        "status": "success",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JB",
+        "regionName": "West Java",
+        "city": "Cirebon",
+        "zip": "45171",
+        "lat": -6.73202,
+        "lon": 108.552,
+        "timezone": "Asia/Jakarta",
+        "isp": "PT. Core Mediatech",
+        "org": "Dnet",
+        "as": "AS9794 PT. Core Mediatech (D-NET)",
+        "query": "202.148.22.106",
+        "response_time": 2.9044735431671143
     }
 }
