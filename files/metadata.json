@@ -1,4 +1,21 @@
 {
+    "socks5://187.63.9.62:63253": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Arraial do Cabo",
+        "zip": "28930",
+        "lat": -22.9526,
+        "lon": -42.0583,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Gigalink de Nova Friburgo Solu??es em Rede Multimi",
+        "org": "Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multi",
+        "as": "AS28658 Gigalink de Nova Friburgo Solu\u00e7\u00f5es em Rede Multimi",
+        "query": "187.63.9.62",
+        "response_time": 0.7316462993621826
+    },
     "socks4://172.233.14.116:1080": {
         "status": "success",
         "country": "Brazil",
@@ -14,6 +31,40 @@
         "org": "Akamai Technologies, Inc.",
         "as": "AS63949 Akamai Connected Cloud",
         "query": "172.233.14.116",
-        "response_time": 0.722722053527832
+        "response_time": 1.1935718059539795
+    },
+    "socks4://183.80.130.10:4145": {
+        "status": "success",
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "HN",
+        "regionName": "Hanoi",
+        "city": "Hanoi",
+        "zip": "100000",
+        "lat": 21.0184,
+        "lon": 105.8461,
+        "timezone": "Asia/Bangkok",
+        "isp": "Vietnam Internet Network Information Center",
+        "org": "",
+        "as": "AS18403 FPT Telecom Company",
+        "query": "183.80.130.10",
+        "response_time": 2.1735329627990723
+    },
+    "socks4://212.47.248.107:16379": {
+        "status": "success",
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BB",
+        "regionName": "Brandenburg",
+        "city": "Brandenburg",
+        "zip": "14621",
+        "lat": 52.6171,
+        "lon": 13.1207,
+        "timezone": "Europe/Berlin",
+        "isp": "Stiftung Erneuerbare Freiheit",
+        "org": "ForPrivacyNET",
+        "as": "AS60729 Stiftung Erneuerbare Freiheit",
+        "query": "185.220.101.61",
+        "response_time": 4.413873195648193
     }
 }
