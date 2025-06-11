@@ -1,37 +1,20 @@
 {
-    "socks4://103.96.106.230:1080": {
+    "http://200.174.198.86:8888": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1214",
-        "lat": 23.7427,
-        "lon": 90.4248,
-        "timezone": "Asia/Dhaka",
-        "isp": "Xplore Cyber &",
-        "org": "",
-        "as": "AS134153 Xplore Net BD",
-        "query": "103.96.106.230",
-        "response_time": 1.1859261989593506
-    },
-    "socks4://202.84.76.190:5678": {
-        "status": "success",
-        "country": "Cambodia",
-        "countryCode": "KH",
-        "region": "12",
-        "regionName": "Phnom Penh",
-        "city": "Phnom Penh",
-        "zip": "",
-        "lat": 11.5583,
-        "lon": 104.9121,
-        "timezone": "Asia/Phnom_Penh",
-        "isp": "CityLink Corporation, LTD",
-        "org": "CityLink Corporation, LTD",
-        "as": "AS24441 CityLink Corporation, LTD",
-        "query": "202.84.76.190",
-        "response_time": 2.102595806121826
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.121",
+        "response_time": 0.7554750442504883
     },
     "socks4://82.223.165.28:44432": {
         "status": "success",
@@ -48,6 +31,23 @@
         "org": "",
         "as": "AS8560 IONOS SE",
         "query": "82.223.165.28",
-        "response_time": 3.505302667617798
+        "response_time": 3.327712059020996
+    },
+    "socks5://69.49.234.59:55804": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "GA",
+        "regionName": "Georgia",
+        "city": "Atlanta",
+        "zip": "30302",
+        "lat": 33.7488,
+        "lon": -84.3877,
+        "timezone": "America/New_York",
+        "isp": "Network Solutions, LLC",
+        "org": "Newfold Digital, Inc.",
+        "as": "AS19871 Network Solutions, LLC",
+        "query": "69.49.234.59",
+        "response_time": 4.276335716247559
     }
 }
