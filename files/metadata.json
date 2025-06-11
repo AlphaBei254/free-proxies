@@ -1,21 +1,4 @@
 {
-    "socks4://170.78.211.161:1080": {
-        "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.29541754722595215
-    },
     "http://164.163.40.16:10000": {
         "status": "success",
         "country": "Argentina",
@@ -31,23 +14,23 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 0.5403637886047363
+        "response_time": 0.6783781051635742
     },
-    "socks4://36.66.170.25:4153": {
+    "socks4://163.172.176.95:16379": {
         "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta",
+        "country": "Antarctica",
+        "countryCode": "AQ",
+        "region": "",
+        "regionName": "",
+        "city": "Kunlun",
         "zip": "",
-        "lat": -6.18104,
-        "lon": 106.826,
-        "timezone": "Asia/Jakarta",
-        "isp": "PT. Telekomunikasi Indonesia",
-        "org": "",
-        "as": "AS7713 PT Telekomunikasi Indonesia",
-        "query": "36.66.170.25",
-        "response_time": 0.9496817588806152
+        "lat": -72.0114,
+        "lon": 2.535,
+        "timezone": "Antarctica/Troll",
+        "isp": "QuxLabs AB",
+        "org": "R0CKET-CLOUD",
+        "as": "AS214503 QuxLabs AB",
+        "query": "45.84.107.74",
+        "response_time": 1.889084815979004
     }
 }
