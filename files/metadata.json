@@ -1,20 +1,54 @@
 {
-    "socks4://170.78.211.161:1080": {
+    "socks4://190.144.224.182:44550": {
         "status": "success",
-        "country": "Mexico",
-        "countryCode": "MX",
-        "region": "SLP",
-        "regionName": "San Luis Potos\u00ed",
-        "city": "San Luis Potos\u00ed City",
-        "zip": "78310",
-        "lat": 22.1515,
-        "lon": -100.9722,
-        "timezone": "America/Mexico_City",
-        "isp": "Wantelco SAS de CV",
-        "org": "Redpon SA De CV",
-        "as": "AS270158 Wantelco SAS de CV",
-        "query": "170.78.211.175",
-        "response_time": 0.3622751235961914
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "DC",
+        "regionName": "Bogota D.C.",
+        "city": "Bogot\u00e1",
+        "zip": "111411",
+        "lat": 4.6115,
+        "lon": -74.0833,
+        "timezone": "America/Bogota",
+        "isp": "Telmex Colombia S.A.",
+        "org": "Telmex Colombia S.A.",
+        "as": "AS14080 Telmex Colombia S.A.",
+        "query": "190.144.224.182",
+        "response_time": 0.4595918655395508
+    },
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.124",
+        "response_time": 0.662696361541748
+    },
+    "http://31.40.248.2:8080": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "144700",
+        "lat": 55.7558,
+        "lon": 37.6173,
+        "timezone": "Europe/Moscow",
+        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
+        "org": "Cloud.ru",
+        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
+        "query": "31.40.248.2",
+        "response_time": 0.691321849822998
     },
     "http://164.163.42.46:10000": {
         "status": "success",
@@ -31,7 +65,7 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 0.4913609027862549
+        "response_time": 0.7105123996734619
     },
     "http://164.163.40.90:10000": {
         "status": "success",
@@ -48,7 +82,7 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 0.4910135269165039
+        "response_time": 1.5604655742645264
     },
     "http://164.163.42.36:10000": {
         "status": "success",
@@ -65,57 +99,23 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 0.49329376220703125
+        "response_time": 2.588735818862915
     },
-    "http://164.163.40.16:10000": {
+    "socks5://81.177.224.173:1337": {
         "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "H",
-        "regionName": "Chaco",
-        "city": "Villa \u00c1ngela",
-        "zip": "3540",
-        "lat": -27.5866,
-        "lon": -60.72,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Interret Villa Angela SRL",
-        "org": "Interret Villa Angela SRL",
-        "as": "AS265763 Interret Villa Angela SRL",
-        "query": "164.163.43.102",
-        "response_time": 0.5583910942077637
-    },
-    "http://164.163.42.19:10000": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "H",
-        "regionName": "Chaco",
-        "city": "Villa \u00c1ngela",
-        "zip": "3540",
-        "lat": -27.5866,
-        "lon": -60.72,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Interret Villa Angela SRL",
-        "org": "Interret Villa Angela SRL",
-        "as": "AS265763 Interret Villa Angela SRL",
-        "query": "164.163.43.102",
-        "response_time": 0.5583930015563965
-    },
-    "socks4://200.214.154.135:4145": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "DF",
-        "regionName": "Federal District",
-        "city": "Bras\u00edlia",
-        "zip": "70640",
-        "lat": -15.7783,
-        "lon": -47.9319,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A.",
-        "org": "Claro S.A",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.214.154.135",
-        "response_time": 2.8182578086853027
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "STA",
+        "regionName": "Stavropol Kray",
+        "city": "Stavropol",
+        "zip": "355000",
+        "lat": 45.039,
+        "lon": 41.9632,
+        "timezone": "Europe/Moscow",
+        "isp": "OOO SET",
+        "org": "OOO Set network",
+        "as": "AS48176 OOO SET",
+        "query": "81.177.224.173",
+        "response_time": 3.24752140045166
     }
 }
