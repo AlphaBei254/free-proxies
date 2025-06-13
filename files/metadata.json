@@ -14,41 +14,7 @@
         "org": "Cloud.ru",
         "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.3488008975982666
-    },
-    "socks4://45.120.38.246:1088": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "M\u0101tuail",
-        "zip": "1362",
-        "lat": 23.7121,
-        "lon": 90.4598,
-        "timezone": "Asia/Dhaka",
-        "isp": "Info Link",
-        "org": "",
-        "as": "AS58890 InfoLink",
-        "query": "45.120.38.34",
-        "response_time": 2.13608980178833
-    },
-    "socks5://202.40.186.66:9090": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1217",
-        "lat": 23.7254,
-        "lon": 90.4189,
-        "timezone": "Asia/Dhaka",
-        "isp": "Ranks ITT",
-        "org": "Ranks ITT Ltd.",
-        "as": "AS23991 Ranks ITT Ltd.",
-        "query": "202.40.186.66",
-        "response_time": 2.5320208072662354
+        "response_time": 0.47020673751831055
     },
     "socks5://103.163.244.106:1080": {
         "status": "success",
@@ -65,6 +31,40 @@
         "org": "",
         "as": "AS132746 Infolink System",
         "query": "103.163.244.106",
-        "response_time": 2.578441858291626
+        "response_time": 1.6698174476623535
+    },
+    "socks5://91.121.173.38:54233": {
+        "status": "success",
+        "country": "France",
+        "countryCode": "FR",
+        "region": "HDF",
+        "regionName": "Hauts-de-France",
+        "city": "Roubaix",
+        "zip": "59100",
+        "lat": 50.6918,
+        "lon": 3.2021,
+        "timezone": "Europe/Paris",
+        "isp": "OVH SAS",
+        "org": "OVH ISP",
+        "as": "AS16276 OVH SAS",
+        "query": "91.121.173.38",
+        "response_time": 2.5541481971740723
+    },
+    "socks4://175.203.138.160:5678": {
+        "status": "success",
+        "country": "South Korea",
+        "countryCode": "KR",
+        "region": "44",
+        "regionName": "Chungcheongnam-do",
+        "city": "Yesan",
+        "zip": "324",
+        "lat": 36.6781,
+        "lon": 126.6946,
+        "timezone": "Asia/Seoul",
+        "isp": "Korea Telecom",
+        "org": "Kornet",
+        "as": "AS4766 Korea Telecom",
+        "query": "175.203.138.160",
+        "response_time": 3.8734588623046875
     }
 }
