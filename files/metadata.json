@@ -1,22 +1,5 @@
 {
-    "socks4://47.176.213.210:39593": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "CA",
-        "regionName": "California",
-        "city": "Hacienda Heights",
-        "zip": "91745",
-        "lat": 34.003,
-        "lon": -117.9746,
-        "timezone": "America/Los_Angeles",
-        "isp": "Frontier Communications of America, Inc.",
-        "org": "Frontier Communications Corporation",
-        "as": "AS5650 Frontier Communications of America, Inc.",
-        "query": "47.176.213.210",
-        "response_time": 0.24299383163452148
-    },
-    "http://164.163.42.46:10000": {
+    "http://164.163.40.16:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -31,7 +14,7 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 0.6513943672180176
+        "response_time": 0.639937162399292
     },
     "http://164.163.42.36:10000": {
         "status": "success",
@@ -48,9 +31,9 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 0.7284095287322998
+        "response_time": 0.7151651382446289
     },
-    "http://164.163.40.16:10000": {
+    "http://164.163.42.46:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -65,41 +48,7 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 0.8847570419311523
-    },
-    "socks4://115.127.188.214:1080": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1208",
-        "lat": 23.7811,
-        "lon": 90.4022,
-        "timezone": "Asia/Dhaka",
-        "isp": "BRACNet Limited",
-        "org": "BRACNet Limited",
-        "as": "AS24342 BRACNet Limited",
-        "query": "115.127.188.214",
-        "response_time": 1.1190025806427002
-    },
-    "http://47.90.205.231:33333": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Richmond",
-        "zip": "23173",
-        "lat": 37.4316,
-        "lon": -78.6569,
-        "timezone": "America/New_York",
-        "isp": "Alibaba.com LLC",
-        "org": "ALICLOUD-US",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "47.90.205.231",
-        "response_time": 1.1903047561645508
+        "response_time": 0.7995903491973877
     },
     "http://164.163.42.19:10000": {
         "status": "success",
@@ -116,7 +65,7 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 1.5671463012695312
+        "response_time": 0.8073153495788574
     },
     "http://164.163.40.90:10000": {
         "status": "success",
@@ -133,108 +82,57 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 1.665954828262329
+        "response_time": 0.8098828792572021
     },
-    "socks4://95.31.42.199:3629": {
+    "socks4://51.158.65.148:16379": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "103274",
-        "lat": 55.7487,
-        "lon": 37.6187,
-        "timezone": "Europe/Moscow",
-        "isp": "PJSC \"Vimpelcom\"",
-        "org": "CORBINA-BROADBAND",
-        "as": "AS8402 PJSC \"Vimpelcom\"",
-        "query": "95.31.42.199",
-        "response_time": 1.8202240467071533
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "BB",
+        "regionName": "Brandenburg",
+        "city": "Brandenburg",
+        "zip": "14621",
+        "lat": 52.6171,
+        "lon": 13.1207,
+        "timezone": "Europe/Berlin",
+        "isp": "Stiftung Erneuerbare Freiheit",
+        "org": "ForPrivacyNET",
+        "as": "AS60729 Stiftung Erneuerbare Freiheit",
+        "query": "185.220.101.61",
+        "response_time": 2.1804375648498535
     },
-    "socks4://103.197.32.205:5678": {
-        "status": "success",
-        "country": "India",
-        "countryCode": "IN",
-        "region": "TN",
-        "regionName": "Tamil Nadu",
-        "city": "Ogal\u016br",
-        "zip": "621108",
-        "lat": 11.3925,
-        "lon": 79.0623,
-        "timezone": "Asia/Kolkata",
-        "isp": "ZERONE Networks pvt ltd",
-        "org": "ZERONE Networks pvt ltd",
-        "as": "AS134260 ZERONE Networks pvt ltd",
-        "query": "103.197.32.205",
-        "response_time": 2.273923397064209
-    },
-    "socks5://103.158.253.162:8199": {
+    "socks4://180.92.212.178:5678": {
         "status": "success",
         "country": "Indonesia",
         "countryCode": "ID",
         "region": "JK",
         "regionName": "Jakarta",
         "city": "Jakarta",
-        "zip": "12970",
-        "lat": -6.2114,
-        "lon": 106.8446,
+        "zip": "",
+        "lat": -6.22927,
+        "lon": 106.811,
         "timezone": "Asia/Jakarta",
-        "isp": "Rapid Network",
+        "isp": "Sudirman Central Business District",
         "org": "",
-        "as": "AS141137 PT Media Cepat Indonesia",
-        "query": "103.158.253.162",
-        "response_time": 2.307596206665039
+        "as": "AS23953 PT ARTHA TELEKOMINDO",
+        "query": "180.92.212.178",
+        "response_time": 2.927135705947876
     },
-    "socks4://195.74.72.111:5678": {
+    "socks4://110.77.149.227:4153": {
         "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "26",
-        "regionName": "Ivano-Frankivsk Oblast",
-        "city": "Ivano-Frankivsk",
-        "zip": "76000",
-        "lat": 48.9226,
-        "lon": 24.7111,
-        "timezone": "Europe/Kiev",
-        "isp": "Branch Enterprise \"Netgroup-Service\"",
-        "org": "Netgroup",
-        "as": "AS35004 Branch Enterprise \"Netgroup-Service\"",
-        "query": "195.74.72.111",
-        "response_time": 2.6523897647857666
-    },
-    "socks4://200.214.154.135:4145": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "BA",
-        "regionName": "Bahia",
-        "city": "Salvador",
-        "zip": "40000",
-        "lat": -12.8665,
-        "lon": -38.4858,
-        "timezone": "America/Bahia",
-        "isp": "TELEF\u00d4NICA BRASIL S.A",
-        "org": "Global Village Telecom",
-        "as": "AS18881 TELEF\u00d4NICA BRASIL S.A",
-        "query": "177.99.160.98",
-        "response_time": 2.882246255874634
-    },
-    "socks4://212.47.248.107:16379": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1012",
-        "lat": 52.3676,
-        "lon": 4.90414,
-        "timezone": "Europe/Amsterdam",
-        "isp": "Surf B.V.",
-        "org": "Nothing to hide",
-        "as": "AS1101 SURF B.V.",
-        "query": "192.42.116.179",
-        "response_time": 5.145772933959961
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "10",
+        "regionName": "Bangkok",
+        "city": "Bangkok",
+        "zip": "10110",
+        "lat": 13.7101,
+        "lon": 100.4543,
+        "timezone": "Asia/Bangkok",
+        "isp": "CAT Telecom Public Company Limited",
+        "org": "CAT BB",
+        "as": "AS131090 CAT TELECOM Public Company Ltd,CAT",
+        "query": "110.77.149.227",
+        "response_time": 2.9995152950286865
     }
 }
