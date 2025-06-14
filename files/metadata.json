@@ -1,56 +1,5 @@
 {
-    "socks4://103.96.106.230:1080": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1214",
-        "lat": 23.7427,
-        "lon": 90.4248,
-        "timezone": "Asia/Dhaka",
-        "isp": "Xplore Cyber &",
-        "org": "",
-        "as": "AS134153 Xplore Net BD",
-        "query": "103.96.106.230",
-        "response_time": 1.302537441253662
-    },
-    "http://47.90.205.231:33333": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "VA",
-        "regionName": "Virginia",
-        "city": "Richmond",
-        "zip": "23173",
-        "lat": 37.4316,
-        "lon": -78.6569,
-        "timezone": "America/New_York",
-        "isp": "Alibaba.com LLC",
-        "org": "ALICLOUD-US",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "47.90.205.231",
-        "response_time": 2.1505191326141357
-    },
-    "socks5://103.158.253.162:8199": {
-        "status": "success",
-        "country": "Indonesia",
-        "countryCode": "ID",
-        "region": "JK",
-        "regionName": "Jakarta",
-        "city": "Jakarta",
-        "zip": "12970",
-        "lat": -6.2114,
-        "lon": 106.8446,
-        "timezone": "Asia/Jakarta",
-        "isp": "Rapid Network",
-        "org": "",
-        "as": "AS141137 PT Media Cepat Indonesia",
-        "query": "103.158.253.162",
-        "response_time": 3.9591104984283447
-    },
-    "http://164.163.42.19:10000": {
+    "http://164.163.40.16:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -65,23 +14,6 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 4.1242759227752686
-    },
-    "socks4://51.15.232.175:16379": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "TX",
-        "regionName": "Texas",
-        "city": "Dallas",
-        "zip": "75270",
-        "lat": 32.7797,
-        "lon": -96.8022,
-        "timezone": "America/Chicago",
-        "isp": "BL Networks",
-        "org": "BL Networks",
-        "as": "AS399629 BL Networks",
-        "query": "64.94.85.248",
-        "response_time": 4.4489171504974365
+        "response_time": 2.9765055179595947
     }
 }
