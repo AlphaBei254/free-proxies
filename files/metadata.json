@@ -13,7 +13,24 @@
         "isp": "Claro S.A",
         "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
         "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.32",
-        "response_time": 0.601534366607666
+        "query": "200.174.198.57",
+        "response_time": 0.739396333694458
+    },
+    "socks4://93.117.72.27:55770": {
+        "status": "success",
+        "country": "Moldova",
+        "countryCode": "MD",
+        "region": "CU",
+        "regionName": "Chi\u0219in\u0103u Municipality",
+        "city": "Chisinau",
+        "zip": "MD-2000",
+        "lat": 47.0042,
+        "lon": 28.8574,
+        "timezone": "Europe/Chisinau",
+        "isp": "Moldtelecom SA",
+        "org": "JSC Moldtelecom S.A.",
+        "as": "AS8926 Moldtelecom SA",
+        "query": "93.117.72.27",
+        "response_time": 0.888209342956543
     }
 }
