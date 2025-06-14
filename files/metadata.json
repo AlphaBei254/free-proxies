@@ -1,5 +1,39 @@
 {
-    "http://164.163.40.16:10000": {
+    "socks4://103.197.32.205:5678": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "TN",
+        "regionName": "Tamil Nadu",
+        "city": "Ogal\u016br",
+        "zip": "621108",
+        "lat": 11.3925,
+        "lon": 79.0623,
+        "timezone": "Asia/Kolkata",
+        "isp": "ZERONE Networks pvt ltd",
+        "org": "ZERONE Networks pvt ltd",
+        "as": "AS134260 ZERONE Networks pvt ltd",
+        "query": "103.197.32.205",
+        "response_time": 2.2456207275390625
+    },
+    "socks4://91.121.173.38:54233": {
+        "status": "success",
+        "country": "France",
+        "countryCode": "FR",
+        "region": "HDF",
+        "regionName": "Hauts-de-France",
+        "city": "Roubaix",
+        "zip": "59100",
+        "lat": 50.6918,
+        "lon": 3.2021,
+        "timezone": "Europe/Paris",
+        "isp": "OVH SAS",
+        "org": "OVH ISP",
+        "as": "AS16276 OVH SAS",
+        "query": "91.121.173.38",
+        "response_time": 3.658865451812744
+    },
+    "http://164.163.40.90:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -14,6 +48,6 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 2.9765055179595947
+        "response_time": 5.040643215179443
     }
 }
