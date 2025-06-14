@@ -1,1 +1,53 @@
-{}
+{
+    "http://164.163.42.46:10000": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 1.2995641231536865
+    },
+    "socks4://76.26.114.253:39593": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NJ",
+        "regionName": "New Jersey",
+        "city": "Newark",
+        "zip": "07175",
+        "lat": 40.7357,
+        "lon": -74.1724,
+        "timezone": "America/New_York",
+        "isp": "Comcast Cable Communications, LLC",
+        "org": "Comcast Cable Communications, LLC",
+        "as": "AS7922 Comcast Cable Communications, LLC",
+        "query": "76.26.114.253",
+        "response_time": 2.2652056217193604
+    },
+    "http://164.163.42.19:10000": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 3.0149085521698
+    }
+}
