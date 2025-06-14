@@ -1,21 +1,4 @@
 {
-    "http://164.163.40.16:10000": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "H",
-        "regionName": "Chaco",
-        "city": "Villa \u00c1ngela",
-        "zip": "3540",
-        "lat": -27.5866,
-        "lon": -60.72,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Interret Villa Angela SRL",
-        "org": "Interret Villa Angela SRL",
-        "as": "AS265763 Interret Villa Angela SRL",
-        "query": "164.163.43.102",
-        "response_time": 0.5472133159637451
-    },
     "http://31.40.248.2:8080": {
         "status": "success",
         "country": "Russia",
@@ -31,40 +14,23 @@
         "org": "Cloud.ru",
         "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.6761114597320557
+        "response_time": 0.4929628372192383
     },
-    "http://200.174.198.86:8888": {
+    "socks4://195.74.72.111:5678": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.31",
-        "response_time": 0.7467617988586426
-    },
-    "http://62.33.53.248:3128": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "SA",
-        "regionName": "Sakha",
-        "city": "Yakutsk",
-        "zip": "677000",
-        "lat": 62.0313,
-        "lon": 129.7325,
-        "timezone": "Asia/Yakutsk",
-        "isp": "TRANS-TELECOM",
-        "org": "",
-        "as": "AS20485 Joint Stock Company TransTeleCom",
-        "query": "62.33.53.248",
-        "response_time": 3.959879159927368
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "region": "26",
+        "regionName": "Ivano-Frankivsk Oblast",
+        "city": "Ivano-Frankivsk",
+        "zip": "76000",
+        "lat": 48.9226,
+        "lon": 24.7111,
+        "timezone": "Europe/Kiev",
+        "isp": "Branch Enterprise \"Netgroup-Service\"",
+        "org": "Netgroup",
+        "as": "AS35004 Branch Enterprise \"Netgroup-Service\"",
+        "query": "195.74.72.111",
+        "response_time": 2.593919515609741
     }
 }
