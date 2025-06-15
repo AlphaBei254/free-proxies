@@ -1,4 +1,55 @@
 {
+    "socks5://170.106.151.187:42576": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "WA",
+        "regionName": "Washington",
+        "city": "Seattle",
+        "zip": "98127",
+        "lat": 47.6062,
+        "lon": -122.332,
+        "timezone": "America/Los_Angeles",
+        "isp": "AT&T Enterprises, LLC",
+        "org": "AT&T Enterprises, LLC",
+        "as": "AS7018 AT&T Enterprises, LLC",
+        "query": "107.116.255.8",
+        "response_time": 0.47632765769958496
+    },
+    "http://31.40.248.2:8080": {
+        "status": "success",
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "MOW",
+        "regionName": "Moscow",
+        "city": "Moscow",
+        "zip": "144700",
+        "lat": 55.7558,
+        "lon": 37.6173,
+        "timezone": "Europe/Moscow",
+        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
+        "org": "Cloud.ru",
+        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
+        "query": "31.40.248.2",
+        "response_time": 0.6115379333496094
+    },
+    "socks4://103.83.36.1:5678": {
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "MH",
+        "regionName": "Maharashtra",
+        "city": "Mumbai",
+        "zip": "400017",
+        "lat": 19.0748,
+        "lon": 72.8856,
+        "timezone": "Asia/Kolkata",
+        "isp": "Yotta Network Services Private Limited",
+        "org": "Yotta Network Services Private Limited",
+        "as": "AS140641 YOTTA NETWORK SERVICES PRIVATE LIMITED",
+        "query": "203.112.134.74",
+        "response_time": 1.6009507179260254
+    },
     "http://164.163.40.16:10000": {
         "status": "success",
         "country": "Argentina",
@@ -14,9 +65,9 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 0.5475327968597412
+        "response_time": 3.5519609451293945
     },
-    "http://164.163.42.19:10000": {
+    "http://164.163.40.90:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -31,57 +82,6 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 0.6490142345428467
-    },
-    "http://164.163.42.36:10000": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "H",
-        "regionName": "Chaco",
-        "city": "Villa \u00c1ngela",
-        "zip": "3540",
-        "lat": -27.5866,
-        "lon": -60.72,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Interret Villa Angela SRL",
-        "org": "Interret Villa Angela SRL",
-        "as": "AS265763 Interret Villa Angela SRL",
-        "query": "164.163.43.102",
-        "response_time": 0.7108027935028076
-    },
-    "http://164.163.42.46:10000": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "H",
-        "regionName": "Chaco",
-        "city": "Villa \u00c1ngela",
-        "zip": "3540",
-        "lat": -27.5866,
-        "lon": -60.72,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Interret Villa Angela SRL",
-        "org": "Interret Villa Angela SRL",
-        "as": "AS265763 Interret Villa Angela SRL",
-        "query": "164.163.43.102",
-        "response_time": 1.534548282623291
-    },
-    "socks4://51.158.113.139:16379": {
-        "status": "success",
-        "country": "Romania",
-        "countryCode": "RO",
-        "region": "B",
-        "regionName": "Bucure\u0219ti",
-        "city": "Bucharest",
-        "zip": "052829",
-        "lat": 44.4268,
-        "lon": 26.1025,
-        "timezone": "Europe/Bucharest",
-        "isp": "BL Networks",
-        "org": "BL Networks",
-        "as": "AS399629 BL Networks",
-        "query": "96.9.125.211",
-        "response_time": 3.639530897140503
+        "response_time": 3.579681158065796
     }
 }
