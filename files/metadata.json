@@ -1,72 +1,4 @@
 {
-    "http://164.163.42.19:10000": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "H",
-        "regionName": "Chaco",
-        "city": "Villa \u00c1ngela",
-        "zip": "3540",
-        "lat": -27.5866,
-        "lon": -60.72,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Interret Villa Angela SRL",
-        "org": "Interret Villa Angela SRL",
-        "as": "AS265763 Interret Villa Angela SRL",
-        "query": "164.163.43.102",
-        "response_time": 0.4816575050354004
-    },
-    "http://31.40.248.2:8080": {
-        "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.5636343955993652
-    },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.76",
-        "response_time": 0.6496317386627197
-    },
-    "http://113.160.132.195:8080": {
-        "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "HN",
-        "regionName": "Hanoi",
-        "city": "Hanoi",
-        "zip": "100000",
-        "lat": 21.0184,
-        "lon": 105.8461,
-        "timezone": "Asia/Bangkok",
-        "isp": "VietNam Post and Telecom Corporation",
-        "org": "Vietnam Posts and Telecommunications Group",
-        "as": "AS45899 VNPT Corp",
-        "query": "113.160.132.195",
-        "response_time": 1.0457820892333984
-    },
     "http://164.163.40.16:10000": {
         "status": "success",
         "country": "Argentina",
@@ -82,26 +14,9 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 1.529911756515503
+        "response_time": 0.5475327968597412
     },
-    "socks4://51.15.232.175:16379": {
-        "status": "success",
-        "country": "The Netherlands",
-        "countryCode": "NL",
-        "region": "NH",
-        "regionName": "North Holland",
-        "city": "Amsterdam",
-        "zip": "1012",
-        "lat": 52.3676,
-        "lon": 4.90414,
-        "timezone": "Europe/Amsterdam",
-        "isp": "FlokiNET ehf",
-        "org": "FlokiNET Netherlands",
-        "as": "AS200651 FlokiNET ehf",
-        "query": "185.246.188.74",
-        "response_time": 1.7321829795837402
-    },
-    "http://164.163.40.90:10000": {
+    "http://164.163.42.19:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -116,7 +31,7 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 2.5469558238983154
+        "response_time": 0.6490142345428467
     },
     "http://164.163.42.36:10000": {
         "status": "success",
@@ -133,6 +48,40 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 2.7123565673828125
+        "response_time": 0.7108027935028076
+    },
+    "http://164.163.42.46:10000": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 1.534548282623291
+    },
+    "socks4://51.158.113.139:16379": {
+        "status": "success",
+        "country": "Romania",
+        "countryCode": "RO",
+        "region": "B",
+        "regionName": "Bucure\u0219ti",
+        "city": "Bucharest",
+        "zip": "052829",
+        "lat": 44.4268,
+        "lon": 26.1025,
+        "timezone": "Europe/Bucharest",
+        "isp": "BL Networks",
+        "org": "BL Networks",
+        "as": "AS399629 BL Networks",
+        "query": "96.9.125.211",
+        "response_time": 3.639530897140503
     }
 }
