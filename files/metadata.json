@@ -14,7 +14,7 @@
         "org": "Redpon SA De CV",
         "as": "AS270158 Wantelco SAS de CV",
         "query": "170.78.211.175",
-        "response_time": 0.3822925090789795
+        "response_time": 0.40668749809265137
     },
     "http://31.40.248.2:8080": {
         "status": "success",
@@ -31,40 +31,23 @@
         "org": "Cloud.ru",
         "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
         "query": "31.40.248.2",
-        "response_time": 0.5125322341918945
+        "response_time": 0.6321709156036377
     },
-    "http://200.174.198.86:8888": {
+    "http://62.33.53.248:3128": {
         "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.147",
-        "response_time": 0.5932648181915283
-    },
-    "socks4://51.158.70.246:16379": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "TX",
-        "regionName": "Texas",
-        "city": "Dallas",
-        "zip": "75270",
-        "lat": 32.7797,
-        "lon": -96.8022,
-        "timezone": "America/Chicago",
-        "isp": "BL Networks",
-        "org": "BL Networks",
-        "as": "AS399629 BL Networks",
-        "query": "64.94.85.248",
-        "response_time": 3.090383291244507
+        "country": "Russia",
+        "countryCode": "RU",
+        "region": "SA",
+        "regionName": "Sakha",
+        "city": "Yakutsk",
+        "zip": "677000",
+        "lat": 62.0313,
+        "lon": 129.7325,
+        "timezone": "Asia/Yakutsk",
+        "isp": "TRANS-TELECOM",
+        "org": "",
+        "as": "AS20485 Joint Stock Company TransTeleCom",
+        "query": "62.33.53.248",
+        "response_time": 0.7170050144195557
     }
 }
