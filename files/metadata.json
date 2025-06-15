@@ -1,20 +1,20 @@
 {
-    "http://31.40.248.2:8080": {
+    "socks4://200.29.109.112:14888": {
         "status": "success",
-        "country": "Russia",
-        "countryCode": "RU",
-        "region": "MOW",
-        "regionName": "Moscow",
-        "city": "Moscow",
-        "zip": "144700",
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "timezone": "Europe/Moscow",
-        "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
-        "org": "Cloud.ru",
-        "as": "AS208677 \"Cloud Technologies\" LLC trading as Cloud.ru",
-        "query": "31.40.248.2",
-        "response_time": 0.36983656883239746
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "VAC",
+        "regionName": "Valle del Cauca Department",
+        "city": "Santiago de Cali",
+        "zip": "760002",
+        "lat": 3.4385,
+        "lon": -76.523,
+        "timezone": "America/Bogota",
+        "isp": "Empresas Municipales De Cali E.i.c.e. E.S.P.",
+        "org": "EMCALI - RANGOS FIJOS PPPoE",
+        "as": "AS10299 EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.",
+        "query": "200.29.109.112",
+        "response_time": 1.5501055717468262
     },
     "http://164.163.40.16:10000": {
         "status": "success",
@@ -31,26 +31,9 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 0.567765474319458
+        "response_time": 1.6840252876281738
     },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.215",
-        "response_time": 0.6758990287780762
-    },
-    "http://164.163.42.46:10000": {
+    "http://164.163.40.90:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -65,57 +48,6 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 0.7484786510467529
-    },
-    "socks4://27.115.33.94:4153": {
-        "status": "success",
-        "country": "China",
-        "countryCode": "CN",
-        "region": "SH",
-        "regionName": "Shanghai",
-        "city": "Shanghai",
-        "zip": "200000",
-        "lat": 31.2304,
-        "lon": 121.474,
-        "timezone": "Asia/Shanghai",
-        "isp": "China Unicom Shanghai Province Network",
-        "org": "",
-        "as": "AS17621 China Unicom Shanghai network",
-        "query": "27.115.33.94",
-        "response_time": 1.0194823741912842
-    },
-    "socks4://103.96.106.230:1080": {
-        "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1214",
-        "lat": 23.7427,
-        "lon": 90.4248,
-        "timezone": "Asia/Dhaka",
-        "isp": "Xplore Cyber &",
-        "org": "",
-        "as": "AS134153 Xplore Net BD",
-        "query": "103.96.106.230",
-        "response_time": 1.162402629852295
-    },
-    "socks4://212.47.248.107:16379": {
-        "status": "success",
-        "country": "Romania",
-        "countryCode": "RO",
-        "region": "B",
-        "regionName": "Bucure\u0219ti",
-        "city": "Bucharest",
-        "zip": "052829",
-        "lat": 44.4268,
-        "lon": 26.1025,
-        "timezone": "Europe/Bucharest",
-        "isp": "BL Networks",
-        "org": "BL Networks",
-        "as": "AS399629 BL Networks",
-        "query": "72.5.43.62",
-        "response_time": 2.8777730464935303
+        "response_time": 1.7989518642425537
     }
 }
