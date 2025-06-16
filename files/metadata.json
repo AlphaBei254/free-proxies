@@ -1,5 +1,5 @@
 {
-    "http://164.163.40.90:10000": {
+    "http://164.163.40.16:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -14,7 +14,41 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 1.611680507659912
+        "response_time": 0.5033082962036133
+    },
+    "socks5://170.106.151.187:42576": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "WA",
+        "regionName": "Washington",
+        "city": "Seattle",
+        "zip": "98127",
+        "lat": 47.6062,
+        "lon": -122.332,
+        "timezone": "America/Los_Angeles",
+        "isp": "AT&T Enterprises, LLC",
+        "org": "AT&T Enterprises, LLC",
+        "as": "AS7018 AT&T Enterprises, LLC",
+        "query": "107.116.255.71",
+        "response_time": 0.4727797508239746
+    },
+    "socks4://116.118.98.10:5678": {
+        "status": "success",
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "region": "SG",
+        "regionName": "Ho Chi Minh",
+        "city": "Ho Chi Minh City",
+        "zip": "700000",
+        "lat": 10.822,
+        "lon": 106.6257,
+        "timezone": "Asia/Ho_Chi_Minh",
+        "isp": "SPT",
+        "org": "",
+        "as": "AS7602 Sai gon Postel Corporation",
+        "query": "116.118.98.10",
+        "response_time": 1.02614164352417
     },
     "socks5://170.233.30.33:4153": {
         "status": "success",
@@ -31,9 +65,26 @@
         "org": "Sebastian Souto",
         "as": "AS264738 Sebastian Souto (SSSERVICIOS)",
         "query": "170.233.30.33",
-        "response_time": 1.7101037502288818
+        "response_time": 1.1353318691253662
     },
-    "http://164.163.40.16:10000": {
+    "socks4://64.49.67.164:5678": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NY",
+        "regionName": "New York",
+        "city": "New York",
+        "zip": "10118",
+        "lat": 40.7126,
+        "lon": -74.0066,
+        "timezone": "America/New_York",
+        "isp": "WNET TELECOM USA Corp.",
+        "org": "Everest Broadband Networks",
+        "as": "AS1820 WNET TELECOM USA Corp.",
+        "query": "64.49.67.164",
+        "response_time": 1.1802799701690674
+    },
+    "http://164.163.42.46:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -48,6 +99,91 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 2.579559564590454
+        "response_time": 1.5131466388702393
+    },
+    "http://164.163.42.36:10000": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 1.6713511943817139
+    },
+    "socks4://183.88.247.52:4153": {
+        "status": "success",
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "81",
+        "regionName": "Krabi",
+        "city": "Ao Nang",
+        "zip": "",
+        "lat": 8.0458,
+        "lon": 98.8103,
+        "timezone": "Asia/Bangkok",
+        "isp": "Triple T Broadband Public Company Limited",
+        "org": "Triple T Broadband Public Company Limited",
+        "as": "AS45758 Triple T Broadband Public Company Limited",
+        "query": "183.88.247.52",
+        "response_time": 2.2389938831329346
+    },
+    "http://164.163.40.90:10000": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 2.5332565307617188
+    },
+    "socks4://38.51.233.146:60606": {
+        "status": "success",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "NAR",
+        "regionName": "Nari\u00f1o",
+        "city": "Pasto",
+        "zip": "520001",
+        "lat": 1.21361,
+        "lon": -77.2811,
+        "timezone": "America/Bogota",
+        "isp": "SP SISTEMAS PALACIOS LTDA",
+        "org": "SP SISTEMAS PALACIOS",
+        "as": "AS267708 SP SISTEMAS PALACIOS LTDA",
+        "query": "38.51.233.146",
+        "response_time": 2.592944383621216
+    },
+    "socks5://103.158.253.162:8199": {
+        "status": "success",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "region": "JK",
+        "regionName": "Jakarta",
+        "city": "Jakarta",
+        "zip": "12970",
+        "lat": -6.2114,
+        "lon": 106.8446,
+        "timezone": "Asia/Jakarta",
+        "isp": "Rapid Network",
+        "org": "",
+        "as": "AS141137 PT Media Cepat Indonesia",
+        "query": "103.158.253.162",
+        "response_time": 3.2179861068725586
     }
 }
