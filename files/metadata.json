@@ -1,39 +1,39 @@
 {
-    "socks4://185.132.1.221:4145": {
+    "socks4://166.62.53.45:45842": {
         "status": "success",
-        "country": "Ukraine",
-        "countryCode": "UA",
-        "region": "51",
-        "regionName": "Odessa",
-        "city": "Odesa",
-        "zip": "65000",
-        "lat": 46.4752,
-        "lon": 30.7338,
-        "timezone": "Europe/Kyiv",
-        "isp": "Miratel Ltd",
-        "org": "Miratel Ltd",
-        "as": "AS203447 Miratel Ltd",
-        "query": "185.132.1.221",
-        "response_time": 1.5470104217529297
+        "country": "United States",
+        "countryCode": "US",
+        "region": "AZ",
+        "regionName": "Arizona",
+        "city": "Tempe",
+        "zip": "85284",
+        "lat": 33.3359,
+        "lon": -111.894,
+        "timezone": "America/Phoenix",
+        "isp": "GoDaddy.com, LLC",
+        "org": "GoDaddy.com, LLC",
+        "as": "AS398101 GoDaddy.com, LLC",
+        "query": "166.62.88.163",
+        "response_time": 0.24020648002624512
     },
-    "socks4://27.115.33.94:4153": {
+    "socks4://179.27.86.36:4153": {
         "status": "success",
-        "country": "China",
-        "countryCode": "CN",
-        "region": "SH",
-        "regionName": "Shanghai",
-        "city": "Shanghai",
-        "zip": "200000",
-        "lat": 31.2304,
-        "lon": 121.474,
-        "timezone": "Asia/Shanghai",
-        "isp": "China Unicom Shanghai Province Network",
-        "org": "",
-        "as": "AS17621 China Unicom Shanghai network",
-        "query": "27.115.33.94",
-        "response_time": 2.2057676315307617
+        "country": "Uruguay",
+        "countryCode": "UY",
+        "region": "MO",
+        "regionName": "Montevideo Department",
+        "city": "Montevideo",
+        "zip": "11200",
+        "lat": -34.9064,
+        "lon": -56.1629,
+        "timezone": "America/Montevideo",
+        "isp": "Administracion Nacional de Telecomunicaciones",
+        "org": "Cliente Antel Uruguay",
+        "as": "AS6057 Administracion Nacional de Telecomunicaciones",
+        "query": "179.27.86.36",
+        "response_time": 0.7263679504394531
     },
-    "http://164.163.42.36:10000": {
+    "http://164.163.42.46:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -48,9 +48,26 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 2.536567449569702
+        "response_time": 1.697706699371338
     },
-    "http://164.163.42.19:10000": {
+    "http://8.219.97.248:80": {
+        "status": "success",
+        "country": "Singapore",
+        "countryCode": "SG",
+        "region": "03",
+        "regionName": "North West",
+        "city": "Singapore",
+        "zip": "858877",
+        "lat": 1.35208,
+        "lon": 103.82,
+        "timezone": "Asia/Singapore",
+        "isp": "Alibaba (US) Technology Co., Ltd.",
+        "org": "Alibaba.com Singapore E-Commerce Private Limited",
+        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+        "query": "8.219.64.236",
+        "response_time": 1.7455759048461914
+    },
+    "http://164.163.40.90:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -65,6 +82,6 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 2.815359115600586
+        "response_time": 1.8188941478729248
     }
 }
