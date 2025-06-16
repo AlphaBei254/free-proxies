@@ -1,38 +1,4 @@
 {
-    "socks4://166.62.53.45:45842": {
-        "status": "success",
-        "country": "United States",
-        "countryCode": "US",
-        "region": "AZ",
-        "regionName": "Arizona",
-        "city": "Tempe",
-        "zip": "85284",
-        "lat": 33.3359,
-        "lon": -111.894,
-        "timezone": "America/Phoenix",
-        "isp": "GoDaddy.com, LLC",
-        "org": "GoDaddy.com, LLC",
-        "as": "AS398101 GoDaddy.com, LLC",
-        "query": "166.62.88.163",
-        "response_time": 0.24020648002624512
-    },
-    "socks4://179.27.86.36:4153": {
-        "status": "success",
-        "country": "Uruguay",
-        "countryCode": "UY",
-        "region": "MO",
-        "regionName": "Montevideo Department",
-        "city": "Montevideo",
-        "zip": "11200",
-        "lat": -34.9064,
-        "lon": -56.1629,
-        "timezone": "America/Montevideo",
-        "isp": "Administracion Nacional de Telecomunicaciones",
-        "org": "Cliente Antel Uruguay",
-        "as": "AS6057 Administracion Nacional de Telecomunicaciones",
-        "query": "179.27.86.36",
-        "response_time": 0.7263679504394531
-    },
     "http://164.163.42.46:10000": {
         "status": "success",
         "country": "Argentina",
@@ -48,26 +14,9 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 1.697706699371338
+        "response_time": 0.5150856971740723
     },
-    "http://8.219.97.248:80": {
-        "status": "success",
-        "country": "Singapore",
-        "countryCode": "SG",
-        "region": "03",
-        "regionName": "North West",
-        "city": "Singapore",
-        "zip": "858877",
-        "lat": 1.35208,
-        "lon": 103.82,
-        "timezone": "Asia/Singapore",
-        "isp": "Alibaba (US) Technology Co., Ltd.",
-        "org": "Alibaba.com Singapore E-Commerce Private Limited",
-        "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-        "query": "8.219.64.236",
-        "response_time": 1.7455759048461914
-    },
-    "http://164.163.40.90:10000": {
+    "http://164.163.40.16:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -82,6 +31,23 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 1.8188941478729248
+        "response_time": 0.7010776996612549
+    },
+    "http://164.163.42.19:10000": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 1.5983531475067139
     }
 }
