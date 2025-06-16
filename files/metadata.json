@@ -1,37 +1,20 @@
 {
-    "http://113.160.132.195:8080": {
+    "socks4://212.47.248.107:16379": {
         "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "HN",
-        "regionName": "Hanoi",
-        "city": "Hanoi",
-        "zip": "100000",
-        "lat": 21.0184,
-        "lon": 105.8461,
-        "timezone": "Asia/Bangkok",
-        "isp": "VietNam Post and Telecom Corporation",
-        "org": "Vietnam Posts and Telecommunications Group",
-        "as": "AS45899 VNPT Corp",
-        "query": "113.160.132.195",
-        "response_time": 1.4081358909606934
-    },
-    "http://164.163.40.16:10000": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "H",
-        "regionName": "Chaco",
-        "city": "Villa \u00c1ngela",
-        "zip": "3540",
-        "lat": -27.5866,
-        "lon": -60.72,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Interret Villa Angela SRL",
-        "org": "Interret Villa Angela SRL",
-        "as": "AS265763 Interret Villa Angela SRL",
-        "query": "164.163.43.102",
-        "response_time": 1.8880999088287354
+        "country": "Romania",
+        "countryCode": "RO",
+        "region": "B",
+        "regionName": "Bucure\u0219ti",
+        "city": "Bucharest",
+        "zip": "052829",
+        "lat": 44.4268,
+        "lon": 26.1025,
+        "timezone": "Europe/Bucharest",
+        "isp": "BL Networks",
+        "org": "BL Networks",
+        "as": "AS399629 BL Networks",
+        "query": "96.9.125.211",
+        "response_time": 2.2714414596557617
     },
     "socks4://141.105.107.152:5678": {
         "status": "success",
@@ -48,6 +31,23 @@
         "org": "Ibred",
         "as": "AS200064 Red digital de telecomunicaciones de las Islas Baleares S.L",
         "query": "141.105.107.152",
-        "response_time": 2.368938446044922
+        "response_time": 2.5185091495513916
+    },
+    "socks4://212.34.152.172:8081": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1012",
+        "lat": 52.3759,
+        "lon": 4.8975,
+        "timezone": "Europe/Amsterdam",
+        "isp": "Servers Tech Fzco",
+        "org": "Servers Tech Fzco",
+        "as": "AS216071 SERVERS TECH FZCO",
+        "query": "212.34.152.172",
+        "response_time": 2.9558866024017334
     }
 }
