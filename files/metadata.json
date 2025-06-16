@@ -1,19 +1,36 @@
 {
-    "socks4://51.158.70.246:16379": {
+    "socks4://182.53.216.73:4145": {
         "status": "success",
-        "country": "France",
-        "countryCode": "FR",
-        "region": "IDF",
-        "regionName": "\u00cele-de-France",
-        "city": "Vitry-sur-Seine",
-        "zip": "94400",
-        "lat": 48.7866,
-        "lon": 2.3985,
-        "timezone": "Europe/Paris",
-        "isp": "Moji SAS",
-        "org": "Noir Network",
-        "as": "AS213873 OUIDO Hosting",
-        "query": "154.41.95.1",
-        "response_time": 3.2743306159973145
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "51",
+        "regionName": "Lamphun",
+        "city": "Lamphun",
+        "zip": "51000",
+        "lat": 18.5779,
+        "lon": 99.0097,
+        "timezone": "Asia/Bangkok",
+        "isp": "TOT Public Company Limited",
+        "org": "TOT Public Company Limited",
+        "as": "AS23969 TOT Public Company Limited",
+        "query": "182.53.216.73",
+        "response_time": 1.1364495754241943
+    },
+    "socks5://163.172.132.115:16379": {
+        "status": "success",
+        "country": "Poland",
+        "countryCode": "PL",
+        "region": "14",
+        "regionName": "Mazovia",
+        "city": "Warsaw",
+        "zip": "00-510",
+        "lat": 52.2299,
+        "lon": 21.0093,
+        "timezone": "Europe/Warsaw",
+        "isp": "1337 Services GmbH",
+        "org": "1337 Services GmbH",
+        "as": "AS210558 1337 Services GmbH",
+        "query": "45.141.215.90",
+        "response_time": 3.4081008434295654
     }
 }
