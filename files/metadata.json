@@ -1,4 +1,21 @@
 {
+    "socks4://170.78.211.161:1080": {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SLP",
+        "regionName": "San Luis Potos\u00ed",
+        "city": "San Luis Potos\u00ed City",
+        "zip": "78310",
+        "lat": 22.1515,
+        "lon": -100.9722,
+        "timezone": "America/Mexico_City",
+        "isp": "Wantelco SAS de CV",
+        "org": "Redpon SA De CV",
+        "as": "AS270158 Wantelco SAS de CV",
+        "query": "170.78.211.175",
+        "response_time": 0.2897028923034668
+    },
     "http://164.163.40.16:10000": {
         "status": "success",
         "country": "Argentina",
@@ -14,26 +31,9 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 0.7025890350341797
+        "response_time": 0.5514965057373047
     },
-    "http://200.174.198.86:8888": {
-        "status": "success",
-        "country": "Brazil",
-        "countryCode": "BR",
-        "region": "RJ",
-        "regionName": "Rio de Janeiro",
-        "city": "Rio de Janeiro",
-        "zip": "20000-000",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "timezone": "America/Sao_Paulo",
-        "isp": "Claro S.A",
-        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
-        "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.43",
-        "response_time": 0.7130577564239502
-    },
-    "http://164.163.42.46:10000": {
+    "http://164.163.42.36:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -48,7 +48,24 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 1.606382131576538
+        "response_time": 0.7070245742797852
+    },
+    "http://164.163.42.19:10000": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 0.7065083980560303
     },
     "http://164.163.40.90:10000": {
         "status": "success",
@@ -65,23 +82,40 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 2.623115301132202
+        "response_time": 0.7115194797515869
     },
-    "socks4://116.118.98.10:5678": {
+    "http://164.163.42.46:10000": {
         "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "SG",
-        "regionName": "Ho Chi Minh",
-        "city": "Ho Chi Minh City",
-        "zip": "700000",
-        "lat": 10.822,
-        "lon": 106.6257,
-        "timezone": "Asia/Ho_Chi_Minh",
-        "isp": "SPT",
-        "org": "",
-        "as": "AS7602 Sai gon Postel Corporation",
-        "query": "116.118.98.10",
-        "response_time": 2.9997613430023193
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 0.7815451622009277
+    },
+    "socks4://64.124.191.98:32688": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "PA",
+        "regionName": "Pennsylvania",
+        "city": "Conshohocken",
+        "zip": "19428",
+        "lat": 40.0864,
+        "lon": -75.2931,
+        "timezone": "America/New_York",
+        "isp": "Zayo Bandwidth",
+        "org": "Web Werks",
+        "as": "AS6461 Zayo Bandwidth",
+        "query": "64.124.191.98",
+        "response_time": 2.2146055698394775
     }
 }
