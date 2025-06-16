@@ -1,4 +1,21 @@
 {
+    "http://164.163.40.16:10000": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 0.4844052791595459
+    },
     "http://200.174.198.86:8888": {
         "status": "success",
         "country": "Brazil",
@@ -13,25 +30,42 @@
         "isp": "Claro S.A",
         "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
         "as": "AS4230 CLARO S.A.",
-        "query": "200.174.198.124",
-        "response_time": 0.5789122581481934
+        "query": "200.174.198.126",
+        "response_time": 0.6148226261138916
     },
-    "socks4://90.182.147.170:4145": {
+    "http://164.163.42.36:10000": {
         "status": "success",
-        "country": "Czechia",
-        "countryCode": "CZ",
-        "region": "10",
-        "regionName": "Prague",
-        "city": "Prague",
-        "zip": "170 00",
-        "lat": 50.1113,
-        "lon": 14.4063,
-        "timezone": "Europe/Prague",
-        "isp": "O2 Czech Republic",
-        "org": "CZ.CZNET",
-        "as": "AS5610 O2 Czech Republic, a.s.",
-        "query": "90.182.147.170",
-        "response_time": 1.6989727020263672
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 1.5053057670593262
+    },
+    "http://164.163.40.90:10000": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 1.659738302230835
     },
     "http://164.163.42.46:10000": {
         "status": "success",
@@ -48,6 +82,23 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 3.763524293899536
+        "response_time": 1.7392947673797607
+    },
+    "http://164.163.42.19:10000": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 2.5263333320617676
     }
 }
