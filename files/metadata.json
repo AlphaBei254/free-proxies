@@ -1,5 +1,22 @@
 {
-    "http://164.163.42.36:10000": {
+    "http://200.174.198.86:8888": {
+        "status": "success",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "zip": "20000-000",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "timezone": "America/Sao_Paulo",
+        "isp": "Claro S.A",
+        "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
+        "as": "AS4230 CLARO S.A.",
+        "query": "200.174.198.158",
+        "response_time": 0.6136093139648438
+    },
+    "http://164.163.40.16:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -14,23 +31,40 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 1.6044559478759766
+        "response_time": 1.7010877132415771
     },
-    "socks4://103.229.83.106:6789": {
+    "socks4://76.26.114.253:39593": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "C",
-        "regionName": "Dhaka Division",
-        "city": "Dhaka",
-        "zip": "1208",
-        "lat": 23.7643,
-        "lon": 90.4155,
-        "timezone": "Asia/Dhaka",
-        "isp": "Fiber@Home Global Limited",
-        "org": "Bismillah Telecom",
-        "as": "AS10075 Fiber@Home Global Limited",
-        "query": "103.131.156.90",
-        "response_time": 3.1351447105407715
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NJ",
+        "regionName": "New Jersey",
+        "city": "Newark",
+        "zip": "07175",
+        "lat": 40.7357,
+        "lon": -74.1724,
+        "timezone": "America/New_York",
+        "isp": "Comcast Cable Communications, LLC",
+        "org": "Comcast Cable Communications, LLC",
+        "as": "AS7922 Comcast Cable Communications, LLC",
+        "query": "76.26.114.253",
+        "response_time": 2.22856068611145
+    },
+    "socks4://175.203.138.160:5678": {
+        "status": "success",
+        "country": "South Korea",
+        "countryCode": "KR",
+        "region": "44",
+        "regionName": "Chungcheongnam-do",
+        "city": "Yesan",
+        "zip": "324",
+        "lat": 36.6781,
+        "lon": 126.6946,
+        "timezone": "Asia/Seoul",
+        "isp": "Korea Telecom",
+        "org": "Kornet",
+        "as": "AS4766 Korea Telecom",
+        "query": "175.203.138.160",
+        "response_time": 2.972766399383545
     }
 }
