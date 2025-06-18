@@ -1,38 +1,4 @@
 {
-    "http://164.163.40.16:10000": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "H",
-        "regionName": "Chaco",
-        "city": "Villa \u00c1ngela",
-        "zip": "3540",
-        "lat": -27.5866,
-        "lon": -60.72,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Interret Villa Angela SRL",
-        "org": "Interret Villa Angela SRL",
-        "as": "AS265763 Interret Villa Angela SRL",
-        "query": "164.163.43.102",
-        "response_time": 0.4874887466430664
-    },
-    "socks4://82.223.165.28:44432": {
-        "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 0.6037721633911133
-    },
     "http://164.163.42.46:10000": {
         "status": "success",
         "country": "Argentina",
@@ -48,26 +14,26 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 0.6417837142944336
+        "response_time": 0.48366403579711914
     },
-    "socks4://103.229.47.120:4153": {
+    "socks4://181.129.74.58:30431": {
         "status": "success",
-        "country": "Bangladesh",
-        "countryCode": "BD",
-        "region": "E",
-        "regionName": "Rajshahi Division",
-        "city": "Mahastan",
-        "zip": "5810",
-        "lat": 24.9611,
-        "lon": 89.3428,
-        "timezone": "Asia/Dhaka",
-        "isp": "MSHELPLINE",
-        "org": "",
-        "as": "AS59340 Help Line",
-        "query": "103.229.47.120",
-        "response_time": 1.1543042659759521
+        "country": "Colombia",
+        "countryCode": "CO",
+        "region": "ANT",
+        "regionName": "Antioquia",
+        "city": "Medell\u00edn",
+        "zip": "050023",
+        "lat": 6.2529,
+        "lon": -75.5646,
+        "timezone": "America/Bogota",
+        "isp": "EPM Telecomunicaciones S.A. E.S.P.",
+        "org": "EPM Telecomunicaciones S.A. E.S.P",
+        "as": "AS13489 UNE EPM TELECOMUNICACIONES S.A.",
+        "query": "181.129.74.58",
+        "response_time": 0.4673287868499756
     },
-    "http://164.163.40.90:10000": {
+    "http://164.163.40.16:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -82,7 +48,7 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 1.4928460121154785
+        "response_time": 0.7113268375396729
     },
     "http://164.163.42.36:10000": {
         "status": "success",
@@ -99,7 +65,7 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 1.4950127601623535
+        "response_time": 1.535949468612671
     },
     "http://164.163.42.19:10000": {
         "status": "success",
@@ -116,6 +82,57 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 1.6519064903259277
+        "response_time": 2.6277239322662354
+    },
+    "http://164.163.40.90:10000": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 2.7202048301696777
+    },
+    "socks4://82.223.165.28:44432": {
+        "status": "success",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": "MD",
+        "regionName": "Madrid",
+        "city": "Madrid",
+        "zip": "28070",
+        "lat": 40.4167,
+        "lon": -3.70329,
+        "timezone": "Europe/Madrid",
+        "isp": "arsys.es",
+        "org": "",
+        "as": "AS8560 IONOS SE",
+        "query": "82.223.165.28",
+        "response_time": 2.7132973670959473
+    },
+    "socks4://51.158.65.148:16379": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Dallas",
+        "zip": "75270",
+        "lat": 32.7797,
+        "lon": -96.8022,
+        "timezone": "America/Chicago",
+        "isp": "BL Networks",
+        "org": "BL Networks",
+        "as": "AS399629 BL Networks",
+        "query": "64.94.85.248",
+        "response_time": 4.709615230560303
     }
 }
