@@ -1,22 +1,5 @@
 {
-    "http://113.160.132.195:8080": {
-        "status": "success",
-        "country": "Vietnam",
-        "countryCode": "VN",
-        "region": "HN",
-        "regionName": "Hanoi",
-        "city": "Hanoi",
-        "zip": "100000",
-        "lat": 21.0184,
-        "lon": 105.8461,
-        "timezone": "Asia/Bangkok",
-        "isp": "VietNam Post and Telecom Corporation",
-        "org": "Vietnam Posts and Telecommunications Group",
-        "as": "AS45899 VNPT Corp",
-        "query": "113.160.132.195",
-        "response_time": 0.9175713062286377
-    },
-    "http://164.163.42.46:10000": {
+    "http://164.163.40.16:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -31,7 +14,24 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 1.559131145477295
+        "response_time": 0.5384960174560547
+    },
+    "http://164.163.42.19:10000": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 0.6906089782714844
     },
     "http://164.163.40.90:10000": {
         "status": "success",
@@ -48,6 +48,57 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 2.6479263305664062
+        "response_time": 0.6930155754089355
+    },
+    "http://164.163.42.36:10000": {
+        "status": "success",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "H",
+        "regionName": "Chaco",
+        "city": "Villa \u00c1ngela",
+        "zip": "3540",
+        "lat": -27.5866,
+        "lon": -60.72,
+        "timezone": "America/Argentina/Cordoba",
+        "isp": "Interret Villa Angela SRL",
+        "org": "Interret Villa Angela SRL",
+        "as": "AS265763 Interret Villa Angela SRL",
+        "query": "164.163.43.102",
+        "response_time": 0.758075475692749
+    },
+    "socks4://51.158.65.148:16379": {
+        "status": "success",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "region": "AB",
+        "regionName": "Stockholm County",
+        "city": "Stockholm",
+        "zip": "100 05",
+        "lat": 59.3289,
+        "lon": 18.0649,
+        "timezone": "Europe/Stockholm",
+        "isp": "Periquito",
+        "org": "PRQ AB",
+        "as": "AS33837 Fredrik Holmqvist",
+        "query": "88.80.26.2",
+        "response_time": 2.4244039058685303
+    },
+    "socks4://180.180.124.248:49992": {
+        "status": "success",
+        "country": "Thailand",
+        "countryCode": "TH",
+        "region": "21",
+        "regionName": "Rayong",
+        "city": "Rayong",
+        "zip": "21140",
+        "lat": 12.9662,
+        "lon": 101.2178,
+        "timezone": "Asia/Bangkok",
+        "isp": "TOT Public Company Limited",
+        "org": "TOT Public Company Limited",
+        "as": "AS23969 TOT Public Company Limited",
+        "query": "180.180.124.248",
+        "response_time": 3.068598747253418
     }
 }
