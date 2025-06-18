@@ -14,26 +14,26 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 0.4814331531524658
+        "response_time": 0.6080753803253174
     },
-    "socks4://82.223.165.28:44432": {
+    "socks4://200.70.34.22:4153": {
         "status": "success",
-        "country": "Spain",
-        "countryCode": "ES",
-        "region": "MD",
-        "regionName": "Madrid",
-        "city": "Madrid",
-        "zip": "28070",
-        "lat": 40.4167,
-        "lon": -3.70329,
-        "timezone": "Europe/Madrid",
-        "isp": "arsys.es",
-        "org": "",
-        "as": "AS8560 IONOS SE",
-        "query": "82.223.165.28",
-        "response_time": 1.2643277645111084
+        "country": "Argentina",
+        "countryCode": "AR",
+        "region": "C",
+        "regionName": "Buenos Aires F.D.",
+        "city": "Buenos Aires",
+        "zip": "1871",
+        "lat": -34.6142,
+        "lon": -58.3811,
+        "timezone": "America/Argentina/Buenos_Aires",
+        "isp": "Telefonica de Argentina",
+        "org": "Telefonica de Argentina",
+        "as": "AS10834 Telefonica de Argentina",
+        "query": "200.70.34.22",
+        "response_time": 0.8824913501739502
     },
-    "http://164.163.42.19:10000": {
+    "http://164.163.40.90:10000": {
         "status": "success",
         "country": "Argentina",
         "countryCode": "AR",
@@ -48,23 +48,6 @@
         "org": "Interret Villa Angela SRL",
         "as": "AS265763 Interret Villa Angela SRL",
         "query": "164.163.43.102",
-        "response_time": 1.4934158325195312
-    },
-    "http://164.163.42.46:10000": {
-        "status": "success",
-        "country": "Argentina",
-        "countryCode": "AR",
-        "region": "H",
-        "regionName": "Chaco",
-        "city": "Villa \u00c1ngela",
-        "zip": "3540",
-        "lat": -27.5866,
-        "lon": -60.72,
-        "timezone": "America/Argentina/Cordoba",
-        "isp": "Interret Villa Angela SRL",
-        "org": "Interret Villa Angela SRL",
-        "as": "AS265763 Interret Villa Angela SRL",
-        "query": "164.163.43.102",
-        "response_time": 2.589573860168457
+        "response_time": 2.632371664047241
     }
 }
